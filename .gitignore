@@ -1,0 +1,6 @@
+# Dépôt PUBLIC : uniquement des données JSON. Aucun code, aucune métadonnée de build.
+*.py
+__pycache__/
+**/*_meta.json
+*.log
+*.tmp
