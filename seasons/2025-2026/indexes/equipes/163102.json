@@ -1,0 +1,922 @@
+{
+ "clNo": "163102",
+ "nom": "ST LAURENT MESNIL",
+ "noms": [
+  "ENT.MESNIL MARILLAIS 2",
+  "ST LAURENT MESNIL",
+  "ST LAURENT MESNIL 6"
+ ],
+ "competitions": [
+  {
+   "cpNo": "437775",
+   "division": "Coupe Pays de la Loire Seniors Konica Minolta",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ST LAURENT MESNIL",
+   "equipe_slug": "590308-st-laurent-mesnil",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TIFFAUGES LES LANDES",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439726",
+   "division": "Départemental 4 Vétérans",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ST LAURENT MESNIL 6",
+   "equipe_slug": "590308-st-laurent-mesnil-6",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "MURS ERIGNE ASI 7",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "ANGERS BELLE BEILLE 6",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "DENÉE VALLAYON UF3L 6",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ENT.SEGRE-CHAZE-VERN 7",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "CHALONNES CHAUDEF 7",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "BOUCHEMAINE ES 7",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "ST PIERRE MONTREV AS 6",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "ANGERS COPAINS 7",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "ST LEGER ST LAMBERT 7",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "THOUARCE FC LAYON 7",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "ANGERS BELLE BEILLE 6",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "DENÉE VALLAYON UF3L 6",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "ST FLORENT FC BLE 6",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "ENT.SEGRE-CHAZE-VERN 7",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "BOUCHEMAINE ES 7",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "CHALONNES CHAUDEF 7",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "ST PIERRE MONTREV AS 6",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "ANGERS COPAINS 7",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "ST FLORENT FC BLE 6",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "ST LEGER ST LAMBERT 7",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "THOUARCE FC LAYON 7",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "MURS ERIGNE ASI 7",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439878",
+   "division": "Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ST LAURENT MESNIL",
+   "equipe_slug": "590308-st-laurent-mesnil",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE LION ANGERS CS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "BECON VILLEM ST AUGU 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE ST MACAIRE 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AUBRY CHAUDRON FC 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST PIERRE MONTREV AS 3",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MAYBÉLÉGER FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "POUEZE ST CLEM BRAIN",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DENÉE VALLAYON UF3L",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA POMMERAYE POMJ. 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GEORGES S/LOIRE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ANGERS DOUTRE SC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BECON VILLEM ST AUGU 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ST ANDRE ST MACAIRE 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AUBRY CHAUDRON FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ST PIERRE MONTREV AS 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MAYBÉLÉGER FC 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "POUEZE ST CLEM BRAIN",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "DENÉE VALLAYON UF3L",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA POMMERAYE POMJ. 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GEORGES S/LOIRE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANGERS DOUTRE SC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LE LION ANGERS CS 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439880",
+   "division": "Départemental 5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ENT.MESNIL MARILLAIS 2",
+   "equipe_slug": "590308-ent-mesnil-marillais-2",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MAYBÉLÉGER FC 4",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "VILLEDIEU RENAUDIERE 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "LANDEMONT LAURENTAIS 4",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "LE FUILET CHAUSSAIRE 3",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "LA POMMERAYE POMJ. 4",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ANDREZE JUB-JALLAIS 5",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "TILLIERES ARC 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST FLORENT FC BLE 3",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "OREE SCOL 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST PIERRE MONTREV AS 4",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "MAYBÉLÉGER FC 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "VILLEDIEU RENAUDIERE 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "LANDEMONT LAURENTAIS 4",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "LA POMMERAYE POMJ. 4",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "ANDREZE JUB-JALLAIS 5",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:15",
+     "domicile": false,
+     "adversaire": "TILLIERES ARC 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "OREE SCOL 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "ST FLORENT FC BLE 3",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "ST PIERRE MONTREV AS 4",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "LE FUILET CHAUSSAIRE 3",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439934",
+   "division": "Challenge du District Hubert Sourice",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ENT.MESNIL MARILLAIS 2",
+   "equipe_slug": "590308-ent-mesnil-marillais-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ANGRIE ST PIERRE 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ST LEZIN AS MAUGES 2",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "LES PONTS DE CE AS 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "LE LONGERON TORFOU 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "1/32 Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439936",
+   "division": "Coupe de l'Anjou USE Seniors M",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ST LAURENT MESNIL",
+   "equipe_slug": "590308-st-laurent-mesnil",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRIOLLAY US",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440006",
+   "division": "Coupe Paul Augelle Vétérans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ST LAURENT MESNIL 6",
+   "equipe_slug": "590308-st-laurent-mesnil-6",
+   "matchs": [
+    {
+     "date": "2026-02-15",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "MONTREUIL JUIGNE BF 6",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "TOUR n°1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440007",
+   "division": "Coupe de l'Amitié Vétérans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ST LAURENT MESNIL 6",
+   "equipe_slug": "590308-st-laurent-mesnil-6",
+   "matchs": [
+    {
+     "date": "2025-12-21",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "ETRICHE AF 6",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "TOUR n°2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "TRELAZE FOYER 6",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "TOUR n°3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440008",
+   "division": "Coupe de l'Anjou Vétérans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ST LAURENT MESNIL 6",
+   "equipe_slug": "590308-st-laurent-mesnil-6",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ST MELAINE S/AUBANCE 6",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Tour n°1",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2003 @@
+{
+ "clNo": "827",
+ "nom": "ST ANDRE US",
+ "noms": [
+  "SAINT ANDRE US",
+  "SAINT ANDRE US 21",
+  "ST ANDRE US",
+  "ST ANDRE US 2",
+  "ST ANDRE US 3",
+  "ST ANDRE US 31"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440826",
+   "division": "MATCHES AMICAUX SENIORS LFHF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2025-08-20",
+     "heure": "19:15",
+     "domicile": true,
+     "adversaire": "FACHES THUMESNIL FC",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-27",
+     "heure": "19:15",
+     "domicile": true,
+     "adversaire": "ARMENTIERES JA",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ANSTAING CHERENG EC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-28",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "SEQUEDIN OSM",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LINSELLES FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "19:15",
+     "domicile": true,
+     "adversaire": "CYSOING WB EAC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-17",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "LESQUIN US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439201",
+   "division": "Coupe Hauts-de-France Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BERLAIMONT US",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROUBAIX RACING CLUB",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442602",
+   "division": "MATCHS AMICAUX SENIOR DISTRICT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2026-01-26",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "HALLUIN UNION",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448130",
+   "division": "U18 U19 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "SAINT ANDRE US 21",
+   "equipe_slug": "501048-saint-andre-us-21",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LOMME DELIVRANCE SR 21",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "17:15",
+     "domicile": true,
+     "adversaire": "MERIGNIES OL. 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "17:15",
+     "domicile": true,
+     "adversaire": "LOMME OSM",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ARMENTIERES JA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "17:15",
+     "domicile": true,
+     "adversaire": "PERENCHIES USF",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROUBAIX ASJ BAPTISTE 21",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "17:15",
+     "domicile": true,
+     "adversaire": "GONDECOURT CS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "ANSTAING CHERENG EC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MARQUETTE FF",
+     "score": null,
+     "statut": "arrêté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "17:10",
+     "domicile": false,
+     "adversaire": "LOOS LILLE OLIVEAUX",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448132",
+   "division": "U16 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "SAINT ANDRE US 21",
+   "equipe_slug": "501048-saint-andre-us-21",
+   "matchs": [
+    {
+     "date": "2026-02-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ASCQ US 22",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENNEQUIN ES 21",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MOUVAUX ES 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "17:15",
+     "domicile": false,
+     "adversaire": "HEM OL FC 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LYS STELLA 21",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RADINGH FLEURB ENT  21",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GRANDE SYNTHE ASA 21",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ATTICHES US 21",
+     "score": "12-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "FERRAIN AN 96 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "RONCHIN US 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448133",
+   "division": "U15 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "SAINT ANDRE US",
+   "equipe_slug": "501048-saint-andre-us",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "WATTIGNIES FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ANNOEULLIN FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ROUBAIX GROUPEMENT 3",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LILLE VIEUX AS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MOUVAUX ES",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-06",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "BAISIEUX AS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:15",
+     "domicile": false,
+     "adversaire": "LA MADELEINE FC",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "HAUBOURDIN CG",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "HALLUIN UNION",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TOURCOING US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444053",
+   "division": "Seniors D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US 2",
+   "equipe_slug": "501048-st-andre-us-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "TOURCOING BLANC SEAU",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BAUVIN FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LEERS OS 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROUBAIX RACING CLUB 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LYS STELLA 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LA CHAPELLE FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LAMBERSART UF 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LILLE LOUVIERE ESP",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LILLE LOUVIERE ESP",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "WAMBRECHIES FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LEERS OS 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ROUBAIX RACING CLUB 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TOURCOING BLANC SEAU",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BAUVIN FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA CHAPELLE FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LAMBERSART UF 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LYS STELLA 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "WAMBRECHIES FC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444063",
+   "division": "Seniors Reserve Niv 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US 3",
+   "equipe_slug": "501048-st-andre-us-3",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "PERENCHIES USF 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "TOURCOING CHEMINOTS 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "08:30",
+     "domicile": false,
+     "adversaire": "ASCQ US 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "FERRAIN FAN 96 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "WAMBRECHIES FC 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "11:45",
+     "domicile": false,
+     "adversaire": "LILLE AFS GUINEE 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "PERENCHIES USF 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "WATTRELOS FC 4",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MARCQ EN BAROEUL AS",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "08:45",
+     "domicile": false,
+     "adversaire": "BONDUES FC 5",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "BONDUES FC 5",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "WATTRELOS FC 4",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:15",
+     "domicile": false,
+     "adversaire": "BAISIEUX ASP 3",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "ASCQ US 3",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "FERRAIN FAN 96 3",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "WAMBRECHIES FC 3",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BAISIEUX ASP 3",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "TOURCOING CHEMINOTS 4",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LILLE AFS GUINEE 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "08:30",
+     "domicile": false,
+     "adversaire": "MARCQ EN BAROEUL AS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444068",
+   "division": "U17 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "RONCHIN US",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "WATTRELOS US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MOUVAUX ES",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BONDUES FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "RADINGHEM AS",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "WATTRELOS US",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MOUVAUX ES",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BONDUES FC 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "RONCHIN US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "RADINGHEM AS",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444073",
+   "division": "U13 NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "FRETIN US 2",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "RONCHIN US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BAISIEUX AS",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LINSELLES FC 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "FRETIN US 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "TOUFFLERS AF 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "10:45",
+     "domicile": false,
+     "adversaire": "BAISIEUX AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "LINSELLES FC 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "TOUFFLERS AF 2",
+     "score": "1-14",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "RONCHIN US 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444084",
+   "division": "U13 NIVEAU 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "16:15",
+     "domicile": false,
+     "adversaire": "MARCQ EN BAROEUL O. 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MOUVAUX ES 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "GROUPEMENT ROUBAIX R 4",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LILLE WAZEMMES JS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MARCQ EN BAROEUL O. 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MOUVAUX ES 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GROUPEMENT ROUBAIX R 4",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MONS EN BAROEUL AC",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL AC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LILLE WAZEMMES JS",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444088",
+   "division": "U11 NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PERENCHIES USFF 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HALLUIN UNION 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "COMINES ACS 2",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "TOURCOING CS EIC",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "PERENCHIES USFF 2",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "WATTRELOS FC 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "COMINES ACS 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "TOURCOING CS EIC",
+     "score": "20-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "WATTRELOS FC 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444089",
+   "division": "U11 NIVEAU 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "WATTRELOS US 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VILLENEUVE FLERS OS 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "WATTIGNIES FC 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LILLE WAZEMMES JS 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "WATTRELOS US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "VILLENEUVE FLERS OS 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "WATTIGNIES FC 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ROUBAIX OC 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ROUBAIX OC 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LILLE WAZEMMES JS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444093",
+   "division": "U13 FEMININES",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "RONCHIN US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LOOS LILLE OLIVEAUX",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "VILLENEUVE D'ASCQ FF",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SEQUEDIN OSM",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "TOURCOING BLANC SEAU",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "RONCHIN US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "LOOS LILLE OLIVEAUX",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "SEQUEDIN OSM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "TOURCOING BLANC SEAU",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-13",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VILLENEUVE D'ASCQ FF",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448136",
+   "division": "U17 PRED1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2026-02-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "STEENVOORDE AS",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "RONCHIN US",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "STEENVOORDE AS",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERVILLE USM",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MERVILLE USM",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "HAUBOURDIN CG",
+     "score": "7-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "WATTRELOS US",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "WATTRELOS US",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "HAUBOURDIN CG",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:45",
+     "domicile": false,
+     "adversaire": "RONCHIN US",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444108",
+   "division": "Cpe Des Flandres Sen D1 A D3",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US 2",
+   "equipe_slug": "501048-st-andre-us-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BONDUES FC 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444112",
+   "division": "Coupe des Flandres Vétérans A7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US 31",
+   "equipe_slug": "501048-st-andre-us-31",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "THUMERIES AG 31",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "BOUSBECQUE CS 32",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "HEM O. 32",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444113",
+   "division": "coupe des Flandres U18 U19",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PHALEMPIN US",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444114",
+   "division": "coupe des Flandres U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US",
+   "equipe_slug": "501048-st-andre-us",
+   "matchs": [
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "RADINGHEM AS",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "4ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444116",
+   "division": "coupe des Flandres U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US 2",
+   "equipe_slug": "501048-st-andre-us-2",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ILLIES AUBERS ESC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "2e tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "BOURBOURG SC",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445866",
+   "division": "Coupe des Flandres Reserve",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ST ANDRE US 3",
+   "equipe_slug": "501048-st-andre-us-3",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SANTES FC 3",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "TOURCOING CHEMINOTS 4",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "8ème de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "08:45",
+     "domicile": false,
+     "adversaire": "BONDUES FC 5",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

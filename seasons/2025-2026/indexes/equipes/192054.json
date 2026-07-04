@@ -1,0 +1,595 @@
+{
+ "clNo": "192054",
+ "nom": "U.S. BLS-CGM",
+ "noms": [
+  "BAGNERES LUCHON SPT.",
+  "BAGNERES LUCHON SPT. 2",
+  "U.S. BLS-CGM"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435839",
+   "division": "Senior Départemental 2 - 11teamsports",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "BAGNERES LUCHON SPT.",
+   "equipe_slug": "582735-bagneres-luchon-spt",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LE FOUSSERET MONDAV.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENCAUSSE SO. GA.",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LANDORTHE EST. SAV.",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "CAZERES US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CARBONNE JS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BERAT US",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "SALIES MANE US 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LAGARDELLE MIREMONT",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "L ISLE EN DODON RCSO 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LANDORTHE EST. SAV.",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BERAT US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LE FOUSSERET MONDAV.",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LAGARDELLE MIREMONT",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CAZERES US 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "L ISLE EN DODON RCSO 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "SALIES MANE US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENCAUSSE SO. GA.",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CARBONNE JS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435841",
+   "division": "Senior Départemental 4 - 11teamsports",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "BAGNERES LUCHON SPT. 2",
+   "equipe_slug": "582735-bagneres-luchon-spt-2",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BERAT US 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ESTADENS US",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "VILLENEUVE LEC. AS",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST ARAILLE AS",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "MONTASTRUC DE SALIES",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LANDORTHE EST. SAV. 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "BERAT US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MONTASTRUC DE SALIES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "VENERQUE LE VERNET",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "ESTADENS US",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VENERQUE LE VERNET",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "EAUNES LABARTHE FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST ARAILLE AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LANDORTHE EST. SAV. 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-30",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "ST PLANCARD NO",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "VILLENEUVE LEC. AS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ST PLANCARD NO",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "EAUNES LABARTHE FC 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444290",
+   "division": "Coupe du Conseil Départemental Sud",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "BAGNERES LUCHON SPT.",
+   "equipe_slug": "582735-bagneres-luchon-spt",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "F.C. MABROC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RIEUX US",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "MONTASTRUC DE SALIES",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "COMMINGES ST GAUDENS 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444294",
+   "division": "Challenge Jean Caubère",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "BAGNERES LUCHON SPT. 2",
+   "equipe_slug": "582735-bagneres-luchon-spt-2",
+   "matchs": [
+    {
+     "date": "2025-11-01",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LE FOUSSERET MONDAV. 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LABARTHE RIVIERE FC 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ST PLANCARD NO 2",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BERAT US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435443",
+   "division": "Coupe Occitanie Intersport Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "U.S. BLS-CGM",
+   "equipe_slug": "582735-u-s-bls-cgm",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "US LARROQUE",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAP JEUNES 31",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "3ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "U.S. BLS-CGM",
+   "equipe_slug": "582735-u-s-bls-cgm",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. BERAT",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

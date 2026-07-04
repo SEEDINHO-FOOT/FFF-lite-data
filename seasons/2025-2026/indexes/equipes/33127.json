@@ -1,0 +1,87 @@
+{
+ "clNo": "33127",
+ "nom": "VANNES VENETES VSL 31",
+ "noms": [
+  "VANNES VENETES VSL 31"
+ ],
+ "competitions": [
+  {
+   "cpNo": "441575",
+   "division": "Coupe Vétérans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "VANNES VENETES VSL 31",
+   "equipe_slug": "833132-vannes-venetes-vsl-31",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "USSAC FOOT 31",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LOCQUELTAS LOCMAR 31",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "FC MEGALITHES 31",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440432",
+   "division": "Challenge Bertrand Crété",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "VANNES VENETES VSL 31",
+   "equipe_slug": "833132-vannes-venetes-vsl-31",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PLUNERET CS 31",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Mise à niveau",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

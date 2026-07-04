@@ -1,0 +1,514 @@
+{
+ "clNo": "189570",
+ "nom": "MAREUIL/MULTIEN",
+ "noms": [
+  "MAREUIL SUR OURCQ AS",
+  "MAREUIL/MULTIEN"
+ ],
+ "competitions": [
+  {
+   "cpNo": "444454",
+   "division": "BRASSAGE U17.",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MAREUIL/MULTIEN",
+   "equipe_slug": "582273-mareuil-multien",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NOGENT SUR OISE US",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "EXEMPT 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST SAUVEUR LA CROIX",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CHOISY AU BAC US",
+     "score": "14-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BETHISY FC",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ORRY PLAILLY AS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439541",
+   "division": "Seniors D4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MAREUIL SUR OURCQ AS",
+   "equipe_slug": "582273-mareuil-sur-ourcq-as",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MORIENVAL ASCVA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SACY ST MARTIN FC 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CREPY EN VALOIS US 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BONNEUIL US",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LE MEUX F.C.",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "THIERS SUR THEVE ES",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VERNEUIL AS 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NANTEUIL US FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SILLY LE LONG AS 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CREPY EN VALOIS US 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BONNEUIL US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LE MEUX F.C.",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THIERS SUR THEVE ES",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NANTEUIL US FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "VERNEUIL AS 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SILLY LE LONG AS 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SACY ST MARTIN FC 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MORIENVAL ASCVA",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439548",
+   "division": "U17 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MAREUIL/MULTIEN",
+   "equipe_slug": "582273-mareuil-multien",
+   "matchs": [
+    {
+     "date": "2025-12-20",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BETHISY FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "BETHISY FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST SAUVEUR LA CROIX",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ESTREES ST DENIS US",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NANTEUIL US FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ORRY PLAILLY AS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ESTREES ST DENIS US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST SAUVEUR LA CROIX",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ORRY PLAILLY AS",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NANTEUIL US FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439591",
+   "division": "Coupe Jacques Chivot",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MAREUIL SUR OURCQ AS",
+   "equipe_slug": "582273-mareuil-sur-ourcq-as",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAMPREMY NOYERS AS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439597",
+   "division": "Coupe de l'Oise Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MAREUIL SUR OURCQ AS",
+   "equipe_slug": "582273-mareuil-sur-ourcq-as",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA NEUVILLE HEZ AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RETHONDES RC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "2ième Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439602",
+   "division": "COUPE DE L'OISE U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MAREUIL/MULTIEN",
+   "equipe_slug": "582273-mareuil-multien",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ORRY PLAILLY AS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:45",
+     "domicile": true,
+     "adversaire": "LIANCOURT CLERMONT",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Tour de Cadrage",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

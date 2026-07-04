@@ -1,0 +1,723 @@
+{
+ "clNo": "6995",
+ "nom": "PONT CHRETIEN",
+ "noms": [
+  "ENT. LE PONT CHRETIE 2",
+  "ENT. PONT CHRETIEN",
+  "PONT CHRETIEN"
+ ],
+ "competitions": [
+  {
+   "cpNo": "438927",
+   "division": "Coupe Centre-Val de Loire",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "PONT CHRETIEN",
+   "equipe_slug": "520564-pont-chretien",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PARNAC V.A AC",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440493",
+   "division": "Départemental 2 Alpha Services SAS VALFROID",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "PONT CHRETIEN",
+   "equipe_slug": "520564-pont-chretien",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GAU-THENAY",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC S.S.R.P",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. MONTGIVRAY 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "U.S. ST MAUR 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BELABRE SS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TOUVENT CHAT. 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S.A.P. 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC VALP 36",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US 2R",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "F.C.M.O.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "U.S. LE BLANC 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GAU-THENAY",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. ST MAUR 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BELABRE SS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TOUVENT CHAT. 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "U.S.A.P. 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC VALP 36",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "U.S. MONTGIVRAY 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C.M.O.",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC S.S.R.P",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "US 2R",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. LE BLANC 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440495",
+   "division": "Départemental 4 - IATST",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT. LE PONT CHRETIE 2",
+   "equipe_slug": "520564-ent-le-pont-chretie-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CIRON US",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "F.C.M.O. 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. AIGURANDE 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TILLY US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC S.S.R.P 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC VALP 36 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US 2R 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PARNAC V.A AC 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "U.S. AIGURANDE 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TILLY US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC S.S.R.P 2",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US 2R 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BELABRE SS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC VALP 36 3",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BELABRE SS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C.M.O. 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CIRON US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "PARNAC V.A AC 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444553",
+   "division": "Critérium Loisir Foot à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Loisir",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT. PONT CHRETIEN",
+   "equipe_slug": "520564-ent-pont-chretien",
+   "matchs": [
+    {
+     "date": "2026-02-27",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "FC VALP 36",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ARDENTES AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST GAU-THENAY",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "U.S.A.P.",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "ETRECHET ES",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-22",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BVN",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "A.S. CROZON",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-05",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "SASSIERGES EC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441218",
+   "division": "Coupe Edouard BARES",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT. LE PONT CHRETIE 2",
+   "equipe_slug": "520564-ent-le-pont-chretie-2",
+   "matchs": [
+    {
+     "date": "2025-11-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT. ACSB USBV 3",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "1er tour de la Coupe BARES",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BELABRE SS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441219",
+   "division": "Coupe Indre Seniors René SCHOEN",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "PONT CHRETIEN",
+   "equipe_slug": "520564-pont-chretien",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "SC SEGRY",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "2ème tour de la Coupe Indre René Schoen",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LA MIFA 36",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "16ème finale Coupe Indre",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441220",
+   "division": "Coupe de District H LEGROS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "PONT CHRETIEN",
+   "equipe_slug": "520564-pont-chretien",
+   "matchs": [
+    {
+     "date": "2026-04-19",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VILLERS AC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BELABRE SS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "3ème tour de la Coupe H. LEGROS",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "PONT CHRETIEN",
+   "equipe_slug": "520564-pont-chretien",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GRACAY/GENOUI",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

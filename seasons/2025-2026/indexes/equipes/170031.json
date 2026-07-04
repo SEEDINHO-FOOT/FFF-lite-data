@@ -1,0 +1,675 @@
+{
+ "clNo": "170031",
+ "nom": "VIASSOIS FCO",
+ "noms": [
+  "VIASSOIS F.C.O",
+  "VIASSOIS F.C.O 2",
+  "VIASSOIS F.C.O 21",
+  "VIASSOIS FCO"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440676",
+   "division": "Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "VIASSOIS FCO",
+   "equipe_slug": "590432-viassois-fco",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MIDI LIROU CAP POILH",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SUD HERAULT FO",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CAZOULS MAR MAU",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CORNEILHAN LIGNAN",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446179",
+   "division": "U13 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "VIASSOIS F.C.O",
+   "equipe_slug": "590432-viassois-f-c-o",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CORNEILHAN LIGNAN 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SUD HERAULT FO 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "ASM34 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ENSERUNE FC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "B.JEUNESSE OL",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "SUD HERAULT FO",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "LESPIGNAN VENDRES FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PUIMISSON AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-25",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ALIGNAN AC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "THEZAN ST GENIES 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CORNEILHAN LIGNAN",
+     "score": "9-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BEZIERS U. S.",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "MARSEILLAN CS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446182",
+   "division": "U12 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "VIASSOIS F.C.O 21",
+   "equipe_slug": "590432-viassois-f-c-o-21",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BEZIERS A. S. 22",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CAZOULS MAR MAU 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ASM34 21",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "PHOENIX FOOTBALL SCH 21",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "PUISSALICON MAGALAS 22",
+     "score": "7-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446183",
+   "division": "U12 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "VIASSOIS F.C.O 2",
+   "equipe_slug": "590432-viassois-f-c-o-2",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT.DOMITIA-GIGEAN",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT ASFAC MIREVAL  2",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "MARSEILLAN CS",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "SETE PCAC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ASM34 2",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BEZIERS U. S.",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-11",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "ENT ASFAC MIREVAL  2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "THEZAN ST GENIES",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "COURNONTERRAL 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ESGVH",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "PHOENIX FOOTBALL SCH",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GEORGES R.C. 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447111",
+   "division": "Féminines à 8 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "VIASSOIS FCO",
+   "equipe_slug": "590432-viassois-fco",
+   "matchs": [
+    {
+     "date": "2026-01-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BALARUC STADE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CASTELNAU CR.",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "VENDARGUES PI",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CORNEILHAN LIGNAN",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MEZE STADE FC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VENDARGUES PI",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "MEZE STADE FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CASTELNAU CR.",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CORNEILHAN LIGNAN",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BALARUC STADE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447897",
+   "division": "U12 TERRITOIRE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "VIASSOIS F.C.O",
+   "equipe_slug": "590432-viassois-f-c-o",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "SUSSARGUES FC",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "LATTES AS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AGDE RCO",
+     "score": "13-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "MAUGUIO CARNON US",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CANET AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "SC SETE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "MONTP. MEDIT. FUTSAL",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VIL.MAGUELONE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444000",
+   "division": "Challenge féminin Maurice BALSAN",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "VIASSOIS FCO",
+   "equipe_slug": "590432-viassois-fco",
+   "matchs": [
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VENDARGUES PI",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

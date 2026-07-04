@@ -1,0 +1,1375 @@
+{
+ "clNo": "205220",
+ "nom": "COEUR DU BÉARN",
+ "noms": [
+  "COEUR DU BÉARN",
+  "COEUR DU BÉARN 2",
+  "COEUR DU BÉARN 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "442532",
+   "division": "U17 EXCELLENCE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "UNION MOURENXOISE",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "BOUCALAIS ELAN",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LESCARIEN FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MAZERES UZOS RONTIGN",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "USTARITZ LABOURDINS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BOUCALAIS ELAN",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LESCARIEN FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MAZERES UZOS RONTIGN",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "USTARITZ LABOURDINS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "UNION MOURENXOISE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442549",
+   "division": "U15 NIVEAU 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CASTETIS GOUZE US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LUY DE BEARN FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GJ EBO-ESP",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ENT FC LONS ASPTT",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "UNION MOURENXOISE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LUY DE BEARN FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ENT FC LONS ASPTT",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "UNION MOURENXOISE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GJ EBO-ESP",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CASTETIS GOUZE US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442560",
+   "division": "U13 EXCELLENCE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "G.J. P.E.D.P",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HASPARREN FC 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ANGLET GENETS FOOT 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "PAU FC 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "UNION MOURENXOISE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "HASPARREN FC 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ANGLET GENETS FOOT 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PAU FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "UNION MOURENXOISE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "G.J. P.E.D.P",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442562",
+   "division": "U13 FESTIVAL FOOT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ARIN LUZIEN",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ASPTT PAU",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.FC2VALLÉES/ESNEB",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442563",
+   "division": "U13 NIVEAU 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN 2",
+   "equipe_slug": "565272-coeur-du-bEarn-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LESCARIEN FC 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CASTETIS GOUZE US",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PAU PORTUGAISE UNION",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "HAUT BEARN ENTENTE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PAU BOURBAKI FA",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "G.J. MIEY DE BEARN",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PAU BLEUETS NOTRE D. 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LONS FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GJ EBO-ESP",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442565",
+   "division": "U13 NIVEAU 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN 3",
+   "equipe_slug": "565272-coeur-du-bEarn-3",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "NAVARRENX",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC BAAL 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LESCARIEN FC 3",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LEDEUIX 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FC BBL",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GEUS D'ARZACQ",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "OLORON BEARN FC 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GJ EBO-ESP 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447877",
+   "division": "U13 FESTIVAL FOOT/2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CIBOURE FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "BAYONNE CROISES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HASPARREN FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447883",
+   "division": "U13 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "G.J. MIEY DE BEARN",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ASPTT PAU",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GJ EBO-ESP",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT.FC2VALLÉES/ESNEB",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LESCARIEN FC 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ASPTT PAU",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "GJ EBO-ESP",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT.FC2VALLÉES/ESNEB",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LESCARIEN FC 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "G.J. MIEY DE BEARN",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447885",
+   "division": "U13 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN 2",
+   "equipe_slug": "565272-coeur-du-bEarn-2",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "G.J. MIEY DE BEARN 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GARAZI ST JEAN P. P. 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ANGLET GENETS FOOT 4",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ARDANAVY FC 2",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GARAZI ST JEAN P. P. 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CASTETIS GOUZE US 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ANGLET GENETS FOOT 4",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CASTETIS GOUZE US 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ARDANAVY FC 2",
+     "score": "11-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "G.J. MIEY DE BEARN 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448076",
+   "division": "U13 D4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN 3",
+   "equipe_slug": "565272-coeur-du-bEarn-3",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "PAU PORTUGAISE UNION 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PONTACQ PAPILLONS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LUY DE BEARN FC 4",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MORLAAS EST BEARN FA 4",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PONTACQ PAPILLONS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "MORLAAS EST BEARN FA 4",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LUY DE BEARN FC 4",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PAU PORTUGAISE UNION 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448459",
+   "division": "U17 EXCELLENCE/2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ESMAN",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "BIARRITZ JEANNE ARC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LUY DE BEARN FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HASPARREN FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ESMAN",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "USTARITZ LABOURDINS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BIARRITZ JEANNE ARC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LUY DE BEARN FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "HASPARREN FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "USTARITZ LABOURDINS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448471",
+   "division": "U15D2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2026-02-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ANGLET GENETS FOOT 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NAVARRENX",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "G.J. MIEY DE BEARN 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GJ EBO-ESP",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MAZERES UZOS RONTIGN",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NAVARRENX",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "G.J. MIEY DE BEARN 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GJ EBO-ESP",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MAZERES UZOS RONTIGN",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ANGLET GENETS FOOT 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442574",
+   "division": "U17 COUPE ENCOURAGEMENT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PAU PORTUGAISE UNION",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "TOUR 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LESCARIEN FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442575",
+   "division": "U17 COUPE PYRENEES",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2025-10-25",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "HENDAYE EGLANTINS AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442576",
+   "division": "U15 COUPE ENCOURAGEMENT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "UNION MOURENXOISE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442579",
+   "division": "U15 COUPE PYRENEES",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COEUR DU BÉARN",
+   "equipe_slug": "565272-coeur-du-bEarn",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BIARRITZ JEANNE ARC",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

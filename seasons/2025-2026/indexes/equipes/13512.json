@@ -1,0 +1,2475 @@
+{
+ "clNo": "13512",
+ "nom": "AMIENS AC",
+ "noms": [
+  "AMIENS AC",
+  "AMIENS AC 2",
+  "AMIENS AC 21",
+  "AMIENS AC 22",
+  "AMIENS AC 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439201",
+   "division": "Coupe Hauts-de-France Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHAMBLY OISE FC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440907",
+   "division": "CHALLENGE VAILLANT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MEAULTE FC",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AILLY FRATERNELLE",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AMIENS RIF",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CAGNY ES 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "DAOURS US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AILLY S/S FC SAMARA",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXILOISE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MIANNAY MOYENNEVILLE",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CAGNY ES",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT. SIP/ASRM",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "DOULLENS RC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AUXILOISE",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "QCL SUD AMIÉNOIS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-09",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "AMIENS RC",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "QCL SUD AMIÉNOIS",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AMIENS RC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "18:45",
+     "domicile": false,
+     "adversaire": "AMIENS HOSPITALIER",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MIANNAY MOYENNEVILLE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AMIENS HOSPITALIER",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-05-21",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "CAGNY ES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ENT. SIP/ASRM",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "DOULLENS RC",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AILLY S/S FC SAMARA",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440909",
+   "division": "VETERANS A 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 2",
+   "equipe_slug": "530323-amiens-ac-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AMIENS PORTUGAIS FCP 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "TALMAS P/FIENVILLERS",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST SAUVEUR AS 80",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "POIX BLANGY CROI. FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FLIXECOURT SC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MONTDIDIER AC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CAMON US",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CARTIGNY US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MONTDIDIER AC",
+     "score": "9-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BLANGY FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ROYE DAMERY ES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BLANGY FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ROYE DAMERY ES",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXILOISE 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CAMON US",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AUXILOISE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CARTIGNY US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "FLIXECOURT SC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442491",
+   "division": "U18 Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 21",
+   "equipe_slug": "530323-amiens-ac-21",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "QCL SUD AMIÉNOIS 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "AMIENS RC 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "SAINS ST FUSCIEN ES 21",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442492",
+   "division": "U18 Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 21",
+   "equipe_slug": "530323-amiens-ac-21",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "AMIENS MONTIERES CS 21",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "NESLOIS AS DU PAYS 21",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "AMIENS AF 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CHAULNES AAE 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442493",
+   "division": "U17 Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "AUXILOISE",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ALBERT USOAAS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ROYE US",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ALBERT USOAAS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "DREUIL F.",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "SALOUEL SALEUX RCF",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ROSIERES US",
+     "score": "15-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442496",
+   "division": "U16 Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 22",
+   "equipe_slug": "530323-amiens-ac-22",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ENT. FCLM ASQPN U16 21",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "AMIENS RIF 21",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "VILLERS BOCAGE AAE 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442496",
+   "division": "U16 Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 21",
+   "equipe_slug": "530323-amiens-ac-21",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "QCL SUD AMIÉNOIS 21",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "VILLERS BOCAGE AAE 21",
+     "score": "12-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ROYE US 22",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AMIENS RIF 21",
+     "score": "6-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "NESLOIS AS DU PAYS 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442503",
+   "division": "U15 Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CAMON US 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ALBERT USOAAS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "AMIENS PORTUGAIS FCP 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442510",
+   "division": "U13 Niveau 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AMIENS PIGEONNIER ES",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "DREUIL F.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AILLY FRATERNELLE 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GLISY AS",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AMIENS AF",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ENT. DAOURS GLISY 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AILLY FRATERNELLE 11",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BLANGY FC",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443357",
+   "division": "Seniors D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 2",
+   "equipe_slug": "530323-amiens-ac-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ALLERY AIRAINE AS 2A",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAGNY ES",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AMIENS RC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHAULNES AAE",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHEPY ES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FRIVILLE ESCARBOTIN",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST VALERY FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "POIX BLANGY CROI. FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VILLERS BRETONNEUX",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MOREUIL SC",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHAULNES AAE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FRIVILLE ESCARBOTIN",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAMON US 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST VALERY FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAGNY ES",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "POIX BLANGY CROI. FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VILLERS BRETONNEUX",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AMIENS RC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHEPY ES",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MOREUIL SC",
+     "score": "6-9",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAMON US 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ALLERY AIRAINE AS 2A",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443358",
+   "division": "Seniors D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 3",
+   "equipe_slug": "530323-amiens-ac-3",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DOULLENS RC 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROYE US 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SALOUEL SALEUX RCF 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAINS ST FUSCIEN ES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MIANNAY MOYENNEVILLE 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TEMPLIERS SC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "QUERRIEU AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "DAOURS US",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENGLEBELMER FR",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ROYE US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAINS ST FUSCIEN ES",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TEMPLIERS SC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "QUERRIEU AS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DAOURS US",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ENGLEBELMER FR",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SALOUEL SALEUX RCF 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MIANNAY MOYENNEVILLE 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "DOULLENS RC 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446947",
+   "division": "U13 D4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AILLY FRATERNELLE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "RIVERY ASM 2",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "DOULLENS RC 3",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AMIENS MONTIERES CS",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "TALMAS P/FIENVILLERS 2",
+     "score": "2-12",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AILLY FRATERNELLE",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "GROUCHES FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CANDAS ABC2F",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "RIVERY ASM 2",
+     "score": "1-12",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GROUCHES FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AMIENS MONTIERES CS",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "TALMAS P/FIENVILLERS 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CANDAS ABC2F",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446951",
+   "division": "U18 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 21",
+   "equipe_slug": "530323-amiens-ac-21",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHAULNES AAE 21",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AMIENS MONTIERES CS 21",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "SAINS ST FUSCIEN ES 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "NESLOIS AS DU PAYS 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446951",
+   "division": "U18 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "AMIENS AF",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "CHAULNES AAE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AMIENS O.",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AMIENS AF",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "AMIENS MONTIERES CS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "SAINS ST FUSCIEN ES",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "NESLOIS AS DU PAYS",
+     "score": "7-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "AMIENS O.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446953",
+   "division": "U17 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ALLERY AIRAINE AS 2A",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AILLY S/S FC SAMARA",
+     "score": "9-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "GROUCHES FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "AUXILOISE",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "SALOUEL SALEUX RCF",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ALLERY AIRAINE AS 2A",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ROYE US",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ALBERT USOAAS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SALOUEL SALEUX RCF",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AILLY S/S FC SAMARA",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ROYE US",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "GROUCHES FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "AUXILOISE",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ALBERT USOAAS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446969",
+   "division": "U16 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 21",
+   "equipe_slug": "530323-amiens-ac-21",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "POIX BLANGY CROI. FC 21",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "NESLOIS AS DU PAYS 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QCL SUD AMIÉNOIS 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AMIENS RIF 21",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "AMIENS O. 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446969",
+   "division": "U16 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "VILLERS BOCAGE AAE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "POIX BLANGY CROI. FC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ROYE US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "VILLERS BOCAGE AAE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NESLOIS AS DU PAYS",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ROYE US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AMIENS RIF",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AMIENS O.",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "QCL SUD AMIÉNOIS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439809",
+   "division": "Challenge Gilles Marquette",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AMIENS RIF",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AMIENS RC",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AILLY S/S FC SAMARA",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442956",
+   "division": "Challenge Jean Pierre DEMAGNY",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 3",
+   "equipe_slug": "530323-amiens-ac-3",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DAOURS US 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AILLY FRATERNELLE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "STE EMILIE  EPEHY ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442956",
+   "division": "Challenge Jean Pierre DEMAGNY",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 2",
+   "equipe_slug": "530323-amiens-ac-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HAUTVILLERS AS",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GAMACHES AS 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CANDAS ABC2F",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "4ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "QUESNOY L/MONTANT AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1/8ème de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442959",
+   "division": "Coupe de la Somme Seniors / Challenge CRCA",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FOUILLOY SC",
+     "score": "1-11",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AMIENS RIF",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "4ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LA MONTOYE FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1/8ème Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442960",
+   "division": "Challenge Amiénois U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "DOULLENS RC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442960",
+   "division": "Challenge Amiénois U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 2",
+   "equipe_slug": "530323-amiens-ac-2",
+   "matchs": [
+    {
+     "date": "2026-04-08",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "AILLY S/S FC SAMARA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VILLERS/MARCELCAVE",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "AMIENS RC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442963",
+   "division": "Coupe Somme U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SAINS ST FUSCIEN ES",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    },
+    {
+     "date": "2026-04-14",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "RIVERY ASM",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PERONNE ECAFC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442964",
+   "division": "Coupe Somme U16/U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC",
+   "equipe_slug": "530323-amiens-ac",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AUXILOISE",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446038",
+   "division": "Coupe Somme Vétérans à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "AMIENS AC 2",
+   "equipe_slug": "530323-amiens-ac-2",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ROISEL US",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BLANGY FC",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "AMIENS AC 21",
+   "equipe_slug": "530323-amiens-ac-21",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CAMON US 21",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

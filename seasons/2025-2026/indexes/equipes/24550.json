@@ -1,0 +1,1367 @@
+{
+ "clNo": "24550",
+ "nom": "ENT. ESSC/FCPA",
+ "noms": [
+  "ENT. ESSC/FCPA",
+  "ST CERBOUILLE ES",
+  "ST CERBOUILLE ES 2",
+  "ST CERBOUILLE ES 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435203",
+   "division": "Coupe Nouvelle-Aquitaine U15",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ENT. ESSC/FCPA",
+   "equipe_slug": "547106-ent-essc-fcpa",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COEUR DE BOCAGE GJ",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435204",
+   "division": "Coupe Nouvelle-Aquitaine Féminine",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES",
+   "equipe_slug": "547106-st-cerbouille-es",
+   "matchs": [
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CHANTEL. COURL. CHAP",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC GATINAISE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437845",
+   "division": "Fem à 11 - Brassage",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES",
+   "equipe_slug": "547106-st-cerbouille-es",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CERIZAY CO",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ENT.VRERE- LOUZY",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "BOISME CLESSE ES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CHANTEL. COURL. CHAP",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "12:15",
+     "domicile": true,
+     "adversaire": "ENT.VRERE- LOUZY",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "BOISME CLESSE ES",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CERIZAY CO",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CHANTEL. COURL. CHAP",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT.VRERE- LOUZY 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "BRESSUIRE FC 2",
+     "score": "1-13",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CENON.VOUNEUIL",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ENT.VRERE- LOUZY 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CENON.VOUNEUIL",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "ASM.3 MOUTIERS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRESSUIRE FC 2",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ASM.3 MOUTIERS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438147",
+   "division": "Coupe du Poitou à 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES",
+   "equipe_slug": "547106-st-cerbouille-es",
+   "matchs": [
+    {
+     "date": "2026-04-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "DISSAY CS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "T2 - CDP",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436828",
+   "division": "Seniors Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES",
+   "equipe_slug": "547106-st-cerbouille-es",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS MAIXENTAIS US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST VARENT PIERREGEAY",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PARTHENAY VIENNAY RC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NUEILLAUBIERS FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS NÉO-CRÉCHOIS FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NIORT ST FLORENT UA 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THOUARS FOOT 79 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS DE L OUIN FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TERVES ESPERANCE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NIORT ST LIGUAIRE OL 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "PARTHENAY VIENNAY RC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NUEILLAUBIERS FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "PAYS NÉO-CRÉCHOIS FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST VARENT PIERREGEAY",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NIORT ST FLORENT UA 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "THOUARS FOOT 79 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS DE L OUIN FC",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TERVES ESPERANCE",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST AUBIN LE CLOUD CA",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST AUBIN LE CLOUD CA",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NIORT ST LIGUAIRE OL 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "PAYS MAIXENTAIS US",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436831",
+   "division": "Seniors Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES 2",
+   "equipe_slug": "547106-st-cerbouille-es-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST VARENT PIERREGEAY 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST SAUVEUR 79 US 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "PARTHENAY VIENNAY RC 3",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS ARGENTONNAIS FC 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COULONGES THOUARSAIS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AIRVO ST JOUIN FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRION PRES THOUET US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SC THOUARSAIS 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHICHE FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PARTHENAY VIENNAY RC 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS ARGENTONNAIS FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COULONGES THOUARSAIS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST SAUVEUR 79 US 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "AIRVO ST JOUIN FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BRION PRES THOUET US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MAUZE RIGNE SA",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SC THOUARSAIS 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHICHE FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LOUZY ES",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LOUZY ES",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MAUZE RIGNE SA",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST VARENT PIERREGEAY 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436833",
+   "division": "Seniors Départemental 5 - 1er niveau",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES 3",
+   "equipe_slug": "547106-st-cerbouille-es-3",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "COULONGES THOUARSAIS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "THOUARS FOOT 79 4",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "THOUET FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LOUZY ES 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ENT.BRION-VRÉRE 2 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SC THOUARSAIS 4",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRESSUIRE CLNC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "PAYS ARGENTONNAIS FC 4",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "MAUZE RIGNE SA 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442764",
+   "division": "U15 -2ème Division-",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ENT. ESSC/FCPA",
+   "equipe_slug": "547106-ent-essc-fcpa",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ EVSABB",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS MAULEON. ES GJ",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CERIZAY CO",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GATI-FOOT / SCALMC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS MAULEON. ES GJ",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. TALLUD S.GATINE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CERIZAY CO",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GATI-FOOT / SCALMC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. TALLUD S.GATINE",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ EVSABB",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442776",
+   "division": "U13 -3ème Division-",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES",
+   "equipe_slug": "547106-st-cerbouille-es",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CERIZAY CO 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CERIZAY CO 3",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "G.J. ETSO",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "COEUR DE BOCAGE GJ 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GJ EVSABB",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PAYS THENEZEEN",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "MONCOUTANT SA 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "THOUARS FOOT 79 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "PAYS MAULEON. ES GJ 3",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448025",
+   "division": "Seniors Départemental 5 - 2ème Niveau",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES 3",
+   "equipe_slug": "547106-st-cerbouille-es-3",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "SC THOUARSAIS 4",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "THOUET FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT. AS ASSAIS / FCT 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ENT.BRION-VRÉRE 2 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "COULONGES THOUARSAIS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MAUZE RIGNE SA 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "AIRVO ST JOUIN FC 4",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST VARENT PIERREGEAY 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436838",
+   "division": "Coupe Saboureau",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES 2",
+   "equipe_slug": "547106-st-cerbouille-es-2",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VOULMENTIN ST AUBIN 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Tour n°1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "GENNETON",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Tour n°2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436839",
+   "division": "Coupe des Deux-Sèvres Super U",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES",
+   "equipe_slug": "547106-st-cerbouille-es",
+   "matchs": [
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS DE L OUIN FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "1/8èmes de finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436840",
+   "division": "Coupe des Réserves",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ST CERBOUILLE ES 3",
+   "equipe_slug": "547106-st-cerbouille-es-3",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "PAYS THENEZEEN 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PAYS ARGENTONNAIS FC 3",
+     "score": "13-1",
+     "statut": "joué",
+     "journee": "Tour n°2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442792",
+   "division": "U15 Coupe Départementale",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "ENT. ESSC/FCPA",
+   "equipe_slug": "547106-ent-essc-fcpa",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.USPM/STE EANNE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "1/8èmes de Finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435167",
+   "division": "COUPE DE FRANCE FÉMININE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ST CERBOUILLE ES",
+   "equipe_slug": "547106-st-cerbouille-es",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CERIZAY CO",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

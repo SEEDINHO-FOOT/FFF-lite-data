@@ -1,0 +1,554 @@
+{
+ "clNo": "202754",
+ "nom": "ASFC PALMISTE",
+ "noms": [
+  "ASFC PALMISTE",
+  "ASFC PALMISTE 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "432818",
+   "division": "REGIONALE 3",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "REUNION",
+   "equipe_nom": "ASFC PALMISTE",
+   "equipe_slug": "564762-asfc-palmiste",
+   "matchs": [
+    {
+     "date": "2025-04-06",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "EF ST GILLES",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-04-12",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ES PLATEAU CAILLOU",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-04-20",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SS CH FOUC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-04-26",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AFCO DE SAVANNAH",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-05-18",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "JUNIORS DIONYSIENS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-05-24",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "EF ST GILLES LES HTS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-06-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "JS MONTAGNARDE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-06-07",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "AFC HALTE LA",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-06-15",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AS COLIMACONS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-06-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AS GUILLAUME",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-08-17",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ES PLATEAU CAILLOU",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2025-08-24",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "SS CH FOUC",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2025-08-31",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AFCO DE SAVANNAH",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "JUNIORS DIONYSIENS",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "EF ST GILLES LES HTS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "JS MONTAGNARDE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AFC HALTE LA",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AS COLIMACONS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AS GUILLAUME",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "EF ST GILLES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "432887",
+   "division": "Reserves R3",
+   "niveau": "Régional",
+   "echelon": "R3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "REUNION",
+   "equipe_nom": "ASFC PALMISTE 2",
+   "equipe_slug": "564762-asfc-palmiste-2",
+   "matchs": [
+    {
+     "date": "2025-04-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CILAOS FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-04-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "SS CH FOUC 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-04-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "E.S. TAMPONNAISE 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-04-27",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "A. S. ST YVES 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-05-24",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "EF ST GILLES LES HTS 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-06-01",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ASC ST ETIENNE 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-06-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "AJS BELLEMENE 2",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-06-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "A. M. TERRE SAINTE 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-07-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GRANDE FONTAINE FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2025-07-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "SS CH FOUC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2025-07-26",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "E.S. TAMPONNAISE 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2025-08-17",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "A. S. ST YVES 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "EF ST GILLES LES HTS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AJS BELLEMENE 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "A. M. TERRE SAINTE 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 24",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "GRANDE FONTAINE FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ASC ST ETIENNE 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CILAOS FC 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "432976",
+   "division": "Coupe Dominique Sauger",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "REUNION",
+   "equipe_nom": "ASFC PALMISTE",
+   "equipe_slug": "564762-asfc-palmiste",
+   "matchs": [
+    {
+     "date": "2025-03-30",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TAMPON FC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "1er Tour Préliminaire",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "432988",
+   "division": "Coupe de la Réunion",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "REUNION",
+   "equipe_nom": "ASFC PALMISTE",
+   "equipe_slug": "564762-asfc-palmiste",
+   "matchs": [
+    {
+     "date": "2025-03-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A.J.S.F. EPERON",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "1er Tour Préliminaire",
+     "stade": null
+    },
+    {
+     "date": "2025-05-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "J.S. SAINTE ANNOISE",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "432996",
+   "division": "Coupe U17",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "REUNION",
+   "equipe_nom": "ASFC PALMISTE",
+   "equipe_slug": "564762-asfc-palmiste",
+   "matchs": [
+    {
+     "date": "2025-04-05",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FC MOUFIA",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "1er Tour Préliminaire",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "434990",
+   "division": "Coupe U15",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "REUNION",
+   "equipe_nom": "ASFC PALMISTE",
+   "equipe_slug": "564762-asfc-palmiste",
+   "matchs": [
+    {
+     "date": "2025-04-05",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AD VINCENDO SP",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "1er Tour Préliminaire",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

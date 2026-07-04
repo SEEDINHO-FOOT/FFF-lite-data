@@ -1,0 +1,641 @@
+{
+ "clNo": "2654",
+ "nom": "BEYCHEVELLE",
+ "noms": [
+  "BEYCHEVELLE"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435204",
+   "division": "Coupe Nouvelle-Aquitaine Féminine",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BEYCHEVELLE",
+   "equipe_slug": "505817-beychevelle",
+   "matchs": [
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LEOGNAN USC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435750",
+   "division": "Seniors Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BEYCHEVELLE",
+   "equipe_slug": "505817-beychevelle",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HAILLAN FOOT 33 3",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CANEJAN ES 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "VENDAYS MONTALIVET 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STE HELENE CA 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST AUBIN DE MEDOC AS 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "LA BASTIDIENNE SC 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LEOPARDS BORDEAUX",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST SEURIN ST ESTEPHE 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "AMBES FC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FLOIRAC CM 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CANEJAN ES 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "STE HELENE CA 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST AUBIN DE MEDOC AS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-10",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "VENDAYS MONTALIVET 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "AMBES FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA BASTIDIENNE SC 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "PESSACAIS STADE UC 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LEOPARDS BORDEAUX",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST SEURIN ST ESTEPHE 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FLOIRAC CM 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PESSACAIS STADE UC 3",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HAILLAN FOOT 33 3",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440445",
+   "division": "Féminines à 11 Départemental 1 Intersport",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BEYCHEVELLE",
+   "equipe_slug": "505817-beychevelle",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BORDEAUX COQS ROUGES",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TALENCE FC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LEGE CAP FERRET US",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "TALENCE FC 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CBEC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BORDEAUX COQS ROUGES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LEGE CAP FERRET US",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CBEC",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449154",
+   "division": "Féminines à 11 D1 Intersport Play Down",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BEYCHEVELLE",
+   "equipe_slug": "505817-beychevelle",
+   "matchs": [
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TALENCE FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LEGE CAP FERRET US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "TALENCE FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LEGE CAP FERRET US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437485",
+   "division": "Coupe de Gironde Seat Skoda",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BEYCHEVELLE",
+   "equipe_slug": "505817-beychevelle",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FRONSADAIS FOOT ES",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437486",
+   "division": "Coupe du District Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BEYCHEVELLE",
+   "equipe_slug": "505817-beychevelle",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST SYMPHORIEN SC",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437497",
+   "division": "Coupe de Gironde Féminines à 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BEYCHEVELLE",
+   "equipe_slug": "505817-beychevelle",
+   "matchs": [
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "4ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435167",
+   "division": "COUPE DE FRANCE FÉMININE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "BEYCHEVELLE",
+   "equipe_slug": "505817-beychevelle",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BORDEAUX COQS ROUGES",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

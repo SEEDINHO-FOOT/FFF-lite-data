@@ -1,0 +1,1798 @@
+{
+ "clNo": "176851",
+ "nom": "E.F.C.A",
+ "noms": [
+  "CANTON AURIGNAC EF",
+  "CANTON AURIGNAC EF 2",
+  "CANTON AURIGNAC EF 3",
+  "E.F.C.A",
+  "E.F.C.AURIGNAC",
+  "EFCA MABROC SALIES",
+  "ENT. AURIGNAC MABROC"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435812",
+   "division": "Coupe Occitanie Intersport Femi",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "E.F.C.AURIGNAC",
+   "equipe_slug": "580600-e-f-c-aurignac",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A.S. LAVERNOSE LHERM",
+     "score": "12-3",
+     "statut": "joué",
+     "journee": "1ier Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SOUES CIGOGNES",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "2ième Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COEUR GASCOGNE FF",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435838",
+   "division": "Senior Départemental 1 - 11teamsports",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF",
+   "equipe_slug": "580600-canton-aurignac-ef",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "REVEL US 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "COMMINGES ST GAUDENS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "RODEO FC 2",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "TOURNEFEUILLE AS 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "POUVOURVILLE US 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CASTELGINEST US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ATHLETIC CLUB GARONA",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "RODEO FC 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BRAX JS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BOULOGNE PEGUIL. ENT 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CASTELGINEST US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "REVEL US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ATHLETIC CLUB GARONA",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "BRAX JS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "COMMINGES ST GAUDENS 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "BOULOGNE PEGUIL. ENT 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "TOURNEFEUILLE AS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "POUVOURVILLE US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435840",
+   "division": "Senior Départemental 3 - 11teamsports",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF 2",
+   "equipe_slug": "580600-canton-aurignac-ef-2",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "SALIES MANE US 3",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "VALENTINE SC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "MIRAMONT US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "RIEUX US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CANTON ST MARTORY E.",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LAVERNOSE LHERM AS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "BOSSOST UD",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LABARTHE RIVIERE FC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "PYRENEES SUD COM. 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SALIES MANE US 3",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "VALENTINE SC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "RIEUX US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BOSSOST UD",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LABARTHE RIVIERE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-22",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "MIRAMONT US",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "PYRENEES SUD COM. 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CANTON ST MARTORY E.",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LAVERNOSE LHERM AS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435842",
+   "division": "Senior Départemental 5 - 11teamsports",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF 3",
+   "equipe_slug": "580600-canton-aurignac-ef-3",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PUYMAURIN ES",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "VILLENEUVE LEC. AS 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LUSSAN FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "MONTBERNARD SC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SALEICH FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FRANQUEVIELLE ES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "PYRENEES SUD COM. 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST PLANCARD NO 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MONTESPAN FIGAROL O.",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "POINTIS INARD OC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LABARTHE RIVIERE FC 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VILLENEUVE LEC. AS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-11",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "MONTBERNARD SC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SALEICH FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTESPAN FIGAROL O.",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PYRENEES SUD COM. 3",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "ST PLANCARD NO 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LABARTHE RIVIERE FC 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "LUSSAN FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "POINTIS INARD OC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PUYMAURIN ES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FRANQUEVIELLE ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436452",
+   "division": "U17 Niveau B",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "EFCA MABROC SALIES",
+   "equipe_slug": "580600-efca-mabroc-salies",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT. NOE/LONGAGES",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TOURNEFEUILLE AS 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "EAUNES LABARTHE FC",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "FC MAS 31 2",
+     "score": "14-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LEGUEVIN US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GR. ST GAUD. LU. LA. 2",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LAUNAGUET FC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VERNAJOUL A.C.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTAUT US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "RODEO FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SEYSSES FROUZINS US 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ATHLETIC CLUB GARONA 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. LMS-USV2 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT. LOUGE TOUCH",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GARDOUCH OC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "HERSOISE AS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "LAURAGAIS FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436467",
+   "division": "Féminines U18 à 8 CA Tlse 31",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF",
+   "equipe_slug": "580600-canton-aurignac-ef",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "MURET RC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "QUINT FONSEGRIVES FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BOVG 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ROQUES FA",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "E3M",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ESCALQUENS LABEGE",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GFAL",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ENT. LOUGE TOUCH",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "TLSE METROPOLE FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PYR ARIEGEOISES FOOT",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CADOURS O",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CAZERES US",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "EAUNES LABARTHE FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "F.C. ST GIRONS",
+     "score": "4-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GIROU OFC",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436468",
+   "division": "Féminines U15 à 8 CA Tlse 31",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF",
+   "equipe_slug": "580600-canton-aurignac-ef",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VILLENEUVE TOL. AF",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "E.F.C. DE LA VALLEE",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "COMMINGES ST GAUDENS",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "J.S. PRADETTES",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LAUNAGUET FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SAVE ET GARONNE FC 2",
+     "score": "4-13",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PYR ARIEGEOISES FOOT",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC MAS 31",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GIROU OFC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LAGARDELLE MIREMONT",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GARONNA NORD TLSAIN",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ST ORENS FC",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "SFBA 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENTENTE LOUGE TOUCH",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447692",
+   "division": "U15 Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. AURIGNAC MABROC",
+   "equipe_slug": "580600-ent-aurignac-mabroc",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "COLOMIERS US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PLAISANCE DU TO. US",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "FRONTON US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "GARONNA NORD TLSAIN 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "REVEL US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BESSIERES BUZET FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SALIES MANE US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LAUNAGUET FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BALMA SC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449069",
+   "division": "Féminines à 11 D1 CA Tlse 31",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF",
+   "equipe_slug": "580600-canton-aurignac-ef",
+   "matchs": [
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.LACREMADE/PAYRIN",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LOURDES FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "F.C GARONNE GASCOGNE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. L'ISLE LOMBEZ",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "S.C. LAFRANCAISAIN",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAMIERS FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "F.C. VIGNOBLE 81",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444290",
+   "division": "Coupe du Conseil Départemental Sud",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF",
+   "equipe_slug": "580600-canton-aurignac-ef",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "MONTBERNARD SC",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-17",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LABARTHE RIVIERE FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-31",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "MIRAMONT US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-18",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LANDORTHE EST. SAV.",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CAZERES US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "COMMINGES ST GAUDENS 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ENCAUSSE SO. GA.",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444294",
+   "division": "Challenge Jean Caubère",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF 2",
+   "equipe_slug": "580600-canton-aurignac-ef-2",
+   "matchs": [
+    {
+     "date": "2025-11-01",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "PYRENEES SUD COM. 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "SALIES MANE US 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "PYRENEES SUD COM. 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LE FOUSSERET MONDAV. 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445943",
+   "division": "Coupe Féminines Senior Foot à 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF",
+   "equipe_slug": "580600-canton-aurignac-ef",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ENT. L'ISLE LOMBEZ",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446748",
+   "division": "Coupe Féminines U15F Foot à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF",
+   "equipe_slug": "580600-canton-aurignac-ef",
+   "matchs": [
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "E.F.C. DE LA VALLEE",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COMMINGES ST GAUDENS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449866",
+   "division": "Super Coupe Conseil Départemental",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "CANTON AURIGNAC EF",
+   "equipe_slug": "580600-canton-aurignac-ef",
+   "matchs": [
+    {
+     "date": "2026-06-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CASTANET US 4",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435443",
+   "division": "Coupe Occitanie Intersport Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "E.F.C.AURIGNAC",
+   "equipe_slug": "580600-e-f-c-aurignac",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "TOULOUSE NORD F.C",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "U.S. RIVERAINE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "BLAGNAC 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "E.F.C.A",
+   "equipe_slug": "580600-e-f-c-a",
+   "matchs": [
+    {
+     "date": "2025-08-22",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "F.C. MABROC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-29",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CONFLUENT / LSP",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-12",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "AUCH",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435167",
+   "division": "COUPE DE FRANCE FÉMININE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "E.F.C.A",
+   "equipe_slug": "580600-e-f-c-a",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SOUES CIGOGNES",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "1er tour - Cadrage",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. L'ISLE LOMBEZ",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

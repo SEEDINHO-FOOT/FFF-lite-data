@@ -1,0 +1,2354 @@
+{
+ "clNo": "100452",
+ "nom": "ROUBAIX TCG PORTUGAI",
+ "noms": [
+  "ROUBAIX TCG PORTUGAI",
+  "ROUBAIX TCG PORTUGAI 2",
+  "ROUBAIX TCG PORTUGAI 21",
+  "ROUBAIX TCG PORTUGAI 22",
+  "ROUBAIX TCG PORTUGAI 31",
+  "ROUBAIX TCG PORTUGAI 32",
+  "ROUBAIX TG PORTUGAIS",
+  "ROUBAIX TG PORTUGAIS 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440826",
+   "division": "MATCHES AMICAUX SENIORS LFHF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI",
+   "equipe_slug": "550189-roubaix-tcg-portugai",
+   "matchs": [
+    {
+     "date": "2025-08-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ARMENTIERES JA",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL AC",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "LA MADELEINE FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-10",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "CROIX FIC 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439190",
+   "division": "Seniors Régional 2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI",
+   "equipe_slug": "550189-roubaix-tcg-portugai",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HAZEBROUCK SC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERVILLE USM",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CROIX FIC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ORCHIES STADE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NOYELLES S/LENS US",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ANZIN ST AUBIN ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "GENECH ES",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SECLIN FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AVION CS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BULLY LES MINES ES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MERVILLE USM",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CROIX FIC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ORCHIES STADE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LESQUIN US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NOYELLES S/LENS US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GENECH ES",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SECLIN FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANZIN ST AUBIN ES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AVION CS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BULLY LES MINES ES",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LESQUIN US",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HAZEBROUCK SC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439201",
+   "division": "Coupe Hauts-de-France Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI",
+   "equipe_slug": "550189-roubaix-tcg-portugai",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANZIN ST AUBIN ES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COURCELLES US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442602",
+   "division": "MATCHS AMICAUX SENIOR DISTRICT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI",
+   "equipe_slug": "550189-roubaix-tcg-portugai",
+   "matchs": [
+    {
+     "date": "2026-05-27",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL AC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "LA MADELEINE FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448135",
+   "division": "U14 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TG PORTUGAIS 21",
+   "equipe_slug": "550189-roubaix-tg-portugais-21",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "TOURCOING US 22",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SECLIN FC 22",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "HEM O.",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CAMPHIN PEVELE EC 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ENNEQUIN ES 21",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "RONCQ ES 22",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:15",
+     "domicile": false,
+     "adversaire": "FACHES THUMESNIL FC 22",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "EXEMPT 22",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LILLE BOIS BLANCS RC",
+     "score": "2-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "16:15",
+     "domicile": false,
+     "adversaire": "LA MADELEINE FC 21",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444053",
+   "division": "Seniors D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 2",
+   "equipe_slug": "550189-roubaix-tcg-portugai-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BONDUES FC 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MARCQ EN BAROEUL O. 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA MADELEINE FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "QUESNOY S/DEULE FSM",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TOUFFLERS AF",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BAISIEUX ASP",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "TEMPLEUVE AS",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ASCQ US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ASCQ US 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MARCQ EN BAROEUL O. 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA MADELEINE FC 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QUESNOY S/DEULE FSM",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BONDUES FC 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ANSTAING CHERENG EC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "BAISIEUX ASP",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TEMPLEUVE AS",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TOUFFLERS AF",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANSTAING CHERENG EC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444065",
+   "division": "Veterans a 11 Niv 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 31",
+   "equipe_slug": "550189-roubaix-tcg-portugai-31",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "FACHES THUMESNIL FC 31",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "VERLINGHEM FOOT 31",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "MARCQ EN BAROEUL O. 31",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "08:45",
+     "domicile": false,
+     "adversaire": "BONDUES FC 31",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "COMINES ACS 31",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "LILLE MOULINS CARREL 31",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "FACHES THUMESNIL FC 31",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "HEM O. 31",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "VERLINGHEM FOOT 31",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "08:45",
+     "domicile": false,
+     "adversaire": "MARCQ EN BAROEUL O. 31",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BONDUES FC 31",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444065",
+   "division": "Veterans a 11 Niv 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI",
+   "equipe_slug": "550189-roubaix-tcg-portugai",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "CROIX FIC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "COMINES ACS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "HEM O.",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "WASQUEHAL FOOTBALL",
+     "score": "13-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "LILLE MOULINS CARREL",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "WASQUEHAL FOOTBALL",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "CROIX FIC",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444066",
+   "division": "Veterans a 7 Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 32",
+   "equipe_slug": "550189-roubaix-tcg-portugai-32",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ROUBAIX OC 31",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "MONS EN BAROEUL FC 31",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "WATTRELOS FC 31",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "TOUFFLERS AF 31",
+     "score": "4-8",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "LA GORGUE CS 31",
+     "score": "11-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "ROUBAIX OC 31",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "BERSEE AS 31",
+     "score": "6-11",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "ARMENTIERES JA 31",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "LILLE MOULINS CARREL 32",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "VILLENEUVE FLERS OS 32",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL FC 31",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "08:05",
+     "domicile": true,
+     "adversaire": "LILLE MOULINS CARREL 32",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ANSTAING CHERENG EC 31",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "WATTRELOS FC 31",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "TOUFFLERS AF 31",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444066",
+   "division": "Veterans a 7 Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 2",
+   "equipe_slug": "550189-roubaix-tcg-portugai-2",
+   "matchs": [
+    {
+     "date": "2026-01-25",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ROUBAIX ASC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "08:30",
+     "domicile": false,
+     "adversaire": "VILLENEUVE FLERS OS 2",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "LA GORGUE CS",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "ANSTAING CHERENG EC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ARMENTIERES JA",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": "Journée 26",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "ROUBAIX ASC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BERSEE AS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444070",
+   "division": "U16 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 21",
+   "equipe_slug": "550189-roubaix-tcg-portugai-21",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "VERLINGHEM FOOT 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "GROUPEMENT ROUBAIX R 22",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "DUNKERQUE MALO FC 21",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ASCQ US 21",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "RONCQ ES 21",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GROUPEMENT ROUBAIX R 22",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "RONCQ ES 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "VERLINGHEM FOOT 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ASCQ US 21",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "DUNKERQUE MALO FC 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444073",
+   "division": "U13 NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 2",
+   "equipe_slug": "550189-roubaix-tcg-portugai-2",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "LINSELLES FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CROIX FIC 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION 2",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "LEERS OS 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RONCHIN US 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LINSELLES FC 2",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CROIX FIC 3",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LEERS OS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "RONCHIN US 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "HALLUIN UNION 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "WASQUEHAL FOOTBALL 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "MERIGNIES ENNEVELIN ",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL FC 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "WASQUEHAL FOOTBALL 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "FRETIN US",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MERIGNIES ENNEVELIN ",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "MONS EN BAROEUL FC 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "FRETIN US",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "HALLUIN UNION 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444073",
+   "division": "U13 NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TG PORTUGAIS",
+   "equipe_slug": "550189-roubaix-tg-portugais",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "LINSELLES FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION",
+     "score": "13-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "HELLEMMES AS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LEZENNES STADE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LINSELLES FC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ARMENTIERES JA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LEZENNES STADE",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "HELLEMMES AS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ARMENTIERES JA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HALLUIN UNION",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444087",
+   "division": "U11 NIVEAU 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI",
+   "equipe_slug": "550189-roubaix-tcg-portugai",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BONDUES FC",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "MARQUETTE FF",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "MARCQ EN BAROEUL O.",
+     "score": "18-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LILLE LOUVIERE ESP",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BONDUES FC",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:15",
+     "domicile": false,
+     "adversaire": "MARQUETTE FF",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-03",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MARCQ EN BAROEUL O.",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LILLE LOUVIERE ESP",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "WAMBRECHIES FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "WASQUEHAL FOOTBALL 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ENNEQUIN ES 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "WAMBRECHIES FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GENECH ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ROUBAIX ASJ BAPTISTE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENNEQUIN ES 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "GENECH ES",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ROUBAIX ASJ BAPTISTE",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "WASQUEHAL FOOTBALL 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444107",
+   "division": "FOOT LOISIRS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Loisir",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI",
+   "equipe_slug": "550189-roubaix-tcg-portugai",
+   "matchs": [
+    {
+     "date": "2025-09-22",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MARQUETTE FF",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-29",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "TOURCOING US 2",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LOSC LILLE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-03",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "VILLEN.D'ASCQ DECATH 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-17",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE CASP COM. URB.",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-01",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "VILLEN.D'ASCQ GENDAR",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-08",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "RADINGHEM AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-12",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CAMPHIN PEVELE ECF",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE CASP COM. URB.",
+     "score": "6-8",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-17",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE VIEUX AS 5",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-30",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE FG BETHUNE AS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-27",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "VILLEN.D'ASCQ DECATH 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-13",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "RADINGHEM AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-18",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "TEMPLEMARS VENDE. FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-01",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ROUBAIX AIR FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-08",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "WATTIGNIES FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448138",
+   "division": "U16 PRED1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 21",
+   "equipe_slug": "550189-roubaix-tcg-portugai-21",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "SAINGHIN AO 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "TEMPLEUVE AS 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ROUBAIX GROUPEMENT 42",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LEERS OS 21",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448138",
+   "division": "U16 PRED1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI",
+   "equipe_slug": "550189-roubaix-tcg-portugai",
+   "matchs": [
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SAINGHIN AO",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LA GORGUE CS",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ROUBAIX GROUPEMENT 22",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LEERS OS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "LA GORGUE CS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "TEMPLEUVE AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444108",
+   "division": "Cpe Des Flandres Sen D1 A D3",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 2",
+   "equipe_slug": "550189-roubaix-tcg-portugai-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TEMPLEMARS VENDE. FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "WATTIGNIES FC",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444111",
+   "division": "Coupe des Flandres Vet A 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI",
+   "equipe_slug": "550189-roubaix-tcg-portugai",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LYS STELLA",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "BOUSBECQUE CS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SECLIN FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444112",
+   "division": "Coupe des Flandres Vétérans A7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 32",
+   "equipe_slug": "550189-roubaix-tcg-portugai-32",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PROVIN US 31",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL AC 31",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION 33",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444115",
+   "division": "coupe des Flandres U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 21",
+   "equipe_slug": "550189-roubaix-tcg-portugai-21",
+   "matchs": [
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "DUNKERQUE MALO FC 23",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "4ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444117",
+   "division": "coupe des Flandres U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ROUBAIX TCG PORTUGAI 22",
+   "equipe_slug": "550189-roubaix-tcg-portugai-22",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:15",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL AC 23",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "2e tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

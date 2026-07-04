@@ -1,0 +1,702 @@
+{
+ "clNo": "8830",
+ "nom": "LIMERZEL SC",
+ "noms": [
+  "LIMERZEL SC"
+ ],
+ "competitions": [
+  {
+   "cpNo": "436263",
+   "division": "District 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LIMERZEL SC",
+   "equipe_slug": "523406-limerzel-sc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MALANSAC LA PATRIOTE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PEILLAC JA",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "NOYAL MUZILLAC LA JF",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LA GACILLY US 2",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PEAULE ARMORICAINE",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST PERREUX FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RUFFIAC MALESTROIT F 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ALLAIRE CSSG",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QUESTEMBERT BO",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ARZAL AG",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CARENTOIR LA FOND",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "NOYAL MUZILLAC LA JF",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LA GACILLY US 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PEAULE ARMORICAINE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ST PERREUX FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "QUESTEMBERT BO",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "RUFFIAC MALESTROIT F 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ALLAIRE CSSG",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PEILLAC JA",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ARZAL AG",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CARENTOIR LA FOND",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MALANSAC LA PATRIOTE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438059",
+   "division": "District 2 F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LIMERZEL SC",
+   "equipe_slug": "523406-limerzel-sc",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LA SERENTAISE",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LA GACILLY US 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LE FAOUET US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "VANNES ASPTT 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "QUESTEMBERT BO",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAMORS AL",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THEIX AV",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MARZAN GDE DU PONT",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SARZEAU",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "STE HELENE AVENIR",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PLUVIGNER KERIOLETS 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LE FAOUET US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "STE HELENE AVENIR",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CAMORS AL",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "VANNES ASPTT 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "QUESTEMBERT BO",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "LA SERENTAISE",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "THEIX AV",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MARZAN GDE DU PONT",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SARZEAU",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLUVIGNER KERIOLETS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "11:30",
+     "domicile": true,
+     "adversaire": "LA GACILLY US 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LIMERZEL SC",
+   "equipe_slug": "523406-limerzel-sc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MALANSAC LA PATRIOTE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438065",
+   "division": "Trophée Morbihan Seniors F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LIMERZEL SC",
+   "equipe_slug": "523406-limerzel-sc",
+   "matchs": [
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STE HELENE AVENIR",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Mise à niveau",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LANESTER AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "8èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLUVIGNER KERIOLETS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Quarts de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440430",
+   "division": "Trophée Chaton",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LIMERZEL SC",
+   "equipe_slug": "523406-limerzel-sc",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MOLAC LARRE ENT S",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ST PERREUX FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MOREAC GSC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440431",
+   "division": "Trophée Morbihan",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LIMERZEL SC",
+   "equipe_slug": "523406-limerzel-sc",
+   "matchs": [
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LE ROC ST ANDRE",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Tour 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "INZINZAC FLEUR AJONC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Tour 7",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ARZAL AG",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "AURAY FOOTBALL CLUB 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "LIMERZEL SC",
+   "equipe_slug": "523406-limerzel-sc",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RIEUX ST MELAINE",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

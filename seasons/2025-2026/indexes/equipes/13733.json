@@ -1,0 +1,802 @@
+{
+ "clNo": "13733",
+ "nom": "NOINTEL FC",
+ "noms": [
+  "NOINTEL FC",
+  "NOINTEL FC 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439541",
+   "division": "Seniors D4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "NOINTEL FC",
+   "equipe_slug": "530673-nointel-fc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST JUST EN CHAUSSEE 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST REMY EN L'EAU AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ANGY FC 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "THIEUX JS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BRUNVILLERS AS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ROCHY CONDE AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FROISSY US 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VILLERS BAILLEUL EC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAILLART US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANGY FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRUNVILLERS AS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROCHY CONDE AS",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VILLERS BAILLEUL EC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FROISSY US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THIEUX JS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAILLART US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST REMY EN L'EAU AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST JUST EN CHAUSSEE 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439587",
+   "division": "CRITÉRIUM LOISIRS 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Loisir",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "NOINTEL FC",
+   "equipe_slug": "530673-nointel-fc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NOGENT CHEMINOTS ASC",
+     "score": "15-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "COYE LA FORET AS",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "VERNEUIL AS 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ESTREES / BAUGY",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ORRY PLAILLY AS",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NOGENT A.F.C. 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CAUFFRY US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BREUIL FITZ JAMES US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SACY ST MARTIN FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SACY ST MARTIN FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NOGENT CHEMINOTS ASC",
+     "score": "4-9",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VERNEUIL AS 2",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BREUIL FITZ JAMES US 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "COYE LA FORET AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ORRY PLAILLY AS",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CAUFFRY US",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ESTREES / BAUGY",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NOGENT A.F.C. 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439588",
+   "division": "VETERANS 45 ANS ET PLUS A 7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "NOINTEL FC 2",
+   "equipe_slug": "530673-nointel-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LIANCOURT CLERMONT",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BALAGNY US 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BURY OC 2",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LAMORLAYE US 2",
+     "score": "3-12",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "VILLERS/ST LEU 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PRECY RC 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ETOUY AGNETZ US 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST JUST EN CHAUSSEE 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SACY ST MARTIN FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SACY ST MARTIN FC 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BURY OC 2",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LIANCOURT CLERMONT",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST JUST EN CHAUSSEE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BALAGNY US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LAMORLAYE US 2",
+     "score": "10-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VILLERS/ST LEU 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ETOUY AGNETZ US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PRECY RC 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439591",
+   "division": "Coupe Jacques Chivot",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "NOINTEL FC",
+   "equipe_slug": "530673-nointel-fc",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST SULPICE FC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439597",
+   "division": "Coupe de l'Oise Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "NOINTEL FC",
+   "equipe_slug": "530673-nointel-fc",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FROISSY US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "JOUY SOUS THELLE FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "2ième Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GAUDECHART US",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "3ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ALLONNE AS",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "4ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BRESLES US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "5ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439622",
+   "division": "COUPE ST LUCIEN",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "NOINTEL FC",
+   "equipe_slug": "530673-nointel-fc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "DIEUDONNE ETFC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ALLONNE AS",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "1/16ième Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447233",
+   "division": "CHALLENGE NORMAND",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "NOINTEL FC",
+   "equipe_slug": "530673-nointel-fc",
+   "matchs": [
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GUISCARD JS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447235",
+   "division": "Challenge ROUDY",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "NOINTEL FC",
+   "equipe_slug": "530673-nointel-fc",
+   "matchs": [
+    {
+     "date": "2026-06-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MOUY US",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

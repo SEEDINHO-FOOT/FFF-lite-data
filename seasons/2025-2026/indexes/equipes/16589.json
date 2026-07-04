@@ -1,0 +1,912 @@
+{
+ "clNo": "16589",
+ "nom": "GRIGNOLAIS CA",
+ "noms": [
+  "GRIGNOLAIS CA",
+  "GRIGNOLAIS CA ENT",
+  "GRIGNOLAIS CA ENT 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435750",
+   "division": "Seniors Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "GRIGNOLAIS CA",
+   "equipe_slug": "535014-grignolais-ca",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LAMOTHE MONGAUZY US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BEAUTIRANAISE AS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LA REOLE GIRONDE FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "UNION SPORTIVE PIERR 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FC BORDS DE GARONNE 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CASTETS EN DORTHE CA 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MAZERES ROAILLAN ES 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAUVETERRIENNE AS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LE NIZAN U.S.",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "UNION SPORTIVE PIERR 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BEAUTIRANAISE AS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC BORDS DE GARONNE 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CASTETS EN DORTHE CA 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA REOLE GIRONDE FC 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MAZERES ROAILLAN ES 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SAUVETERRIENNE AS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE NIZAN U.S.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONSEGURAIS SC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MONSEGURAIS SC 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LAMOTHE MONGAUZY US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437452",
+   "division": "U13 Brassage Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "GRIGNOLAIS CA ENT 2",
+   "equipe_slug": "535014-grignolais-ca-ent-2",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CASTETS EN DORTHE CA",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "UVGI",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LANDIRAS FRATERNELLE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST SYMPHORIEN SC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LA BREDE  FC 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FC BORDS DE GARONNE 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PAYS AUROSSAIS FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONSEGURAIS SC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "GRAVES FC 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437452",
+   "division": "U13 Brassage Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "GRIGNOLAIS CA ENT",
+   "equipe_slug": "535014-grignolais-ca-ent",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MAZERES ROAILLAN ES",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "JEUNES DE LANGON 4",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LANDIRAS FRATERNELLE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PATRONAGE BAZADAIS 2",
+     "score": "2-14",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "UNION HURE-FONTET",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "HOSTENSOIS FLASH",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA REOLE GIRONDE FC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MORIZES AS",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST SYMPHORIEN SC 2",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437459",
+   "division": "U14/U17F Brassage à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "GRIGNOLAIS CA ENT",
+   "equipe_slug": "535014-grignolais-ca-ent",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LANDIRAS ENT",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BELVESOIS FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "COTEAUX LIBOURNAIS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "JEUNES DE LANGON",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BELVESOIS FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "COTEAUX LIBOURNAIS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "JEUNES DE LANGON",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LANDIRAS ENT",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447420",
+   "division": "U13 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "GRIGNOLAIS CA ENT",
+   "equipe_slug": "535014-grignolais-ca-ent",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BORDEAUX RC",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST AUGUSTIN CPA USJ",
+     "score": "0-13",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CENON US 2",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CHAMBERY RC 2",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "APIS FOOTBALL",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "RIVE DROITE 33 FC 4",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CARBON BLANAIS CA",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MONSEGURAIS SC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PAYS AUROSSAIS FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "PATRONAGE BAZADAIS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "JEUNES DE LANGON 3",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447822",
+   "division": "U14/U17 Féminines à 8 Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U14",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "GRIGNOLAIS CA ENT",
+   "equipe_slug": "535014-grignolais-ca-ent",
+   "matchs": [
+    {
+     "date": "2026-01-11",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "BISCARROSSE O.",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BASSENS CMO",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LEGE CAP FERRET US",
+     "score": "11-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "JEUNES DE LANGON",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ARSAC LE PIAN MEDOC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BASSENS CMO",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ARSAC LE PIAN MEDOC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "11:30",
+     "domicile": true,
+     "adversaire": "LEGE CAP FERRET US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "JEUNES DE LANGON",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BISCARROSSE O.",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437485",
+   "division": "Coupe de Gironde Seat Skoda",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "GRIGNOLAIS CA",
+   "equipe_slug": "535014-grignolais-ca",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GRADIGNAN FC",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437486",
+   "division": "Coupe du District Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "GRIGNOLAIS CA",
+   "equipe_slug": "535014-grignolais-ca",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "GRAVES FC 3",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437508",
+   "division": "Coupe de Gironde U14/U17 Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "GRIGNOLAIS CA ENT",
+   "equipe_slug": "535014-grignolais-ca-ent",
+   "matchs": [
+    {
+     "date": "2026-04-11",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BRUGES ES",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LA BREDE  FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "U.S.FARGUES TOULENNE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "1/2 finale ",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "LEGE CAP FERRET US",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

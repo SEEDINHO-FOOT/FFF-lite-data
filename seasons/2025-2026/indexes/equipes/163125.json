@@ -1,0 +1,88 @@
+{
+ "clNo": "163125",
+ "nom": "ST JEAN VILLEN LOISI 31",
+ "noms": [
+  "ST JEAN VILLEN LOISI 31",
+  "ST JEAN VILLEN LOISI 32"
+ ],
+ "competitions": [
+  {
+   "cpNo": "441575",
+   "division": "Coupe Vétérans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ST JEAN VILLEN LOISI 32",
+   "equipe_slug": "890317-st-jean-villen-loisi-32",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PLOUGOUMELEN BONO AS 31",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "THEIX AV 32",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "REGUINY ST CLAIR 31",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440433",
+   "division": "Coupe Michel Bethe",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ST JEAN VILLEN LOISI 31",
+   "equipe_slug": "890317-st-jean-villen-loisi-31",
+   "matchs": [
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PONTIVY STADE 31",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3503 @@
+{
+ "clNo": "933",
+ "nom": "ENT.UCB USCI",
+ "noms": [
+  "ENT. BRIC QUET RAU 2",
+  "ENT. BRIC QUET RAU 3",
+  "ENT. BRICQ QUET RAU",
+  "ENT.UCB ASV 3",
+  "ENT.UCB B2S 2",
+  "ENT.UCB ESPH RSSV",
+  "ENT.UCB ESPH RSSV 21",
+  "ENT.UCB RSSV ESPH 2",
+  "ENT.UCB RSSV ESPH 22",
+  "ENT.UCB USCI",
+  "UC BRICQUEBETAISE F",
+  "UC BRICQUEBETAISE F 2",
+  "UC BRICQUEBETAISE F 3",
+  "UC BRICQUEBETAISE F 31"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440177",
+   "division": "COUPE DE NORMANDIE SENIORS",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS BRECEY",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "3eme TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440179",
+   "division": "COUPE DE NORMANDIE U18 - E2SE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB ESPH RSSV 21",
+   "equipe_slug": "501397-ent-ucb-esph-rssv-21",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC AGON COUTAINVILLE 21",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "2eme TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440180",
+   "division": "COUPE DE NORMANDIE U15-ORANGE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US COTE DES ILES",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "1ER TOUR ",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444903",
+   "division": "ECHIQUIER U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS TOURLAVILLE 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CS CARENTANAIS 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SM HAYTILLON",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US COTE DES ILES",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445539",
+   "division": "CHALLENGE U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "US VANNE SIENNE MER",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "RS ST SAUVERAIS",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "US GRANVILLAISE",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "CONDE SP",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "TESSY MOYON SP.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445539",
+   "division": "CHALLENGE U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 2",
+   "equipe_slug": "501397-uc-bricquebetaise-f-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "FC EQUEURDR. HAINNEV 3",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ES POINTE HAGUE 2",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AS TOURLAVILLE 3",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "SCU DOUVE DIVETTE 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AS POINTE COTENTIN 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445539",
+   "division": "CHALLENGE U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 3",
+   "equipe_slug": "501397-uc-bricquebetaise-f-3",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ES PLAIN 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445539",
+   "division": "CHALLENGE U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB ASV 3",
+   "equipe_slug": "501397-ent-ucb-asv-3",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AS QUERQUEVILLAISE F 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AS VALOGNES F. 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FC B2S 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "AS QUERQUEVILLAISE F 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445584",
+   "division": "CHALLENGE U11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT. BRICQ QUET RAU",
+   "equipe_slug": "501397-ent-bricq-quet-rau",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ES POINTE HAGUE",
+     "score": null,
+     "statut": "non joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC B2S",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AS VALOGNES F.",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS DE CHERBOURG F. 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ES POINTE HAGUE 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445584",
+   "division": "CHALLENGE U11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT. BRIC QUET RAU 2",
+   "equipe_slug": "501397-ent-bric-quet-rau-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "RS ST SAUVERAIS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC DIGOSVILLE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS VALOGNES F. 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS MONTEBOURG",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT. BRIC QUET RAU 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445584",
+   "division": "CHALLENGE U11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT. BRIC QUET RAU 3",
+   "equipe_slug": "501397-ent-bric-quet-rau-3",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS TOURLAVILLE 4",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC EQUEURDR. HAINNEV 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PL OCTEVILLE 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ENT. BRIC QUET RAU 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446647",
+   "division": "CHALLENGE U18F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB USCI",
+   "equipe_slug": "501397-ent-ucb-usci",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "FC AGON COUTAINVILLE",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "ENT.PERCY/CSV/TMS",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "US LA GLACERIE",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439536",
+   "division": "CHAMPIONNAT SENIORS D1 SPORT 2000",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "AS THEREVAL",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AJ ST HILAIRE PV",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CREANCES S.",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES COUTANCAISE 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS DE CHERBOURG F. 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES POINTE HAGUE 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "AS POINTE COTENTIN",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CA PONTOIS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ES PLAIN",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US OUEST COTENTIN",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "AJ ST HILAIRE PV",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CREANCES S.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ES COUTANCAISE 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS DE CHERBOURG F. 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ES POINTE HAGUE 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS POINTE COTENTIN",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "CA PONTOIS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SCU DOUVE DIVETTE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "ES PLAIN",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US OUEST COTENTIN",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS THEREVAL",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439799",
+   "division": "CHAMPIONNAT SENIORS D2 ALIX",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 2",
+   "equipe_slug": "501397-uc-bricquebetaise-f-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US LA GLACERIE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "AS VALOGNES F. 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "S.URVILLE NACQUEVILL",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS TOURLAVILLE 3",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PL OCTEVILLE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS GREVILLE HAGUE",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC B2S",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US VASTEVILLE ACQUEV",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "GAZELEC FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC EQUEURDR. HAINNEV 3",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS QUERQUEVILLAISE F",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS VALOGNES F. 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "S.URVILLE NACQUEVILL",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS TOURLAVILLE 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PL OCTEVILLE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS GREVILLE HAGUE",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC B2S",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US VASTEVILLE ACQUEV",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GAZELEC FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC EQUEURDR. HAINNEV 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS QUERQUEVILLAISE F",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US LA GLACERIE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439817",
+   "division": "CHAMPIONNAT SENIORS D3 ENCORE",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 3",
+   "equipe_slug": "501397-uc-bricquebetaise-f-3",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "AS VALOGNES F. 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRICQUEBOSCQ SCFGS",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "US COTE DES ILES 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES DES MARAIS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "AJ ST HILAIRE PV 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS MONTEBOURG",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "RS ST SAUVERAIS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US VESLY LAULNE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "US ST JACQUES NEHOU",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ES QUETTETOT RAUVILL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "BRICQUEBOSCQ SCFGS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "US COTE DES ILES 3",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ES DES MARAIS",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AJ ST HILAIRE PV 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "AS MONTEBOURG",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "US OUEST COTENTIN 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "RS ST SAUVERAIS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "US VESLY LAULNE",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "US ST JACQUES NEHOU",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ES QUETTETOT RAUVILL",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US OUEST COTENTIN 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS VALOGNES F. 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440195",
+   "division": "SENIORS F A 8 SPORT 200 LEQUERTIER",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2025-09-19",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "SCU DOUVE DIVETTE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-26",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CREANCES S.",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "UA ST SEVER",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-10",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "US STE CROIX ST LO",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "AS BRECEY",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ES GOUVILLE/MER",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "SM HAYTILLON",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "US VASTEVILLE ACQUEV",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "UA ST SEVER",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-06",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "US STE CROIX ST LO",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "AS BRECEY",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-20",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "AS VALOGNES F.",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "AS VALOGNES F.",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "ES GOUVILLE/MER",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SM HAYTILLON",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-24",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "US VASTEVILLE ACQUEV",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "BRICQUEBOSCQ SCFGS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "US VANNE SIENNE MER",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "US VANNE SIENNE MER",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BRICQUEBOSCQ SCFGS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CREANCES S.",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441420",
+   "division": "CHAMPIONNAT U18F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB USCI",
+   "equipe_slug": "501397-ent-ucb-usci",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "US LA GLACERIE",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FC YVETOT BOCAGE",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AS TOURLAVILLE",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FC DIGOSVILLE",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "ENT. FC3R AGNEAUX FC",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FC DIGOSVILLE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FC AGON COUTAINVILLE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FC FLERIEN",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "FC DIGOSVILLE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "AS VAL DE SIENNE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AS VAL DE SIENNE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-06",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "FC AGON COUTAINVILLE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "FC FLERIEN",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ENT. FC3R AGNEAUX FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441428",
+   "division": "CHAMPIONNAT VETERANS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 31",
+   "equipe_slug": "501397-uc-bricquebetaise-f-31",
+   "matchs": [
+    {
+     "date": "2025-09-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ES POINTE HAGUE 31",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-10",
+     "heure": "20:15",
+     "domicile": false,
+     "adversaire": "AS TOURLAVILLE 31",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-17",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "AS VALOGNES F. 31",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "FC EQUEURDR. HAINNEV 31",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SCU DOUVE DIVETTE 31",
+     "score": "8-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "PL OCTEVILLE 31",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-30",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE 31",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PL OCTEVILLE 31",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-20",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FC EQUEURDR. HAINNEV 31",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441428",
+   "division": "CHAMPIONNAT VETERANS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2026-03-06",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ES POINTE HAGUE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-24",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "AS TOURLAVILLE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "AS VALOGNES F.",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444437",
+   "division": "CHAMPIONNAT U18 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB ESPH RSSV 21",
+   "equipe_slug": "501397-ent-ucb-esph-rssv-21",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. U18 CSC PONTOIS 22",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS VALOGNES F. 22",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS POINTE COTENTIN 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC VAL DE SAIRE 21",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS TOURLAVILLE 22",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SM HAYTILLON 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PL OCTEVILLE 21",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US OUEST COTENTIN 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS MONTEBOURG 21",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444437",
+   "division": "CHAMPIONNAT U18 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB ESPH RSSV",
+   "equipe_slug": "501397-ent-ucb-esph-rssv",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PL OCTEVILLE",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.ASQ-ASSUN 1",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS TOURLAVILLE 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US OUEST COTENTIN",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US COTE DES ILES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS VALOGNES F. 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SM HAYTILLON",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES PLAIN",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CA PONTOIS",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444891",
+   "division": "CHAMPIONNAT U18 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB RSSV ESPH 22",
+   "equipe_slug": "501397-ent-ucb-rssv-esph-22",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.ASQ-ASSUN 2 22",
+     "score": "12-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.FCYB/DIGOSVILLE  21",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. ES AY / FCAC 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GRPT COTE L'ESPACE 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.PÉRIERS/MARAIS 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ES COUTANCAISE 23",
+     "score": "11-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444891",
+   "division": "CHAMPIONNAT U18 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB RSSV ESPH 2",
+   "equipe_slug": "501397-ent-ucb-rssv-esph-2",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US OUEST COTENTIN 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.ASQ-ASSUN 1",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS MONTEBOURG",
+     "score": "14-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US LA GLACERIE 18",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC EQUEURDR. HAINNEV 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PL OCTEVILLE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS TOURLAVILLE 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.FCYB/DIGOSVILLE ",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445255",
+   "division": "CHAMPIONNAT U15 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB B2S 2",
+   "equipe_slug": "501397-ent-ucb-b2s-2",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US LA GLACERIE",
+     "score": "1-17",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS POINTE COTENTIN",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.ASQ-FCEH",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "S.URVILLE NACQUEVILL",
+     "score": "23-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC DIGOSVILLE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES POINTE HAGUE 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS VALOGNES F. 2",
+     "score": "0-19",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SM HAYTILLON",
+     "score": "16-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES ISIGNY SUR MER",
+     "score": "21-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CS CARENTANAIS 2",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS MONTEBOURG",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PL OCTEVILLE",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.ASQ-FCEH",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "ENT. USCI 2 - RSSV 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445888",
+   "division": "CHAMPIONNAT U13 NIVEAU 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "AS DE CHERBOURG F. 3",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "CS CARENTANAIS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FC B2S",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "FC EQUEURDR. HAINNEV",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "CS VILLEDIEU",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ES COUTANCAISE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "FC EQUEURDR. HAINNEV",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "AS VALOGNES F.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "CS CARENTANAIS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ES POINTE HAGUE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "US OUEST COTENTIN",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AS DE CHERBOURG F. 3",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445890",
+   "division": "CHAMPIONNAT U13 NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 2",
+   "equipe_slug": "501397-uc-bricquebetaise-f-2",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "ES DE L'AY",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "SM HAYTILLON",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AJ ST HILAIRE PV",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ES PLAIN",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CS CARENTANAIS 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "PL OCTEVILLE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "PERIERS S.",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "CS CARENTANAIS 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ES POINTE HAGUE 2",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-06",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "US OUEST COTENTIN 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "ES ST SAUVEUR ROND.",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FC DIGOSVILLE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445894",
+   "division": "CHAMPIONNAT U13 NIVEAU 4",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB ASV 3",
+   "equipe_slug": "501397-ent-ucb-asv-3",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "US LA GLACERIE",
+     "score": "1-13",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "FC VAL DE SAIRE 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ES PLAIN 2",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE 3",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AS VALOGNES F. 3",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "EL. DE TOCQUEVILLE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AJ ST HILAIRE PV 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ENT. ES AY / PSF 3",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "TESSY MOYON SP. 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FC 3 RIVIERES 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "AS VALOGNES F. 4",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "US STE CROIX ST LO 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446382",
+   "division": "CHAMPIONNAT U15 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2025-11-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC VAL DE SAIRE",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CS CARENTANAIS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS DE CHERBOURG F. 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PL OCTEVILLE",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC EQUEURDR. HAINNEV 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS TOURLAVILLE 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US COTE DES ILES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US LA GLACERIE",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC VAL DE SAIRE",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES PLAIN",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US OUEST COTENTIN",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES POINTE HAGUE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES COUTANCAISE 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC B2S",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443435",
+   "division": "COUPE DU CONSEIL DEPARTEMENTAL",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US VANNE SIENNE MER",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US AUVERS",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS CERENCAISE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SM HAYTILLON",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "1/2 Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443441",
+   "division": "COUPE RESERVES CONSEIL DEPARTEMENTAL",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 2",
+   "equipe_slug": "501397-uc-bricquebetaise-f-2",
+   "matchs": [
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC TERRE ET MER 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "TOUR 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443443",
+   "division": "COUPE RESERVES DU DISTRICT MANCHE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 3",
+   "equipe_slug": "501397-uc-bricquebetaise-f-3",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS STE MARIE DU MONT 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "TOUR 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS BERIGNY CERISY 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "AS QUERQUEVILLAISE F 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446255",
+   "division": "COUPE VETERANS MANCHE ILES EXPRESS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 31",
+   "equipe_slug": "501397-uc-bricquebetaise-f-31",
+   "matchs": [
+    {
+     "date": "2025-12-12",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "ES POINTE HAGUE 31",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446641",
+   "division": "COUPE DE LA MANCHE SENIORS F A 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ES ISIGNY SUR MER",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ES MUNEVILLAISE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "8ème de Finale ",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446855",
+   "division": "COUPE DE LA MANCHE U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SCU DOUVE DIVETTE",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES POINTE HAGUE",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "16ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446861",
+   "division": "COUPE U18 SPORT 2000 LEQUERTIER",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB ESPH RSSV",
+   "equipe_slug": "501397-ent-ucb-esph-rssv",
+   "matchs": [
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SM HAYTILLON",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "16ème de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PATRIOTE TERREGATTE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449265",
+   "division": "COUPE DE LA MANCHE U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "UC BRICQUEBETAISE F 2",
+   "equipe_slug": "501397-uc-bricquebetaise-f-2",
+   "matchs": [
+    {
+     "date": "2026-04-29",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ENT.LA BAIE DU MONT1",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449331",
+   "division": "COUPE DE LA MANCHE U18F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "ENT.UCB USCI",
+   "equipe_slug": "501397-ent-ucb-usci",
+   "matchs": [
+    {
+     "date": "2026-05-23",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "US LA GLACERIE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "UC BRICQUEBETAISE F",
+   "equipe_slug": "501397-uc-bricquebetaise-f",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US VASTEVILLE ACQUEV",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "1er TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ENT.UCB ESPH RSSV 21",
+   "equipe_slug": "501397-ent-ucb-esph-rssv-21",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES ST SAUVEUR ROND. 21",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "2eme TOUR",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST HILAIRE VIREY LAN 21",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "3eme TOUR",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

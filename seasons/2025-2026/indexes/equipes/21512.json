@@ -1,0 +1,575 @@
+{
+ "clNo": "21512",
+ "nom": "ROC SOCIAL SETE",
+ "noms": [
+  "ROC SOCIAL SETE",
+  "ROC SOCIAL SETE 2",
+  "ROC SOCIAL SETE 32"
+ ],
+ "competitions": [
+  {
+   "cpNo": "438446",
+   "division": "DEPARTEMENTAL 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ROC SOCIAL SETE",
+   "equipe_slug": "541759-roc-social-sete",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST PARGOIRE FC 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C. DOMITIA 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "11:45",
+     "domicile": false,
+     "adversaire": "MIREVAL AS 2",
+     "score": "0-13",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VIL. MAGUELONE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PORT MARIANNE MTP FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SC LODEVE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TEYRAN ASP",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VAILHAUQUES FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST BAUZILLE AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MUC FOOTBALL",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VILLEVEYRAC US 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "F.C. DOMITIA 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MIREVAL AS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VIL. MAGUELONE 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PORT MARIANNE MTP FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SC LODEVE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TEYRAN ASP",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VAILHAUQUES FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST BAUZILLE AS",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VILLEVEYRAC US 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MUC FOOTBALL",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST PARGOIRE FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438448",
+   "division": "VETERANS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ROC SOCIAL SETE 2",
+   "equipe_slug": "541759-roc-social-sete-2",
+   "matchs": [
+    {
+     "date": "2025-09-26",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "AGDE RCO 3",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-03",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "NEZIGNAN EVEQUE ES 2",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-17",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ACADEMIE VEDASIENNE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-31",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ST THIBERY SC 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "BOUZIGUES LOUPIAN AC",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-21",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "SC SETE",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "BALARUC STADE 3",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-05",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ST PARGOIRE FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-16",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FLORENSAC PINET",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-23",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "AGDE RCO 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST THIBERY SC 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-27",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "NEZIGNAN EVEQUE ES 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "BALARUC STADE 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-03",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "SC SETE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BOUZIGUES LOUPIAN AC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-17",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST PARGOIRE FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-24",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FLORENSAC PINET",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ACADEMIE VEDASIENNE",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438455",
+   "division": "CHALLENGE MAURICE MARTIN",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ROC SOCIAL SETE",
+   "equipe_slug": "541759-roc-social-sete",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST THIBERY SC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1er tour Challenge Maurice Martin",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438456",
+   "division": "COUPE DE LHERAULT SENIORS - HERAULT SPORT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ROC SOCIAL SETE",
+   "equipe_slug": "541759-roc-social-sete",
+   "matchs": [
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CASTRIES AV",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "AGDE RCO 2",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438457",
+   "division": "COUPE DE L'HERAULT VETERANS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ROC SOCIAL SETE 32",
+   "equipe_slug": "541759-roc-social-sete-32",
+   "matchs": [
+    {
+     "date": "2025-11-14",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST ANDRE SANGONIS OL 33",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1er tour CDH VETERANS",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ROC SOCIAL SETE",
+   "equipe_slug": "541759-roc-social-sete",
+   "matchs": [
+    {
+     "date": "2025-08-30",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "MONT. ATLAS PAILLADE",
+     "score": "0-15",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

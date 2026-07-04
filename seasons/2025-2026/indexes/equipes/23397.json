@@ -1,0 +1,2313 @@
+{
+ "clNo": "23397",
+ "nom": "LOMME OSM",
+ "noms": [
+  "LOMME OSM",
+  "LOMME OSM 2",
+  "LOMME OSM 21",
+  "LOMME OSM 22",
+  "LOMME OSM 31"
+ ],
+ "competitions": [
+  {
+   "cpNo": "448130",
+   "division": "U18 U19 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERIGNIES OL. 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ROUBAIX ASJ BAPTISTE 21",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "17:15",
+     "domicile": false,
+     "adversaire": "SAINT ANDRE US 21",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LOMME DELIVRANCE SR",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "LOOS LILLE OLIVEAUX",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ARMENTIERES JA",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "TOURCOING BLANC SEAU",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "PERENCHIES USF",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "GONDECOURT CS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MARQUETTE FF",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448131",
+   "division": "U17 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "LILLE FIVES OS",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "HOUPLINES DEULEMONT ",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "TOURCOING BLANC SEAU",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "SAINGHIN AO",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "WATTIGNIES FC",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "HAUBOURDIN CG 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MONS AC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "MONS FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "WATTRELOS FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448132",
+   "division": "U16 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM 21",
+   "equipe_slug": "545498-lomme-osm-21",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "WATTRELOS US 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "HOUPLINES EC 21",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BAC SPORTS 21",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HAZEBROUCK AS CHTS",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "EXEMPT",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "FRELINGHIEN ES 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "TOUFFLERS AF 21",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "HEM OL FC 22",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ATTICHES US 21",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "HELLEMMES AS 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448135",
+   "division": "U14 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM 21",
+   "equipe_slug": "545498-lomme-osm-21",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PHALEMPIN US 21",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "16:15",
+     "domicile": false,
+     "adversaire": "LYS STELLA 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448135",
+   "division": "U14 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LEZENNES STADE 21",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAINGHIN AO 22",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:45",
+     "domicile": false,
+     "adversaire": "COMINES ACS 22",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONS AC 22",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "EXEMPT 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "MERIGNIES OL. 21",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HEM OL FC 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444054",
+   "division": "Seniors D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HALLUIN UNION 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SEQUEDIN OSM 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TOURCOING CHEMINOTS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LINSELLES FC 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PROVIN US 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GENECH ES 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PREMESQUES FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LA CHAPELLE FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LA CHAPELLE FC 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SEQUEDIN OSM 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TOURCOING CHEMINOTS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BAISIEUX ASP 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PROVIN US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GENECH ES 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PREMESQUES FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LINSELLES FC 2",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BAISIEUX ASP 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444056",
+   "division": "Seniors D5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM 2",
+   "equipe_slug": "545498-lomme-osm-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FRELINGHIEN ES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ERQUINGHEM LYS CS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PONT DE NIEPPE AS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ENNEQUIN ES 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "WAVRIN DON JS 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LA GORGUE CS 3",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ILLIES AUBERS ESC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ERQUINGHEM LYS CS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LILLE VIEUX AS 2",
+     "score": null,
+     "statut": "arrêté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PONT DE NIEPPE AS 2",
+     "score": null,
+     "statut": "arrêté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FRELINGHIEN ES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ILLIES AUBERS ESC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "WAVRIN DON JS 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA GORGUE CS 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENNEQUIN ES 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LILLE VIEUX AS 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444065",
+   "division": "Veterans a 11 Niv 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM 31",
+   "equipe_slug": "545498-lomme-osm-31",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LILLE BOIS BLANCS RC 31",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "08:30",
+     "domicile": false,
+     "adversaire": "TOURCOING AFP 31",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "LEZENNES STADE 31",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LYS STELLA 31",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION 31",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "WATTRELOS US 31",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LILLE BOIS BLANCS RC 31",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SAILLY FOREST FOOT 31",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "TOURCOING AFP 31",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LYS STELLA 31",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444065",
+   "division": "Veterans a 11 Niv 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2026-03-29",
+     "heure": "08:45",
+     "domicile": false,
+     "adversaire": "HALLUIN UNION",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SAILLY FOREST FOOT",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LEZENNES STADE",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "08:30",
+     "domicile": false,
+     "adversaire": "WATTRELOS US",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444073",
+   "division": "U13 NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HEM OL FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LYS STELLA",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VIEUX BERQUIN FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PONT DE NIEPPE AS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:15",
+     "domicile": false,
+     "adversaire": "LYS STELLA",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "VIEUX BERQUIN FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PONT DE NIEPPE AS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "HEM OL FC",
+     "score": null,
+     "statut": "réserve",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444084",
+   "division": "U13 NIVEAU 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM 2",
+   "equipe_slug": "545498-lomme-osm-2",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "COMINES ACS 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "TEMPLEMARS VENDE. FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "MERIGNIES OL. 2",
+     "score": "6-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LA MADELEINE FC 3",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "COMINES ACS 3",
+     "score": "3-9",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "TEMPLEMARS VENDE. FC",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MERIGNIES OL. 2",
+     "score": "10-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "WAMBRECHIES FC 2",
+     "score": "9-11",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "WAMBRECHIES FC 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LA MADELEINE FC 3",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL AC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "PREMESQUES FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "TOURCOING DURUY AV",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "THUMERIES AG",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONS EN BAROEUL AC",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MARQUETTE FF 2",
+     "score": "4-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PREMESQUES FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THUMERIES AG",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MARQUETTE FF 2",
+     "score": null,
+     "statut": "réserve",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "TOURCOING DURUY AV",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444087",
+   "division": "U11 NIVEAU 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ROUBAIX ASC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LYS STELLA 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENNEQUIN ES",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:15",
+     "domicile": false,
+     "adversaire": "ROUBAIX ASC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LYS STELLA 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "HALLUIN UNION",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HALLUIN UNION",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ENNEQUIN ES",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "WATTRELOS FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "COMINES ACS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LA CHAPELLE FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "QUESNOY S/DEULE FSM",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "WATTRELOS FC",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "QUESNOY S/DEULE FSM",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "RADINGHEM AS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LA CHAPELLE FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "RADINGHEM AS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "COMINES ACS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444089",
+   "division": "U11 NIVEAU 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM 2",
+   "equipe_slug": "545498-lomme-osm-2",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "TOURCOING DURUY AV 2",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "MARCQ EN BAROEUL O. 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "FACHES THUMESNIL FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TOURCOING DURUY AV 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TOURCOING BLANC SEAU",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MARCQ EN BAROEUL O. 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "PERENCHIES USFF 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PERENCHIES USFF 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FACHES THUMESNIL FC 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "WASQUEHAL FOOTBALL 4",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "WATTIGNIES FC 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "COMINES ACS 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BONDUES FC 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "WASQUEHAL FOOTBALL 4",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROUBAIX ASC 2",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "WATTIGNIES FC 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BONDUES FC 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "COMINES ACS 3",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:15",
+     "domicile": false,
+     "adversaire": "ROUBAIX ASC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444107",
+   "division": "FOOT LOISIRS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Loisir",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2025-09-22",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE CASP COM. URB. 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-29",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "TEMPLEMARS VENDE. FC 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE SPARTAK",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE AS 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-03",
+     "heure": "20:15",
+     "domicile": false,
+     "adversaire": "WATTIGNIES FC 3",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-17",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "TOUFFLERS AF",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-01",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "QUESNOY S/DEULE FSM 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-05",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BONDUES FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-12",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE COKER C. 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "TEMPLEMARS VENDE. FC 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE COKER C.",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-16",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE SIXTE DONDAINE",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-21",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-11",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LOMME USC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-18",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE AS 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-06-01",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LINSELLES FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-15",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "QUESNOY S/DEULE FSM 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444107",
+   "division": "FOOT LOISIRS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Loisir",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM 2",
+   "equipe_slug": "545498-lomme-osm-2",
+   "matchs": [
+    {
+     "date": "2025-09-22",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE SIXTE DONDAINE",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-29",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "VILLENEUVE D'ASCQ FF",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-08",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "MARCQ ATTACK SC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-20",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MERIGNIES OL.",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-03",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "WASQUEHAL FOOTBALL",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-17",
+     "heure": "20:15",
+     "domicile": false,
+     "adversaire": "WATTIGNIES FC 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-01",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LEERS OS",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-08",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "TOURCOING FF FAMILY",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-12",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE COKER C.",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-09",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "TOUFFLERS AF",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-16",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE COKER C. 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-30",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE CASP COM. URB. 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-27",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE SPARTAK",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE UNILOQ ES",
+     "score": "1-16",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-18",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "WASQUEHAL FOOTBALL",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-06-01",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MARCQ ATTACK SC",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-08",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "TOURCOING FF FAMILY",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444108",
+   "division": "Cpe Des Flandres Sen D1 A D3",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PHALEMPIN US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444111",
+   "division": "Coupe des Flandres Vet A 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BONDUES FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444114",
+   "division": "coupe des Flandres U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM",
+   "equipe_slug": "545498-lomme-osm",
+   "matchs": [
+    {
+     "date": "2025-10-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "LE DOULIEU FC",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444115",
+   "division": "coupe des Flandres U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM 22",
+   "equipe_slug": "545498-lomme-osm-22",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MOUVAUX ES 22",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444117",
+   "division": "coupe des Flandres U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LOMME OSM 21",
+   "equipe_slug": "545498-lomme-osm-21",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LILLE ANTILLAIS US 22",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "2e tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

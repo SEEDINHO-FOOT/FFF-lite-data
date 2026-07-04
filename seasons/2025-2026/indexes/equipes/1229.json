@@ -1,0 +1,920 @@
+{
+ "clNo": "1229",
+ "nom": "LANESTER AS",
+ "noms": [
+  "LANESTER AS",
+  "LANESTER AS 2",
+  "LANESTER AS 21",
+  "LANESTER AS 31"
+ ],
+ "competitions": [
+  {
+   "cpNo": "437337",
+   "division": "U16 - District 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS",
+   "equipe_slug": "502032-lanester-as",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ DU SCORFF CAUDAN",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ NOYAL BRO AR ROHA",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ PAYS DE CARNAC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GUIDEL 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "LOCMINE ST CO 2",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GILLOISE ENT",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "PLUNERET CS",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ ARRADON BADEN PLO 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PONTIVY STADE 2",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LANESTER FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRECH US",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ NOYAL BRO AR ROHA",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ NOYAL BRO AR ROHA",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PONTIVY STADE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LOCMINE ST CO 2",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LANESTER FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BRECH US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LOCMINE ST CO 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437359",
+   "division": "U14 - District 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS",
+   "equipe_slug": "502032-lanester-as",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LORIENT SP",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "KERVIGNAC LA ST EFF",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LORIENT CEP",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LORIENT FC",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LORIENT FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LORIENT SP",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GUERMEUR LO",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "KERVIGNAC LA ST EFF",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LORIENT CEP",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GUERMEUR LO",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438057",
+   "division": "District 1 F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS",
+   "equipe_slug": "502032-lanester-as",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LOCMINE ST CO",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MONTAGNARDE US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CRUGUEL AS",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AURAY FOOTBALL CLUB 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GUILLAC GDE MI VOIE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GUIDEL",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLOEMEUR FC 56",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLOERMEL FC 2",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MONTAGNARDE US",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CAMPENEAC AUGAN AV",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CRUGUEL AS",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PLOEMEUR FC 56",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GUIDEL",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "AURAY FOOTBALL CLUB 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GUILLAC GDE MI VOIE",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "LOCMINE ST CO",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PLOERMEL FC 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CAMPENEAC AUGAN AV",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441575",
+   "division": "Coupe Vétérans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS 31",
+   "equipe_slug": "502032-lanester-as-31",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GUERMEUR LO 32",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MELLAC ST 31",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LANDAUL SPORTS 31",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445194",
+   "division": "U15 - Foot à 7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 7",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS 2",
+   "equipe_slug": "502032-lanester-as-2",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BELLE ILE AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GRANDCHAMP SEMEURS",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ NOYAL BRO AR ROHA",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ JEUNES PAYS SULNI",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "KERVIGNAC LA ST EFF 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SARZEAU",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ELVEN FOOTBALL 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS",
+   "equipe_slug": "502032-lanester-as",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GESTEL AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438065",
+   "division": "Trophée Morbihan Seniors F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS",
+   "equipe_slug": "502032-lanester-as",
+   "matchs": [
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LIMERZEL SC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "8èmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440413",
+   "division": "Trophée Morbihan U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS",
+   "equipe_slug": "502032-lanester-as",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ PAYS DE GUEMENE",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LORIENT CEP",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLOEMEUR FC 56",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440415",
+   "division": "Trophée Morbihan U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS 21",
+   "equipe_slug": "502032-lanester-as-21",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GUIDEL 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PLUVIGNER KERIOLETS 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440420",
+   "division": "Trophée Morbihan U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS 21",
+   "equipe_slug": "502032-lanester-as-21",
+   "matchs": [
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BAUD FC 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "16èmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440431",
+   "division": "Trophée Morbihan",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS",
+   "equipe_slug": "502032-lanester-as",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLOUHARNEL AS",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LORIENT SP 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440432",
+   "division": "Challenge Bertrand Crété",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LANESTER AS 31",
+   "equipe_slug": "502032-lanester-as-31",
+   "matchs": [
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "STE HELENE AVENIR 31",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "INZINZAC FLEUR AJONC 31",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "8èmes de finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

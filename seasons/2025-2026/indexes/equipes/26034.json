@@ -1,0 +1,4312 @@
+{
+ "clNo": "26034",
+ "nom": "CHAVILLE FC",
+ "noms": [
+  "CHAVILLE FC",
+  "CHAVILLE FC 2",
+  "CHAVILLE FC 21",
+  "CHAVILLE FC 22",
+  "CHAVILLE FC 23",
+  "CHAVILLE FC 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "442301",
+   "division": "Chpt Franciliens",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-09-22",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ASAC FOOTBALL",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-29",
+     "heure": "20:20",
+     "domicile": true,
+     "adversaire": "LANCIERS FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-06",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "PANTHEON FC",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-13",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "NUAMCES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-10",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ASC BNPP",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-17",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "CAFE AVEYRON. PARIS 2",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-24",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "JEUX EN HERBE FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-01",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "SPORT O SOLIDARITE 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-08",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "SEVRES F.C. 92 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-19",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LUXEMBOURG FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-26",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LANCIERS FC",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-02",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "PANTHEON FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-16",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "NUAMCES",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-02",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CAFE AVEYRON. PARIS 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-09",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ASC BNPP",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-30",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "SPORT O SOLIDARITE 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-13",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "SEVRES F.C. 92 3",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-04",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "JEUX EN HERBE FC",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-11",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LUXEMBOURG FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-18",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ASAC FOOTBALL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442692",
+   "division": "U17 R2",
+   "niveau": "Régional",
+   "echelon": "R2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "RACING CLUB FRANCE 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BOULOGNE BIL. AC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "RED STAR FC 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST OUEN L'AUMONE AS",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "MEUDON A.S.",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SALESIENNE DE PARIS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VILLENNES ORGEVAL",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CRETEIL LUSITANOS F.",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PARIS INTERNATIONAL",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "MANTOIS 78 FC 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "13:45",
+     "domicile": true,
+     "adversaire": "MONTROUGE FC 92 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST OUEN L'AUMONE AS",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "MEUDON A.S.",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SALESIENNE DE PARIS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VILLENNES ORGEVAL",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "CRETEIL LUSITANOS F.",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "RACING CLUB FRANCE 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "PARIS INTERNATIONAL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MANTOIS 78 FC 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BOULOGNE BIL. AC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MONTROUGE FC 92 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "RED STAR FC 2",
+     "score": "0-16",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444616",
+   "division": "U17 COUPE PARIS CREDIT MUTUEL IDF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST MAUR LUSITANOS",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "TOUR DE CADRAGE",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FOURQUEUX A.S.",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "1/32EMES DE FINALE",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US TORCY PVM 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "1/16EMES DE FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445989",
+   "division": "U15F PARIS CREDIT MUTUEL IDF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TFFC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "tour n°1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446857",
+   "division": "FRANCILIENS CREDIT MUTUEL",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2026-01-12",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FC PARISII",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Tour de Cadrage",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443120",
+   "division": "SENIORS D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "ASNIERES FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BAGNEUX COM 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RUEIL MALMAISON FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COLOMBIENNE FOOT ES 3",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "JSC NANTERRE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MEUDON A.S.",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "AS ARARAT ISSY 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHEMINOTS OUEST L AS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ASNIERES FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "RUEIL MALMAISON FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "COLOMBIENNE FOOT ES 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "GENNEVILLIERS CSM 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "MEUDON A.S.",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS ARARAT ISSY 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "BAGNEUX COM 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "JSC NANTERRE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "CHEMINOTS OUEST L AS",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GENNEVILLIERS CSM 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443122",
+   "division": "SENIORS D5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 2",
+   "equipe_slug": "549265-chaville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "FONTENAY AUX ROSES 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "SCEAUX FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "RUEIL MALMAISON FC 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "COVGS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "STADE FRANCAIS",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "CHATILLONNAIS SCM 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VILLE D'AVRAY US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "LES PETITS PAINS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MALAKOFF USM 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "EF JEAN MENDEZ",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC BOURG LA REINE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "FC COPAIN DE MEUDON",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COVGS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RUEIL MALMAISON FC 3",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STADE FRANCAIS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "VILLE D'AVRAY US 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "JEUNES ANTONY ASS 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "JEUNES ANTONY ASS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 24",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "LES PETITS PAINS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "MALAKOFF USM 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 26",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHATILLONNAIS SCM 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "FC BOURG LA REINE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "EF JEAN MENDEZ",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "FONTENAY AUX ROSES 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "FC COPAIN DE MEUDON",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "SCEAUX FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443130",
+   "division": "U18 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 21",
+   "equipe_slug": "549265-chaville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VANVES STADE 21",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PLESSIS ROBINSON FC 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ASNIERES FC 21",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ANTONY FOOT EVOLUTIO 22",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "COLOMBIENNE FOOT ES 22",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "PUTEAUX CSM 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SEVRES F.C. 92 22",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ISSY FC 22",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PLESSIS ROBINSON FC 21",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ASNIERES FC 21",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ANTONY FOOT EVOLUTIO 22",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "COLOMBIENNE FOOT ES 22",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ST CLOUD FC 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "PUTEAUX CSM 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SEVRES F.C. 92 22",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443130",
+   "division": "U18 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2026-03-29",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VANVES STADE",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ISSY FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST CLOUD FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443136",
+   "division": "U16 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 21",
+   "equipe_slug": "549265-chaville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "BOULOGNE BIL. AC 23",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VOLTAIRE CHAT. M. SS 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ASNIERES FC 21",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "GENNEVILLIERS CSM 21",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "PUTEAUX CSM 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "NANTERRE ES 23",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LEVALLOIS SC 21",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MEUDON A.S. 22",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BOULOGNE BIL. AC 23",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "ASNIERES FC 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GENNEVILLIERS CSM 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PUTEAUX CSM 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ST CLOUD FC 21",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "NANTERRE ES 23",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443136",
+   "division": "U16 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2026-03-29",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "VOLTAIRE CHAT. M. SS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "MEUDON A.S. 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "LEVALLOIS SC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ST CLOUD FC",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443176",
+   "division": "U14 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 21",
+   "equipe_slug": "549265-chaville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "NANTERRE ES 22",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "VILLENEUVE GARENNE 21",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "MONTROUGE FC 92 23",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ISSY FC 22",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "LEVALLOIS SC 21",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "AS ARARAT ISSY 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RUEIL MALMAISON FC 22",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "GENNEVILLIERS CSM 21",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "NANTERRE ES 22",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MONTROUGE FC 92 23",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ISSY FC 22",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "LEVALLOIS SC 21",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SEVRES F.C. 92 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS ARARAT ISSY 21",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443176",
+   "division": "U14 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "VILLENEUVE GARENNE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "GENNEVILLIERS CSM",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "RUEIL MALMAISON FC 2",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "SEVRES F.C. 92",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443373",
+   "division": "U16 D5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 22",
+   "equipe_slug": "549265-chaville-fc-22",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FC BOURG LA REINE 21",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PUTEAUX CSM 22",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ACA 22",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "FONTENAY AUX ROSES 22",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SCEAUX FC 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "SEVRES F.C. 92 22",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "JSC NANTERRE 21",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "NEUILLY O. 22",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PLESSIS ROBINSON FC 22",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "JEUNES ANTONY ASS 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VOLTAIRE CHAT. M. SS 22",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "METRO FOOT ANTONY 21",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "RUEIL MALMAISON FC 23",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "JSC NANTERRE 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PUTEAUX CSM 22",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "SURESNES J.S. 23",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "CHATILLONNAIS SCM 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443373",
+   "division": "U16 D5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 2",
+   "equipe_slug": "549265-chaville-fc-2",
+   "matchs": [
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ASNIERES FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MONTROUGE FC 92 4",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "VILLE D'AVRAY US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VOLTAIRE CHAT. M. SS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CSM CLAMART FOOT 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443715",
+   "division": "U14 D5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 22",
+   "equipe_slug": "549265-chaville-fc-22",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "SURESNES J.S. 23",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "VOLTAIRE CHAT. M. SS 23",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LEVALLOIS SC 22",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "ACA 22",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "COURBEVOIE SPORTS 23",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SEVRES F.C. 92 22",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "PUTEAUX CSM 22",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "JSC NANTERRE 22",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "GENNEVILLIERS CSM 24",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BOULOGNE BIL. AC 26",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "COLOMBIENNE FOOT ES 24",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SEVRES F.C. 92 24",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "GENNEVILLIERS CSM 22",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "STADE FRANCAIS 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "PUTEAUX CSM 22",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443715",
+   "division": "U14 D5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 2",
+   "equipe_slug": "549265-chaville-fc-2",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CSM CLAMART FOOT",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "COURBEVOIE SPORTS 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ACA",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "NEUILLY O. 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MALAKOFF USM",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "NANTERRE ES 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445372",
+   "division": "Critérium U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MEUDON A.S. 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MALAKOFF USM 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "VILLE D'AVRAY US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CSM CLAMART FOOT 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SCEAUX FC 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MEUDON A.S. 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MALAKOFF USM 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "VILLE D'AVRAY US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "SCEAUX FC 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CSM CLAMART FOOT 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445374",
+   "division": "CRIT U13 Féminines",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MONTROUGE FC 92",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "BOULOGNE BIL. AC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PUTEAUX CSM 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PUTEAUX CSM 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PARIS SO COEUR 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "FC BOURG LA REINE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BAGNEUX COM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BOULOGNE BIL. AC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PUTEAUX CSM 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PUTEAUX CSM 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PARIS SO COEUR 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "FC BOURG LA REINE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-08",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "BAGNEUX COM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MONTROUGE FC 92",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445380",
+   "division": "Critérium U12",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 22",
+   "equipe_slug": "549265-chaville-fc-22",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "JEUNES ANTONY ASS 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "METRO FOOT ANTONY 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "VOLTAIRE CHAT. M. SS 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "MALAKOFF USM 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "BAGNEUX COM 23",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "FONTENAY AUX ROSES 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MEUDON A.S. 23",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "MONTROUGE FC 92 23",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "JEUNES ANTONY ASS 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "METRO FOOT ANTONY 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "VOLTAIRE CHAT. M. SS 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MALAKOFF USM 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445380",
+   "division": "Critérium U12",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 2",
+   "equipe_slug": "549265-chaville-fc-2",
+   "matchs": [
+    {
+     "date": "2026-04-11",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BAGNEUX COM 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "MEUDON A.S. 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "FONTENAY AUX ROSES 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MONTROUGE FC 92 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445380",
+   "division": "Critérium U12",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 23",
+   "equipe_slug": "549265-chaville-fc-23",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "GARCHES VAUCR 21",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SCEAUX FC 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "CHATILLONNAIS SCM 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "VOLTAIRE CHAT. M. SS 23",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "MALAKOFF USM 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "BAGNEUX COM 24",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "FONTENAY AUX ROSES 23",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MEUDON A.S. 24",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "MONTROUGE FC 92 24",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "SCEAUX FC 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CHATILLONNAIS SCM 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "VOLTAIRE CHAT. M. SS 23",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MALAKOFF USM 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445380",
+   "division": "Critérium U12",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 3",
+   "equipe_slug": "549265-chaville-fc-3",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BAGNEUX COM 4",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "MEUDON A.S. 4",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "FONTENAY AUX ROSES 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MONTROUGE FC 92 4",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445381",
+   "division": "Critérium U12 ESPOIR",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 21",
+   "equipe_slug": "549265-chaville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MONTROUGE FC 92 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SCEAUX FC 21",
+     "score": null,
+     "statut": "arrêté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BOULOGNE BIL. AC 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "FONTENAY AUX ROSES 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CSM CLAMART FOOT 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ISSY FC 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "AS ARARAT ISSY 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "SCEAUX FC 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "BOULOGNE BIL. AC 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "FONTENAY AUX ROSES 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "CSM CLAMART FOOT 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ISSY FC 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445381",
+   "division": "Critérium U12 ESPOIR",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2026-04-18",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AS ARARAT ISSY",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "MONTROUGE FC 92 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445384",
+   "division": "Critérium U11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "VILLE D'AVRAY US",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "10:15",
+     "domicile": false,
+     "adversaire": "ANTONY FOOT EVOLUTIO",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "MALAKOFF USM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:15",
+     "domicile": false,
+     "adversaire": "FC BOURG LA REINE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "VOLTAIRE CHAT. M. SS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "VANVES STADE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "FONTENAY AUX ROSES",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "ANTONY FOOT EVOLUTIO",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "FONTENAY AUX ROSES",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MALAKOFF USM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VOLTAIRE CHAT. M. SS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "VILLE D'AVRAY US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "GARCHES VAUCR",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "VANVES STADE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "CHATILLONNAIS SCM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "CHATILLONNAIS SCM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC BOURG LA REINE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445384",
+   "division": "Critérium U11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 2",
+   "equipe_slug": "549265-chaville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "VILLE D'AVRAY US 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "10:15",
+     "domicile": false,
+     "adversaire": "ANTONY FOOT EVOLUTIO 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "MALAKOFF USM 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:15",
+     "domicile": false,
+     "adversaire": "FC BOURG LA REINE 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "VOLTAIRE CHAT. M. SS 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "VANVES STADE 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "FONTENAY AUX ROSES 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "ANTONY FOOT EVOLUTIO 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "FONTENAY AUX ROSES 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MALAKOFF USM 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "VOLTAIRE CHAT. M. SS 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "VILLE D'AVRAY US 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "GARCHES VAUCR 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "VANVES STADE 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "CHATILLONNAIS SCM 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "CHATILLONNAIS SCM 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC BOURG LA REINE 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445384",
+   "division": "Critérium U11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 3",
+   "equipe_slug": "549265-chaville-fc-3",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "METRO FOOT ANTONY",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "10:15",
+     "domicile": false,
+     "adversaire": "ANTONY FOOT EVOLUTIO 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VOLTAIRE CHAT. M. SS 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "JEUNES ANTONY ASS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SCEAUX FC 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VANVES STADE 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "FONTENAY AUX ROSES 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ANTONY FOOT EVOLUTIO 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "VOLTAIRE CHAT. M. SS 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "FONTENAY AUX ROSES 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "METRO FOOT ANTONY",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "JEUNES ANTONY ASS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VANVES STADE 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "SCEAUX FC 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445386",
+   "division": "Critérium U10",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 21",
+   "equipe_slug": "549265-chaville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "MALAKOFF USM 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "METRO FOOT ANTONY 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "CHATILLONNAIS SCM 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "VILLE D'AVRAY US 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MALAKOFF USM 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "METRO FOOT ANTONY 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445386",
+   "division": "Critérium U10",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-11-29",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "CHATILLONNAIS SCM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VILLE D'AVRAY US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445386",
+   "division": "Critérium U10",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 22",
+   "equipe_slug": "549265-chaville-fc-22",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "MALAKOFF USM 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SCEAUX FC 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "CHATILLONNAIS SCM 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "JEUNES ANTONY ASS 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MALAKOFF USM 22",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "SCEAUX FC 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445386",
+   "division": "Critérium U10",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 2",
+   "equipe_slug": "549265-chaville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-11-29",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "JEUNES ANTONY ASS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "CHATILLONNAIS SCM 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445499",
+   "division": "COUPE HDS SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 2",
+   "equipe_slug": "549265-chaville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ANTONY FOOT EVOLUTIO 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Tour de Cadrage",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "COURBEVOIE SPORTS 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445499",
+   "division": "COUPE HDS SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2025-12-21",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "FC COPAIN DE MEUDON",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:45",
+     "domicile": true,
+     "adversaire": "COURBEVOIE SPORTS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "16ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445501",
+   "division": "COUPE HDS U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 21",
+   "equipe_slug": "549265-chaville-fc-21",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PLESSIS ROBINSON FC 22",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": "16ème de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "RUEIL MALMAISON FC 21",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445503",
+   "division": "COUPE HDS U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 21",
+   "equipe_slug": "549265-chaville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-12-21",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "RUEIL MALMAISON FC 23",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ANTONY FOOT EVOLUTIO 22",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "16ème de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "AS ARARAT ISSY 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445503",
+   "division": "COUPE HDS U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 22",
+   "equipe_slug": "549265-chaville-fc-22",
+   "matchs": [
+    {
+     "date": "2025-12-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "COLOMBIENNE FOOT ES 22",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445503",
+   "division": "COUPE HDS U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2026-05-07",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "COLOMBIENNE FOOT ES 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VOLTAIRE CHAT. M. SS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "1/2 Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445505",
+   "division": "COUPE HDS U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 22",
+   "equipe_slug": "549265-chaville-fc-22",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CSM CLAMART FOOT 22",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Tour de Cadrage",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "JSC NANTERRE 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "32ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445505",
+   "division": "COUPE HDS U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC 21",
+   "equipe_slug": "549265-chaville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-12-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GARCHES VAUCR 21",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "32ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445513",
+   "division": "COUPE HDS LOISIRS SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "CHAVILLE FC",
+   "equipe_slug": "549265-chaville-fc",
+   "matchs": [
+    {
+     "date": "2026-04-27",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "COLOMBES LSO",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "CHAVILLE FC 21",
+   "equipe_slug": "549265-chaville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST MANDE FC 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Tour de cadrage",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "RIS ORANGIS U.S. 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

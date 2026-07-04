@@ -1,0 +1,735 @@
+{
+ "clNo": "8810",
+ "nom": "ARTRES AS",
+ "noms": [
+  "ARTRES AS",
+  "ENT.ARTRESETOILEVPOL"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439639",
+   "division": "U13 Niveau C",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ARTRES AS",
+   "equipe_slug": "523373-artres-as",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LIEU ST AMAND US",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "WAVRECHAIN S/DENAIN",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "HAVELUY JS",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "NOYELLES S/SELLE ES",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ABSCON JS 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LIEU ST AMAND US",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PROUVY EA",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PROUVY EA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "WAVRECHAIN S/DENAIN",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "HAVELUY JS",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "NOYELLES S/SELLE ES",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ABSCON JS 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439652",
+   "division": "U11 Niveau C",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ARTRES AS",
+   "equipe_slug": "523373-artres-as",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BRUAY SPORTS",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "TRITH ST LEGER CO",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BEUVRAGES USM 3",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "HORDAIN US 3",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NOYELLES S/SELLE ES",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CRESPIN ES",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "TRITH ST LEGER CO",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BOUCHAIN ES",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BOUCHAIN ES",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BEUVRAGES USM 3",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "HORDAIN US 3",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NOYELLES S/SELLE ES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CRESPIN ES",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BRUAY SPORTS",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439761",
+   "division": "U15 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ENT.ARTRESETOILEVPOL",
+   "equipe_slug": "523373-ent-artresetoilevpol",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PONT SUR SAMBRE SCEP",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BACHANT SC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FONTAINE AU BOIS FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "LE QUESNOY SA",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LANDRECIES US",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BACHANT SC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:45",
+     "domicile": false,
+     "adversaire": "FONTAINE AU BOIS FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PONT SUR SAMBRE SCEP",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LE QUESNOY SA",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LANDRECIES US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "QUIEVRECHAIN US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "HERIN AUBRY CLE",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "BRIASTRE US 15",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LANDRECIES US",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "HERIN AUBRY CLE",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BRIASTRE US 15",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "LANDRECIES US",
+     "score": "1-16",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "QUIEVRECHAIN US",
+     "score": "12-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439775",
+   "division": "Seniors D5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ARTRES AS",
+   "equipe_slug": "523373-artres-as",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QUIEVRECHAIN US",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FAMARS FC 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GOMMEGNIES US 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "OBIES AS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "TRITH ST LEGER CO 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "BACHANT SC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SAULTAIN FC",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FAMARS FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GOMMEGNIES US 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "OBIES AS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AUNELLE FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TRITH ST LEGER CO 3",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOUSIES FOREST US 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BACHANT SC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAULTAIN FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AUNELLE FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "QUIEVRECHAIN US",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOUSIES FOREST US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445404",
+   "division": "Coupe Escaut U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ENT.ARTRESETOILEVPOL",
+   "equipe_slug": "523373-ent-artresetoilevpol",
+   "matchs": [
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BOUCHAIN ES",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Tour de brassage ",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

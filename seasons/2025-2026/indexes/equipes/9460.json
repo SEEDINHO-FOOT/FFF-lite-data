@@ -1,0 +1,1412 @@
+{
+ "clNo": "9460",
+ "nom": "RIGNY",
+ "noms": [
+  "RIGNY",
+  "RIGNY 2",
+  "RIGNY 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440201",
+   "division": "DEPARTEMENTAL 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "2 VELS 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA ROMAINE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ARC/GRAY 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MEMBREY",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA ROMAINE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ARC/GRAY 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MARNAY 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "MARNAY 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MEMBREY",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "2 VELS 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440202",
+   "division": "DEPARTEMENTAL 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY 2",
+   "equipe_slug": "524383-rigny-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VAL DE SAONE 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT CHAMPLITTE/AUTR3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "4 RIVIERES 70 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MEMBREY 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ENT CHAMPLITTE/AUTR3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "4 RIVIERES 70 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "MEMBREY 2",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VAL DE SAONE 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440209",
+   "division": "U18 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY 21",
+   "equipe_slug": "524383-rigny-21",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MONTS DE GY 21",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES 21",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "NOIDANS VESOUL 22",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "GJ SAONOIS 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "VAL DE PESMES 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NOIDANS VESOUL 22",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ SAONOIS 21",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTS DE GY 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440211",
+   "division": "U15 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "2 VELS",
+     "score": "3-9",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "4 RIVIERES 70",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ENT. MARNAY/MONTS GY",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PERROUSE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "4 RIVIERES 70",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ENT MARNAY/MONTS GY",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VAL DE PESMES",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PERROUSE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "2 VELS",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440213",
+   "division": "U13 A 8 BRASSAGE NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "GJ VAL DE GRAY",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "MARNAY 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "LARIANS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "4 RIVIERES 70",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PERROUSE 2",
+     "score": "15-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "NOIDANS VESOUL 2",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "SEVEUX/MOTEY",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448243",
+   "division": "DEPARTEMENTAL 3 PLAY OFF PRINT",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "RIOZ 4",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MARNAY 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "COLOMBE VESOUL 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MEMBREY",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LARIANS 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MEMBREY",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MARNAY 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COLOMBE VESOUL 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LARIANS 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "RIOZ 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448252",
+   "division": "DEPARTEMENTAL 4 PLAY DOWN PRINT",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY 2",
+   "equipe_slug": "524383-rigny-2",
+   "matchs": [
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT CHAMPLITTE/AUTR3",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AUTREY LES GRAY 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PERROUSE 5",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTS DE GY 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT CHAMPLITTE/AUTR3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PERROUSE 5",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AUTREY LES GRAY 2",
+     "score": "14-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTS DE GY 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448272",
+   "division": "U18 DEPARTEMENTAL 3 - PRINT",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY 21",
+   "equipe_slug": "524383-rigny-21",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LARIANS 21",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "VAIVRE/FROTEY/MONT. 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448272",
+   "division": "U18 DEPARTEMENTAL 3 - PRINT",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ENT JUSSEY/AMANCE/CO",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MONTS DE GY",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "VAIVRE/FROTEY/MONT.",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "MONTS DE GY",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ENT JUSSEY/AMANCE/CO",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "VAL DE PESMES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "LARIANS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448278",
+   "division": "U15 DEPARTEMENTAL 2 - PRINT",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "GJ VAL DE CERISE",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "AMANCE/CORRE/POL",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GJ VOIE VERTE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "VAL DE PESMES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GJ VAL DE CERISE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AMANCE/CORRE/POL",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "GJ VOIE VERTE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448553",
+   "division": "U13 A 8 CHAMPIONNAT NIVEAU 4",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "MARNAY 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "MONTS DE GY",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "2 VELS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "PERROUSE 4",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "RIOZ 2",
+     "score": "1-11",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "MONTS DE GY",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "2 VELS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PERROUSE 4",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "RIOZ 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "MARNAY 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440256",
+   "division": "CHALLENGE DU DISTRICT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY 2",
+   "equipe_slug": "524383-rigny-2",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "COLOMBE VESOUL 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "32EME DE FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440256",
+   "division": "CHALLENGE DU DISTRICT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2026-02-14",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "SEVEUX/MOTEY",
+     "score": "18-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440257",
+   "division": "COUPE HAUTE SAONE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VESOUL AGGL. OLYMP.",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "1ER TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440258",
+   "division": "COUPE NIVEAUX DEPART D3 D4",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2025-12-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "HERICOURT F.C.",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT CHAMPLITTE/AUTR3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "1/2 FINALE",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AMANCE/CORRE/POL.",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440259",
+   "division": "CHALLENGE DU DISTRICT U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY 21",
+   "equipe_slug": "524383-rigny-21",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440261",
+   "division": "COUPE HAUTE SAONE U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY 21",
+   "equipe_slug": "524383-rigny-21",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "HERICOURT/HTE LIZAIN 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440262",
+   "division": "CHALLENGE DU DISTRICT U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ENT PERROUSE/LARIANS 2",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": "1ER TOUR",
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "MELISEY/ST BARTH.",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "8EMES DE FINALE",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "HERICOURT/HTE LIZAIN",
+     "score": "12-4",
+     "statut": "joué",
+     "journee": "1/4 DE FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440263",
+   "division": "COUPE HAUTE SAONE U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "RIGNY",
+   "equipe_slug": "524383-rigny",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT MAGNY VE/LUREJS2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1ER TOUR",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA ROMAINE",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "8EME DE FINALE",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NOIDANS VESOUL",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

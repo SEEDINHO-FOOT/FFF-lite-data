@@ -1,0 +1,2975 @@
+{
+ "clNo": "126921",
+ "nom": "REN  ATHETIC CLUB",
+ "noms": [
+  "REN  ATHETIC CLUB",
+  "REN  ATHETIC CLUB 21",
+  "REN  ATHETIC CLUB 5",
+  "REN ATHLETIC CLUB",
+  "REN ATHLETIC CLUB 2",
+  "REN ATHLETIC CLUB 21",
+  "REN ATHLETIC CLUB 22",
+  "REN ATHLETIC CLUB 3",
+  "REN ATHLETIC CLUB 4",
+  "REN ATHLETIC CLUB 5",
+  "RENNES ATHLETIC CLUB",
+  "RENNES ATHLETIC CLUB 2",
+  "RENNES ATHLETIC CLUB 21",
+  "RENNES ATHLETIC CLUB 3",
+  "RENNES ATHLETIC CLUB 4"
+ ],
+ "competitions": [
+  {
+   "cpNo": "437406",
+   "division": "Régional 3",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN  ATHETIC CLUB",
+   "equipe_slug": "553069-ren-athetic-club",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TA RENNES 3",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ST GILLES US",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "IRODOUER AV",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "GEVEZE US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "QUEDILLAC SEP",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRETEIL TAL. FC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VIGNOC HED GUIP AS 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ILLET FORET US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTAUBAN OC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NOYAL BRECE FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GOSNE US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GILLES US",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "IRODOUER AV",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GEVEZE US",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "QUEDILLAC SEP",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BRETEIL TAL. FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VIGNOC HED GUIP AS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ILLET FORET US",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MONTAUBAN OC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "NOYAL BRECE FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GOSNE US",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TA RENNES 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436728",
+   "division": "U14 Brassage N3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 21",
+   "equipe_slug": "553069-ren-athletic-club-21",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "REN CPB BREQUIGNY 22",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "RETIERS COESMES AS 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:15",
+     "domicile": false,
+     "adversaire": "ARGENTRE PLESSIS J 21",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "F.C. CANTON DU SEL 21",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RANNEE LA GUERCHE RC 21",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436792",
+   "division": "U14 Brassage N4",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB 21",
+   "equipe_slug": "553069-rennes-athletic-club-21",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "REN CHEMINOTS AS 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "REN CPB BREQUIGNY 22",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CHATILL NOYAL US (E) 22",
+     "score": "0-15",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "REN ESPERANCE 22",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438463",
+   "division": "District 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 2",
+   "equipe_slug": "553069-ren-athletic-club-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "TA RENNES 4",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ORGERES US",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CHELUN MARTIGNE Cad.",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CHARTRES ESPERANCE 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOURGBARRE US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VERN / SEICHE US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TORCE VERGEAL F.C.",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHATEAUGIRON US 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "JANZE US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LOUV BAIS STADE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ETRELLES AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ORGERES US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CHELUN MARTIGNE Cad.",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "CHARTRES ESPERANCE 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BOURGBARRE US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "VERN / SEICHE US",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TORCE VERGEAL F.C.",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "CHATEAUGIRON US 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "JANZE US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "LOUV BAIS STADE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "ETRELLES AS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TA RENNES 4",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438677",
+   "division": "U18 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 21",
+   "equipe_slug": "553069-ren-athletic-club-21",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MORDELLES FC 21",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "GJ CORBIERE FOOT 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VITREENNE FC (E) 21",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ PORTES BRETAGNE 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "BRUZ FC 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "REDON ATL VILAINE 21",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "VITRE AS 23",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ NOYAL BRECE ACIGN 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GUICHEN FC 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438677",
+   "division": "U18 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB",
+   "equipe_slug": "553069-ren-athletic-club",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ LA VAUNOISE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "GJ CORBIERE FOOT",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RANNEE LA GUERCHE RC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MORDELLES FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VITRE AS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "REDON ATL VILAINE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "REN CPB GAYEULLES",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "REN CHEMINOTS AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438680",
+   "division": "U17 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB",
+   "equipe_slug": "553069-ren-athletic-club",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHANTEPIE AS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CESSON OC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "REN ESPERANCE 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA MÉZIÈRE MELESSE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ST GREGOIRE US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "REN CHEMINOTS AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA CHAPELLE MONTG FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTAUBAN OC 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "THORIGNE ES 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438683",
+   "division": "U16 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 21",
+   "equipe_slug": "553069-ren-athletic-club-21",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "RETIERS COESMES AS 22",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GJ SUD EST BRETILIEN 21",
+     "score": null,
+     "statut": "non joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "DOMAGNE/ST DI 22",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GJ PORTES BRETAGNE 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "REN ESPERANCE 22",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "VERN US (E) 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "DOMLOUP SP. (E) 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438694",
+   "division": "U15 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB",
+   "equipe_slug": "553069-ren-athletic-club",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MORDELLES FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GJ LA VAUNOISE 3",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GJ SUD PAYS RENNES 3",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ORGERES US (E)",
+     "score": "5-11",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST JACQUES AS",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "REN CHEMINOTS AS",
+     "score": "10-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "REN ESPERANCE 2",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "REN CPB BREQUIGNY 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ BREAL CHAVAGNE 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PIPRIAC JA (E)",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "JANZE US",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GUICHEN FC (E) 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRUZ FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ BREAL CHAVAGNE 2",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "GOVEN SC (E)",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST JACQUES AS",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS ANAST FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ SUD PAYS RENNES 2",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440147",
+   "division": "U13 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB",
+   "equipe_slug": "553069-rennes-athletic-club",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "REN CHEMINOTS AS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440147",
+   "division": "U13 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB",
+   "equipe_slug": "553069-ren-athletic-club",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LA SEICHE FC",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "DOMLOUP SP. (E)",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "VITREENNE FC (E) 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CHATEAUGIRON US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GJ SUD EST BRETILIEN",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "JANZE US",
+     "score": "8-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "REN CPB BLOSNE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "VITRE AS 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CHANTEPIE AS 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "REN ESPERANCE",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440147",
+   "division": "U13 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB 3",
+   "equipe_slug": "553069-rennes-athletic-club-3",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "JANZE US 3",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "RETIERS COESMES AS 2",
+     "score": "8-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440147",
+   "division": "U13 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 3",
+   "equipe_slug": "553069-ren-athletic-club-3",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "REN ESPERANCE 2",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "CHANTEPIE AS",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "VERN US (E)",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ETRELLES AS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "JANZE US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CHELUN MARTIGNE Cad.",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "VITRE AS 3",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CHATEAUGIRON US 3",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "10:45",
+     "domicile": false,
+     "adversaire": "RANNEE LA GUERCHE RC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440147",
+   "division": "U13 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 2",
+   "equipe_slug": "553069-ren-athletic-club-2",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "VITREENNE FC (E) 3",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CHATEAUGIRON US 4",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LA SEICHE FC 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "REN CHEMINOTS AS 3",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "VITRE AS 4",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LE PERTRE BRIELLES 2",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "REN ATHLETIC CLUB 4",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "JANZE US 4",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ARGENTRE PLESSIS J 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440147",
+   "division": "U13 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB 4",
+   "equipe_slug": "553069-rennes-athletic-club-4",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LA SEICHE FC 2",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "REN CHEMINOTS AS 3",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440147",
+   "division": "U13 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 4",
+   "equipe_slug": "553069-ren-athletic-club-4",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "VITRE AS 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LE PERTRE BRIELLES 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "12:15",
+     "domicile": false,
+     "adversaire": "ARGENTRE PLESSIS J 3",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "JANZE US 4",
+     "score": "6-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "REN ATHLETIC CLUB 2",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "VITREENNE FC (E) 3",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CHATEAUGIRON US 4",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB",
+   "equipe_slug": "553069-rennes-athletic-club",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "REN ESPERANCE",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "VITRE AS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB",
+   "equipe_slug": "553069-ren-athletic-club",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "DOMAGNE/ST DI",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "CHATEAUGIRON US 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "NOUVOITOU JS",
+     "score": "9-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "REN CPB BLOSNE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "JANZE US",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "RETIERS COESMES AS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "REN CHEMINOTS AS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB 4",
+   "equipe_slug": "553069-rennes-athletic-club-4",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "BAIS US",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CORNILLE ESP (E)",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "VITREENNE FC 2",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 4",
+   "equipe_slug": "553069-ren-athletic-club-4",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "LA SEICHE FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "CHATEAUGIRON US 3",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LE PERTRE BRIELLES",
+     "score": "12-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "RANNEE LA GUERCHE RC",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "VERN / SEICHE US",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "REN CHEMINOTS AS 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB 2",
+   "equipe_slug": "553069-rennes-athletic-club-2",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "ARGENTRE PLESSIS J 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "RETIERS COESMES AS 2",
+     "score": "7-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "CHELUN MARTIGNE Cad.",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 2",
+   "equipe_slug": "553069-ren-athletic-club-2",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "RANNEE LA GUERCHE RC 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ETRELLES AS",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ARGENTRE PLESSIS J 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "RETIERS COESMES AS 2",
+     "score": "8-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CHELUN MARTIGNE Cad.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "RANNEE LA GUERCHE RC 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ETRELLES AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB 3",
+   "equipe_slug": "553069-rennes-athletic-club-3",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "VITREENNE FC 3",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "RANNEE LA GUERCHE RC 3",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 3",
+   "equipe_slug": "553069-ren-athletic-club-3",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "REN CHEMINOTS AS 4",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "REN ESPERANCE 2",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "VITREENNE FC 3",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "RANNEE LA GUERCHE RC 3",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "REN CHEMINOTS AS 4",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "REN ESPERANCE 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN  ATHETIC CLUB 5",
+   "equipe_slug": "553069-ren-athetic-club-5",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "TORCE VERGEAL FC (E) 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "JANZE US 4",
+     "score": "11-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LE PERTRE BRIELLES 2",
+     "score": "3-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 5",
+   "equipe_slug": "553069-ren-athletic-club-5",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LA SEICHE FC 3",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "TORCE VERGEAL FC (E) 2",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "JANZE US 4",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "LE PERTRE BRIELLES 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LA SEICHE FC 3",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447794",
+   "division": "U14 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB",
+   "equipe_slug": "553069-ren-athletic-club",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RANNEE LA GUERCHE RC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ SUD EST BRETILIEN",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GJ CORBIERE FOOT 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CHATEAUGIRON US 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "REN CHEMINOTS AS",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CESSON OC 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "VITRE AS 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LIFFRE US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST AUBIN CORMIER STA",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444380",
+   "division": "Coupe Conseil Départemental H",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB 2",
+   "equipe_slug": "553069-rennes-athletic-club-2",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NOYAL BRECE FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST ARMEL US",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BREAL  / FOOT",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LIFFRE US 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444381",
+   "division": "Coupe Maxime Portier",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB",
+   "equipe_slug": "553069-rennes-athletic-club",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LOUV BAZOUGE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RETIERS COESMES AS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ARGENTRE PLESSIS J",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST AUBIN AUBIGNE FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Mise à niveau",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444381",
+   "division": "Coupe Maxime Portier",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB",
+   "equipe_slug": "553069-ren-athletic-club",
+   "matchs": [
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "STDE CASTELBOURGEOIS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "8èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CESSON OC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Quarts de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHATEAUGIRON US 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "1/2 finale",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "VITRE AS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445348",
+   "division": "Coupe U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB",
+   "equipe_slug": "553069-ren-athletic-club",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ESKOUADENN BROCEL",
+     "score": "11-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MORDELLES FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ DE L'OR 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445354",
+   "division": "Coupe Vétérans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "RENNES ATHLETIC CLUB",
+   "equipe_slug": "553069-rennes-athletic-club",
+   "matchs": [
+    {
+     "date": "2025-10-03",
+     "heure": "19:45",
+     "domicile": true,
+     "adversaire": "VEZIN AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445356",
+   "division": "Coupe U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 21",
+   "equipe_slug": "553069-ren-athletic-club-21",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PACE CO 21",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445357",
+   "division": "Coupe U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 22",
+   "equipe_slug": "553069-ren-athletic-club-22",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "VERN US (E) 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445357",
+   "division": "Coupe U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB 21",
+   "equipe_slug": "553069-ren-athletic-club-21",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "VITREENNE FC (E) 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "16èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "REDON ATL VILAINE 21",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "8èmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445357",
+   "division": "Coupe U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN ATHLETIC CLUB",
+   "equipe_slug": "553069-ren-athletic-club",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GJ CORBIERE FOOT",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Quarts de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN  ATHETIC CLUB",
+   "equipe_slug": "553069-ren-athetic-club",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LAILLE US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "REN  ATHETIC CLUB 21",
+   "equipe_slug": "553069-ren-athetic-club-21",
+   "matchs": [
+    {
+     "date": "2025-08-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC MORDELLES 21",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS ANAST FC 21",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ SUD PAYS RENNES 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "3ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLERIN FC 21",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "4ème Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "clNo": "4875",
+ "nom": "MONTIGNAC 16 ES",
+ "noms": [
+  "MONTIGNAC 16 ES",
+  "MONTIGNAC 16 ES 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "445791",
+   "division": "COUPE DU DISTRICT CA - J DEBRIS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "MONTIGNAC 16 ES",
+   "equipe_slug": "515740-montignac-16-es",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ROUILLAC FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445794",
+   "division": "CPE RESERVES CA- P. LABONNE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "MONTIGNAC 16 ES 2",
+   "equipe_slug": "515740-montignac-16-es-2",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRIE AS 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "MONTIGNAC 16 ES",
+   "equipe_slug": "515740-montignac-16-es",
+   "matchs": [
+    {
+     "date": "2025-08-23",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ROULLET FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-30",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "F.C. FOURAS ST LAURE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

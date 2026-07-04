@@ -1,0 +1,606 @@
+{
+ "clNo": "1070",
+ "nom": "US CRIELLOISE",
+ "noms": [
+  "US CRIELLOISE",
+  "US CRIELLOISE 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440177",
+   "division": "COUPE DE NORMANDIE SENIORS",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "US CRIELLOISE",
+   "equipe_slug": "501702-us-crielloise",
+   "matchs": [
+    {
+     "date": "2026-02-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST AUBIN FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "4eme TOUR",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "EVREUX FC 27",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "32e DE FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440931",
+   "division": "SENIORS APRES-MIDI D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "US CRIELLOISE",
+   "equipe_slug": "501702-us-crielloise",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES JANVALAISE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC NEUFCHATEL EN BR 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS GOURNAY FOOTBALL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "JS ST NICOLAS BETHUN 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS LE TREPORTAISE",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US NORMANDE 76",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US BACQUEVILLE PIERR",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC ST JULIEN PT QUEV 2",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AC BRAY EST FORGES",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC PETIT CAUX",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US LUNERAYSIENNE 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC NEUFCHATEL EN BR 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "JS ST NICOLAS BETHUN 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS LE TREPORTAISE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US NORMANDE 76",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS GOURNAY FOOTBALL",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US LUNERAYSIENNE 2",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US BACQUEVILLE PIERR",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC ST JULIEN PT QUEV 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AC BRAY EST FORGES",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC PETIT CAUX",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES JANVALAISE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440932",
+   "division": "SENIORS APRES-MIDI D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "US CRIELLOISE 2",
+   "equipe_slug": "501702-us-crielloise-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES PLATEAU FOUC.REAL 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC NEUFCHATEL EN BR 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "EU FC 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES AUMALOISE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC VENTOIS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS LE TREPORTAISE 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS MESNIEROISE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ES TOURVILLAISE 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC PETIT CAUX 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US LONDINIERES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC NEUFCHATEL EN BR 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "EU FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ES AUMALOISE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC VENTOIS",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS LE TREPORTAISE 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "US GREGEOISE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US GREGEOISE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS MESNIEROISE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES TOURVILLAISE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US LONDINIERES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC PETIT CAUX 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES PLATEAU FOUC.REAL 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440948",
+   "division": "COUPE JEAN MERAULT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "US CRIELLOISE",
+   "equipe_slug": "501702-us-crielloise",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "EU FC 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS STE ADRESSE BUT",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC OFFRANVILLAIS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "1/8èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "YVETOT AC 3",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A HOULMOISE BOND FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1/2 finale",
+     "stade": null
+    },
+    {
+     "date": "2026-06-28",
+     "heure": "18:15",
+     "domicile": false,
+     "adversaire": "SOLIDARITE S GOURNAY",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,972 @@
+{
+ "clNo": "201793",
+ "nom": "FFNI",
+ "noms": [
+  "FFNI",
+  "FFNI 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439827",
+   "division": "FEMININES U18F A 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "FFNI",
+   "equipe_slug": "764375-ffni",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GAPS",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MISERIEUX TREVOUX AS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ENT SQF CHANDIEU H",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AIX FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ENT. AIN SUD MAS RIL",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PAYS COULEURS",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ATTIGNAT AS U18 F.",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CROLLES FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GRP FEM HT BUGEY U18",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ESSOR BRESSE SAONE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MISERIEUX TREVOUX AS 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT SQF CHANDIEU H",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ENT. AIN SUD MAS RIL",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AIX FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "GRP FEM HT BUGEY U18",
+     "score": "1-13",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PAYS COULEURS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ATTIGNAT AS U18 F.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CROLLES FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "ESSOR BRESSE SAONE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GAPS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438912",
+   "division": "FEMININES A11 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "FFNI",
+   "equipe_slug": "764375-ffni",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ENT.S. DRUMETTAZ MOU",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "PAYS VOIRONNAIS FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "UO PORTUGAL SMH",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BEAUCROISSANT FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ECHIROLLES FC 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST CASSIEN ASL",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AIX FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "E.VERSAUVINAYROCLAIX",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "CLAIX F. 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PAYS VOIRONNAIS FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "UO PORTUGAL SMH",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BEAUCROISSANT FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ECHIROLLES FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "E.VERSAUVINAYROCLAIX",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST CASSIEN ASL",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "AIX FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CLAIX F. 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT.S. DRUMETTAZ MOU",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439020",
+   "division": "FEMININES U15 F à 8 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "FFNI 2",
+   "equipe_slug": "764375-ffni-2",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "REVENTIN US",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "11:30",
+     "domicile": true,
+     "adversaire": "DEUX ROCHERS FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ENT SQF OV",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PAYS COULEURS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SURE FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "EYBENS OC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GF A BRION",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "DEUX ROCHERS FC",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ENT SQF OV",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PAYS COULEURS 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:30",
+     "domicile": true,
+     "adversaire": "SURE FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "EYBENS OC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GF A BRION",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "REVENTIN US",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439021",
+   "division": "FEMININES U15F A8 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "FFNI",
+   "equipe_slug": "764375-ffni",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MOIRANS FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "PAYS COULEURS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CROLLES FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "VALLEE DE L'HIEN 38",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GUC FOOTBALL FEMININ",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "NIVOLAS V. CS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BOURGOIN J. FC",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ECHIROLLES FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "GAPS",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PAYS COULEURS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "CROLLES FC",
+     "score": "1-11",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "GUC FOOTBALL FEMININ",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "NIVOLAS V. CS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "VALLEE DE L'HIEN 38",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BOURGOIN J. FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ECHIROLLES FC",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GAPS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MOIRANS FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446467",
+   "division": "U13 FILLES NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "FFNI",
+   "equipe_slug": "764375-ffni",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST PIERRE SPORT",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "GF A BRION",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DEUX ROCHERS FC 2",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "U.S. CHARTREUSE GUIE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "EYBENS OC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ECHIROLLES FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "FC 2A",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VALLEE DE L'HIEN 38 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438916",
+   "division": "COUPE ISERE FEM A11 M BERT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "FFNI",
+   "equipe_slug": "764375-ffni",
+   "matchs": [
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PAYS VOIRONNAIS FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "1/8 Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439023",
+   "division": "COUPE FEMININES U15 A8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "FFNI",
+   "equipe_slug": "764375-ffni",
+   "matchs": [
+    {
+     "date": "2026-02-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "EYBENS OC",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435680",
+   "division": "COUPE NIKE FÉMININE U18",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "FFNI",
+   "equipe_slug": "764375-ffni",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "USVJ",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

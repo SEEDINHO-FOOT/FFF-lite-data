@@ -1,0 +1,78 @@
+{
+ "clNo": "2379",
+ "nom": "NOIRETABLE",
+ "noms": [
+  "NOIRETABLE",
+  "NOIRETABLE 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "442258",
+   "division": "Coupe de la Loire Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "NOIRETABLE",
+   "equipe_slug": "504768-noiretable",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "S.MARCELLIN F",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "TOUR 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NORD ROANNAIS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "TOUR 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442259",
+   "division": "Coupe Valeyre-Leger",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "NOIRETABLE 2",
+   "equipe_slug": "504768-noiretable-2",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AFPC 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "TOUR 1",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,616 @@
+{
+  "season": "2025-2026",
+  "cpNo": "444093",
+  "nom": "U13 FEMININES",
+  "type": "championnat",
+  "scope": "regional",
+  "region": "HAUTS-DE-FRANCE",
+  "district": "DISTRICT DES FLANDRES",
+  "nb_equipes": 29,
+  "equipes": [
+    {
+      "clNo": "148561",
+      "nom": "BONDUES FC",
+      "slug": "554197-bondues-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554197.jpg"
+    },
+    {
+      "clNo": "10428",
+      "nom": "CAMPHIN PEVELE ECF",
+      "slug": "525816-camphin-pevele-ecf",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525816.jpg"
+    },
+    {
+      "clNo": "191987",
+      "nom": "CAPPELLE L/GRANDE ES",
+      "slug": "582688-cappelle-l-grande-es",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582688.jpg"
+    },
+    {
+      "clNo": "172695",
+      "nom": "CROIX FIC",
+      "slug": "563663-croix-fic",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC563663.jpg"
+    },
+    {
+      "clNo": "3498",
+      "nom": "ERQUINGHEM LYS CS",
+      "slug": "509707-erquinghem-lys-cs",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC509707.jpg"
+    },
+    {
+      "clNo": "9469",
+      "nom": "FERRAIN FAN 96",
+      "slug": "524395-ferrain-fan-96",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524395.jpg"
+    },
+    {
+      "clNo": "384",
+      "nom": "HALLUIN UNION",
+      "slug": "500276-halluin-union",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500276.jpg"
+    },
+    {
+      "clNo": "12009",
+      "nom": "HEM O.",
+      "slug": "528194-hem-o",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC528194.jpg"
+    },
+    {
+      "clNo": "198944",
+      "nom": "LAMBERSART UF",
+      "slug": "560787-lambersart-uf",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560787.jpg"
+    },
+    {
+      "clNo": "796",
+      "nom": "LEERS OS",
+      "slug": "500982-leers-os",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500982.jpg"
+    },
+    {
+      "clNo": "511",
+      "nom": "LESQUIN US",
+      "slug": "500426-lesquin-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500426.jpg"
+    },
+    {
+      "clNo": "3961",
+      "nom": "LILLE LOUVIERE ESP",
+      "slug": "512174-lille-louviere-esp",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512174.jpg"
+    },
+    {
+      "clNo": "817",
+      "nom": "LINSELLES FC",
+      "slug": "501026-linselles-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501026.jpg"
+    },
+    {
+      "clNo": "12640",
+      "nom": "LOOS LILLE OLIVEAUX",
+      "slug": "529117-loos-lille-oliveaux",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC529117.jpg"
+    },
+    {
+      "clNo": "889",
+      "nom": "LYS STELLA",
+      "slug": "501219-lys-stella",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501219.jpg"
+    },
+    {
+      "clNo": "722",
+      "nom": "MARCQ EN BAROEUL O.",
+      "slug": "500866-marcq-en-baroeul-o",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500866.jpg"
+    },
+    {
+      "clNo": "19718",
+      "nom": "MERIGNIES OL.",
+      "slug": "539335-merignies-ol",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC539335.jpg"
+    },
+    {
+      "clNo": "473",
+      "nom": "PERENCHIES USF",
+      "slug": "500383-perenchies-usf",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500383.jpg"
+    },
+    {
+      "clNo": "248",
+      "nom": "RONCHIN US",
+      "slug": "500112-ronchin-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500112.jpg"
+    },
+    {
+      "clNo": "191623",
+      "nom": "ROUBAIX WERVICQ RCF",
+      "slug": "782535-roubaix-wervicq-rcf",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC782535.jpg"
+    },
+    {
+      "clNo": "767",
+      "nom": "SECLIN FC",
+      "slug": "500934-seclin-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500934.jpg"
+    },
+    {
+      "clNo": "18262",
+      "nom": "SEQUEDIN OSM",
+      "slug": "537390-sequedin-osm",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC537390.jpg"
+    },
+    {
+      "clNo": "827",
+      "nom": "ST ANDRE US",
+      "slug": "501048-st-andre-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501048.jpg"
+    },
+    {
+      "clNo": "868",
+      "nom": "ST POL SUR MER USCC",
+      "slug": "501147-st-pol-sur-mer-uscc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501147.jpg"
+    },
+    {
+      "clNo": "4791",
+      "nom": "STEENVOORDE AS",
+      "slug": "515473-steenvoorde-as",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC515473.jpg"
+    },
+    {
+      "clNo": "202121",
+      "nom": "TETEGHEM UXEM",
+      "slug": "564570-teteghem-uxem",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564570.jpg"
+    },
+    {
+      "clNo": "22478",
+      "nom": "TOURCOING BLANC SEAU",
+      "slug": "544171-tourcoing-blanc-seau",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC544171.jpg"
+    },
+    {
+      "clNo": "20681",
+      "nom": "TOURCOING US",
+      "slug": "540645-tourcoing-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC540645.jpg"
+    },
+    {
+      "clNo": "180443",
+      "nom": "VILLENEUVE D'ASCQ FF",
+      "slug": "780889-villeneuve-d-ascq-ff",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC780889.jpg"
+    }
+  ],
+  "par_groupe": [
+    {
+      "phNo": "1",
+      "gpNo": "1",
+      "groupe_nom": null,
+      "nb_equipes": 6,
+      "equipes": [
+        {
+          "clNo": "384",
+          "nom": "HALLUIN UNION",
+          "slug": "500276-halluin-union",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500276.jpg"
+        },
+        {
+          "clNo": "172695",
+          "nom": "CROIX FIC",
+          "slug": "563663-croix-fic",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC563663.jpg"
+        },
+        {
+          "clNo": "10428",
+          "nom": "CAMPHIN PEVELE ECF",
+          "slug": "525816-camphin-pevele-ecf",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525816.jpg"
+        },
+        {
+          "clNo": "3961",
+          "nom": "LILLE LOUVIERE ESP",
+          "slug": "512174-lille-louviere-esp",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512174.jpg"
+        },
+        {
+          "clNo": "12640",
+          "nom": "LOOS LILLE OLIVEAUX",
+          "slug": "529117-loos-lille-oliveaux",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC529117.jpg"
+        },
+        {
+          "clNo": "473",
+          "nom": "PERENCHIES USF",
+          "slug": "500383-perenchies-usf",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500383.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "2",
+      "groupe_nom": null,
+      "nb_equipes": 6,
+      "equipes": [
+        {
+          "clNo": "767",
+          "nom": "SECLIN FC",
+          "slug": "500934-seclin-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500934.jpg"
+        },
+        {
+          "clNo": "12009",
+          "nom": "HEM O.",
+          "slug": "528194-hem-o",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC528194.jpg"
+        },
+        {
+          "clNo": "511",
+          "nom": "LESQUIN US",
+          "slug": "500426-lesquin-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500426.jpg"
+        },
+        {
+          "clNo": "722",
+          "nom": "MARCQ EN BAROEUL O.",
+          "slug": "500866-marcq-en-baroeul-o",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500866.jpg"
+        },
+        {
+          "clNo": "180443",
+          "nom": "VILLENEUVE D'ASCQ FF",
+          "slug": "780889-villeneuve-d-ascq-ff",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC780889.jpg"
+        },
+        {
+          "clNo": "19718",
+          "nom": "MERIGNIES OL.",
+          "slug": "539335-merignies-ol",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC539335.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "3",
+      "groupe_nom": null,
+      "nb_equipes": 6,
+      "equipes": [
+        {
+          "clNo": "4791",
+          "nom": "STEENVOORDE AS",
+          "slug": "515473-steenvoorde-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC515473.jpg"
+        },
+        {
+          "clNo": "180443",
+          "nom": "VILLENEUVE D'ASCQ FF 2",
+          "slug": "780889-villeneuve-d-ascq-ff-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC780889.jpg"
+        },
+        {
+          "clNo": "3498",
+          "nom": "ERQUINGHEM LYS CS",
+          "slug": "509707-erquinghem-lys-cs",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC509707.jpg"
+        },
+        {
+          "clNo": "18262",
+          "nom": "SEQUEDIN OSM",
+          "slug": "537390-sequedin-osm",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC537390.jpg"
+        },
+        {
+          "clNo": "868",
+          "nom": "ST POL SUR MER USCC",
+          "slug": "501147-st-pol-sur-mer-uscc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501147.jpg"
+        },
+        {
+          "clNo": "191987",
+          "nom": "CAPPELLE L/GRANDE ES",
+          "slug": "582688-cappelle-l-grande-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582688.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "4",
+      "groupe_nom": null,
+      "nb_equipes": 6,
+      "equipes": [
+        {
+          "clNo": "817",
+          "nom": "LINSELLES FC",
+          "slug": "501026-linselles-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501026.jpg"
+        },
+        {
+          "clNo": "889",
+          "nom": "LYS STELLA",
+          "slug": "501219-lys-stella",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501219.jpg"
+        },
+        {
+          "clNo": "148561",
+          "nom": "BONDUES FC",
+          "slug": "554197-bondues-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554197.jpg"
+        },
+        {
+          "clNo": "198944",
+          "nom": "LAMBERSART UF",
+          "slug": "560787-lambersart-uf",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560787.jpg"
+        },
+        {
+          "clNo": "9469",
+          "nom": "FERRAIN FAN 96",
+          "slug": "524395-ferrain-fan-96",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524395.jpg"
+        },
+        {
+          "clNo": "22478",
+          "nom": "TOURCOING BLANC SEAU",
+          "slug": "544171-tourcoing-blanc-seau",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC544171.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "5",
+      "groupe_nom": null,
+      "nb_equipes": 6,
+      "equipes": [
+        {
+          "clNo": "191623",
+          "nom": "ROUBAIX WERVICQ RCF",
+          "slug": "782535-roubaix-wervicq-rcf",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC782535.jpg"
+        },
+        {
+          "clNo": "248",
+          "nom": "RONCHIN US",
+          "slug": "500112-ronchin-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500112.jpg"
+        },
+        {
+          "clNo": "722",
+          "nom": "MARCQ EN BAROEUL O. 2",
+          "slug": "500866-marcq-en-baroeul-o-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500866.jpg"
+        },
+        {
+          "clNo": "796",
+          "nom": "LEERS OS",
+          "slug": "500982-leers-os",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500982.jpg"
+        },
+        {
+          "clNo": "20681",
+          "nom": "TOURCOING US",
+          "slug": "540645-tourcoing-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC540645.jpg"
+        },
+        {
+          "clNo": "889",
+          "nom": "LYS STELLA 2",
+          "slug": "501219-lys-stella-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501219.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "2",
+      "gpNo": "1",
+      "groupe_nom": null,
+      "nb_equipes": 5,
+      "equipes": [
+        {
+          "clNo": "12009",
+          "nom": "HEM O.",
+          "slug": "528194-hem-o",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC528194.jpg"
+        },
+        {
+          "clNo": "20681",
+          "nom": "TOURCOING US",
+          "slug": "540645-tourcoing-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC540645.jpg"
+        },
+        {
+          "clNo": "796",
+          "nom": "LEERS OS",
+          "slug": "500982-leers-os",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500982.jpg"
+        },
+        {
+          "clNo": "148561",
+          "nom": "BONDUES FC",
+          "slug": "554197-bondues-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554197.jpg"
+        },
+        {
+          "clNo": "473",
+          "nom": "PERENCHIES USF",
+          "slug": "500383-perenchies-usf",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500383.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "2",
+      "gpNo": "2",
+      "groupe_nom": null,
+      "nb_equipes": 6,
+      "equipes": [
+        {
+          "clNo": "722",
+          "nom": "MARCQ EN BAROEUL O.",
+          "slug": "500866-marcq-en-baroeul-o",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500866.jpg"
+        },
+        {
+          "clNo": "3961",
+          "nom": "LILLE LOUVIERE ESP",
+          "slug": "512174-lille-louviere-esp",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512174.jpg"
+        },
+        {
+          "clNo": "180443",
+          "nom": "VILLENEUVE D'ASCQ FF 2",
+          "slug": "780889-villeneuve-d-ascq-ff-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC780889.jpg"
+        },
+        {
+          "clNo": "511",
+          "nom": "LESQUIN US",
+          "slug": "500426-lesquin-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500426.jpg"
+        },
+        {
+          "clNo": "817",
+          "nom": "LINSELLES FC",
+          "slug": "501026-linselles-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501026.jpg"
+        },
+        {
+          "clNo": "172695",
+          "nom": "CROIX FIC",
+          "slug": "563663-croix-fic",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC563663.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "2",
+      "gpNo": "3",
+      "groupe_nom": null,
+      "nb_equipes": 5,
+      "equipes": [
+        {
+          "clNo": "10428",
+          "nom": "CAMPHIN PEVELE ECF",
+          "slug": "525816-camphin-pevele-ecf",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525816.jpg"
+        },
+        {
+          "clNo": "191623",
+          "nom": "ROUBAIX WERVICQ RCF",
+          "slug": "782535-roubaix-wervicq-rcf",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC782535.jpg"
+        },
+        {
+          "clNo": "4791",
+          "nom": "STEENVOORDE AS",
+          "slug": "515473-steenvoorde-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC515473.jpg"
+        },
+        {
+          "clNo": "889",
+          "nom": "LYS STELLA",
+          "slug": "501219-lys-stella",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501219.jpg"
+        },
+        {
+          "clNo": "3498",
+          "nom": "ERQUINGHEM LYS CS",
+          "slug": "509707-erquinghem-lys-cs",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC509707.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "2",
+      "gpNo": "4",
+      "groupe_nom": null,
+      "nb_equipes": 6,
+      "equipes": [
+        {
+          "clNo": "202121",
+          "nom": "TETEGHEM UXEM",
+          "slug": "564570-teteghem-uxem",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564570.jpg"
+        },
+        {
+          "clNo": "198944",
+          "nom": "LAMBERSART UF",
+          "slug": "560787-lambersart-uf",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560787.jpg"
+        },
+        {
+          "clNo": "767",
+          "nom": "SECLIN FC",
+          "slug": "500934-seclin-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500934.jpg"
+        },
+        {
+          "clNo": "889",
+          "nom": "LYS STELLA 2",
+          "slug": "501219-lys-stella-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501219.jpg"
+        },
+        {
+          "clNo": "191987",
+          "nom": "CAPPELLE L/GRANDE ES",
+          "slug": "582688-cappelle-l-grande-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582688.jpg"
+        },
+        {
+          "clNo": "384",
+          "nom": "HALLUIN UNION",
+          "slug": "500276-halluin-union",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500276.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "2",
+      "gpNo": "5",
+      "groupe_nom": null,
+      "nb_equipes": 6,
+      "equipes": [
+        {
+          "clNo": "180443",
+          "nom": "VILLENEUVE D'ASCQ FF",
+          "slug": "780889-villeneuve-d-ascq-ff",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC780889.jpg"
+        },
+        {
+          "clNo": "22478",
+          "nom": "TOURCOING BLANC SEAU",
+          "slug": "544171-tourcoing-blanc-seau",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC544171.jpg"
+        },
+        {
+          "clNo": "18262",
+          "nom": "SEQUEDIN OSM",
+          "slug": "537390-sequedin-osm",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC537390.jpg"
+        },
+        {
+          "clNo": "12640",
+          "nom": "LOOS LILLE OLIVEAUX",
+          "slug": "529117-loos-lille-oliveaux",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC529117.jpg"
+        },
+        {
+          "clNo": "827",
+          "nom": "ST ANDRE US",
+          "slug": "501048-st-andre-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501048.jpg"
+        },
+        {
+          "clNo": "248",
+          "nom": "RONCHIN US",
+          "slug": "500112-ronchin-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500112.jpg"
+        }
+      ]
+    }
+  ]
+}

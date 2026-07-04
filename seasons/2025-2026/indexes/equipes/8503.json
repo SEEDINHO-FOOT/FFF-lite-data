@@ -1,0 +1,87 @@
+{
+ "clNo": "8503",
+ "nom": "LOYAT GY",
+ "noms": [
+  "LOYAT GY"
+ ],
+ "competitions": [
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LOYAT GY",
+   "equipe_slug": "522894-loyat-gy",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GERAND FC 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTERLOT ELA",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440431",
+   "division": "Trophée Morbihan",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LOYAT GY",
+   "equipe_slug": "522894-loyat-gy",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GUILLIERS AV",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA SERENTAISE FOOT",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

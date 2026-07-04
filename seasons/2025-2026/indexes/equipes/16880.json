@@ -1,0 +1,1421 @@
+{
+ "clNo": "16880",
+ "nom": "FONTENILLES",
+ "noms": [
+  "ENT. FFC SLO",
+  "ENT. FFC SLO ",
+  "ENT. FFC SLO 2",
+  "ENT. FFC SLO 21",
+  "ENT. FFC SLO 22",
+  "FONTENILLES",
+  "FONTENILLES FC",
+  "FONTENILLES FC 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435840",
+   "division": "Senior Départemental 3 - 11teamsports",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FONTENILLES FC",
+   "equipe_slug": "535409-fontenilles-fc",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "VILLENEUVE TOL. AF",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ATHLETIC CLUB GARONA 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "J.S. PRADETTES 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "MURET RC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST ORENS FC 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "CORNEBARRIEU AO 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "QUINT FONSEGRIVES FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BRUGUIERES SC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA JAC FOOTBALL JEUN",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "VILLENEUVE TOL. AF",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ATHLETIC CLUB GARONA 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MURET RC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CORNEBARRIEU AO 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "J.S. PRADETTES 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BRUGUIERES SC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LA JAC FOOTBALL JEUN",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ST ORENS FC 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "QUINT FONSEGRIVES FC",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435842",
+   "division": "Senior Départemental 5 - 11teamsports",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FONTENILLES FC 2",
+   "equipe_slug": "535409-fontenilles-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "QUINT FONSEGRIVES FC 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BESSIERES BUZET FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RAMONVILLE COTEAUX 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "FRONTON US",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LABASTIDETTE US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "RIEUMES FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CONFLUENT LP 3",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MAHORAIS DE TOULOUSE 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BESSIERES BUZET FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RAMONVILLE COTEAUX 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FRONTON US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "E3M 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CONFLUENT LP 3",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "E3M 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LABASTIDETTE US",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "QUINT FONSEGRIVES FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-21",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "MAHORAIS DE TOULOUSE 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "RIEUMES FC",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436465",
+   "division": "U14 Territoire",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. FFC SLO 21",
+   "equipe_slug": "535409-ent-ffc-slo-21",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "TOURNEFEUILLE AS 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "T.O.A.C. 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CASTELGINEST US 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SEYSSES FROUZINS US 21",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "AUTERIVE SA 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436465",
+   "division": "U14 Territoire",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. FFC SLO",
+   "equipe_slug": "535409-ent-ffc-slo",
+   "matchs": [
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "E.F.C. DE LA VALLEE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BAGATELLE FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "POUVOURVILLE US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RANGUEIL FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436466",
+   "division": "Féminines Loisir à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Loisir",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FONTENILLES FC 2",
+   "equipe_slug": "535409-fontenilles-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-30",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "E.F.C. DE LA VALLEE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-08",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "F.C. MAS 31",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-14",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "GAGNAC ASC",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-23",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "SAVE ET GARONNE FC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ST LYS O",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CORNEBARRIEU",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-25",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "E3M",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-02",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "TLSE NORD FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-16",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "BRUGUIERES SC",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-14",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "CASTELGINEST US",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-20",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "F.C. MAS 31",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-26",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "GAGNAC ASC",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-03",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "SAVE ET GARONNE FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-13",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ST LYS O",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-17",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CORNEBARRIEU",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-19",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "E3M",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-08",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "TLSE NORD FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-21",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "BRUGUIERES SC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-12",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CASTELGINEST US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-08",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "E.F.C. DE LA VALLEE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447685",
+   "division": "U16 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. FFC SLO 21",
+   "equipe_slug": "535409-ent-ffc-slo-21",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "FLOURENS DREMIL LAF. 22",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ENT. NOE/LONGAGES 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "VILLENEUVE TOL. AF 21",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "LE FOUSSERET MONDAV. 22",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CASTELNAU EST. AS 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "FENOUILLET UA 21",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447685",
+   "division": "U16 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. FFC SLO",
+   "equipe_slug": "535409-ent-ffc-slo",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "CONFLUENT LP",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "VILLAUDRIC CIJ",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ENT. LIFC RCFC",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CINTEGABELLE JS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447693",
+   "division": "U15 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. FFC SLO",
+   "equipe_slug": "535409-ent-ffc-slo",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BOULOC ST SAU. CEP.",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "T.O.A.C.",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "FC MAS 31 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "L UNION ST JEAN FC 2",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "J.E.T. 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BLAGNAC FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "TLSE NORD FC",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HERSOISE AS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FONSORBES AV",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447698",
+   "division": "U14 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. FFC SLO 22",
+   "equipe_slug": "535409-ent-ffc-slo-22",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MURET RC 23",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAVE ET GARONNE FC 22",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "GARDOUCH OC 21",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LABASTIDETTE US 21",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "MONTRABE ACADEMIE 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447698",
+   "division": "U14 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. FFC SLO 2",
+   "equipe_slug": "535409-ent-ffc-slo-2",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "E3M",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "TLSE MONTAUDRAN FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "PLAISANCE DU TO. US 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "A.S.P.T.T GRAND TLSE",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448027",
+   "division": "U17 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. FFC SLO ",
+   "equipe_slug": "535409-ent-ffc-slo",
+   "matchs": [
+    {
+     "date": "2026-01-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BOSSOST UD",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "TOURNEFEUILLE AS",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PBA",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LA JAC FOOTBALL JEUN",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CASTELGINEST US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ENT. LMS USV",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MURET RC",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449071",
+   "division": "Féminines à 11 D2 CA Tlse 31",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FONTENILLES FC",
+   "equipe_slug": "535409-fontenilles-fc",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LANDORTHE EST. SAV.",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COMMINGES ST GAUDENS",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "J.E.T.",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A.AM. GRISOLLES",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COQUELICOTS MONTECHO",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "EAUNES LABARTHE FC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "T. F. COMPANS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436502",
+   "division": "Coupe du Conseil Départemental Nord",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FONTENILLES FC",
+   "equipe_slug": "535409-fontenilles-fc",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "L UNION ST JEAN FC 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AVIGNONET US",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "T. F. COMPANS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435443",
+   "division": "Coupe Occitanie Intersport Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FONTENILLES",
+   "equipe_slug": "535409-fontenilles",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "SAINT-ORENS F.C.",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "FONTENILLES",
+   "equipe_slug": "535409-fontenilles",
+   "matchs": [
+    {
+     "date": "2025-08-23",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CASTELNAU EST",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

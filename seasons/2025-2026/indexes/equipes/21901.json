@@ -1,0 +1,614 @@
+{
+ "clNo": "21901",
+ "nom": "FC DETENTE CHAMBOIS",
+ "noms": [
+  "FC DETENTE CHAMBOIS",
+  "FC DETENTE CHAMBOIS 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439292",
+   "division": "Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC DETENTE CHAMBOIS",
+   "equipe_slug": "542352-fc-detente-chambois",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAM FOOTBALL",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS GACEENNE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC DU PAYS AIGLON 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "US MELOISE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS COURTEILLE ALENCO",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FCH",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ES PAYS D'OUCHE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US THEILLOISE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US MORTAGNAISE 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ES ECOUVES",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS GACEENNE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US ALENCONNAISE 61 3",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "FC DU PAYS AIGLON 2",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US MELOISE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS COURTEILLE ALENCO",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FCH",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES PAYS D'OUCHE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US THEILLOISE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES ECOUVES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "US MORTAGNAISE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US ALENCONNAISE 61 3",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAM FOOTBALL",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439376",
+   "division": "Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC DETENTE CHAMBOIS 2",
+   "equipe_slug": "542352-fc-detente-chambois-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "AS GACEENNE 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VIMOUTIERS FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ES PAYS D'OUCHE 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SCO",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US MORTAGNAISE 4",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "VIMOUTIERS FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ES PAYS D'OUCHE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SCO",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS GACEENNE 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US MORTAGNAISE 4",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448199",
+   "division": "Départemental 5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC DETENTE CHAMBOIS 2",
+   "equipe_slug": "542352-fc-detente-chambois-2",
+   "matchs": [
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS MAGNY LE DESERT 3",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ENT.USMB 2 /RCH 2 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "TRUN FC 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC ECOUCHE 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS DES MONTS ANDAINE 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A. CHAILLOUE 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TRUN FC 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.USMB 2 /RCH 2 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC ECOUCHE 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "AS DES MONTS ANDAINE 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS MAGNY LE DESERT 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "A. CHAILLOUE 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440637",
+   "division": "Coupe C Départemental - J LEPROVOST",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC DETENTE CHAMBOIS",
+   "equipe_slug": "542352-fc-detente-chambois",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC CARROUGES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "T1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST PAUL MONTLIGEON",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446727",
+   "division": "Coupe LE BUISSON",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC DETENTE CHAMBOIS 2",
+   "equipe_slug": "542352-fc-detente-chambois-2",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SC DAMIGNY 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "OC BRIOUZE 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "FC DETENTE CHAMBOIS",
+   "equipe_slug": "542352-fc-detente-chambois",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS SARCEAUX ESPOIR",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "1er TOUR",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

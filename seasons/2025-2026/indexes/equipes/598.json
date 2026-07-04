@@ -1,0 +1,3403 @@
+{
+ "clNo": "598",
+ "nom": "AS FAUVILLAISE",
+ "noms": [
+  "AS FAUVILLAISE",
+  "AS FAUVILLAISE 2",
+  "AS FAUVILLAISE 21",
+  "AS FAUVILLAISE 22",
+  "AS FAUVILLAISE 3",
+  "AS FAUVILLAISE 4",
+  "AS FAUVILLAISE 41",
+  "AS FAUVILLAISE 5"
+ ],
+ "competitions": [
+  {
+   "cpNo": "438723",
+   "division": "RÉGIONAL 3",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAUX FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES DU MONT GAILLARD",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS DE MONTIVILLIERS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ESM GONFREVILLE 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CS SERV.MUN.LE HAVRE 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS OURVILLAISE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SC FRILEUSE",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CANY FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "HAVRE CAUCRIAUV S 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "OH TREFILERIE NEIGES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US DE BOLBEC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS DE MONTIVILLIERS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ESM GONFREVILLE 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CS SERV.MUN.LE HAVRE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS OURVILLAISE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES DU MONT GAILLARD",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SC FRILEUSE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CANY FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US DE BOLBEC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "OH TREFILERIE NEIGES",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HAVRE CAUCRIAUV S 2",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAUX FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440179",
+   "division": "COUPE DE NORMANDIE U18 - E2SE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 21",
+   "equipe_slug": "500544-as-fauvillaise-21",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS MESNIEROISE 21",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "1ER TOUR",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC DU NORD OUEST 21",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "2eme TOUR",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "O. DE DARNETAL 21",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "3eme TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440180",
+   "division": "COUPE DE NORMANDIE U15-ORANGE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "O. PAVILLAIS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1ER TOUR ",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CMS OISSEL",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "2eme TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444487",
+   "division": "BRASSAGES U17 F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U17",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 21",
+   "equipe_slug": "500544-as-fauvillaise-21",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "YVETOT AC 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ASL RAMPONNEAU FECAM 21",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US LILLEBONNAISE 21",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AS OURVILLAISE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "US LILLEBONNAISE 21",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "OLYMPIA'CAUX FOOTBAL 22",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AS OURVILLAISE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SC OCTEVILLE SUR MER 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CS SERV.MUN.LE HAVRE 21",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "US GODERVILLAISE 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "RC DU PORT DU HAVRE 37",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444488",
+   "division": "FESTIVAL FOOT U13 PITCH",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AS ST PIERRE VARENGE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "F LA BOUCLE DE SEINE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US DOUDEVILLAISE 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US YEBLERONNAISE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC FREVILLE BO.SIVOM",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AS SASSETOT THEROULD",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444488",
+   "division": "FESTIVAL FOOT U13 PITCH",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 2",
+   "equipe_slug": "500544-as-fauvillaise-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AS PETIVILLE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US YEBLERONNAISE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "RC NORMAND 2020",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC BARENTINOIS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CANY FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "YVETOT AC 6",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444488",
+   "division": "FESTIVAL FOOT U13 PITCH",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 3",
+   "equipe_slug": "500544-as-fauvillaise-3",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "YVETOT AC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC LE TRAIT DUCLAIR",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "E.MOTTEVILLE X MARE 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444489",
+   "division": "COUPE U13 DFSM",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 3",
+   "equipe_slug": "500544-as-fauvillaise-3",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "YERVILLE FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "E.MOTTEVILLE X MARE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FC FREVILLE BO.SIVOM",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "O. PAVILLAIS 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CANY FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "RC NORMAND 2020",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444498",
+   "division": "BRASSAGE U14F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 21",
+   "equipe_slug": "500544-as-fauvillaise-21",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "YERVILLE FC 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US LILLEBONNAISE 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FC BARENTINOIS 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ES JANVALAISE 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT.FCDIEPPE-EVSAANE 21",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US LILLEBONNAISE 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CAUX FC 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "O. PAVILLAIS 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "F LA BOUCLE DE SEINE 21",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC LE TRAIT DUCLAIR 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448256",
+   "division": "FESTIVAL PITCH U13F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 3",
+   "equipe_slug": "500544-as-fauvillaise-3",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "HAVRE AC",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US LILLEBONNAISE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ESM GONFREVILLE",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440932",
+   "division": "SENIORS APRES-MIDI D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 2",
+   "equipe_slug": "500544-as-fauvillaise-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAUX FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "YVETOT AC 3",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES INTERC ST ANTOINE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US DE LA PRESQU'ILE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS OURVILLAISE 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "USF FECAMP 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CANY FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS SASSETOT THEROULD",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ESPC ST GILLES ETAIN",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US DES FALAISES",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "YVETOT AC 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "STADE VALERIQUAIS",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US DE LA PRESQU'ILE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS OURVILLAISE 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "USF FECAMP 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ESPC ST GILLES ETAIN",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CANY FC 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STADE VALERIQUAIS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ES INTERC ST ANTOINE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS SASSETOT THEROULD",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US DES FALAISES",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAUX FC 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440933",
+   "division": "SENIORS APRES-MIDI D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 3",
+   "equipe_slug": "500544-as-fauvillaise-3",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CS GRAVENCHON 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC ROLLEVILLAIS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "YERVILLE FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE HAVRE S'PORT FOOT",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS STE ADRESSE BUT 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US YEBLERONNAISE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US ALLOUVILLE TROUVI",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LE HAVRE FC 2012 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ROGERVILLE FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC ROLLEVILLAIS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LE HAVRE S'PORT FOOT",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US YEBLERONNAISE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "YERVILLE FC 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROGERVILLE FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US ALLOUVILLE TROUVI",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS STE ADRESSE BUT 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE HAVRE FC 2012 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CS GRAVENCHON 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440937",
+   "division": "SENIORS MATIN D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 4",
+   "equipe_slug": "500544-as-fauvillaise-4",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "A. S. Côte d'albâtre 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AS DE LA FRENAYE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AS OURVILLAISE 3",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS LANQUETOT",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AS BEUZEVILLETTE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "US DES VALLEES",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "JS NOINTOTAISE",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "E.MOTTEVILLE X MARE 3",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS DE LA FRENAYE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AS LANQUETOT",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS BEUZEVILLETTE",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "US DES VALLEES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS OURVILLAISE 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "E.MOTTEVILLE X MARE 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "JS NOINTOTAISE",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-30",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "US STE MARIE CHAMPS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "US STE MARIE CHAMPS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "A. S. Côte d'albâtre 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440959",
+   "division": "U17 Féminine à 8 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U17",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 21",
+   "equipe_slug": "500544-as-fauvillaise-21",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AL DEVILLE MAROMME 21",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US LILLEBONNAISE 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440959",
+   "division": "U17 Féminine à 8 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U17",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AS OURVILLAISE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "YVETOT AC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "O. PAVILLAIS",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "OLYMPIA'CAUX FOOTBAL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440961",
+   "division": "U14 Féminin à 8 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U14",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 21",
+   "equipe_slug": "500544-as-fauvillaise-21",
+   "matchs": [
+    {
+     "date": "2026-03-04",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "YVETOT AC 21",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440961",
+   "division": "U14 Féminin à 8 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U14",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ESM GONFREVILLE",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "OLYMPIA'CAUX FOOTBAL",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US LILLEBONNAISE",
+     "score": "3-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CS SERV.MUN.LE HAVRE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "SC OCTEVILLE SUR MER",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ES DU MONT GAILLARD",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440990",
+   "division": "U18 DEPARTEMENTAL 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 21",
+   "equipe_slug": "500544-as-fauvillaise-21",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AC ST ROMAIN COLBOSC 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "US DE BOLBEC 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "USF FECAMP 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440990",
+   "division": "U18 DEPARTEMENTAL 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2026-04-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US EPOUVILLE 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AS DE MONTIVILLIERS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ESM GONFREVILLE 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SC OCTEVILLE SUR MER",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US LILLEBONNAISE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ES DU MONT GAILLARD 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440991",
+   "division": "U18 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 22",
+   "equipe_slug": "500544-as-fauvillaise-22",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GAINNEVILLE AC 21",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ENT.LOUV.USAT 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440991",
+   "division": "U18 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 2",
+   "equipe_slug": "500544-as-fauvillaise-2",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "USF FECAMP 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "FC GRUCHET LE VALASS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ENT. ESI/TAC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ENT.ALBATRE-OURVILLE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AS SASSETOT THEROULD",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ENT.JSN ASL",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441000",
+   "division": "U15 DÉPARTEMENTAL 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "FC OFFRANVILLAIS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "YVETOT AC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CANY FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "O. PAVILLAIS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "FALAISES DU TALOU",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "F LA BOUCLE DE SEINE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US LUNERAYSIENNE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GRPT US CRIEL EU FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ENT. HERICOURT CAUX ",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441001",
+   "division": "U15 DÉPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 2",
+   "equipe_slug": "500544-as-fauvillaise-2",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "RC NORMAND 2020",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "US DES FALAISES",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US DE BOLBEC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "US DOUDEVILLAISE 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FC GRUCHET LE VALASS",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "US GODERVILLAISE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AS SASSETOT THEROULD",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "USF FECAMP 2",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441001",
+   "division": "U15 DÉPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 3",
+   "equipe_slug": "500544-as-fauvillaise-3",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AS VALLEE DU DUN",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "E.MOTTEVILLE X MARE",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CANY FC 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "STADE VALERIQUAIS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CS GRAVENCHON 2",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US DOUDEVILLAISE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ENT. OURVILLE ALBATR",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US LILLEBONNAISE 2",
+     "score": "18-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "YVETOT AC 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441007",
+   "division": "U13 DEPARTEMENTAL 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 3",
+   "equipe_slug": "500544-as-fauvillaise-3",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AS OURVILLAISE 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US HERICOURT",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC BREAUTE BRETTEVIL 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US YEBLERONNAISE",
+     "score": "1-11",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT.ALBATRE GASEG ",
+     "score": "8-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CANY FC 3",
+     "score": "3-8",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441009",
+   "division": "U13 DÉPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 4",
+   "equipe_slug": "500544-as-fauvillaise-4",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US LILLEBONNAISE 6",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "SOLIDARITE S GOURNAY 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441009",
+   "division": "U13 DÉPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AC ST ROMAIN COLBOSC",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "YVETOT AC 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US DES FALAISES",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CANY FC",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AS SASSETOT THEROULD",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441010",
+   "division": "U13 DÉPARTEMENTAL 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 5",
+   "equipe_slug": "500544-as-fauvillaise-5",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC DIEPPE 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AS OURVILLAISE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441010",
+   "division": "U13 DÉPARTEMENTAL 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 2",
+   "equipe_slug": "500544-as-fauvillaise-2",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AJ CAULLE BOSC HARD",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ES PLATEAU FOUC.REAL",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CA LONGUEVILLAIS 2",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US LUNERAYSIENNE 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT. CAUX FC OUVILLE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443437",
+   "division": "championnat seniors féminin à 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAINT SEBASTIEN FOOT",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SC THIBERVILLE 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AC BRAY EST FORGES",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VATTEVILLE BROTONNE",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FUSC BOISGUILLAUME",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC NEUFCHATEL EN BR",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CMS OISSEL",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "AC BRAY EST FORGES",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "VATTEVILLE BROTONNE",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FUSC BOISGUILLAUME",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC NEUFCHATEL EN BR",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC SERQUIGNY NASSAND",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CMS OISSEL",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC BARENTINOIS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SC THIBERVILLE 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC BARENTINOIS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC SERQUIGNY NASSAND",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "SAINT SEBASTIEN FOOT",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446519",
+   "division": "U14 Féminin à 8 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U14",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 22",
+   "equipe_slug": "500544-as-fauvillaise-22",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US DES FALAISES 21",
+     "score": "13-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US EPOUVILLE 21",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446519",
+   "division": "U14 Féminin à 8 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U14",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 2",
+   "equipe_slug": "500544-as-fauvillaise-2",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "YERVILLE FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US GODERVILLAISE",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "US LILLEBONNAISE 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "OH TREFILERIE NEIGES",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447477",
+   "division": "COUPE U14F - PHASE 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "YVETOT AC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US DES FALAISES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US EPOUVILLE",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440947",
+   "division": "COUPE ANDRE CAILLOT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 3",
+   "equipe_slug": "500544-as-fauvillaise-3",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "A. S. Côte d'albâtre",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "SC OCTEVILLE SUR MER 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US GODERVILLAISE",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "1/8èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ISNEAUVILLE FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HARFLEUR FOOTBALL CL",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "1/2 finale",
+     "stade": null
+    },
+    {
+     "date": "2026-06-20",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "S DE GRAND QUEVILLY 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440948",
+   "division": "COUPE JEAN MERAULT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 2",
+   "equipe_slug": "500544-as-fauvillaise-2",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CANY FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GAINNEVILLE AC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440949",
+   "division": "COUPE ROBERT BALLUET",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 4",
+   "equipe_slug": "500544-as-fauvillaise-4",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "RC NORMAND 2020 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS DE MONTIVILLIERS 3",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440950",
+   "division": "COUPE VÉTÉRANS ANDRÉ STRAPPE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 41",
+   "equipe_slug": "500544-as-fauvillaise-41",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NEUVILLE AC 41",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440963",
+   "division": "Coupe U17F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "FALAISES DU TALOU",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "YVETOT AC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "OLYMPIA'CAUX FOOTBAL",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "1/2 finale",
+     "stade": null
+    },
+    {
+     "date": "2026-06-20",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "FUSC BOISGUILLAUME",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440964",
+   "division": "Coupe U14F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CS SERV.MUN.LE HAVRE",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440993",
+   "division": "COUPE U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE 22",
+   "equipe_slug": "500544-as-fauvillaise-22",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US LILLEBONNAISE 22",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441002",
+   "division": "COUPE U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CS GRAVENCHON",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AS SASSETOT THEROULD",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "1/16ème de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SC FRILEUSE",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "1/8èmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445984",
+   "division": "COUPE SENIORS FÉMININE À 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC NEUFCHATEL EN BR",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC BARENTINOIS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1/2 finale",
+     "stade": null
+    },
+    {
+     "date": "2026-06-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "FC SERQUIGNY NASSAND",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "AS FAUVILLAISE",
+   "equipe_slug": "500544-as-fauvillaise",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "S DE GRAND QUEVILLY",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "3eme TOUR",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,872 @@
+{
+  "season": "2025-2026",
+  "cpNo": "439662",
+  "nom": "U10 Niveau B",
+  "type": "championnat",
+  "scope": "regional",
+  "region": "HAUTS-DE-FRANCE",
+  "district": "DISTRICT ESCAUT",
+  "nb_equipes": 45,
+  "equipes": [
+    {
+      "clNo": "739",
+      "nom": "ANICHE SC 23",
+      "slug": "500892-aniche-sc-23",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500892.jpg"
+    },
+    {
+      "clNo": "856",
+      "nom": "AVESNES OC 30",
+      "slug": "501120-avesnes-oc-30",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501120.jpg"
+    },
+    {
+      "clNo": "23981",
+      "nom": "AVESNES S/HELPE FC96 21",
+      "slug": "546350-avesnes-s-helpe-fc96-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC546350.jpg"
+    },
+    {
+      "clNo": "490",
+      "nom": "BERLAIMONT US 21",
+      "slug": "500404-berlaimont-us-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500404.jpg"
+    },
+    {
+      "clNo": "116742",
+      "nom": "BRIASTRE US 30",
+      "slug": "551920-briastre-us-30",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551920.jpg"
+    },
+    {
+      "clNo": "13891",
+      "nom": "BRUILLE MARCHIENNES 21",
+      "slug": "530986-bruille-marchiennes-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC530986.jpg"
+    },
+    {
+      "clNo": "296",
+      "nom": "CAMBRAI AC 22",
+      "slug": "500165-cambrai-ac-22",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500165.jpg"
+    },
+    {
+      "clNo": "11662",
+      "nom": "CHATEAU L'ABBAYE AS 30",
+      "slug": "527667-chateau-l-abbaye-as-30",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC527667.jpg"
+    },
+    {
+      "clNo": "14829",
+      "nom": "CONDE INTER 21",
+      "slug": "532308-conde-inter-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC532308.jpg"
+    },
+    {
+      "clNo": "774",
+      "nom": "CORBEHEM US 21",
+      "slug": "500943-corbehem-us-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500943.jpg"
+    },
+    {
+      "clNo": "751",
+      "nom": "DECHY SPORTS 21",
+      "slug": "500911-dechy-sports-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500911.jpg"
+    },
+    {
+      "clNo": "9612",
+      "nom": "ENT.BERTRY WALINCOUR 21",
+      "slug": "524606-ent-bertry-walincour-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524606.jpg"
+    },
+    {
+      "clNo": "3831",
+      "nom": "ENT.COUTICHES/FLINES 21",
+      "slug": "511584-ent-coutiches-flines-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC511584.jpg"
+    },
+    {
+      "clNo": "148301",
+      "nom": "ERRE HORNAING US 30",
+      "slug": "554186-erre-hornaing-us-30",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554186.jpg"
+    },
+    {
+      "clNo": "23448",
+      "nom": "ESCAUTPONT AFC 30",
+      "slug": "545563-escautpont-afc-30",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC545563.jpg"
+    },
+    {
+      "clNo": "21502",
+      "nom": "FONTAINE AU BOIS FC 21",
+      "slug": "541746-fontaine-au-bois-fc-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC541746.jpg"
+    },
+    {
+      "clNo": "10339",
+      "nom": "FRAIS MARAIS US 21",
+      "slug": "525693-frais-marais-us-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525693.jpg"
+    },
+    {
+      "clNo": "869",
+      "nom": "GUESNAIN SC 21",
+      "slug": "501148-guesnain-sc-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501148.jpg"
+    },
+    {
+      "clNo": "534",
+      "nom": "HAUTMONT AS 21",
+      "slug": "500455-hautmont-as-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500455.jpg"
+    },
+    {
+      "clNo": "9468",
+      "nom": "HAVELUY JS 21",
+      "slug": "524394-haveluy-js-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524394.jpg"
+    },
+    {
+      "clNo": "7285",
+      "nom": "LA SENTINELLE IC 21",
+      "slug": "521012-la-sentinelle-ic-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC521012.jpg"
+    },
+    {
+      "clNo": "776",
+      "nom": "LEFOREST AEF 22",
+      "slug": "500946-leforest-aef-22",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500946.jpg"
+    },
+    {
+      "clNo": "9772",
+      "nom": "LIEU ST AMAND US 21",
+      "slug": "524885-lieu-st-amand-us-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524885.jpg"
+    },
+    {
+      "clNo": "6845",
+      "nom": "MARLY USM 23",
+      "slug": "520301-marly-usm-23",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520301.jpg"
+    },
+    {
+      "clNo": "191842",
+      "nom": "MARQUION SCO 21",
+      "slug": "582588-marquion-sco-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582588.jpg"
+    },
+    {
+      "clNo": "12151",
+      "nom": "MASNY FC 21",
+      "slug": "528383-masny-fc-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC528383.jpg"
+    },
+    {
+      "clNo": "16697",
+      "nom": "MAUBEUGE SC 21",
+      "slug": "535149-maubeuge-sc-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC535149.jpg"
+    },
+    {
+      "clNo": "3426",
+      "nom": "NEUVILLE OSC 21",
+      "slug": "509301-neuville-osc-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC509301.jpg"
+    },
+    {
+      "clNo": "10475",
+      "nom": "NEUVILLY AS 21",
+      "slug": "525881-neuvilly-as-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525881.jpg"
+    },
+    {
+      "clNo": "4127",
+      "nom": "ORCHIES STADE 21",
+      "slug": "512979-orchies-stade-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512979.jpg"
+    },
+    {
+      "clNo": "24973",
+      "nom": "PAILLENCOURT ESTRUN 21",
+      "slug": "547689-paillencourt-estrun-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC547689.jpg"
+    },
+    {
+      "clNo": "907",
+      "nom": "POIX DU NORD SPR 21",
+      "slug": "501275-poix-du-nord-spr-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501275.jpg"
+    },
+    {
+      "clNo": "860",
+      "nom": "PONT FLERS US 21",
+      "slug": "501126-pont-flers-us-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501126.jpg"
+    },
+    {
+      "clNo": "6707",
+      "nom": "QUAROUBLE FC 21",
+      "slug": "520072-quarouble-fc-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520072.jpg"
+    },
+    {
+      "clNo": "8347",
+      "nom": "RAIMBEAUCOURT US 21",
+      "slug": "522633-raimbeaucourt-us-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522633.jpg"
+    },
+    {
+      "clNo": "117420",
+      "nom": "ROUSIES COEUR SAMBRE 21",
+      "slug": "852191-rousies-coeur-sambre-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC852191.jpg"
+    },
+    {
+      "clNo": "26158",
+      "nom": "SIN LES EPIS 21",
+      "slug": "549411-sin-les-epis-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC549411.jpg"
+    },
+    {
+      "clNo": "17437",
+      "nom": "ST SAULVE FOOTBALL 21",
+      "slug": "536169-st-saulve-football-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC536169.jpg"
+    },
+    {
+      "clNo": "895",
+      "nom": "TRELON AS 21",
+      "slug": "501235-trelon-as-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501235.jpg"
+    },
+    {
+      "clNo": "859",
+      "nom": "TRITH ST LEGER CO 21",
+      "slug": "501125-trith-st-leger-co-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501125.jpg"
+    },
+    {
+      "clNo": "9188",
+      "nom": "VALENCIENNES SUMMER 21",
+      "slug": "523970-valenciennes-summer-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523970.jpg"
+    },
+    {
+      "clNo": "25496",
+      "nom": "VIEUX CONDE F. 22",
+      "slug": "548408-vieux-conde-f-22",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548408.jpg"
+    },
+    {
+      "clNo": "872",
+      "nom": "VILLERS OUTREAUX ES 30",
+      "slug": "501159-villers-outreaux-es-30",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501159.jpg"
+    },
+    {
+      "clNo": "852",
+      "nom": "WALLERS ARENBERG JO 21",
+      "slug": "501115-wallers-arenberg-jo-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501115.jpg"
+    },
+    {
+      "clNo": "761",
+      "nom": "WAZIERS USM 30",
+      "slug": "500927-waziers-usm-30",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500927.jpg"
+    }
+  ],
+  "par_groupe": [
+    {
+      "phNo": "1",
+      "gpNo": "1",
+      "groupe_nom": null,
+      "nb_equipes": 16,
+      "equipes": [
+        {
+          "clNo": "117420",
+          "nom": "ROUSIES COEUR SAMBRE 21",
+          "slug": "852191-rousies-coeur-sambre-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC852191.jpg"
+        },
+        {
+          "clNo": "907",
+          "nom": "POIX DU NORD SPR 21",
+          "slug": "501275-poix-du-nord-spr-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501275.jpg"
+        },
+        {
+          "clNo": "23981",
+          "nom": "AVESNES S/HELPE FC96 21",
+          "slug": "546350-avesnes-s-helpe-fc96-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC546350.jpg"
+        },
+        {
+          "clNo": "16697",
+          "nom": "MAUBEUGE SC 21",
+          "slug": "535149-maubeuge-sc-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC535149.jpg"
+        },
+        {
+          "clNo": "490",
+          "nom": "BERLAIMONT US 21",
+          "slug": "500404-berlaimont-us-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500404.jpg"
+        },
+        {
+          "clNo": "21502",
+          "nom": "FONTAINE AU BOIS FC 21",
+          "slug": "541746-fontaine-au-bois-fc-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC541746.jpg"
+        },
+        {
+          "clNo": "534",
+          "nom": "HAUTMONT AS 21",
+          "slug": "500455-hautmont-as-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500455.jpg"
+        },
+        {
+          "clNo": "895",
+          "nom": "TRELON AS 21",
+          "slug": "501235-trelon-as-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501235.jpg"
+        },
+        {
+          "clNo": "21502",
+          "nom": "FONTAINE AU BOIS FC",
+          "slug": "541746-fontaine-au-bois-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC541746.jpg"
+        },
+        {
+          "clNo": "907",
+          "nom": "POIX DU NORD SPR",
+          "slug": "501275-poix-du-nord-spr",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501275.jpg"
+        },
+        {
+          "clNo": "895",
+          "nom": "TRELON AS",
+          "slug": "501235-trelon-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501235.jpg"
+        },
+        {
+          "clNo": "16697",
+          "nom": "MAUBEUGE SC",
+          "slug": "535149-maubeuge-sc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC535149.jpg"
+        },
+        {
+          "clNo": "490",
+          "nom": "BERLAIMONT US",
+          "slug": "500404-berlaimont-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500404.jpg"
+        },
+        {
+          "clNo": "23981",
+          "nom": "AVESNES S/HELPE FC96",
+          "slug": "546350-avesnes-s-helpe-fc96",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC546350.jpg"
+        },
+        {
+          "clNo": "534",
+          "nom": "HAUTMONT AS",
+          "slug": "500455-hautmont-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500455.jpg"
+        },
+        {
+          "clNo": "117420",
+          "nom": "ROUSIES COEUR SAMBRE",
+          "slug": "852191-rousies-coeur-sambre",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC852191.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "2",
+      "groupe_nom": null,
+      "nb_equipes": 16,
+      "equipes": [
+        {
+          "clNo": "856",
+          "nom": "AVESNES OC 30",
+          "slug": "501120-avesnes-oc-30",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501120.jpg"
+        },
+        {
+          "clNo": "116742",
+          "nom": "BRIASTRE US 30",
+          "slug": "551920-briastre-us-30",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551920.jpg"
+        },
+        {
+          "clNo": "10475",
+          "nom": "NEUVILLY AS 21",
+          "slug": "525881-neuvilly-as-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525881.jpg"
+        },
+        {
+          "clNo": "872",
+          "nom": "VILLERS OUTREAUX ES 30",
+          "slug": "501159-villers-outreaux-es-30",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501159.jpg"
+        },
+        {
+          "clNo": "9612",
+          "nom": "ENT.BERTRY WALINCOUR 21",
+          "slug": "524606-ent-bertry-walincour-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524606.jpg"
+        },
+        {
+          "clNo": "296",
+          "nom": "CAMBRAI AC 22",
+          "slug": "500165-cambrai-ac-22",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500165.jpg"
+        },
+        {
+          "clNo": "24973",
+          "nom": "PAILLENCOURT ESTRUN 21",
+          "slug": "547689-paillencourt-estrun-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC547689.jpg"
+        },
+        {
+          "clNo": "191842",
+          "nom": "MARQUION SCO 21",
+          "slug": "582588-marquion-sco-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582588.jpg"
+        },
+        {
+          "clNo": "9612",
+          "nom": "ENT.BERTRY WALINCOUR",
+          "slug": "524606-ent-bertry-walincour",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524606.jpg"
+        },
+        {
+          "clNo": "856",
+          "nom": "AVESNES OC 10",
+          "slug": "501120-avesnes-oc-10",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501120.jpg"
+        },
+        {
+          "clNo": "296",
+          "nom": "CAMBRAI AC 2",
+          "slug": "500165-cambrai-ac-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500165.jpg"
+        },
+        {
+          "clNo": "191842",
+          "nom": "MARQUION SCO",
+          "slug": "582588-marquion-sco",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582588.jpg"
+        },
+        {
+          "clNo": "10475",
+          "nom": "NEUVILLY AS",
+          "slug": "525881-neuvilly-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525881.jpg"
+        },
+        {
+          "clNo": "24973",
+          "nom": "PAILLENCOURT ESTRUN",
+          "slug": "547689-paillencourt-estrun",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC547689.jpg"
+        },
+        {
+          "clNo": "872",
+          "nom": "VILLERS OUTREAUX ES 10",
+          "slug": "501159-villers-outreaux-es-10",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501159.jpg"
+        },
+        {
+          "clNo": "116742",
+          "nom": "BRIASTRE US 10",
+          "slug": "551920-briastre-us-10",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551920.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "3",
+      "groupe_nom": null,
+      "nb_equipes": 14,
+      "equipes": [
+        {
+          "clNo": "148301",
+          "nom": "ERRE HORNAING US 30",
+          "slug": "554186-erre-hornaing-us-30",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554186.jpg"
+        },
+        {
+          "clNo": "4127",
+          "nom": "ORCHIES STADE 21",
+          "slug": "512979-orchies-stade-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512979.jpg"
+        },
+        {
+          "clNo": "869",
+          "nom": "GUESNAIN SC 21",
+          "slug": "501148-guesnain-sc-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501148.jpg"
+        },
+        {
+          "clNo": "751",
+          "nom": "DECHY SPORTS 21",
+          "slug": "500911-dechy-sports-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500911.jpg"
+        },
+        {
+          "clNo": "776",
+          "nom": "LEFOREST AEF 22",
+          "slug": "500946-leforest-aef-22",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500946.jpg"
+        },
+        {
+          "clNo": "8347",
+          "nom": "RAIMBEAUCOURT US 21",
+          "slug": "522633-raimbeaucourt-us-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522633.jpg"
+        },
+        {
+          "clNo": "774",
+          "nom": "CORBEHEM US 21",
+          "slug": "500943-corbehem-us-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500943.jpg"
+        },
+        {
+          "clNo": "751",
+          "nom": "DECHY SPORTS",
+          "slug": "500911-dechy-sports",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500911.jpg"
+        },
+        {
+          "clNo": "4127",
+          "nom": "ORCHIES STADE",
+          "slug": "512979-orchies-stade",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512979.jpg"
+        },
+        {
+          "clNo": "8347",
+          "nom": "RAIMBEAUCOURT US",
+          "slug": "522633-raimbeaucourt-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522633.jpg"
+        },
+        {
+          "clNo": "774",
+          "nom": "CORBEHEM US",
+          "slug": "500943-corbehem-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500943.jpg"
+        },
+        {
+          "clNo": "776",
+          "nom": "LEFOREST AEF 2",
+          "slug": "500946-leforest-aef-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500946.jpg"
+        },
+        {
+          "clNo": "148301",
+          "nom": "ERRE HORNAING US 10",
+          "slug": "554186-erre-hornaing-us-10",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554186.jpg"
+        },
+        {
+          "clNo": "869",
+          "nom": "GUESNAIN SC",
+          "slug": "501148-guesnain-sc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501148.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "4",
+      "groupe_nom": null,
+      "nb_equipes": 14,
+      "equipes": [
+        {
+          "clNo": "761",
+          "nom": "WAZIERS USM 30",
+          "slug": "500927-waziers-usm-30",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500927.jpg"
+        },
+        {
+          "clNo": "860",
+          "nom": "PONT FLERS US 21",
+          "slug": "501126-pont-flers-us-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501126.jpg"
+        },
+        {
+          "clNo": "26158",
+          "nom": "SIN LES EPIS 21",
+          "slug": "549411-sin-les-epis-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC549411.jpg"
+        },
+        {
+          "clNo": "10339",
+          "nom": "FRAIS MARAIS US 21",
+          "slug": "525693-frais-marais-us-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525693.jpg"
+        },
+        {
+          "clNo": "12151",
+          "nom": "MASNY FC 21",
+          "slug": "528383-masny-fc-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC528383.jpg"
+        },
+        {
+          "clNo": "13891",
+          "nom": "BRUILLE MARCHIENNES 21",
+          "slug": "530986-bruille-marchiennes-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC530986.jpg"
+        },
+        {
+          "clNo": "3831",
+          "nom": "ENT.COUTICHES/FLINES 21",
+          "slug": "511584-ent-coutiches-flines-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC511584.jpg"
+        },
+        {
+          "clNo": "10339",
+          "nom": "FRAIS MARAIS US",
+          "slug": "525693-frais-marais-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525693.jpg"
+        },
+        {
+          "clNo": "860",
+          "nom": "PONT FLERS US",
+          "slug": "501126-pont-flers-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501126.jpg"
+        },
+        {
+          "clNo": "12151",
+          "nom": "MASNY FC",
+          "slug": "528383-masny-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC528383.jpg"
+        },
+        {
+          "clNo": "13891",
+          "nom": "BRUILLE MARCHIENNES",
+          "slug": "530986-bruille-marchiennes",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC530986.jpg"
+        },
+        {
+          "clNo": "3831",
+          "nom": "ENT.COUTICHES/FLINES",
+          "slug": "511584-ent-coutiches-flines",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC511584.jpg"
+        },
+        {
+          "clNo": "761",
+          "nom": "WAZIERS USM 10",
+          "slug": "500927-waziers-usm-10",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500927.jpg"
+        },
+        {
+          "clNo": "26158",
+          "nom": "SIN LES EPIS",
+          "slug": "549411-sin-les-epis",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC549411.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "5",
+      "groupe_nom": null,
+      "nb_equipes": 14,
+      "equipes": [
+        {
+          "clNo": "9772",
+          "nom": "LIEU ST AMAND US 21",
+          "slug": "524885-lieu-st-amand-us-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524885.jpg"
+        },
+        {
+          "clNo": "852",
+          "nom": "WALLERS ARENBERG JO 21",
+          "slug": "501115-wallers-arenberg-jo-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501115.jpg"
+        },
+        {
+          "clNo": "11662",
+          "nom": "CHATEAU L'ABBAYE AS 30",
+          "slug": "527667-chateau-l-abbaye-as-30",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC527667.jpg"
+        },
+        {
+          "clNo": "6707",
+          "nom": "QUAROUBLE FC 21",
+          "slug": "520072-quarouble-fc-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520072.jpg"
+        },
+        {
+          "clNo": "859",
+          "nom": "TRITH ST LEGER CO 21",
+          "slug": "501125-trith-st-leger-co-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501125.jpg"
+        },
+        {
+          "clNo": "6845",
+          "nom": "MARLY USM 23",
+          "slug": "520301-marly-usm-23",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520301.jpg"
+        },
+        {
+          "clNo": "9188",
+          "nom": "VALENCIENNES SUMMER 21",
+          "slug": "523970-valenciennes-summer-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523970.jpg"
+        },
+        {
+          "clNo": "9772",
+          "nom": "LIEU ST AMAND US",
+          "slug": "524885-lieu-st-amand-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524885.jpg"
+        },
+        {
+          "clNo": "11662",
+          "nom": "CHATEAU L'ABBAYE AS 10",
+          "slug": "527667-chateau-l-abbaye-as-10",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC527667.jpg"
+        },
+        {
+          "clNo": "859",
+          "nom": "TRITH ST LEGER CO",
+          "slug": "501125-trith-st-leger-co",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501125.jpg"
+        },
+        {
+          "clNo": "9188",
+          "nom": "VALENCIENNES SUMMER",
+          "slug": "523970-valenciennes-summer",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523970.jpg"
+        },
+        {
+          "clNo": "6845",
+          "nom": "MARLY USM 3",
+          "slug": "520301-marly-usm-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520301.jpg"
+        },
+        {
+          "clNo": "6707",
+          "nom": "QUAROUBLE FC",
+          "slug": "520072-quarouble-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520072.jpg"
+        },
+        {
+          "clNo": "852",
+          "nom": "WALLERS ARENBERG JO",
+          "slug": "501115-wallers-arenberg-jo",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501115.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "6",
+      "groupe_nom": null,
+      "nb_equipes": 16,
+      "equipes": [
+        {
+          "clNo": "25496",
+          "nom": "VIEUX CONDE F. 22",
+          "slug": "548408-vieux-conde-f-22",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548408.jpg"
+        },
+        {
+          "clNo": "17437",
+          "nom": "ST SAULVE FOOTBALL 21",
+          "slug": "536169-st-saulve-football-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC536169.jpg"
+        },
+        {
+          "clNo": "23448",
+          "nom": "ESCAUTPONT AFC 30",
+          "slug": "545563-escautpont-afc-30",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC545563.jpg"
+        },
+        {
+          "clNo": "3426",
+          "nom": "NEUVILLE OSC 21",
+          "slug": "509301-neuville-osc-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC509301.jpg"
+        },
+        {
+          "clNo": "9468",
+          "nom": "HAVELUY JS 21",
+          "slug": "524394-haveluy-js-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524394.jpg"
+        },
+        {
+          "clNo": "14829",
+          "nom": "CONDE INTER 21",
+          "slug": "532308-conde-inter-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC532308.jpg"
+        },
+        {
+          "clNo": "739",
+          "nom": "ANICHE SC 23",
+          "slug": "500892-aniche-sc-23",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500892.jpg"
+        },
+        {
+          "clNo": "7285",
+          "nom": "LA SENTINELLE IC 21",
+          "slug": "521012-la-sentinelle-ic-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC521012.jpg"
+        },
+        {
+          "clNo": "14829",
+          "nom": "CONDE INTER",
+          "slug": "532308-conde-inter",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC532308.jpg"
+        },
+        {
+          "clNo": "7285",
+          "nom": "LA SENTINELLE IC",
+          "slug": "521012-la-sentinelle-ic",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC521012.jpg"
+        },
+        {
+          "clNo": "17437",
+          "nom": "ST SAULVE FOOTBALL",
+          "slug": "536169-st-saulve-football",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC536169.jpg"
+        },
+        {
+          "clNo": "3426",
+          "nom": "NEUVILLE OSC",
+          "slug": "509301-neuville-osc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC509301.jpg"
+        },
+        {
+          "clNo": "25496",
+          "nom": "VIEUX CONDE F. 2",
+          "slug": "548408-vieux-conde-f-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548408.jpg"
+        },
+        {
+          "clNo": "739",
+          "nom": "ANICHE SC 3",
+          "slug": "500892-aniche-sc-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500892.jpg"
+        },
+        {
+          "clNo": "9468",
+          "nom": "HAVELUY JS",
+          "slug": "524394-haveluy-js",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524394.jpg"
+        },
+        {
+          "clNo": "23448",
+          "nom": "ESCAUTPONT AFC 10",
+          "slug": "545563-escautpont-afc-10",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC545563.jpg"
+        }
+      ]
+    }
+  ]
+}

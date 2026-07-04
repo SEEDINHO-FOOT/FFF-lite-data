@@ -1,0 +1,545 @@
+{
+ "clNo": "7094",
+ "nom": "INGRANDES ENT",
+ "noms": [
+  "INGRANDES ENT",
+  "INGRANDES SHOOT"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440713",
+   "division": "Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "INGRANDES SHOOT",
+   "equipe_slug": "520708-ingrandes-shoot",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ST NICOLAS BOURGUEIL 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS SAVIGNEEN FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHOUZE SUR LOIRE FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LIGNIERES ENT 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VALLEE DU LYS ASVL",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PAYS LANGEAISIEN FC 3",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AVOINE O. CHINON C. 4",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST BENOIT HUISMES F 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHOUZE SUR LOIRE FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BOURGUEIL ES 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS SAVIGNEEN FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LIGNIERES ENT 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "VALLEE DU LYS ASVL",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "VERON FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS LANGEAISIEN FC 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AVOINE O. CHINON C. 4",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VERON FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOURGUEIL ES 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST NICOLAS BOURGUEIL 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ST BENOIT HUISMES F 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441844",
+   "division": "Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "INGRANDES ENT",
+   "equipe_slug": "520708-ingrandes-ent",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "STE MAURE MAILLE FC",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "SOUVIGNE VILLIER LAU",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-24",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "RACAN ENT",
+     "score": "12-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT. FSBH-FC VERON",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "AMBOISE AC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "MEMBROL METTRAY FC2M",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "RICHE RACING 2",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SOUVIGNE VILLIER LAU",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "VERETZ-AZAY-LARC ENT",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "RACAN ENT",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ENT. FSBH-FC VERON",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "AMBOISE AC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MEMBROL METTRAY FC2M",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "VERETZ-AZAY-LARC ENT",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "RICHE RACING 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "STE MAURE MAILLE FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441507",
+   "division": "Challenge D4 - R2 ENERGIE ECLAIRER",
+   "niveau": "Départemental",
+   "echelon": "R2",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "INGRANDES SHOOT",
+   "equipe_slug": "520708-ingrandes-shoot",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST ANTOINE DU ROCHER 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "VAL DE VEUDE ES 3",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "TOURS TURK F",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445953",
+   "division": "Coupe Féminine à  8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "INGRANDES ENT",
+   "equipe_slug": "520708-ingrandes-ent",
+   "matchs": [
+    {
+     "date": "2025-11-23",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "VERETZ-AZAY-LARC ENT",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SOUVIGNE VILLIER LAU",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FONDETTES ENT",
+     "score": "14-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT. FSBH-FC VERON",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448208",
+   "division": "Challenge D4 - R2 Energie Eclairer - P2",
+   "niveau": "Départemental",
+   "echelon": "R2",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "INGRANDES SHOOT",
+   "equipe_slug": "520708-ingrandes-shoot",
+   "matchs": [
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TOURS TURK F",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "1er Tour - Barrage",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

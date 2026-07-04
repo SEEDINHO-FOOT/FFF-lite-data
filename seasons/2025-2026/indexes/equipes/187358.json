@@ -1,0 +1,852 @@
+{
+ "clNo": "187358",
+ "nom": "PONT A VENDIN FUTSAL",
+ "noms": [
+  "PONT A VENDIN FUTSAL",
+  "PONT A VENDIN FUTSAL 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "442828",
+   "division": "Futsal Régional 2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "PONT A VENDIN FUTSAL",
+   "equipe_slug": "581988-pont-a-vendin-futsal",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE FUTSAL",
+     "score": "7-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "DOULLENS CSA",
+     "score": "13-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AMIENS FUTSAL MARIV. 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "SAINT SAULVE O.",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "CAGNY ES",
+     "score": "10-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "MONTATAIRE US",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "LA BASSEE FUTSAL AS 2",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "NOGENT SUR OISE US",
+     "score": "5-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE PETIT TERRAIN",
+     "score": "14-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DOULLENS CSA",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AMIENS FUTSAL MARIV. 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "SAINT SAULVE O.",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "LILLE PETIT TERRAIN",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "NOGENT SUR OISE US",
+     "score": "8-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "CAGNY ES",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LA BASSEE FUTSAL AS 2",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "MONTATAIRE US",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "LILLE FUTSAL",
+     "score": "9-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442841",
+   "division": "Interdistricts Futsal Niveau 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "PONT A VENDIN FUTSAL 2",
+   "equipe_slug": "581988-pont-a-vendin-futsal-2",
+   "matchs": [
+    {
+     "date": "2025-10-02",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BEUVRY TIGERS LFC",
+     "score": "6-9",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-24",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FESTUBERT MELTING S.",
+     "score": "7-11",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-30",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LENS FUTSAL",
+     "score": "12-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-14",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "NOEUX L/MINES FUTSAL",
+     "score": "5-9",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-20",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "PONT DEULE FUTSAL 2",
+     "score": "9-13",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-03",
+     "heure": "21:15",
+     "domicile": false,
+     "adversaire": "BETHUNE ESSARS FUT 3",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-18",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "DOULLENS CSA 2",
+     "score": "18-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-15",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "PERONNE FUTSAL C. 2",
+     "score": "8-10",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-22",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "VIMY US",
+     "score": "11-10",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-26",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ARRAS SIMBA FUTSAL",
+     "score": "7-11",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-05",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FESTUBERT MELTING S.",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-12",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "GRENAY FUTSAL 2",
+     "score": "2-25",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-18",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LENS FUTSAL",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-26",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "NOEUX L/MINES FUTSAL",
+     "score": "6-8",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-04",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "PONT DEULE FUTSAL 2",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-19",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BETHUNE ESSARS FUT 3",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-23",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "DOULLENS CSA 2",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-09",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "GRENAY FUTSAL 2",
+     "score": "41-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-16",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "PERONNE FUTSAL C. 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-20",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "VIMY US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ARRAS SIMBA FUTSAL",
+     "score": "10-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "BEUVRY TIGERS LFC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448992",
+   "division": "Challenge U13 Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "PONT A VENDIN FUTSAL",
+   "equipe_slug": "581988-pont-a-vendin-futsal",
+   "matchs": [
+    {
+     "date": "2026-03-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BETHUNE ESSARS FUT",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LOMME DELIVRANCE SR",
+     "score": "18-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "DOULLENS CSA",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CALAIS LJ BEAU MARAI",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "WIMEREUX FUTSAL",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443347",
+   "division": "Coupe Hauts-de-France Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "PONT A VENDIN FUTSAL",
+   "equipe_slug": "581988-pont-a-vendin-futsal",
+   "matchs": [
+    {
+     "date": "2025-11-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "GRENAY FUTSAL",
+     "score": "35-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "LILLE VAUBAN ESQUERM",
+     "score": "2-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "AS AVION FUTSAL 2",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445697",
+   "division": "FUTSAL U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "PONT A VENDIN FUTSAL",
+   "equipe_slug": "581988-pont-a-vendin-futsal",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LA BASSEE FUTSAL AS",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "BETHUNE ESSARS FUT",
+     "score": "12-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AS AVION FUTSAL",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BETHUNE ESSARS FUT 2",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LIBERCOURT AFC",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LA BASSEE FUTSAL AS 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "NOYELLES GODAULT FUT",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GRENAY FUTSAL",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERICOURT FUTSAL A.",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445697",
+   "division": "FUTSAL U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "PONT A VENDIN FUTSAL 2",
+   "equipe_slug": "581988-pont-a-vendin-futsal-2",
+   "matchs": [
+    {
+     "date": "2026-03-15",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "AS AVION FUTSAL",
+     "score": "1-11",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "BETHUNE ESSARS FUT 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GRENAY FUTSAL",
+     "score": "18-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LA BASSEE FUTSAL AS",
+     "score": "12-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LA BASSEE FUTSAL AS 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NOYELLES GODAULT FUT",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-02",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "MERICOURT FUTSAL A. 2",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440536",
+   "division": "Coupe ARTOIS FUTSAL",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "PONT A VENDIN FUTSAL",
+   "equipe_slug": "581988-pont-a-vendin-futsal",
+   "matchs": [
+    {
+     "date": "2026-05-02",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "BEUVRY TIGERS LFC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "WFS",
+     "score": "5-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LA BASSEE FUTSAL AS 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435169",
+   "division": "Coupe Nationale Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "PONT A VENDIN FUTSAL",
+   "equipe_slug": "581988-pont-a-vendin-futsal",
+   "matchs": [
+    {
+     "date": "2025-10-07",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST VENANT F.",
+     "score": "6-19",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-16",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "DOUCHY FUTSAL",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

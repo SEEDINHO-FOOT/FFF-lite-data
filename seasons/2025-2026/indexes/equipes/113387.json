@@ -1,0 +1,822 @@
+{
+ "clNo": "113387",
+ "nom": "VALLEE ECHELLE GJ",
+ "noms": [
+  "VALLEE ECHELLE GJ"
+ ],
+ "competitions": [
+  {
+   "cpNo": "441132",
+   "division": "U17 BRASSAGE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "VALLEE ECHELLE GJ",
+   "equipe_slug": "551602-vallee-echelle-gj",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LA ROCHE-RIVIERES FC 2",
+     "score": "2-17",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ ETC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.MONTBRON BANDIAT",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.BRIE_CHAMPNIERS",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HAUTE CHARENTE FC",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ ETC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.BRIE_CHAMPNIERS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA ROCHE-RIVIERES FC 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-17",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ENT.MONTBRON BANDIAT",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HAUTE CHARENTE FC",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.VERDILLE.BEAUVAI",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ ETC 2",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SOYAUX AS",
+     "score": "8-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHATEAUBERNARD SL",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ENT.VERDILLE.BEAUVAI",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ ETC 2",
+     "score": "11-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SOYAUX AS",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHATEAUBERNARD SL",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ALLIANCE FOOT 3B",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ALLIANCE FOOT 3B",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441135",
+   "division": "U15 Brassage",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "VALLEE ECHELLE GJ",
+   "equipe_slug": "551602-vallee-echelle-gj",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MORNAC ES 2",
+     "score": "1-11",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "AGRIS SC",
+     "score": "15-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHASSENEUIL 16 US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. BANDIA_MONTB_BX",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "RUELLE OFC",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AGRIS SC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RUELLE OFC",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MORNAC ES 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CHASSENEUIL 16 US",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. BANDIA_MONTB_BX",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CHASSENEUIL 16 US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERPINS AS",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ M2CR 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ LINARS NER FLEAC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHASSENEUIL 16 US",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MERPINS AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ M2CR 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ LINARS NER FLEAC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LAC 16 GJ 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LAC 16 GJ 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441141",
+   "division": "U13 NIVEAU 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "VALLEE ECHELLE GJ",
+   "equipe_slug": "551602-vallee-echelle-gj",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GJ M2CR 4",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PUYMOYEN AS 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ENT. BOUEX_BANDIAT",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MORNAC ES 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ M2CR 4",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MORNAC ES 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PUYMOYEN AS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. BOUEX_BANDIAT",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ANGOULEME BASSEAU JS 3",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ANGOULEME BASSEAU JS 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447665",
+   "division": "U13 Brassage",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "VALLEE ECHELLE GJ",
+   "equipe_slug": "551602-vallee-echelle-gj",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MORNAC ES 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ FIN BOIS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MONTMOREAU AJ",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA COURONNE CO",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MORNAC ES 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ FIN BOIS",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "MONTMOREAU AJ",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LA COURONNE CO",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GJ M2CR 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "GJ M2CR 2",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445872",
+   "division": "COUPE U13 - Super U - ROLAND DUQUEROIX",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "VALLEE ECHELLE GJ",
+   "equipe_slug": "551602-vallee-echelle-gj",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "J.S. DES TROIS VALLE",
+     "score": "14-0",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "AIGRE AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "16eme de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SOYAUX AS",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "8eme de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LAC 16 GJ",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "RUFFECOIS STADE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1/2 finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446073",
+   "division": "COUPE U15 - Super U - S DELAVAUD",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "VALLEE ECHELLE GJ",
+   "equipe_slug": "551602-vallee-echelle-gj",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ FIN BOIS",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ LINARS NER FLEAC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446251",
+   "division": "COUPE U17 - Super U - M PIAT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "VALLEE ECHELLE GJ",
+   "equipe_slug": "551602-vallee-echelle-gj",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ LINARS NERS FLEAC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,634 @@
+{
+ "clNo": "190142",
+ "nom": "MERIDIENNE D'OLT F.C",
+ "noms": [
+  "MERIDIENNE D'OLT F.C",
+  "MERIDIENNE D'OLT F.C 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439007",
+   "division": "D2 SENIORS Florian SALABERT",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MERIDIENNE D'OLT F.C",
+   "equipe_slug": "582419-meridienne-d-olt-f-c",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "OUEST AVEYRON FT 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "U.S. LAISSAC BERTHOL",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "UNION DES 3 VALLEES",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COMBES ES",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US MONTBAZENS RIGNAC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOUSSAC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C. SOURCES DE L'AV 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ARGENCE VIADENE",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "MOYRAZES",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FOOT SEGALA RIEUPEYR",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "U.S. PAYS ALZUREEN",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "UNION DES 3 VALLEES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-06",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "US MONTBAZENS RIGNAC 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. LAISSAC BERTHOL",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOUSSAC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "F.C. SOURCES DE L'AV 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COMBES ES",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ARGENCE VIADENE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MOYRAZES",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "FOOT SEGALA RIEUPEYR",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. PAYS ALZUREEN",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "OUEST AVEYRON FT 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439009",
+   "division": "D4 SENIORS U EXPRESS RIGNAC",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MERIDIENNE D'OLT F.C 2",
+   "equipe_slug": "582419-meridienne-d-olt-f-c-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "J.S. BASSIN AVEYRON 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PENCHOT/LIV. 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US SAINTE CROIX",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "AS LUSITANIENE",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ES DES RIVES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "GALGAN",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COMBES ES 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "VABRE TIZAC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "U.S. PAYS ALZUREEN 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS LUSITANIENE",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ES DES RIVES",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "FOOT ROUERGUE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GALGAN",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "COMBES ES 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-03",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PENCHOT/LIV. 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US SAINTE CROIX",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VABRE TIZAC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "U.S. PAYS ALZUREEN 2",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FOOT ROUERGUE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-15",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "J.S. BASSIN AVEYRON 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439001",
+   "division": "COUPE DE L'AVEYRON GROUPAMA SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MERIDIENNE D'OLT F.C",
+   "equipe_slug": "582419-meridienne-d-olt-f-c",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VABRES L'AB.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "VILLEFRAN. ST",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "1/16e de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "A.S. D''AGUESSAC",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439002",
+   "division": "COUPE DES RESERVES BRALEY SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MERIDIENNE D'OLT F.C 2",
+   "equipe_slug": "582419-meridienne-d-olt-f-c-2",
+   "matchs": [
+    {
+     "date": "2025-10-25",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ENT. SALLES CURAN 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "CADRAGE",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "UNION DES 3 VALLEES 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1/16e de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "F.C. COMTAL 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "1/8e de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435443",
+   "division": "Coupe Occitanie Intersport Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MERIDIENNE D'OLT F.C",
+   "equipe_slug": "582419-meridienne-d-olt-f-c",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "VILLEFRAN. ST",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "CADRAGE 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "MERIDIENNE D'OLT F.C",
+   "equipe_slug": "582419-meridienne-d-olt-f-c",
+   "matchs": [
+    {
+     "date": "2025-08-23",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "PENCHOT/LIV.",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-30",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "REQUISTA US",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

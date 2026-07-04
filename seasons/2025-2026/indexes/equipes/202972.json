@@ -1,0 +1,634 @@
+{
+ "clNo": "202972",
+ "nom": "PLOUER STADE",
+ "noms": [
+  "PLOUER STADE",
+  "STADE PLOUËRAIS 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "438177",
+   "division": "District 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLOUER STADE",
+   "equipe_slug": "564803-plouer-stade",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "EVRAN STADE 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LANVALLAY US 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "QUEVERT FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "LA LANDEC AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TREMOREL US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PLEUDIHEN STADE 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TADEN SC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": " BOBITAL BRUSVILY AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLELAN FC PVC 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LANVALLAY US 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "QUEVERT FC 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LA LANDEC AS",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "TREMOREL US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLEUDIHEN STADE 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BROONS TREMEUR AS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TADEN SC",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CALORGUEN US",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": " BOBITAL BRUSVILY AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-30",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CALORGUEN US",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PLELAN FC PVC 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BROONS TREMEUR AS 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "EVRAN STADE 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438178",
+   "division": "District 4",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "STADE PLOUËRAIS 2",
+   "equipe_slug": "564803-stade-plouErais-2",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "F.C. LE HINGLE TREVR 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GUITTE GUENROC AS 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TRELIVAN AS 3",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COETQUEN ST HELEN 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLUMAUDAN AS",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAULNES RANCE FC 2",
+     "score": "14-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PLOUASNE ST JUVAT US 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CALORGUEN US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": " BOBITAL BRUSVILY AS 2",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TADEN SC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "F.C. LE HINGLE TREVR 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GUITTE GUENROC AS 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TRELIVAN AS 3",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "COETQUEN ST HELEN 2",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CAULNES RANCE FC 2",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLOUASNE ST JUVAT US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CALORGUEN US 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": " BOBITAL BRUSVILY AS 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TADEN SC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLUMAUDAN AS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438160",
+   "division": "Coupe du Département",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLOUER STADE",
+   "equipe_slug": "564803-plouer-stade",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US PLUMAUGAT",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438206",
+   "division": "Coupe A LEMEE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLOUER STADE",
+   "equipe_slug": "564803-plouer-stade",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST POTAN AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CREHEN PLUD VAL FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438208",
+   "division": "Coupe D3-D4",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLOUER STADE",
+   "equipe_slug": "564803-plouer-stade",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RUCA US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "TADEN SC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "PLUMAUDAN AS",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST DONAN US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "KERIEN MAGOAR AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Quarts de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLOUER STADE",
+   "equipe_slug": "564803-plouer-stade",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TADEN SC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2192 @@
+{
+ "clNo": "23639",
+ "nom": "ST GEORGES RC",
+ "noms": [
+  "ST GEORGES R.C.",
+  "ST GEORGES R.C. 2",
+  "ST GEORGES R.C. 21",
+  "ST GEORGES RC",
+  "ST GEORGES RC 21",
+  "ST GEORGES RC 31"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435659",
+   "division": "Coupe Occitanie U19 Amos",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U19",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C.",
+   "equipe_slug": "545782-st-georges-r-c",
+   "matchs": [
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LE COUGAING",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CASTELNAU CR.",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CANET ROUSSILLON FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BEZIERS A. S.",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438448",
+   "division": "VETERANS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC",
+   "equipe_slug": "545782-st-georges-rc",
+   "matchs": [
+    {
+     "date": "2025-09-19",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "FRONTIGNAN AS 4",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-26",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST PARGOIRE FC 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-03",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "LA PEYRADE OL 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-10",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "MEZE STADE FC 3",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "MIREVAL AS 3",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-21",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST ANDRE SANGONIS OL 3",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "LE BOSC E.S VETERANS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-05",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "RS GIGEANNAIS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-16",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CLERMONTAISE 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-23",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ST PARGOIRE FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-06",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "LA PEYRADE OL 3",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-13",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "MEZE STADE FC 3",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "MIREVAL AS 3",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-20",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE SANGONIS OL 3",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "LE BOSC E.S VETERANS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-17",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "RS GIGEANNAIS 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-24",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CLERMONTAISE 3",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FRONTIGNAN AS 4",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440676",
+   "division": "Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC",
+   "equipe_slug": "545782-st-georges-rc",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "M. ARCEAUX 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VENDARGUES PI",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CASTELNAU CR.",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LAVERUNE FC",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ST MATHIEU AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442731",
+   "division": "U15 D2 AVENIR",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC",
+   "equipe_slug": "545782-st-georges-rc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ASPTT LUNEL",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "ST GELY FESC 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "JACOU CLAPIERS FA 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CASTRIES AV",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LA GRANDE MOTTE AS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "U.S. LUNEL 2",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST AUNES GS .",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MARSILLARGUES",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MAUGUIO CARNON US 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "RC MTP CEVENNES",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "PRADES LE LEZ FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST GELY FESC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "JACOU CLAPIERS FA 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CASTRIES AV",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA GRANDE MOTTE AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "U.S. LUNEL 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST AUNES GS .",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MARSILLARGUES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "18:15",
+     "domicile": true,
+     "adversaire": "MAUGUIO CARNON US 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "RC MTP CEVENNES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "PRADES LE LEZ FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ASPTT LUNEL",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442742",
+   "division": "U18 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C. 21",
+   "equipe_slug": "545782-st-georges-r-c-21",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LA PEYRADE OL 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CANET AS 21",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "LESPIGNAN VENDRES FC 21",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST MARTIN LONDRES US 21",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST ANDRE SANGONIS OL 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LAVERUNE FC 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MIREVAL AS 21",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PEROLS ES 21",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442742",
+   "division": "U18 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C.",
+   "equipe_slug": "545782-st-georges-r-c",
+   "matchs": [
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA PEYRADE OL",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LAVERUNE FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LESPIGNAN VENDRES FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ASM34 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENT.MONTBLANC/BESSAN",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MARSILLARGUES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MUC FOOTBALL",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MARSEILLAN CS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PUISSALICON MAGALAS",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE SANGONIS OL",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MAUGUIO CARNON US 2",
+     "score": "3-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "M. ARCEAUX",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442746",
+   "division": "U16 TERRITOIRE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC",
+   "equipe_slug": "545782-st-georges-rc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C. DOMITIA",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LAVERUNE FC 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PIGNAN AS",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. MEZE LOUPIAN",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BEZIERS FC 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COURNONT.COURNONS",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "18:15",
+     "domicile": false,
+     "adversaire": "SAUVIAN FC",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "B.JEUNESSE OL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "ESGVH",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "JACOU CLAPIERS FA 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "BOUJAN FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "PIGNAN AS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "BEZIERS FC 2",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-18",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "LAVERUNE FC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COURNONT.COURNONS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "B.JEUNESSE OL",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ESGVH",
+     "score": "11-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "JACOU CLAPIERS FA 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SAUVIAN FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "BOUJAN FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "ENT. MEZE LOUPIAN",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "F.C. DOMITIA",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442751",
+   "division": "U14 TERRITOIRE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC 21",
+   "equipe_slug": "545782-st-georges-rc-21",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "ST GELY FESC 21",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MONTPELLIER A.S 21",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTARNAUD AS 21",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "LUNEL GC 22",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "PRADES LE LEZ FC 21",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "ASPTT MONTPELLIER 21",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ST CLEMENT MONT 22",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "ST MARTIN LONDRES US 21",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442751",
+   "division": "U14 TERRITOIRE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC",
+   "equipe_slug": "545782-st-georges-rc",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MONTPELLIER HSC 22",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "BEZIERS A. S. 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "MAUGUIO CARNON US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-18",
+     "heure": "18:15",
+     "domicile": false,
+     "adversaire": "M. ARCEAUX",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "LUNEL GC 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SC SETE",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "MONTARNAUD AS",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FABREGUES AS",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "PHOENIX FOOTBALL SCH",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LESPIGNAN VENDRES FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446178",
+   "division": "U13 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C.",
+   "equipe_slug": "545782-st-georges-r-c",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LAVERUNE FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTARNAUD AS",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ESGVH 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "VALERGUES MUDAISON",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "FC 3MTKD",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446179",
+   "division": "U13 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C. 2",
+   "equipe_slug": "545782-st-georges-r-c-2",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "TEYRAN ASP",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "M. ATLAS PAILLADE 2",
+     "score": "21-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "17:15",
+     "domicile": true,
+     "adversaire": "PRADES LE LEZ FC",
+     "score": "0-17",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST CLEMENT MONT 2",
+     "score": "20-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAS DU LOUP FC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446182",
+   "division": "U12 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C. 21",
+   "equipe_slug": "545782-st-georges-r-c-21",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AGDE RCO 23",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ACADEMIE VEDASIENNE 21",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "17:15",
+     "domicile": true,
+     "adversaire": "ST GELY FESC 21",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CLERMONTAISE 22",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CANET AS 21",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446182",
+   "division": "U12 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C.",
+   "equipe_slug": "545782-st-georges-r-c",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC 3MTKD",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VENDARGUES PI",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST MATHIEU AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PAS DU LOUP FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MAURIN FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LATTES AS 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LUNEL GC 2",
+     "score": "14-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MAUGUIO CARNON US 3",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CASTRIES AV.",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST CLEMENT MONT 2",
+     "score": "23-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446183",
+   "division": "U12 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C. 2",
+   "equipe_slug": "545782-st-georges-r-c-2",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ASM34 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ESGVH",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PHOENIX FOOTBALL SCH",
+     "score": "12-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT ASFAC MIREVAL  2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BEZIERS U. S.",
+     "score": "3-12",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "THEZAN ST GENIES",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "COURNONTERRAL 2",
+     "score": "0-13",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VIASSOIS F.C.O 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446281",
+   "division": "U13 Féminines D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C.",
+   "equipe_slug": "545782-st-georges-r-c",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC 3MTKD 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "B.JEUNESSE OL",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LESPIGNAN VENDRES FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ASPTT MONTPELLIER",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LESPIGNAN VENDRES FC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "THONGUE ET LIBRON FC 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "CASTELNAU CR.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ASM34",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "B.JEUNESSE OL",
+     "score": "17-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CANET AS",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447113",
+   "division": "Féminines à 8 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC",
+   "equipe_slug": "545782-st-georges-rc",
+   "matchs": [
+    {
+     "date": "2026-01-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "J.C.F.A. 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "M. ARCEAUX 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MIDI LIROU CAP POILH",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "E.S.P",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "M. ARCEAUX 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MIDI LIROU CAP POILH",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "E.S.P",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "J.C.F.A. 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447430",
+   "division": "U13 Territoire",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C.",
+   "equipe_slug": "545782-st-georges-r-c",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT PEROLS PALAVAS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "M. PETIT BARD FC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MEZE STADE FC",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MONTP. MEDIT. FUTSAL",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MF ACADEMY",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST CLEMENT MONT",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MONTPELLIER HSC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CLERMONTAISE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "CASTRIES AV.",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438457",
+   "division": "COUPE DE L'HERAULT VETERANS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC 31",
+   "equipe_slug": "545782-st-georges-rc-31",
+   "matchs": [
+    {
+     "date": "2026-01-09",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ALIGNAN AC 33",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "16èmes CDH Vétérans",
+     "stade": null
+    },
+    {
+     "date": "2026-01-30",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "NEZIGNAN EVEQUE ES 32",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "8èmes CDH Vétérans",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "SC SETE 31",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442737",
+   "division": "COUPE DE L'HERAULT U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC",
+   "equipe_slug": "545782-st-georges-rc",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "NEZIGNAN EVEQUE ES",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "tour préliminaire CDH U15",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442738",
+   "division": "COUPE DE L'HERAULT U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC 21",
+   "equipe_slug": "545782-st-georges-rc-21",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FABREGUES AS 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "16èmes CDH U14",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442744",
+   "division": "COUPE DE L'HERAULT U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES R.C. 21",
+   "equipe_slug": "545782-st-georges-r-c-21",
+   "matchs": [
+    {
+     "date": "2026-01-22",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LA PEYRADE OL 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442748",
+   "division": "COUPE DE L'HERAULT U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST GEORGES RC 21",
+   "equipe_slug": "545782-st-georges-rc-21",
+   "matchs": [
+    {
+     "date": "2026-02-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BEZIERS FC 22",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "8èmes CDH U16",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

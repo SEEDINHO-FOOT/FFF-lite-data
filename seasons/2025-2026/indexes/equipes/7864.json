@@ -1,0 +1,1261 @@
+{
+ "clNo": "7864",
+ "nom": "MANDUEL SC",
+ "noms": [
+  "MANDUEL SC",
+  "MANDUEL SC 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435277",
+   "division": "U16 TERRITOIRE A 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MANDUEL SC",
+   "equipe_slug": "521883-manduel-sc",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST BEAUCAIRE FC 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAVILL CHUSCL LAUDUN",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CALVISSON FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "N. SOLEIL LEV",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "N. CHEMIN BAS",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PUJAUT US",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VERGEZE EP",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ACADEMIE UNIVERS 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "EF VEZENOBRES CRUVIE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MARGUERITTES ES",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "N. GAZELEC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CALVISSON FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "N. SOLEIL LEV",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "N. CHEMIN BAS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAVILL CHUSCL LAUDUN",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PUJAUT US",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "VERGEZE EP",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ACADEMIE UNIVERS 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "EF VEZENOBRES CRUVIE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MARGUERITTES ES",
+     "score": "12-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "N. GAZELEC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST BEAUCAIRE FC 2",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438663",
+   "division": "U15 DEPARTEMENTAL 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MANDUEL SC",
+   "equipe_slug": "521883-manduel-sc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CAVILL CHUSCL LAUDUN",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "FOOT TERRE CAMARGUE",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "N. CHEMIN BAS",
+     "score": "15-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST BEAUCAIRE FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS VERSOISE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CALVISSON FC",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ES PAYS UZES",
+     "score": "13-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "US SOMMIERES",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "N. GAZELEC",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ALES OL 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BAGNOLS PONT 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "FOOT TERRE CAMARGUE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "N. CHEMIN BAS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST BEAUCAIRE FC 2",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AS VERSOISE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "CALVISSON FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ES PAYS UZES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "US SOMMIERES",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "N. GAZELEC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ALES OL 2",
+     "score": "0-16",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BAGNOLS PONT 2",
+     "score": "14-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CAVILL CHUSCL LAUDUN",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438746",
+   "division": "U13/U12 DEPARTEMENTAL 4 6512",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MANDUEL SC",
+   "equipe_slug": "521883-manduel-sc",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ESP. F.C. ST GILLOIS",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "AIMARGUES ST O 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "DOMESSARGUES",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "NIMES CHEM.",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "ENT. SBFCJ 4",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "FC BERNIS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LA CALMETTE 2",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MOUSSAC FC",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438746",
+   "division": "U13/U12 DEPARTEMENTAL 4 6512",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MANDUEL SC 2",
+   "equipe_slug": "521883-manduel-sc-2",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "VERGEZE EP 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "MARGUERITTES ES 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "FC MILHAUD F",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST GILLES AEC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "fccla scc",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "QUISSAC GC F 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "A.C. PISSEVIN VALDEG 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "NIMES FOOT FEMININ",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438959",
+   "division": "Senior Départemental 3 6512",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MANDUEL SC",
+   "equipe_slug": "521883-manduel-sc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST GILLES AEC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "REMOULINS SF",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAUVETERRE RC",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NIMES MAS DE MINGUE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GARONS US 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BAGNOLS PONT 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "N. SOLEIL LEV 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC MILHAUD F",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC TAVEL",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MOUSSAC FC 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST HILAIRE LA JASSE 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "REMOULINS SF",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NIMES MAS DE MINGUE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "GARONS US 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MOUSSAC FC 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAUVETERRE RC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BAGNOLS PONT 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "N. SOLEIL LEV 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC MILHAUD F",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC TAVEL",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST HILAIRE LA JASSE 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GILLES AEC 2",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438960",
+   "division": "Senior Départemental 4 6512",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MANDUEL SC 2",
+   "equipe_slug": "521883-manduel-sc-2",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THEZIERS E.S. 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "BAGNOLS PONT 3",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NIMES EST FUTSAL",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC MILHAUD F 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AUBORD JSO",
+     "score": "3-8",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "A.C. PISSEVIN VALDEG 2",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAUVETERRE RC 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST L.ARBRE RC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PUJAUT US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VALLABREGUES US",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "FC MONTFRINOIS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "THEZIERS E.S. 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC MILHAUD F 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NIMES EST FUTSAL",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AUBORD JSO",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VALLABREGUES US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A.C. PISSEVIN VALDEG 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "SAUVETERRE RC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST L.ARBRE RC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "PUJAUT US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC MONTFRINOIS",
+     "score": "17-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "BAGNOLS PONT 3",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438741",
+   "division": "COUPE GARD LOZERE U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MANDUEL SC",
+   "equipe_slug": "521883-manduel-sc",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "POULX AS",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "2EME TOUR CADRAGE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438966",
+   "division": "COUPE GARD LOZERE SENIORS 6512",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MANDUEL SC",
+   "equipe_slug": "521883-manduel-sc",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ROCHEF SIGNAR",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "TOUR DE CADRAGE COUPE GARD LOZERE SENIORS",
+     "stade": null
+    },
+    {
+     "date": "2026-01-15",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST PRIVAT AS",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435443",
+   "division": "Coupe Occitanie Intersport Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "MANDUEL SC",
+   "equipe_slug": "521883-manduel-sc",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LANGLADE FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "1ER TOUR COUPE OCCITANIE SENIORS 6512",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

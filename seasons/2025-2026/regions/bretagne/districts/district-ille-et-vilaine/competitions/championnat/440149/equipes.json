@@ -1,0 +1,602 @@
+{
+  "season": "2025-2026",
+  "cpNo": "440149",
+  "nom": "U13 Secteur Ouest",
+  "type": "championnat",
+  "scope": "regional",
+  "region": "BRETAGNE",
+  "district": "DISTRICT ILLE ET VILAINE",
+  "nb_equipes": 26,
+  "equipes": [
+    {
+      "clNo": "150722",
+      "nom": "BAUSSAINE ST THUAL",
+      "slug": "554086-baussaine-st-thual",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554086.jpg"
+    },
+    {
+      "clNo": "169189",
+      "nom": "BEDEE PLEUMELEUC US 2",
+      "slug": "590148-bedee-pleumeleuc-us-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590148.jpg"
+    },
+    {
+      "clNo": "173339",
+      "nom": "BRETEIL TAL. FC 2",
+      "slug": "550533-breteil-tal-fc-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC550533.jpg"
+    },
+    {
+      "clNo": "6256",
+      "nom": "CELTIK BROCELIANDE",
+      "slug": "519203-celtik-broceliande",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519203.jpg"
+    },
+    {
+      "clNo": "163302",
+      "nom": "ESKOUADENN BROCEL",
+      "slug": "590369-eskouadenn-brocel",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590369.jpg"
+    },
+    {
+      "clNo": "20495",
+      "nom": "GAEL-MUEL U.S",
+      "slug": "540448-gael-muel-u-s",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC540448.jpg"
+    },
+    {
+      "clNo": "5758",
+      "nom": "GEVEZE US",
+      "slug": "518187-geveze-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518187.jpg"
+    },
+    {
+      "clNo": "137343",
+      "nom": "GJ BREAL CHAVAGNE",
+      "slug": "553709-gj-breal-chavagne",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553709.jpg"
+    },
+    {
+      "clNo": "194406",
+      "nom": "HERMITAGE CHAP CINTR 3",
+      "slug": "560176-hermitage-chap-cintr-3",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560176.jpg"
+    },
+    {
+      "clNo": "5368",
+      "nom": "IRODOUER AV",
+      "slug": "517372-irodouer-av",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC517372.jpg"
+    },
+    {
+      "clNo": "5733",
+      "nom": "LE RHEU SC 2",
+      "slug": "518124-le-rheu-sc-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518124.jpg"
+    },
+    {
+      "clNo": "5862",
+      "nom": "MEDREAC US (E)",
+      "slug": "518467-medreac-us-e",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518467.jpg"
+    },
+    {
+      "clNo": "4042",
+      "nom": "MONTAUBAN OC",
+      "slug": "512552-montauban-oc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512552.jpg"
+    },
+    {
+      "clNo": "176500",
+      "nom": "MONTFORT IFFENDIC FO 2",
+      "slug": "580460-montfort-iffendic-fo-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580460.jpg"
+    },
+    {
+      "clNo": "194486",
+      "nom": "MORDELLES FC 2",
+      "slug": "560202-mordelles-fc-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560202.jpg"
+    },
+    {
+      "clNo": "6492",
+      "nom": "PACE CO 2",
+      "slug": "519708-pace-co-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519708.jpg"
+    },
+    {
+      "clNo": "9412",
+      "nom": "REN CPB BREQUIGNY 2",
+      "slug": "524321-ren-cpb-brequigny-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524321.jpg"
+    },
+    {
+      "clNo": "25250",
+      "nom": "REN CPB NORD OUEST",
+      "slug": "548120-ren-cpb-nord-ouest",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548120.jpg"
+    },
+    {
+      "clNo": "7969",
+      "nom": "RENNES CPB CLEUNAY 2",
+      "slug": "522028-rennes-cpb-cleunay-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522028.jpg"
+    },
+    {
+      "clNo": "8826",
+      "nom": "RENNES CPB VILLEJEAN",
+      "slug": "523400-rennes-cpb-villejean",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523400.jpg"
+    },
+    {
+      "clNo": "199078",
+      "nom": "RENNES MELTING POTES",
+      "slug": "560875-rennes-melting-potes",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560875.jpg"
+    },
+    {
+      "clNo": "1109",
+      "nom": "ROMILLE AS",
+      "slug": "501887-romille-as",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501887.jpg"
+    },
+    {
+      "clNo": "4227",
+      "nom": "ST GILLES US 2",
+      "slug": "513422-st-gilles-us-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC513422.jpg"
+    },
+    {
+      "clNo": "169515",
+      "nom": "ST MEEN ST ONEN US",
+      "slug": "550964-st-meen-st-onen-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC550964.jpg"
+    },
+    {
+      "clNo": "166",
+      "nom": "STADE RENNAIS FC 2",
+      "slug": "500015-stade-rennais-fc-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500015.jpg"
+    },
+    {
+      "clNo": "7058",
+      "nom": "VEZIN AS",
+      "slug": "520652-vezin-as",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520652.jpg"
+    }
+  ],
+  "par_groupe": [
+    {
+      "phNo": "1",
+      "gpNo": "1",
+      "groupe_nom": null,
+      "nb_equipes": 12,
+      "equipes": [
+        {
+          "clNo": "9412",
+          "nom": "REN CPB BREQUIGNY 2",
+          "slug": "524321-ren-cpb-brequigny-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524321.jpg"
+        },
+        {
+          "clNo": "25250",
+          "nom": "REN CPB NORD OUEST",
+          "slug": "548120-ren-cpb-nord-ouest",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548120.jpg"
+        },
+        {
+          "clNo": "166",
+          "nom": "STADE RENNAIS FC 2",
+          "slug": "500015-stade-rennais-fc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500015.jpg"
+        },
+        {
+          "clNo": "4042",
+          "nom": "MONTAUBAN OC",
+          "slug": "512552-montauban-oc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512552.jpg"
+        },
+        {
+          "clNo": "5758",
+          "nom": "GEVEZE US",
+          "slug": "518187-geveze-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518187.jpg"
+        },
+        {
+          "clNo": "169515",
+          "nom": "ST MEEN ST ONEN US",
+          "slug": "550964-st-meen-st-onen-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC550964.jpg"
+        },
+        {
+          "clNo": "163302",
+          "nom": "ESKOUADENN BROCEL",
+          "slug": "590369-eskouadenn-brocel",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590369.jpg"
+        },
+        {
+          "clNo": "20495",
+          "nom": "GAEL-MUEL U.S",
+          "slug": "540448-gael-muel-u-s",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC540448.jpg"
+        },
+        {
+          "clNo": "1109",
+          "nom": "ROMILLE AS",
+          "slug": "501887-romille-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501887.jpg"
+        },
+        {
+          "clNo": "8826",
+          "nom": "RENNES CPB VILLEJEAN",
+          "slug": "523400-rennes-cpb-villejean",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523400.jpg"
+        },
+        {
+          "clNo": "6492",
+          "nom": "PACE CO 2",
+          "slug": "519708-pace-co-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519708.jpg"
+        },
+        {
+          "clNo": "9412",
+          "nom": "REN CPB BREQUIGNY 3",
+          "slug": "524321-ren-cpb-brequigny-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524321.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "2",
+      "groupe_nom": null,
+      "nb_equipes": 10,
+      "equipes": [
+        {
+          "clNo": "194406",
+          "nom": "HERMITAGE CHAP CINTR 3",
+          "slug": "560176-hermitage-chap-cintr-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560176.jpg"
+        },
+        {
+          "clNo": "169515",
+          "nom": "ST MEEN ST ONEN US 2",
+          "slug": "550964-st-meen-st-onen-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC550964.jpg"
+        },
+        {
+          "clNo": "7969",
+          "nom": "RENNES CPB CLEUNAY 2",
+          "slug": "522028-rennes-cpb-cleunay-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522028.jpg"
+        },
+        {
+          "clNo": "5733",
+          "nom": "LE RHEU SC 2",
+          "slug": "518124-le-rheu-sc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518124.jpg"
+        },
+        {
+          "clNo": "7969",
+          "nom": "RENNES CPB CLEUNAY",
+          "slug": "522028-rennes-cpb-cleunay",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522028.jpg"
+        },
+        {
+          "clNo": "4227",
+          "nom": "ST GILLES US 2",
+          "slug": "513422-st-gilles-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC513422.jpg"
+        },
+        {
+          "clNo": "5368",
+          "nom": "IRODOUER AV",
+          "slug": "517372-irodouer-av",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC517372.jpg"
+        },
+        {
+          "clNo": "9412",
+          "nom": "REN CPB BREQUIGNY 4",
+          "slug": "524321-ren-cpb-brequigny-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524321.jpg"
+        },
+        {
+          "clNo": "6492",
+          "nom": "PACE CO 3",
+          "slug": "519708-pace-co-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519708.jpg"
+        },
+        {
+          "clNo": "137343",
+          "nom": "GJ BREAL CHAVAGNE",
+          "slug": "553709-gj-breal-chavagne",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553709.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "3",
+      "groupe_nom": null,
+      "nb_equipes": 10,
+      "equipes": [
+        {
+          "clNo": "194406",
+          "nom": "HERMITAGE CHAP CINTR 2",
+          "slug": "560176-hermitage-chap-cintr-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560176.jpg"
+        },
+        {
+          "clNo": "163302",
+          "nom": "ESKOUADENN BROCEL 3",
+          "slug": "590369-eskouadenn-brocel-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590369.jpg"
+        },
+        {
+          "clNo": "169189",
+          "nom": "BEDEE PLEUMELEUC US 2",
+          "slug": "590148-bedee-pleumeleuc-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590148.jpg"
+        },
+        {
+          "clNo": "9412",
+          "nom": "REN CPB BREQUIGNY 5",
+          "slug": "524321-ren-cpb-brequigny-5",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524321.jpg"
+        },
+        {
+          "clNo": "199078",
+          "nom": "RENNES MELTING POTES",
+          "slug": "560875-rennes-melting-potes",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560875.jpg"
+        },
+        {
+          "clNo": "176500",
+          "nom": "MONTFORT IFFENDIC FO 2",
+          "slug": "580460-montfort-iffendic-fo-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580460.jpg"
+        },
+        {
+          "clNo": "4042",
+          "nom": "MONTAUBAN OC 2",
+          "slug": "512552-montauban-oc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512552.jpg"
+        },
+        {
+          "clNo": "4042",
+          "nom": "MONTAUBAN OC 3",
+          "slug": "512552-montauban-oc-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512552.jpg"
+        },
+        {
+          "clNo": "163302",
+          "nom": "ESKOUADENN BROCEL 2",
+          "slug": "590369-eskouadenn-brocel-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590369.jpg"
+        },
+        {
+          "clNo": "194486",
+          "nom": "MORDELLES FC 2",
+          "slug": "560202-mordelles-fc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560202.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "4",
+      "groupe_nom": null,
+      "nb_equipes": 10,
+      "equipes": [
+        {
+          "clNo": "6256",
+          "nom": "CELTIK BROCELIANDE",
+          "slug": "519203-celtik-broceliande",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519203.jpg"
+        },
+        {
+          "clNo": "6492",
+          "nom": "PACE CO 4",
+          "slug": "519708-pace-co-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519708.jpg"
+        },
+        {
+          "clNo": "1109",
+          "nom": "ROMILLE AS 2",
+          "slug": "501887-romille-as-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501887.jpg"
+        },
+        {
+          "clNo": "5862",
+          "nom": "MEDREAC US (E)",
+          "slug": "518467-medreac-us-e",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518467.jpg"
+        },
+        {
+          "clNo": "6492",
+          "nom": "PACE CO 5",
+          "slug": "519708-pace-co-5",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519708.jpg"
+        },
+        {
+          "clNo": "137343",
+          "nom": "GJ BREAL CHAVAGNE 3",
+          "slug": "553709-gj-breal-chavagne-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553709.jpg"
+        },
+        {
+          "clNo": "4227",
+          "nom": "ST GILLES US 3",
+          "slug": "513422-st-gilles-us-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC513422.jpg"
+        },
+        {
+          "clNo": "5733",
+          "nom": "LE RHEU SC 4",
+          "slug": "518124-le-rheu-sc-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518124.jpg"
+        },
+        {
+          "clNo": "150722",
+          "nom": "BAUSSAINE ST THUAL",
+          "slug": "554086-baussaine-st-thual",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554086.jpg"
+        },
+        {
+          "clNo": "194486",
+          "nom": "MORDELLES FC 3",
+          "slug": "560202-mordelles-fc-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560202.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "5",
+      "groupe_nom": null,
+      "nb_equipes": 10,
+      "equipes": [
+        {
+          "clNo": "169515",
+          "nom": "ST MEEN ST ONEN US 3",
+          "slug": "550964-st-meen-st-onen-us-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC550964.jpg"
+        },
+        {
+          "clNo": "173339",
+          "nom": "BRETEIL TAL. FC 2",
+          "slug": "550533-breteil-tal-fc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC550533.jpg"
+        },
+        {
+          "clNo": "5758",
+          "nom": "GEVEZE US 2",
+          "slug": "518187-geveze-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518187.jpg"
+        },
+        {
+          "clNo": "176500",
+          "nom": "MONTFORT IFFENDIC FO 3",
+          "slug": "580460-montfort-iffendic-fo-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580460.jpg"
+        },
+        {
+          "clNo": "176500",
+          "nom": "MONTFORT IFFENDIC FO 4",
+          "slug": "580460-montfort-iffendic-fo-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580460.jpg"
+        },
+        {
+          "clNo": "5758",
+          "nom": "GEVEZE US 3",
+          "slug": "518187-geveze-us-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518187.jpg"
+        },
+        {
+          "clNo": "5733",
+          "nom": "LE RHEU SC 3",
+          "slug": "518124-le-rheu-sc-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518124.jpg"
+        },
+        {
+          "clNo": "8826",
+          "nom": "RENNES CPB VILLEJEAN 2",
+          "slug": "523400-rennes-cpb-villejean-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523400.jpg"
+        },
+        {
+          "clNo": "137343",
+          "nom": "GJ BREAL CHAVAGNE 2",
+          "slug": "553709-gj-breal-chavagne-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553709.jpg"
+        },
+        {
+          "clNo": "169515",
+          "nom": "ST MEEN ST ONEN US 4",
+          "slug": "550964-st-meen-st-onen-us-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC550964.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "6",
+      "groupe_nom": null,
+      "nb_equipes": 12,
+      "equipes": [
+        {
+          "clNo": "194406",
+          "nom": "HERMITAGE CHAP CINTR 4",
+          "slug": "560176-hermitage-chap-cintr-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560176.jpg"
+        },
+        {
+          "clNo": "6492",
+          "nom": "PACE CO 6",
+          "slug": "519708-pace-co-6",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519708.jpg"
+        },
+        {
+          "clNo": "7969",
+          "nom": "RENNES CPB CLEUNAY 3",
+          "slug": "522028-rennes-cpb-cleunay-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522028.jpg"
+        },
+        {
+          "clNo": "1109",
+          "nom": "ROMILLE AS 3",
+          "slug": "501887-romille-as-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC501887.jpg"
+        },
+        {
+          "clNo": "5368",
+          "nom": "IRODOUER AV 2",
+          "slug": "517372-irodouer-av-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC517372.jpg"
+        },
+        {
+          "clNo": "7058",
+          "nom": "VEZIN AS",
+          "slug": "520652-vezin-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520652.jpg"
+        },
+        {
+          "clNo": "163302",
+          "nom": "ESKOUADENN BROCEL 4",
+          "slug": "590369-eskouadenn-brocel-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590369.jpg"
+        },
+        {
+          "clNo": "20495",
+          "nom": "GAEL-MUEL U.S 2",
+          "slug": "540448-gael-muel-u-s-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC540448.jpg"
+        },
+        {
+          "clNo": "169189",
+          "nom": "BEDEE PLEUMELEUC US 3",
+          "slug": "590148-bedee-pleumeleuc-us-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590148.jpg"
+        },
+        {
+          "clNo": "8826",
+          "nom": "RENNES CPB VILLEJEAN 3",
+          "slug": "523400-rennes-cpb-villejean-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523400.jpg"
+        },
+        {
+          "clNo": "169189",
+          "nom": "BEDEE PLEUMELEUC US 4",
+          "slug": "590148-bedee-pleumeleuc-us-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590148.jpg"
+        },
+        {
+          "clNo": "4042",
+          "nom": "MONTAUBAN OC 4",
+          "slug": "512552-montauban-oc-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC512552.jpg"
+        }
+      ]
+    }
+  ]
+}

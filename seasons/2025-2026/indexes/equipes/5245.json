@@ -1,0 +1,97 @@
+{
+ "clNo": "5245",
+ "nom": "ST JEAN BREV ESPE FC",
+ "noms": [
+  "ST JEAN BREV ESPE FC"
+ ],
+ "competitions": [
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ST JEAN BREV ESPE FC",
+   "equipe_slug": "517060-st-jean-brev-espe-fc",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MOHON ST MALO ENT 3",
+     "score": "29-0",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CRACHOISE ENT S",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LOCMINE ST CO 2",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440431",
+   "division": "Trophée Morbihan",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ST JEAN BREV ESPE FC",
+   "equipe_slug": "517060-st-jean-brev-espe-fc",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BERNE US",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE SOURN SP C",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

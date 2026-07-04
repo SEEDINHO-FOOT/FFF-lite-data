@@ -1,0 +1,831 @@
+{
+ "clNo": "169513",
+ "nom": "GJ DU BALLON",
+ "noms": [
+  "GJ DU BALLON",
+  "GJ DU BALLON 2",
+  "GJ DU BALLON 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435505",
+   "division": "U17 Excellence",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ DU BALLON",
+   "equipe_slug": "550860-gj-du-ballon",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BAVILLIERS AS",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "THISE CHALEZEULE",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AUDINCOURT AS 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BAUME LES DAMES",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MORTEAU MONTLEBON FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GJ RUDIPONTAIN 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "CHATENOIS LES FORGES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "MONTFAUCON MOR. GEN. 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "VOUJEAUCOURT",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BESSONCOU ROPPE LARI",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "E. VILLERS LES FINS",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "THISE CHALEZEULE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "AUDINCOURT AS 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "BAUME LES DAMES",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "MORTEAU MONTLEBON FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "GJ RUDIPONTAIN 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CHATENOIS LES FORGES",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MONTFAUCON MOR. GEN. 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VOUJEAUCOURT",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BESSONCOU ROPPE LARI",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "E. VILLERS LES FINS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BAVILLIERS AS",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441383",
+   "division": "U15 D1 Automne",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ DU BALLON",
+   "equipe_slug": "550860-gj-du-ballon",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BESSONCOU ROPPE LARI",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GRANDVILLARS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CHATENOIS LES FORGES",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BAVILLIERS AS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "DANJOUTIN ANDELNANS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441385",
+   "division": "U15 D2 Automne",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ DU BALLON 2",
+   "equipe_slug": "550860-gj-du-ballon-2",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "HERIMONCOURT ABBEVIL 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "E. VALDOIE ROUGEGOUT",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "E. OFFEMONT BRCL 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "AS FC BELFORT",
+     "score": "12-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BAVILLIERS AS 2",
+     "score": "0-17",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MONTREUX CHATEAU",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ESSERT",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446384",
+   "division": "U15 Promotion",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ DU BALLON",
+   "equipe_slug": "550860-gj-du-ballon",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ORNANS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST VIT",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GJ RUDIPONTAIN",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448412",
+   "division": "U15 D1 Elite Printemps",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ DU BALLON",
+   "equipe_slug": "550860-gj-du-ballon",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GJ RUDIPONTAIN",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AUDINCOURT AS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GJ HAUT DOUBS HORLO",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "DANJOUTIN ANDELNANS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ROCHE NOVILLARS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUDINCOURT AS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GJ HAUT DOUBS HORLO",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "DANJOUTIN ANDELNANS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ROCHE NOVILLARS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ RUDIPONTAIN",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448415",
+   "division": "U15 D3 Printemps",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ DU BALLON 2",
+   "equipe_slug": "550860-gj-du-ballon-2",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ESSERT",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "E. OFFEMONT BRCL 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "SOCHAUX US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NOMMAY VIEUX CH 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GRAND CHARMONT",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "E. OFFEMONT BRCL 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SOCHAUX US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NOMMAY VIEUX CH 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GRAND CHARMONT",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ESSERT",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444919",
+   "division": "Trophée U18 Aésio Mutuelle",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ DU BALLON",
+   "equipe_slug": "550860-gj-du-ballon",
+   "matchs": [
+    {
+     "date": "2026-02-21",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "SC PLANOISE",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444920",
+   "division": "Coupe U15 Aésio Mutuelle",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ DU BALLON 2",
+   "equipe_slug": "550860-gj-du-ballon-2",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GRAND CHARMONT",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444921",
+   "division": "Trophée U15 Aésio Mutuelle",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ DU BALLON",
+   "equipe_slug": "550860-gj-du-ballon",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "EXINCOURT",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "8èmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "GJ DU BALLON 21",
+   "equipe_slug": "550860-gj-du-ballon-21",
+   "matchs": [
+    {
+     "date": "2025-08-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SOCHAUX US 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "CADRAGE",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "DANJOUTIN ANDELNANS 21",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "1er TOUR",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FRASNE 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "2ème TOUR",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

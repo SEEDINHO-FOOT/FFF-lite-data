@@ -1,0 +1,591 @@
+{
+ "clNo": "7067",
+ "nom": "USSAC FOOT",
+ "noms": [
+  "USSAC FOOT",
+  "USSAC FOOT 2",
+  "USSAC FOOT 31"
+ ],
+ "competitions": [
+  {
+   "cpNo": "437406",
+   "division": "Régional 3",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "USSAC FOOT",
+   "equipe_slug": "520661-ussac-foot",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MARZAN GDE DU PONT",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MOLAC LARRE ENT S",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "THEIX AV",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SARZEAU",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLOUGOUMELEN BONO AS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SULNIAC MONTAGN",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MUZILLAC OMNI SPORTS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLAUDREN RAH KOED",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BASSE VILAINE FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RIEUX ST MELAINE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "REDON ATL VILAINE 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MOLAC LARRE ENT S",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "THEIX AV",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "SARZEAU",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLOUGOUMELEN BONO AS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SULNIAC MONTAGN",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MUZILLAC OMNI SPORTS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BASSE VILAINE FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PLAUDREN RAH KOED",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "RIEUX ST MELAINE",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "REDON ATL VILAINE 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MARZAN GDE DU PONT",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446895",
+   "division": "COUPE REGION BRETAGNE SENIORS",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "USSAC FOOT",
+   "equipe_slug": "520661-ussac-foot",
+   "matchs": [
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STDE CASTELBOURGEOIS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "32ème de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441575",
+   "division": "Coupe Vétérans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "USSAC FOOT 31",
+   "equipe_slug": "520661-ussac-foot-31",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VANNES VENETES VSL 31",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC MEGALITHES 31",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LOCQUELTAS LOCMAR 31",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436234",
+   "division": "Challenge Bruno Le Bosser",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "USSAC FOOT",
+   "equipe_slug": "520661-ussac-foot",
+   "matchs": [
+    {
+     "date": "2025-08-23",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CAUDAN SP F",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "USSAC FOOT",
+   "equipe_slug": "520661-ussac-foot",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLUMELEC MELI",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RIEUX ST MELAINE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Tour 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC BELUGAS RIA",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Tour 6",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440430",
+   "division": "Trophée Chaton",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "USSAC FOOT",
+   "equipe_slug": "520661-ussac-foot",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "MONTAGNARDE US 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440431",
+   "division": "Trophée Morbihan",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "USSAC FOOT 2",
+   "equipe_slug": "520661-ussac-foot-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LOCMINE ST CO 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440432",
+   "division": "Challenge Bertrand Crété",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "USSAC FOOT 31",
+   "equipe_slug": "520661-ussac-foot-31",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BAUD FC 31",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Mise à niveau",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MERIADEC ET S 31",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "INGUINIEL FOY LAIQ 31",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "8èmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440432",
+   "division": "Challenge Bertrand Crété",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "USSAC FOOT",
+   "equipe_slug": "520661-ussac-foot",
+   "matchs": [
+    {
+     "date": "2026-04-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CRACHOISE ENT S",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Quarts de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MOLAC LARRE ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Demi-finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "USSAC FOOT",
+   "equipe_slug": "520661-ussac-foot",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GILDAS ENFANTS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "REMUNGOL ES",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "3ème Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

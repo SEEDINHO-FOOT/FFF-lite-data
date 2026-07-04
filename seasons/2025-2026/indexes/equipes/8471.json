@@ -1,0 +1,762 @@
+{
+ "clNo": "8471",
+ "nom": "FC LANDAIS",
+ "noms": [
+  "FC LANDAIS",
+  "FC LANDAIS 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439292",
+   "division": "Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC LANDAIS",
+   "equipe_slug": "522834-fc-landais",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS SARCEAUX ESPOIR",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "JS DE TINCHEBRAY 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS BOUCE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US FLERIENNE",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US D'ANDAINE 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SS DOMFRONTAISE 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "J. FERTOISE BAGNOLES 3",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AV. DE MESSEI 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SL PETRUVIEN",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC ECOUCHE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "JS DE TINCHEBRAY 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS BOUCE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US FLERIENNE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US D'ANDAINE 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "SS DOMFRONTAISE 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC CARROUGES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "J. FERTOISE BAGNOLES 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "AV. DE MESSEI 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC ECOUCHE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC CARROUGES",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SL PETRUVIEN",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS SARCEAUX ESPOIR",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439374",
+   "division": "Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC LANDAIS 2",
+   "equipe_slug": "522834-fc-landais-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AV. DE MESSEI 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US MENIL DE BRIOUZE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS MAGNY LE DESERT",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS LA SELLE LA FORGE 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FL SEGRIE FONTAINE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS DES MONTS ANDAINE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US D'ANDAINE 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CO CEAUCE 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AM LA FERRIERE 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US ATHIS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "L. ST GEORGES GROS. 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US MENIL DE BRIOUZE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AS MAGNY LE DESERT",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS LA SELLE LA FORGE 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FL SEGRIE FONTAINE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS DES MONTS ANDAINE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "US D'ANDAINE 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CO CEAUCE 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AM LA FERRIERE 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US ATHIS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "L. ST GEORGES GROS. 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AV. DE MESSEI 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439404",
+   "division": "U13 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC LANDAIS",
+   "equipe_slug": "522834-fc-landais",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "13:45",
+     "domicile": false,
+     "adversaire": "US FLERIENNE",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:45",
+     "domicile": true,
+     "adversaire": "FC PUTANGES LE LAC",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:45",
+     "domicile": false,
+     "adversaire": "L. ST GEORGES GROS. 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "US ATHIS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "JS DE TINCHEBRAY 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AS MAGNY LE DESERT",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "OC BRIOUZE 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439406",
+   "division": "U13 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC LANDAIS",
+   "equipe_slug": "522834-fc-landais",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AV. DE MESSEI",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GRPT FC VALLEE UDON 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AM LA FERRIERE 2",
+     "score": "2-12",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AS LA SELLE LA FORGE 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "JS DE TINCHEBRAY 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440637",
+   "division": "Coupe C Départemental - J LEPROVOST",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC LANDAIS",
+   "equipe_slug": "522834-fc-landais",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US LE SAP",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "T1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448178",
+   "division": "CHALLENGE U13 - 5éme TOUR",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC LANDAIS",
+   "equipe_slug": "522834-fc-landais",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AS LA SELLE LA FORGE 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "T5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448627",
+   "division": "CHALLENGE U13 - 6 éme TOUR",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC LANDAIS",
+   "equipe_slug": "522834-fc-landais",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "13:45",
+     "domicile": true,
+     "adversaire": "AV. DE MESSEI",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "T6",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "FC LANDAIS",
+   "equipe_slug": "522834-fc-landais",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AV. DE MESSEI",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1er TOUR",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

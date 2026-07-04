@@ -1,0 +1,614 @@
+{
+ "clNo": "2901",
+ "nom": "ARC/GRAY",
+ "noms": [
+  "ARC/GRAY",
+  "ARC/GRAY 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440199",
+   "division": "DEPARTEMENTAL 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ARC/GRAY",
+   "equipe_slug": "506605-arc-gray",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AUTREY LES GRAY",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "R.C. SAONOIS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LARIANS 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS LUXEUIL",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PERROUSE 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "4 RIVIERES 70 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "MARNAY 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VALLEE DU BREUCHIN",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "FRANCHEVELLE",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VESOUL AGGL. OLYMP.",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "R.C. SAONOIS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LARIANS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "PAYS LUXEUIL",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PERROUSE 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VAL DE PESMES",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "4 RIVIERES 70 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "MARNAY 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VALLEE DU BREUCHIN",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FRANCHEVELLE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VESOUL AGGL. OLYMP.",
+     "score": "10-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AUTREY LES GRAY",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440201",
+   "division": "DEPARTEMENTAL 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ARC/GRAY 2",
+   "equipe_slug": "506605-arc-gray-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MARNAY 3",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "2 VELS 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RIGNY",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MEMBREY",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA ROMAINE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "2 VELS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "RIGNY",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MEMBREY",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MARNAY 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LA ROMAINE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448248",
+   "division": "DEPARTEMENTAL 3 PLAY DOWN PRINT",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ARC/GRAY 2",
+   "equipe_slug": "506605-arc-gray-2",
+   "matchs": [
+    {
+     "date": "2026-03-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VESOUL R.C.",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "R.C. SAONOIS 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "PERROUSE 4",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "2 VELS 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA ROMAINE",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "R.C. SAONOIS 3",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "PERROUSE 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "2 VELS 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LA ROMAINE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VESOUL R.C.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440256",
+   "division": "CHALLENGE DU DISTRICT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ARC/GRAY 2",
+   "equipe_slug": "506605-arc-gray-2",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "JASNEY 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1ER TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440256",
+   "division": "CHALLENGE DU DISTRICT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ARC/GRAY",
+   "equipe_slug": "506605-arc-gray",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "VAIVRE/FROTEY/MONT.",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "32EME DE FINALE",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "COLOMBE VESOUL 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "16EME DE FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440257",
+   "division": "COUPE HAUTE SAONE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ARC/GRAY",
+   "equipe_slug": "506605-arc-gray",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "2 VELS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1ER TOUR",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LA ROMAINE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "16EME DE FINALE",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MELISEY/ST BARTH.",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST LOUP/CORB/MAGN.",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

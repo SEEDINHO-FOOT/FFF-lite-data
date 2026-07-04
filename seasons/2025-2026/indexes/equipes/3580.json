@@ -1,0 +1,982 @@
+{
+ "clNo": "3580",
+ "nom": "ROSTRENEN FC",
+ "noms": [
+  "ROSTRENEN FC",
+  "ROSTRENEN FC 2",
+  "ROSTRENEN FC 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "437406",
+   "division": "Régional 3",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ROSTRENEN FC",
+   "equipe_slug": "510213-rostrenen-fc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "UZEL MERLEAC AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PLOUMAGOAR RC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PONT. ENT TRIEUX FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ST BRIEUC COBSP 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLOUAGAT CHAT LAN FC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOURBRIAC US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BEGARD CS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "PLERIN FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLEDRAN CS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TREGUEUX AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TREGUIER TREGOR FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLOUMAGOAR RC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PONT. ENT TRIEUX FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ST BRIEUC COBSP 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLOUAGAT CHAT LAN FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "BOURBRIAC US",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BEGARD CS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLERIN FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLEDRAN CS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "TREGUEUX AS",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TREGUIER TREGOR FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "UZEL MERLEAC AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438176",
+   "division": "District 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ROSTRENEN FC 2",
+   "equipe_slug": "510213-rostrenen-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "UZEL MERLEAC AS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LA CROIX CORLAY FC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "KERGRIST MOEL US",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "HEMONSTOIR SP",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLOUGERNEVEL K.BREIZ",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "L HERMITAGE LORGE FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST NICOLAS USAP",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ALLINEUC JS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "KERGRIST MOEL US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "HEMONSTOIR SP",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LA CROIX CORLAY FC 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PLOUGERNEVEL K.BREIZ",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PLOUNEVEZ LANRI US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LE VIEUX BOURG FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "TREVE SPORT",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ALLINEUC JS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "L HERMITAGE LORGE FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PLOUNEVEZ LANRI US",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ST NICOLAS USAP",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "TREVE SPORT",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LE VIEUX BOURG FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "UZEL MERLEAC AS 2",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438198",
+   "division": "U14 District 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ROSTRENEN FC",
+   "equipe_slug": "510213-rostrenen-fc",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LOUDEAC OSC",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "TREGUEUX AS",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLOUFRAGAN FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "SBQFC-LANFAINS-FCVB",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ PELEM GUER CORLAY",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COETMIEUX FC CAMP",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LANGUEUX US",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438252",
+   "division": "District 2 Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ROSTRENEN FC",
+   "equipe_slug": "510213-rostrenen-fc",
+   "matchs": [
+    {
+     "date": "2025-09-18",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "GOUDELIN US",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-22",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "MT CAVAN FUTSAL",
+     "score": "9-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-09",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "U.S. PLOUGUISTE",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-23",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "GUINGAMP FUTSAL 3",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-30",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PLESTIN AS",
+     "score": "6-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-20",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "PONT. ENT TRIEUX FC 2",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-04",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "MT CAVAN FUTSAL",
+     "score": "6-9",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-16",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "PLESTIN AS",
+     "score": "9-9",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-15",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "U.S. PLOUGUISTE",
+     "score": "9-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-20",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "GUINGAMP FUTSAL 3",
+     "score": "14-8",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-05",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PONT. ENT TRIEUX FC 2",
+     "score": "15-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-26",
+     "heure": "21:15",
+     "domicile": false,
+     "adversaire": "GOUDELIN US",
+     "score": "7-15",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-05",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PLESTIN AS",
+     "score": "6-7",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-19",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "PLEUDIHEN STADE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-26",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ST BRIEUC CCL 2",
+     "score": "9-8",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-09",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "MERDRIGNAC CS",
+     "score": "9-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-16",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PLAINE HAUTE AS",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-30",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "MT CAVAN FUTSAL",
+     "score": "9-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "21:15",
+     "domicile": false,
+     "adversaire": "GOUDELIN US",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438163",
+   "division": "Coupe Intersport U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ROSTRENEN FC 21",
+   "equipe_slug": "510213-rostrenen-fc-21",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GRACES AS 21",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Huitièmes de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438204",
+   "division": "Challenge  du district phase 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ROSTRENEN FC 2",
+   "equipe_slug": "510213-rostrenen-fc-2",
+   "matchs": [
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LANGUEUX US 2",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438206",
+   "division": "Coupe A LEMEE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ROSTRENEN FC",
+   "equipe_slug": "510213-rostrenen-fc",
+   "matchs": [
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PLOUBEZRE US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "6ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "LANVOLLON JS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLAINTEL SP",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "1/8 FINALE",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAVAN JS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Quarts de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "ROSTRENEN FC",
+   "equipe_slug": "510213-rostrenen-fc",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PORDIC BINIC FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "5ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ROSTRENEN FC",
+   "equipe_slug": "510213-rostrenen-fc",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LANFAINS AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLOUGASNOU ET",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "4ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLOUVORN AG",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "5ème Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,575 @@
+{
+ "clNo": "202987",
+ "nom": "ASCOM FUTSAL",
+ "noms": [
+  "ASCOM FUTSAL",
+  "OURCQ MATHIS FUTSAL"
+ ],
+ "competitions": [
+  {
+   "cpNo": "445418",
+   "division": "U15 FUTSAL",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "OURCQ MATHIS FUTSAL",
+   "equipe_slug": "564813-ourcq-mathis-futsal",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AVION FUTSAL AS",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "DOULLENS CSA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PERONNE FUTSAL C. 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PETITE FORET A.FUTSA",
+     "score": "4-8",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LILLE PETIT TERRAIN 4",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "WATTRELOS FUTSAL",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "OYE PLAGE FUTSAL A.",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PERONNE FUTSAL C. 3",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BETHUNE ESSARS FUT",
+     "score": "3-8",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PETITE FORET A.FUTSA",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "RZF",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440737",
+   "division": "Championnat Futsal U15G",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "OURCQ MATHIS FUTSAL",
+   "equipe_slug": "564813-ourcq-mathis-futsal",
+   "matchs": [
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PETITE FORET A.FUTSA",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "WATTRELOS FUTSAL",
+     "score": "13-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-04",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PERONNE FUTSAL C. 3",
+     "score": "9-20",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MONS EN BAROEUL FC 15",
+     "score": "8-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "DOUCHY FUTSAL",
+     "score": "3-18",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LILLE PETIT TERRAIN 4",
+     "score": "20-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "WATTRELOS FUTSAL",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PERONNE FUTSAL C. 3",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL FC 15",
+     "score": "12-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DOUCHY FUTSAL",
+     "score": "17-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LILLE PETIT TERRAIN 4",
+     "score": "1-16",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PETITE FORET A.FUTSA",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442841",
+   "division": "Interdistricts Futsal Niveau 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "OURCQ MATHIS FUTSAL",
+   "equipe_slug": "564813-ourcq-mathis-futsal",
+   "matchs": [
+    {
+     "date": "2025-10-02",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CAMBRAI FUTSAL",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-23",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "SIN NOBLE FUTSAL EPI",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-28",
+     "heure": "20:15",
+     "domicile": false,
+     "adversaire": "ANZIN FUTSAL 2",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-13",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "GUISE FUTSAL",
+     "score": "10-6",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-04",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "DOUCHY FUTSAL 2",
+     "score": "9-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-11",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "DENAIN FUTSAL CLUB",
+     "score": "8-9",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-18",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CAMBRAI COMMUNAUX AS",
+     "score": "9-10",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-15",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "SFC",
+     "score": "12-5",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-22",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "PETITE FORET A.FUTSA 2",
+     "score": "8-8",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-29",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "DENAIN FUTSAL CLUB 2",
+     "score": "12-4",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-05",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "SIN NOBLE FUTSAL EPI",
+     "score": "10-10",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-12",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "JUSSY FUTSAL",
+     "score": "6-11",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-19",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ANZIN FUTSAL 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-26",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "GUISE FUTSAL",
+     "score": "10-8",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-05",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "DENAIN FUTSAL CLUB",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-19",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "DOUCHY FUTSAL 2",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-23",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CAMBRAI COMMUNAUX AS",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-09",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "JUSSY FUTSAL",
+     "score": "19-4",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-15",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "SFC",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-23",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "PETITE FORET A.FUTSA 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "DENAIN FUTSAL CLUB 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CAMBRAI FUTSAL",
+     "score": "9-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443347",
+   "division": "Coupe Hauts-de-France Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "OURCQ MATHIS FUTSAL",
+   "equipe_slug": "564813-ourcq-mathis-futsal",
+   "matchs": [
+    {
+     "date": "2025-11-27",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CAMBRAI COMMUNAUX AS",
+     "score": "6-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435169",
+   "division": "Coupe Nationale Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ASCOM FUTSAL",
+   "equipe_slug": "564813-ascom-futsal",
+   "matchs": [
+    {
+     "date": "2025-10-09",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "DOULLENS CSA",
+     "score": "7-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

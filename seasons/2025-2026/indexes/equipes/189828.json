@@ -1,0 +1,674 @@
+{
+ "clNo": "189828",
+ "nom": "GJ VAL DE GRAY",
+ "noms": [
+  "GJ VAL DE GRAY",
+  "GJ VAL DE GRAY 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440213",
+   "division": "U13 A 8 BRASSAGE NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ VAL DE GRAY",
+   "equipe_slug": "582364-gj-val-de-gray",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "RIGNY",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "LARIANS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "4 RIVIERES 70",
+     "score": "10-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "PERROUSE 2",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "16:15",
+     "domicile": false,
+     "adversaire": "NOIDANS VESOUL 2",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "SEVEUX/MOTEY",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "VAL DE PESMES",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "MARNAY 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440223",
+   "division": "U11 A 8 BRASSAGE NIVEAU 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ VAL DE GRAY",
+   "equipe_slug": "582364-gj-val-de-gray",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LARIANS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "4 RIVIERES 70",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PERROUSE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "11:45",
+     "domicile": false,
+     "adversaire": "RIOZ",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AMANCE/CORRE/POL.",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GJ SAONOIS",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "RIOZ 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VESOUL F.C.",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440224",
+   "division": "U11 A 8 BRASSAGE NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ VAL DE GRAY 2",
+   "equipe_slug": "582364-gj-val-de-gray-2",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ENT CHAMPLITTE/VINGE",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "SEVEUX/MOTEY",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MEMBREY",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-08",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MONTS DE GY",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "2 VELS",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:45",
+     "domicile": false,
+     "adversaire": "PERROUSE 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MARNAY",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LA ROMAINE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448551",
+   "division": "U13 A 8 CHAMPIONNAT NIVEAU 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ VAL DE GRAY",
+   "equipe_slug": "582364-gj-val-de-gray",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "SEVEUX/MOTEY",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "4 RIVIERES 70",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "MARNAY 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "SEVEUX/MOTEY",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "4 RIVIERES 70",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-15",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "LA ROMAINE",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "MARNAY 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "LA ROMAINE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "VAL DE PESMES 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448557",
+   "division": "U11 A 8 CRITERIUM NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ VAL DE GRAY",
+   "equipe_slug": "582364-gj-val-de-gray",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "10:15",
+     "domicile": false,
+     "adversaire": "ST LOUP/CORB/MAGN.",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MELISEY/ST BARTH.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERROUSE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LARIANS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MELISEY/ST BARTH.",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "11:45",
+     "domicile": false,
+     "adversaire": "PERROUSE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PAYS LUXEUIL",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LARIANS",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PAYS LUXEUIL",
+     "score": "4-9",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST LOUP/CORB/MAGN.",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448561",
+   "division": "U11 A 8 CRITERIUM NIVEAU 4",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "GJ VAL DE GRAY 2",
+   "equipe_slug": "582364-gj-val-de-gray-2",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "2 VELS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PERROUSE 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "RIOZ 4",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-01",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "VAL DE PESMES 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MARNAY",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:45",
+     "domicile": false,
+     "adversaire": "PERROUSE 2",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "RIOZ 4",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "VAL DE PESMES 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MARNAY",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "2 VELS",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

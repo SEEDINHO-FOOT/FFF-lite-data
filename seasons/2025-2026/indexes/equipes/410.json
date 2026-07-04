@@ -1,0 +1,4022 @@
+{
+ "clNo": "410",
+ "nom": "CONCARNEAU US",
+ "noms": [
+  "CONCARNEAU US",
+  "CONCARNEAU US 2",
+  "CONCARNEAU US 21",
+  "CONCARNEAU US 3",
+  "US CONCARNEAU",
+  "US CONCARNEAU 2",
+  "US CONCARNEAU 21",
+  "US CONCARNEAU 22",
+  "US CONCARNEAU 3",
+  "US CONCARNEAU 4"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439632",
+   "division": "MATCHES AMICAUX SENIORS",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US 2",
+   "equipe_slug": "500308-concarneau-us-2",
+   "matchs": [
+    {
+     "date": "2025-08-02",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "AURAY FOOTBALL CLUB",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-06",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "LORIENT CEP",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-13",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ERGUE GABERIC PAOT",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437405",
+   "division": "Régional 2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US 3",
+   "equipe_slug": "500308-concarneau-us-3",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MONTAGNARDE US 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ERGUE GABERIC AM",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLOBANNALEC AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PLOUHINEC FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PLOEMEUR FC 56",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "DOUARNENEZ STELLA",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TREGUNC US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PONT LABBE FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QUEVEN CERC S",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SCAER EA",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QUIMPER ERGUE ARMEL",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ERGUE GABERIC AM",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PLOBANNALEC AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLOUHINEC FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PLOEMEUR FC 56",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "DOUARNENEZ STELLA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "TREGUNC US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PONT LABBE FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "QUEVEN CERC S",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "SCAER EA",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "QUIMPER ERGUE ARMEL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MONTAGNARDE US 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440798",
+   "division": "U18 Régional 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LORIENT FC 2",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PLABENNEC ST",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "PLOUFRAGAN FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LANDERNEAU FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST RENAN EA 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LANNION FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "STADE BRIOCHIN 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "PLERIN FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ST RENAN EA 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "LORIENT FC 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ST MALO US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "PLABENNEC ST",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TA RENNES",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "VITRE AS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "STADE BRIOCHIN 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CHATEAUGIRON US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "PONTIVY STADE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440802",
+   "division": "U16 Régional 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US 21",
+   "equipe_slug": "500308-concarneau-us-21",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PONTIVY STADE 21",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PLOERMEL FC 21",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "RENNES CPB BREQUIGNY 21",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ELVEN FOOTBALL 21",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "STADE RENNAIS FC 21",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "LAMBALLE FC 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GUINGAMP EA 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "QUIMPER ERGUE ARMEL 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PLOUZANE ACF 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440802",
+   "division": "U16 Régional 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TA RENNES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "RENNES CPB BREQUIGNY",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ELVEN FOOTBALL",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "STADE RENNAIS FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GUINGAMP EA",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "12:15",
+     "domicile": true,
+     "adversaire": "QUIMPER ERGUE ARMEL",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VANNES MENIMUR",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PLABENNEC ST",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PONTIVY STADE",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440805",
+   "division": "U15 Régional 1 Breizh Cola",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "LORIENT FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STADE RENNAIS FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "TA RENNES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STADE BRESTOIS 29",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "RENNES CPB BREQUIGNY",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GUINGAMP EA",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "US ST MALO",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "VANNES MENIMUR",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "STADE RENNAIS FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TA RENNES",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "LIFFRE US",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "RENNES CPB BREQUIGNY",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "STADE BRESTOIS 29",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "US ST MALO",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "VANNES MENIMUR",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "ST GREGOIRE US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440883",
+   "division": "Régional 1 Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2025-09-25",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "LOCMINE ST CO",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-02",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PLABENNEC ST",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "PLOUZANE ACF",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-23",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PONTIVY GS",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-06",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LORIENT FC",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-20",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "9-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-04",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "HENNEBONT FUTSAL",
+     "score": "11-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-01-22",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "LOCMINE ST CO",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-06",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PLABENNEC ST",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-26",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PLOUZANE ACF",
+     "score": "9-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-05",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PONTIVY GS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-19",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "LORIENT FC",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-16",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "HENNEBONT FUTSAL",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440886",
+   "division": "Régional 2 Féminine",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "QUIMPER KERFEUNTEUN 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "AURAY FOOTBALL CLUB",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "DIRINON AS",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LANNION FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PLERIN FC 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PAIMPOL STADE FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PLUVIGNER KERIOLETS",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "QUIMPER KERFEUNTEUN 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AURAY FOOTBALL CLUB",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PLERIN FC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LANNION FC",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "DIRINON AS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PAIMPOL STADE FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PLUVIGNER KERIOLETS",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445727",
+   "division": "Championnat Régional Futsal Féminin",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2025-11-20",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LORIENT FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-01",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "EDERN SP",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-14",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "QUIMPER KERFEUNTEUN",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-05",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "EDERN SP",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-05",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "QUIMPER KERFEUNTEUN",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-01",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LORIENT FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447607",
+   "division": "U14 Régional 1 Breizh Cola",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "12:15",
+     "domicile": true,
+     "adversaire": "STADE RENNAIS FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TA RENNES",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ST RENAN EA",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "STADE BRESTOIS 29",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "STADE BRIOCHIN",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST MALO US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "LANNION FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "LOCMINE ST CO",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VANNES MENIMUR",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449636",
+   "division": "PHASE ACCESSION REGIONALE U15F",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-05-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "NOYAL PONTIVY LMB",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "NOYAL PONTIVY LMB",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440881",
+   "division": "Coupe Région Bretagne Féminine",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CLEDER US",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "16ème ",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444250",
+   "division": "U18F Coupe Région Bretagne",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PLOEMEL ENT S",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "16ème ",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLEUDIHEN STADE",
+     "score": "6-6",
+     "statut": "joué",
+     "journee": "8èmes",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST RENAN EA",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444251",
+   "division": "U15F Coupe Région Bretagne",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GUIPAVAS GDR",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "ST RENAN EA",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "16ème ",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444269",
+   "division": "Coupe Région Bretagne Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2025-11-27",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PLABENNEC ST",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444303",
+   "division": "Coupe Nationale Feminine Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-01-09",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "EDERN SP",
+     "score": "4-11",
+     "statut": "joué",
+     "journee": "Tour régional",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "REN FUTSAL AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444306",
+   "division": "U16 Coupe Région Bretagne",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US 21",
+   "equipe_slug": "500308-concarneau-us-21",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PLABENNEC ST 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LE RELECQ KERHUON FC 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "MONTAGNARDE US 21",
+     "score": "10-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444307",
+   "division": "U15 Coupe Région Bretagne",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QUIMPER KERFEUNTEUN",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "PONTIVY STADE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "DOUARNENEZ STELLA",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "8ème de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "US ST MALO",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STADE RENNAIS FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "1/2 finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444335",
+   "division": "U15F Coupe Région Bretagne Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-04-12",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "REN CPB BLOSNE",
+     "score": "9-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LORIENT FC",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444581",
+   "division": "U15 Coupe Région Bretagne Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "STADE BRIOCHIN",
+     "score": "6-14",
+     "statut": "joué",
+     "journee": "1/2 Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BRUZ FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446895",
+   "division": "COUPE REGION BRETAGNE SENIORS",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US 2",
+   "equipe_slug": "500308-concarneau-us-2",
+   "matchs": [
+    {
+     "date": "2025-11-29",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "PLOEMEUR FC 56",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STADE QUIMPERLOIS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "16ème de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448156",
+   "division": "U18 Coupe Région Bretagne",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2026-02-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "LORIENT FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "16ème de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LORIENT SP",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "8ème de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ST MALO US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448158",
+   "division": "U16 Coupe Region Bretagne",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "AURAY FOOTBALL CLUB",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Mise à niveau",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ELVEN FOOTBALL",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "8ème de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ST RENAN EA",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RENNES CPB BREQUIGNY",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1/2 finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448159",
+   "division": "U14 Coupe Région Bretagne",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-02-14",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PLOUZANE ACF",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "16ème de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MORLAIX SC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "8ème de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "STADE BRIOCHIN",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "TA RENNES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1/2 finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438575",
+   "division": "U14 Niveau 1 - R1/R2",
+   "niveau": "Départemental",
+   "echelon": "R1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 21",
+   "equipe_slug": "500308-us-concarneau-21",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ST RENAN EA 21",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "STADE BRESTOIS 29 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ERGUE GABERIC PAOT 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "QUIMPER KERFEUNTEUN 21",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "PLOUVORN AG 21",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438577",
+   "division": "U14 Niveau 3 - D1/D2",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 22",
+   "equipe_slug": "500308-us-concarneau-22",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "DOUARNENEZ STELLA 21",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GJ AEG ST EVARZEC 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "TREGUNC US 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ ESPOIR DE L'ODET 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GJ AVEN PT AVEN 21",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444629",
+   "division": "U11 Intersecteur",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "PLOUVORN AG",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ST RENAN EA",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PONT LABBE FC",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "QUIMPER KERFEUNTEUN",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "STADE BRESTOIS 29",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444656",
+   "division": "U13 District 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 2",
+   "equipe_slug": "500308-us-concarneau-2",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "TREGUNC US",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GJ PP",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PLOGONNEC EC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "QUIMPER ERGUE ARMEL",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MELLAC ST",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GJ PRESQU ILE CROZON",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GJ DU JET-ELLIANT,ST",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444658",
+   "division": "U13 District 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 3",
+   "equipe_slug": "500308-us-concarneau-3",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LANDERNEAU FC 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "MORLAIX SC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "PLOUVORN AG 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ERGUE GABERIC PAOT 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "QUIMPER ERGUE ARMEL 2",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "QUIMPER KERFEUNTEUN 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444942",
+   "division": "U11F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "STADE BRESTOIS 29",
+     "score": "22-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "3-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BOHARS VGA",
+     "score": "1-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LESNEVEN RC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BOHARS VGA",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "LESNEVEN RC",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "STADE BRESTOIS 29",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445094",
+   "division": "BRASS U18F/11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 2",
+   "equipe_slug": "500308-us-concarneau-2",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GJ CAP PLOM PENMARCH",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "STADE QUIMPERLOIS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446193",
+   "division": "U15F FOOT 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "BOHARS VGA",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "GUIPAVAS GDR",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "GFGP",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "QUIMPER KERFEUNTEUN",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446334",
+   "division": "U18F Foot à 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "DIRINON AS",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "STADE QUIMPERLOIS",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "12:15",
+     "domicile": true,
+     "adversaire": "BOHARS VGA",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-06",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "PLOUGONVEN JU",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "LESNEVEN RC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446336",
+   "division": "U18F Foot à 7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 7",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 2",
+   "equipe_slug": "500308-us-concarneau-2",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC DES ENCLOS",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CARHAIX AC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "QUIMPER KERFEUNTEUN 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLOUVIEN AV S",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PLOUGONVEN JU 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446531",
+   "division": "U13 District 1 Elite",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "MORLAIX SC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "PLOUVORN AG",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ERGUE GABERIC PAOT",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LE RELECQ KERHUON FC",
+     "score": "10-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "QUIMPER KERFEUNTEUN",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "STADE BRESTOIS 29",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448391",
+   "division": "U 13 F District 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "DIRINON AS",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LANNILIS SC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT. LANDI/PLOUVORN",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST RENAN EA 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BOHARS VGA",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448451",
+   "division": "U11 District 1 ODET/SUD EST CORNOUAILLE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 2",
+   "equipe_slug": "500308-us-concarneau-2",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BRIEC P",
+     "score": "12-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GJ LANDREDERN",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FOUESNANT US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MELGVEN AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PLONEOUR FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "REDENE ES",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BANNALEC FG",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448451",
+   "division": "U11 District 1 ODET/SUD EST CORNOUAILLE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 3",
+   "equipe_slug": "500308-us-concarneau-3",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ERGUE GABERIC AM",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "TREGUNC US",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "QUIMPER ITALIA",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ERGUE GABERIC PAOT 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GOURIN FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CONCARNEAU HERMINE",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "STADE QUIMPERLOIS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448453",
+   "division": "U11 District 2 ODET/SUD EST CORNOUAILLE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 4",
+   "equipe_slug": "500308-us-concarneau-4",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LE TREVOUX C",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "SCAER EA",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FOUESNANT US 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BENODET GOUESNACH FC",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "TREMEVEN AS",
+     "score": "2-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "STADE QUIMPERLOIS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438474",
+   "division": "Coupe du Conseil Départemental",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US 3",
+   "equipe_slug": "500308-concarneau-us-3",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA FORET FSNT CA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CORAY",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLEYBEN ST",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438569",
+   "division": "U15 Futsal Coupe",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-02-21",
+     "heure": "11:30",
+     "domicile": true,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": "FINALE HONNEUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443793",
+   "division": "Coupe Dép U 18 F A 7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 2",
+   "equipe_slug": "500308-us-concarneau-2",
+   "matchs": [
+    {
+     "date": "2026-04-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GFGP 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443794",
+   "division": "Coupe Dép U18 F A 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "STADE QUIMPERLOIS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "ENT.CRANOU TELGRUC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "PLOUGONVEN JU",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "12:45",
+     "domicile": false,
+     "adversaire": "DIRINON AS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443796",
+   "division": "Coupe Fem U 15 F A 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-04-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "STADE QUIMPERLOIS",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "12:45",
+     "domicile": false,
+     "adversaire": "BOHARS VGA",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Finale ",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444731",
+   "division": "U15F Futsal Coupe",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2026-02-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BOHARS VGA",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "FINALE HONNEUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444897",
+   "division": "U18F Barrages Régionaux",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "16:15",
+     "domicile": true,
+     "adversaire": "GFGP",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444899",
+   "division": "U15F Barrages Régionaux",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "PLOUGONVEN JU",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DIRINON AS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444961",
+   "division": "U13 Coupe Festival",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GJ DU JET-ELLIANT,ST",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GJ PRESQU ILE CROZON",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PONT LABBE FC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444965",
+   "division": "U13 Coupe Sectorielle Quimper",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "US CONCARNEAU 2",
+   "equipe_slug": "500308-us-concarneau-2",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GJ AVEN PT AVEN",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ROSPORDEN FC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MOELAN US",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "CONCARNEAU US 2",
+   "equipe_slug": "500308-concarneau-us-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "ST YVI AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GOURLIZON SP",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "CRB",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "FOUESNANT US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PENMARCH CS",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "CRB",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "CONCARNEAU US",
+   "equipe_slug": "500308-concarneau-us",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MONTAGNARDE US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST BRIEUC GINGLIN AS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "6ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "LE PERTRE BRIELLES",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "ST BRIEUC STADE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "FC NANTES",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435167",
+   "division": "COUPE DE FRANCE FÉMININE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLOUZANE ACF",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LANNION FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FC LORIENT",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Finale régionale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "US CONCARNEAU 21",
+   "equipe_slug": "500308-us-concarneau-21",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "QUIMPER KERFEUNTEUN 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ ARVOR PLOUDAL 21",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "4ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US FOUGERES 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Finale Régionale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MILIZAC ST P",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "3ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "STADE PLABENNECOIS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435169",
+   "division": "Coupe Nationale Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2025-11-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PLOBANNALEC AS",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435680",
+   "division": "COUPE NIKE FÉMININE U18",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "US CONCARNEAU",
+   "equipe_slug": "500308-us-concarneau",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "PLOEMEL ENT S",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Tour Eliminatoire",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GUIPAVAS COAT AL",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "EA SAINT RENAN",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

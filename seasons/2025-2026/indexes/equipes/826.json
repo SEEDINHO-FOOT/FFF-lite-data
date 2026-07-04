@@ -1,0 +1,899 @@
+{
+ "clNo": "826",
+ "nom": "MOISLAINS USCF",
+ "noms": [
+  "MOISLAINS USCF",
+  "MOISLAINS USCF 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "442494",
+   "division": "U17 Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF",
+   "equipe_slug": "501045-moislains-uscf",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ENT. MEAULTE/USOAAS 17",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ALBERT USOAAS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ENT.HANG.PLESS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LE HAMEL O.",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "HAM US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443361",
+   "division": "Seniors D5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF",
+   "equipe_slug": "501045-moislains-uscf",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LICOURT ES 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROYE DAMERY ES",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CARTIGNY US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PERONNE ECAFC 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NESLOIS AS DU PAYS 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "STE EMILIE  EPEHY ES 2",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "HEUDICOURT AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SAILLY SAILLISEL US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ERCHEU RC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ROYE DAMERY ES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PERONNE ECAFC 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STE EMILIE  EPEHY ES 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HEUDICOURT AS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAILLY SAILLISEL US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ERCHEU RC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CARTIGNY US",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "NESLOIS AS DU PAYS 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LICOURT ES 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443362",
+   "division": "Seniors D6",
+   "niveau": "Départemental",
+   "echelon": "D6",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF 2",
+   "equipe_slug": "501045-moislains-uscf-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RETHONVILLERS AS",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRAY SUR SOMME AAE 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "CARTIGNY US 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONCHY LAGACHE O. 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ERCHEU RC 2 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HAM US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "HARBONNIERES SC 2",
+     "score": "3-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ESTREES MONS FC 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "DAVENESCOURT AS 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BRAY SUR SOMME AAE 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONCHY LAGACHE O. 2",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HAM US 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HARBONNIERES SC 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ESTREES MONS FC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DAVENESCOURT AS 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "CARTIGNY US 2",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ERCHEU RC 2 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RETHONVILLERS AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446955",
+   "division": "U17 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF",
+   "equipe_slug": "501045-moislains-uscf",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ALBERT USOAAS 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.HANG.PLESS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ROSIERES US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ENT. MEAULTE/USOAAS 17",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE HAMEL O.",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ROSIERES US",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ALBERT USOAAS 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ENT. MEAULTE/USOAAS 17",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HAM US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ENT.HANG.PLESS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "HAM US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LE HAMEL O.",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442957",
+   "division": "Challenge Michel FROMENTIN",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF 2",
+   "equipe_slug": "501045-moislains-uscf-2",
+   "matchs": [
+    {
+     "date": "2025-11-11",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "HANGEST SANTERRE US 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442957",
+   "division": "Challenge Michel FROMENTIN",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF",
+   "equipe_slug": "501045-moislains-uscf",
+   "matchs": [
+    {
+     "date": "2026-03-22",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "HANGEST SANTERRE US 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442958",
+   "division": "Challenge Roland GUEANT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF 2",
+   "equipe_slug": "501045-moislains-uscf-2",
+   "matchs": [
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ESTREES MONS FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HAM US 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442958",
+   "division": "Challenge Roland GUEANT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF",
+   "equipe_slug": "501045-moislains-uscf",
+   "matchs": [
+    {
+     "date": "2026-04-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ROYE DAMERY ES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CARTIGNY US 2",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CERISY AS 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442959",
+   "division": "Coupe de la Somme Seniors / Challenge CRCA",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF",
+   "equipe_slug": "501045-moislains-uscf",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "DAVENESCOURT AS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LICOURT ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "HANGEST SANTERRE US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "4ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ALLERY AIRAINE AS 2A",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "1/8ème Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442962",
+   "division": "Challenge Michel Fromentin U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "MOISLAINS USCF",
+   "equipe_slug": "501045-moislains-uscf",
+   "matchs": [
+    {
+     "date": "2026-05-20",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "MEAULTE FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHAULNES AAE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "PERONNE ECAFC",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "MOISLAINS USCF",
+   "equipe_slug": "501045-moislains-uscf",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DAVENESCOURT AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

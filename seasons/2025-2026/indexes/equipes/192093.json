@@ -1,0 +1,634 @@
+{
+ "clNo": "192093",
+ "nom": "AS VALLEE DU DUN",
+ "noms": [
+  "AS VALLEE DU DUN",
+  "AS VALLEE DU DUN 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440934",
+   "division": "SENIORS APRÈS-MIDI D4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS VALLEE DU DUN",
+   "equipe_slug": "582769-as-vallee-du-dun",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC OFFRANVILLAIS 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "US GREGEOISE 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC FERRIERE SOMMERY",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC BAILLY EN RIVIERE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "JS ST NICOLAS BETHUN 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "NEUVILLE AC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "RC ETALONDES",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "O. PAVILLAIS 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US GREGEOISE 2",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC FERRIERE SOMMERY",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC BAILLY EN RIVIERE",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "JS ST NICOLAS BETHUN 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NEUVILLE AC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "O. PAVILLAIS 3",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RC ETALONDES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC TOTES 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC TOTES 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC OFFRANVILLAIS 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440939",
+   "division": "SENIORS MATIN D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS VALLEE DU DUN 2",
+   "equipe_slug": "582769-as-vallee-du-dun-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ES YPREVILLAISE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "US NORMANVILLAISE",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "US ALLOUVILLE TROUVI 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT. DU LITTORAL",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC LOUVETOT 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "US HERICOURT 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC AUZEBOSC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST RIQUIER GASEG",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "US YEBLERONNAISE 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "US NORMANVILLAISE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "US ALLOUVILLE TROUVI 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ENT. DU LITTORAL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "FC LOUVETOT 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "US YEBLERONNAISE 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "US HERICOURT 2",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC AUZEBOSC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST RIQUIER GASEG",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ES YPREVILLAISE",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441001",
+   "division": "U15 DÉPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS VALLEE DU DUN",
+   "equipe_slug": "582769-as-vallee-du-dun",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AS FAUVILLAISE 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "STADE VALERIQUAIS",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CS GRAVENCHON 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US DOUDEVILLAISE",
+     "score": "26-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ENT. OURVILLE ALBATR",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "US LILLEBONNAISE 2",
+     "score": "18-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "YVETOT AC 3",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "E.MOTTEVILLE X MARE",
+     "score": "0-18",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CANY FC 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440947",
+   "division": "COUPE ANDRE CAILLOT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS VALLEE DU DUN",
+   "equipe_slug": "582769-as-vallee-du-dun",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CANY FC 3",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LE HAVRE FC 2012 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONT SAINT AIGNAN FC 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1/8èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "S DE GRAND QUEVILLY 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440949",
+   "division": "COUPE ROBERT BALLUET",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS VALLEE DU DUN 2",
+   "equipe_slug": "582769-as-vallee-du-dun-2",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CAUX FC 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441002",
+   "division": "COUPE U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "AS VALLEE DU DUN",
+   "equipe_slug": "582769-as-vallee-du-dun",
+   "matchs": [
+    {
+     "date": "2025-12-20",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AS SASSETOT THEROULD",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

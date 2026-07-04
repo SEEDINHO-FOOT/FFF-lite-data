@@ -1,0 +1,630 @@
+{
+ "clNo": "9310",
+ "nom": "LAGARRIGUE AS",
+ "noms": [
+  "LAGARRIGUE AS"
+ ],
+ "competitions": [
+  {
+   "cpNo": "446731",
+   "division": "CHALLENGE FUTSAL U17/CD 81",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "LAGARRIGUE AS",
+   "equipe_slug": "524159-lagarrigue-as",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "SOREZE FC 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "SOREZE FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ENT SOR AGOUT FOOT 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ENT SOR AGOUT FOOT",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "U.S. AUTAN 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "U.S. AUTAN",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440730",
+   "division": "CHAMP D4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "LAGARRIGUE AS",
+   "equipe_slug": "524159-lagarrigue-as",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "THORE F.C. 81",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "BRASSAC FC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST SULPICE US 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CUQ TOULZA US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE MASNAU AS",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SOREZE FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "A.S. PAYRIN RIGAUTOU 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. AUTAN 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LE MASNAU AS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BRASSAC FC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST SULPICE US 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CUQ TOULZA US 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "SOREZE FC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A.S. PAYRIN RIGAUTOU 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "U.S. AUTAN 2",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THORE F.C. 81",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440827",
+   "division": "CHAMP U17 NIVEAU 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "LAGARRIGUE AS",
+   "equipe_slug": "524159-lagarrigue-as",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST SULPICE US",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE SEQUESTRE LA MYGA",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RIVES TESCOU",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "S. BENFICA GRAULHET",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LE SEQUESTRE LA MYGA",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. DU LAUTRECOIS",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RIVES TESCOU",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. DU LAUTRECOIS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "S. BENFICA GRAULHET",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST SULPICE US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440828",
+   "division": "CHAMP U17 NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "LAGARRIGUE AS",
+   "equipe_slug": "524159-lagarrigue-as",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. RFC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SOREZE FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LACAUNE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. THORE FC 1",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BRASSAC FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440862",
+   "division": "CHALLENGE PIERRE TROUCHE/ OCCICOM TELECOM",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "LAGARRIGUE AS",
+   "equipe_slug": "524159-lagarrigue-as",
+   "matchs": [
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "U.S. AIGUEFONDE 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "UNION GRAULHETOISE 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "R.C. ST BENOIT",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440863",
+   "division": "COUPE DU TARN CD 81/CA",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "LAGARRIGUE AS",
+   "equipe_slug": "524159-lagarrigue-as",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CUQ TOULZA US",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "1ER TOUR - CADRAGE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445182",
+   "division": "COUPE TARN CONSOLANTE U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "LAGARRIGUE AS",
+   "equipe_slug": "524159-lagarrigue-as",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BRIATEXTE AS",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ENT. CADALEN LAGRAVE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "3EME TOUR 1/2 FINALES",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445183",
+   "division": "CHALLENGE OLIVIER BABEY U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "LAGARRIGUE AS",
+   "equipe_slug": "524159-lagarrigue-as",
+   "matchs": [
+    {
+     "date": "2025-10-25",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "LAVAUR F.C. 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "1er tour - Cadrage",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445184",
+   "division": "COUPE TARN HENRI JOURNES U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "LAGARRIGUE AS",
+   "equipe_slug": "524159-lagarrigue-as",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F. CASTRES U.S.",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "1er tour - Cadrage",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

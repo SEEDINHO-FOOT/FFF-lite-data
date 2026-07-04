@@ -1,0 +1,3209 @@
+{
+ "clNo": "200839",
+ "nom": "ASM34",
+ "noms": [
+  "AS MEDITERRANEE 34",
+  "ASM34",
+  "ASM34 2",
+  "ASM34 21",
+  "ASM34 22",
+  "ASM34 3",
+  "ENT. ASM34 - FCTL",
+  "ENT. ASM34 - FCVB",
+  "ENT. ASM34 FCTL"
+ ],
+ "competitions": [
+  {
+   "cpNo": "434764",
+   "division": "Régional 2 M - PRO-SER",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "AS MEDITERRANEE 34",
+   "equipe_slug": "561208-as-mediterranee-34",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "CASTELNAUDARY",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C. PAYS MAZAMETAIN",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "PAULHAN ES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "OL. GIROU F.C.",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "BLAGNAC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BAZIEGE OC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "L UNION ST JEAN FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CUGNAUX",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "JEUNE ENTENTE TOULOU",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TREBES FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CANET ROUSSILLON FC 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CARCASSONNE FAC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "F.C. PAYS MAZAMETAIN",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CONQUES U.S",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BLAGNAC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "BAZIEGE OC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "L UNION ST JEAN FC 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CUGNAUX",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 23",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAULHAN ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 24",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "JEUNE ENTENTE TOULOU",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TREBES FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 26",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CANET ROUSSILLON FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "OL. GIROU F.C.",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CONQUES U.S",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "CARCASSONNE FAC",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CASTELNAUDARY",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "434768",
+   "division": "U18 Régional 2 M",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "AS MEDITERRANEE 34",
+   "equipe_slug": "561208-as-mediterranee-34",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "JACOU CLAPIERS FA",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TLSE METROPOLE FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GOAL",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAISSARGUES",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS TLSE LARDENNE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MAUGUIO CARNON US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TOURNEFEUILLE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "L UNION ST JEAN FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "THUIR F.C",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC MAS 31",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ALBERES / ARGELES",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TLSE METROPOLE FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS TLSE LARDENNE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GOAL",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "FC MAS 31",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MAUGUIO CARNON US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "TOURNEFEUILLE",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAISSARGUES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "L UNION ST JEAN FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THUIR F.C",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ALBERES / ARGELES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "JACOU CLAPIERS FA",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435659",
+   "division": "Coupe Occitanie U19 Amos",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U19",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "AS MEDITERRANEE 34",
+   "equipe_slug": "561208-as-mediterranee-34",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "A.THEZA ALENYA C. OC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "CADRAGE (Tour 1)",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THUIR F.C",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1/32ème de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. ST CLEMENT MONT",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "1/16ème de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CASTANET US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "1/8ème de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "U.S. BERAT",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BEZIERS A. S.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "NIMES OL",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438444",
+   "division": "DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34 2",
+   "equipe_slug": "561208-asm34-2",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAUVIAN FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FLORENSAC PINET",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "S. POINTE COURTE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "F.C. DOMITIA",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CORNEILHAN LIGNAN",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VIL. MAGUELONE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "VILLEVEYRAC US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VIL. BEZIERS FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTPEYROUX FC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ALIGNAN AC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "F.C. DOMITIA",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "MIREVAL AS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "FLORENSAC PINET",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CORNEILHAN LIGNAN",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "VIL. MAGUELONE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VILLEVEYRAC US",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "S. POINTE COURTE",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VIL. BEZIERS FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "MONTPEYROUX FC",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ALIGNAN AC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MIREVAL AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAUVIAN FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438447",
+   "division": "DEPARTEMENTAL 5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34 3",
+   "equipe_slug": "561208-asm34-3",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MARSEILLAN CS",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ASPIRAN RC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTARNAUD AS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RS GIGEANNAIS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MARAUSSAN AO 2",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.HAUTS CANTONS 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST BAUZILLE AS 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VALROS AS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ENSERUNE FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "S. POINTE COURTE 2",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "11:45",
+     "domicile": true,
+     "adversaire": "COEUR HERAULT/CAUX  2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTARNAUD AS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RS GIGEANNAIS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ASPIRAN RC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "11:45",
+     "domicile": false,
+     "adversaire": "MARAUSSAN AO 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.HAUTS CANTONS 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST BAUZILLE AS 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VALROS AS",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENSERUNE FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "11:45",
+     "domicile": false,
+     "adversaire": "COEUR HERAULT/CAUX  2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "S. POINTE COURTE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MARSEILLAN CS",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440674",
+   "division": "U18F à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. ASM34 - FCTL",
+   "equipe_slug": "561208-ent-asm34-fctl",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "CANET AS",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-10",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "AS CROIX D'ARGENT",
+     "score": "18-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "VENDARGUES PI",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-19",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "ST ANDRE SANGONIS OL",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "RC GANGES",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AS CROIX D'ARGENT",
+     "score": "0-13",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VENDARGUES PI",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-12",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE SANGONIS OL",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "RC GANGES",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-16",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "CANET AS",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-30",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ST ANDRE SANGONIS OL",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CANET AS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "VENDARGUES PI",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST ANDRE SANGONIS OL",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-03",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AS CROIX D'ARGENT",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VENDARGUES PI",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "RC GANGES",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "RC GANGES",
+     "score": "11-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-06",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "CANET AS",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "11:30",
+     "domicile": true,
+     "adversaire": "AS CROIX D'ARGENT",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440678",
+   "division": "Féminines à 11 Territoire",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. ASM34 FCTL",
+   "equipe_slug": "561208-ent-asm34-fctl",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SIRIUS GIRLS POMEROL",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-31",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "LA PEYRADE OL",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "VIL. MAGUELONE",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "F.U. NARBONNE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ENSERUNE FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CLERMONTAISE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST PARGOIRE FC",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LA PEYRADE OL",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SIRIUS GIRLS POMEROL",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENSERUNE FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "VIL. MAGUELONE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CLERMONTAISE",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST PARGOIRE FC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "F.U. NARBONNE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442728",
+   "division": "U17 D1 AMBITION",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34",
+   "equipe_slug": "561208-asm34",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.MONTBLANC/BESSAN",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "AGDE RCO 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "ENT.HAUTS CANTONS",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SUD HERAULT FO",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "R. DOCKERS SETE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CORNEILHAN LIGNAN",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CAZOULS MAR MAU",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NEZIGNAN EVEQUE ES",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-04",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "COEUR HERAULT ES",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442731",
+   "division": "U15 D2 AVENIR",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. ASM34 - FCVB",
+   "equipe_slug": "561208-ent-asm34-fcvb",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.DES HAUTS CANTON 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FLORENSAC PINET",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. PUIMI. NEFFIES",
+     "score": "3-12",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PHOENIX FOOTBALL SCH 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENSERUNE FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THONGUE ET LIBRON FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COEUR HERAULT ES",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "SAUVIAN FC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BEZIERS U. S.",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST THIBERY SC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "FLORENSAC PINET",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PHOENIX FOOTBALL SCH 2",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENSERUNE FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "MEZE STADE FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. PUIMI. NEFFIES",
+     "score": "17-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MEZE STADE FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "COEUR HERAULT ES",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAUVIAN FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BEZIERS U. S.",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST THIBERY SC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "THONGUE ET LIBRON FC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.DES HAUTS CANTON 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442742",
+   "division": "U18 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34 22",
+   "equipe_slug": "561208-asm34-22",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT.MONTBLANC/BESSAN 21",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST PARGOIRE FC 38",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SAUVIAN FC 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PUISSALICON MAGALAS 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "MARSEILLAN CS 21",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT.HAUTS CANTONS 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "LESPIGNAN VENDRES FC 22",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442742",
+   "division": "U18 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34 2",
+   "equipe_slug": "561208-asm34-2",
+   "matchs": [
+    {
+     "date": "2026-01-11",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MUC FOOTBALL",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PUISSALICON MAGALAS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GEORGES R.C.",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MARSEILLAN CS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "M. ARCEAUX",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LA PEYRADE OL",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LAVERUNE FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-08",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LESPIGNAN VENDRES FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT.MONTBLANC/BESSAN",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MAUGUIO CARNON US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST ANDRE SANGONIS OL",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MARSILLARGUES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446178",
+   "division": "U13 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34",
+   "equipe_slug": "561208-asm34",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BEZIERS A. S. 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ST GELY FESC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AGDE RCO 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "FLORENSAC PINET",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "PIGNAN AS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LATTES AS",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CANET AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "MONTP. MEDIT. FUTSAL 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PUISSALICON MAGALAS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446179",
+   "division": "U13 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34 2",
+   "equipe_slug": "561208-asm34-2",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "SUD HERAULT FO 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "B.JEUNESSE OL",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "VIASSOIS F.C.O",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CORNEILHAN LIGNAN 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENSERUNE FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "SAUVIAN FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THEZAN ST GENIES",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "COEUR HERAULT ES 2",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "SUD HERAULT FO 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CORNEILHAN LIGNAN 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.DES HAUTS CANTON",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT.MONTBLANC/BESSAN 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENSERUNE FC",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "THONGUE ET LIBRON FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446182",
+   "division": "U12 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34 21",
+   "equipe_slug": "561208-asm34-21",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "PUISSALICON MAGALAS 22",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BEZIERS A. S. 22",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VIASSOIS F.C.O 21",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CAZOULS MAR MAU 21",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PHOENIX FOOTBALL SCH 21",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446183",
+   "division": "U12 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34 2",
+   "equipe_slug": "561208-asm34-2",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "SAUVIAN FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BOUJAN FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.DES HAUTS CANTON",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "THEZAN ST GENIES",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "B.JEUNESSE OL",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GEORGES R.C. 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT ASFAC MIREVAL  2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VIASSOIS F.C.O 2",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "COURNONTERRAL 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ESGVH",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "THEZAN ST GENIES",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PHOENIX FOOTBALL SCH",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BEZIERS U. S.",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446281",
+   "division": "U13 Féminines D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34",
+   "equipe_slug": "561208-asm34",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "THONGUE ET LIBRON FC 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "B.JEUNESSE OL",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LESPIGNAN VENDRES FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ST GEORGES R.C.",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CANET AS",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CASTELNAU CR.",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447712",
+   "division": "U17 TERRITOIRE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34",
+   "equipe_slug": "561208-asm34",
+   "matchs": [
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PRADES LE LEZ FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "R. DOCKERS SETE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "M. LEMASSON RC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "AGDE RCO 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "M. PETIT BARD FC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LAVERUNE FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BALARUC STADE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "M. ATLAS PAILLADE",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "JACOU CLAPIERS FA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ST GELY FESC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SUD HERAULT FO",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447897",
+   "division": "U12 TERRITOIRE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34",
+   "equipe_slug": "561208-asm34",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "M. PETIT BARD FC",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "BAILLARGUES ST BRES",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "PRADES LE LEZ FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ENT. ASFAC MIREVAL",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "JACOU CLAPIERS FA",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOUZIGUES LOUPIAN AC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COURNONTERRAL",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ST CLEMENT MONT",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438455",
+   "division": "CHALLENGE MAURICE MARTIN",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34 3",
+   "equipe_slug": "561208-asm34-3",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LATTES AS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1er tour Challenge Maurice Martin",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438456",
+   "division": "COUPE DE LHERAULT SENIORS - HERAULT SPORT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34",
+   "equipe_slug": "561208-asm34",
+   "matchs": [
+    {
+     "date": "2025-11-19",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BEZIERS A. S.",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-07",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ENT. ST CLEMENT MONT",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-18",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "MAUGUIO CARNON US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442736",
+   "division": "COUPE DE L'HERAULT U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34",
+   "equipe_slug": "561208-asm34",
+   "matchs": [
+    {
+     "date": "2025-12-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RC GANGES",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-04",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ASPTT MONTPELLIER",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "M. ATLAS PAILLADE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442737",
+   "division": "COUPE DE L'HERAULT U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. ASM34 - FCVB",
+   "equipe_slug": "561208-ent-asm34-fcvb",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ASPTT MONTPELLIER",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "tour préliminaire CDH U15",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ST CLEMENT MONT 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "16èmes CDH U15",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442744",
+   "division": "COUPE DE L'HERAULT U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ASM34 22",
+   "equipe_slug": "561208-asm34-22",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MAUGUIO CARNON US 22",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445762",
+   "division": "Coupe de l'Hérault FA11-Herault Sport",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. ASM34 FCTL",
+   "equipe_slug": "561208-ent-asm34-fctl",
+   "matchs": [
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SUSSARGUES FC 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449122",
+   "division": "Coupe Féminines U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ENT. ASM34 - FCTL",
+   "equipe_slug": "561208-ent-asm34-fctl",
+   "matchs": [
+    {
+     "date": "2026-04-19",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CANET AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1/2 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "VENDARGUES PI",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "FINALE CDH U18 FEMININES",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435443",
+   "division": "Coupe Occitanie Intersport Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "AS MEDITERRANEE 34",
+   "equipe_slug": "561208-as-mediterranee-34",
+   "matchs": [
+    {
+     "date": "2025-10-01",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "VAILHAUQUES FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "F.O. SUD HERAULT",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ASM34",
+   "equipe_slug": "561208-asm34",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LE GRAU DU ROI",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ASM34",
+   "equipe_slug": "561208-asm34",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LATTES AS",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

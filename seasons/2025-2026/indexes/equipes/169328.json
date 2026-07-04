@@ -1,0 +1,2543 @@
+{
+ "clNo": "169328",
+ "nom": "NORD GIRONDE US",
+ "noms": [
+  "NORD GIRONDE US",
+  "NORD GIRONDE US 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435203",
+   "division": "Coupe Nouvelle-Aquitaine U15",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CUBZAC LES PONTS FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LIN. NERSAC FLEAC GJ",
+     "score": "19-0",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444176",
+   "division": "MATCHS AMICAUX SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2025-08-29",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "SUD 17 FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435750",
+   "division": "Seniors Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PINEUILH FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ST DENIS DE PILE US 3",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BERSONNAISE JS",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VALLEE DORDOGNE FC 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COUTRAS US 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST ANTOINE LE PIZOU 2",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ABZAC US 33",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PUGNACAISE AS 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CREONNAIS FCC 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BERSONNAISE JS",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VALLEE DORDOGNE FC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FC VALLEE DE L'ARIA 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COUTRAS US 3",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ABZAC US 33",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST DENIS DE PILE US 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FC VALLEE DE L'ARIA 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST ANTOINE LE PIZOU 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PUGNACAISE AS 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CREONNAIS FCC 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PINEUILH FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437435",
+   "division": "U17 Brassage District Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "AMBES FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CENON US",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "FCE MERIGNAC ARLAC 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LEOGNAN USC 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ALLIANCE DU MORON FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AMBARESIENNE ES 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CUBNEZAIS FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MERIGNACAIS SA 3",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RIVE DROITE 33 FC 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437446",
+   "division": "U15 Brassage District Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BEGLAIS CA 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CARBON BLANAIS CA 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CENON US 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "EYSINAISE ES 2",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ES FRONSADAIS ENT 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CHAMBERY RC 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BORDEAUX CHANTECLER",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "RIVE DROITE 33 FC 3",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST EMILIONNAIS FCG 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437450",
+   "division": "U13 Brassage Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CUBNEZAIS FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ALLIANCE DU MORON FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST EMILIONNAIS FCG",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "L ISLE RC GJ",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MASCARET FC 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ST ANDRE CUBZAC FC 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BLAYAIS STADE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ES FRONSADAIS ENT",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LIBOURNE FOOT 2024 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437452",
+   "division": "U13 Brassage Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PORTES ENTRE 2 MERS 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TARGON SOULIGNAC FC 2",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CHAMBERY RC 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CREONNAIS FCC 4",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BORDEAUX ST JEAN ASU 3",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "RIVE DROITE 33 FC 4",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BEAUTIRANAISE AS 2",
+     "score": "10-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ATHLETIC 89 FC ENT 2",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "TERRES DES GRAVES FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437453",
+   "division": "U12 Brassage District",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FRONSADAIS ES ENT 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LIBOURNE FOOT 2024 4",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CUBZAC LES PONTS FC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CUBNEZAIS FC 2",
+     "score": "0-16",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "RIVE DROITE 33 FC",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ST DENIS DE PILE US",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MASCARET FC",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "COTEAUX LIBOURNAIS 4",
+     "score": "2-13",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CARBON BLANAIS CA",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437459",
+   "division": "U14/U17F Brassage à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BRUGES ES",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PAUILLAC ST LAURENT",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "TAILLANAISE AS",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ARSAC LE PIAN MEDOC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BRUGES ES",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "TAILLANAISE AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ARSAC LE PIAN MEDOC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAUILLAC ST LAURENT",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437459",
+   "division": "U14/U17F Brassage à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MAS AC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "U.S.FARGUES TOULENNE",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PESSACAIS STADE UC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GF RD PE2M",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LA BREDE  FC",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "U.S.FARGUES TOULENNE",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PESSACAIS STADE UC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LA BREDE  FC",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "GF RD PE2M",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MAS AC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437466",
+   "division": "U13 Brassage Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ESTUAIRE HTE GDE FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "RACING BASTIDE FEM 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CENON US 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BASSENS CMO",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "RACING BASTIDE FEM 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CENON US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BASSENS CMO",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ESTUAIRE HTE GDE FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437483",
+   "division": "Foot Détente Libournais/Blayais",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-09-26",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "BERSONNAISE JS",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-03",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-10",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CUBZAC LES PONTS FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "F.C. BAYON L.",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-14",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "LOUBESIEN FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-21",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ALLIANCE DU MORON FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-01-23",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CUBNEZAIS FC",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-30",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "E.S. GIRONDINS DE LI",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FOOTBALL CLUB ST CIE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-24",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "MONTFERRANDAISE AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-15",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PUGNACAISE AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447396",
+   "division": "U12 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "HAILLAN FOOT 33 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LIBOURNE FOOT 2024 5",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "EYSINAISE ES",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LORMONT US",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST DENIS DE PILE US",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CUBNEZAIS FC 4",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CUBZAC LES PONTS FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BASSIN ARCACHON FC",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "LEGE CAP FERRET US",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LA BREDE  FC 5",
+     "score": "6-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "VENDAYS MONTALIVET",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447423",
+   "division": "U13 Départemental 6",
+   "niveau": "Départemental",
+   "echelon": "D6",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CUBNEZAIS FC 3",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BERSONNAISE JS",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ALLIANCE DU MORON FC 3",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CUBZAC LES PONTS FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ESTUAIRE HTE GDE FC 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "GENSAC MONTCARET AS 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": " ATHLETIC 89 FC ENT 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MASCARET FC 3",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LIBOURNE ROUGES 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AMBES FC",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PUGNACAISE AS",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447744",
+   "division": "U15 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CAUDERAN AGJA 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ARSAC LE PIAN MEDOC",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LOUBESIEN FC 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "FCE MERIGNAC ARLAC 4",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST MEDARD EN JALLES 3",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PESSACAIS STADE UC 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MACAUDAISE SJ 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "E.S.FRONSADAIS ENT.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BASSENS CMO 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "RIVE DROITE 33 FC 3",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "EYSINAISE ES",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447758",
+   "division": "U17 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BORDEAUX COQS ROUGES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CENON US",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PELLEGRUE AS ENT",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "BOULIACAISE FC",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BRUGES ES 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AMBARESIENNE ES 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA BREDE  FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COTEAUX LIBOURNAIS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST EMILIONNAIS FCG 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "JEUNES DE LANGON 3",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAUDERAN AGJA 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447816",
+   "division": "U13 Féminines Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CENON US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GF RD PE2M",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "RACING BASTIDE FEM",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LEOGNAN USC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "RACING BASTIDE FEM",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CENON US",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GF RD PE2M",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LEOGNAN USC",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447822",
+   "division": "U14/U17 Féminines à 8 Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U14",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "U.S.FARGUES TOULENNE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "COTEAUX LIBOURNAIS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MAS AC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GJ Vézère Pgrd Noir",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "U.S.FARGUES TOULENNE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "MAS AC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GJ Vézère Pgrd Noir",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "COTEAUX LIBOURNAIS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "14:15",
+     "domicile": true,
+     "adversaire": "LEGE CAP FERRET US",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447851",
+   "division": "U15 Départemental 5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PESSAC ALOUETTE FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GRADIGNAN FC 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GENSAC MONTCARET AS 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CANEJAN ES",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FCE MERIGNAC ARLAC 5",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST EMILIONNAIS FCG 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VALLEE DORDOGNE FC",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "COTEAUX DORDOGNE AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VALLEE DE L'ARIA ENT",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "U. HURE-FONTET ENT.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437485",
+   "division": "Coupe de Gironde Seat Skoda",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BARPAIS FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTFERRANDAISE AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437486",
+   "division": "Coupe du District Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US 2",
+   "equipe_slug": "551006-nord-gironde-us-2",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "COTEAUX LIBOURNAIS 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437489",
+   "division": "Coupe de Gironde U17 Crédit Agricole",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COTEAUX LIBOURNAIS",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437491",
+   "division": "Coupe du District U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-11-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MASCARET FC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHAMBERY RC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437492",
+   "division": "Coupe de Gironde U15 Le Five Bordeaux",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2025-12-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COUTRAS US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "FC BORDS DE GARONNE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-25",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ST BRUNO UNION FCS",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437493",
+   "division": "Coupe du District U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2026-03-18",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "PORTES ENTRE 2 MERS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437508",
+   "division": "Coupe de Gironde U14/U17 Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "LANDIRAS ENT",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "JEUNES DE LANGON",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445717",
+   "division": "Coupe de Gironde Foot Détente Lib/Blayais",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NORD GIRONDE US",
+   "equipe_slug": "551006-nord-gironde-us",
+   "matchs": [
+    {
+     "date": "2026-01-16",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "PUGNACAISE AS",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-27",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-13",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ALLIANCE DU MORON FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-20",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "F.C. BAYON L.",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-03",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CUBZAC LES PONTS FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-17",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LOUBESIEN FC",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "1/4 de finale ",
+     "stade": null
+    },
+    {
+     "date": "2026-05-22",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BERSONNAISE JS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1/2 Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

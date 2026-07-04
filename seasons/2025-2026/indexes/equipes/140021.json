@@ -1,0 +1,564 @@
+{
+ "clNo": "140021",
+ "nom": "SHINGABWE",
+ "noms": [
+  "ENT.ENT.VSC MTSAHA/S",
+  "ENT.VSC MTSAHA/S",
+  "SHINGABWE"
+ ],
+ "competitions": [
+  {
+   "cpNo": "448335",
+   "division": "CHAMPIONNAT REGIONAL 4",
+   "niveau": "Régional",
+   "echelon": "R4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "MAYOTTE",
+   "equipe_nom": "SHINGABWE",
+   "equipe_slug": "553899-shingabwe",
+   "matchs": [
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC NARIKEMBELI",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A.J. MTSAHARA 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MTZAMBORO FOOT CLUB",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ETINCELLES HAMJAGO 2",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-06-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AJ BOUYOUNI",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-06-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENFANTS DE MAYOTTE",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-07-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VSC MTSAHARA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-07-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": " ASC ABEILLES 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-08-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "A.S.J. DE HANDREMA 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-08-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ASC D'ACOUA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-09-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "A.J. MTSAHARA 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-09-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MTZAMBORO FOOT CLUB",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ETINCELLES HAMJAGO 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AJ BOUYOUNI",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-10-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENFANTS DE MAYOTTE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VSC MTSAHARA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-11-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": " ASC ABEILLES 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A.S.J. DE HANDREMA 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ASC D'ACOUA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC NARIKEMBELI",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448336",
+   "division": "CHAMPIONNAT REGIONAL U18",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "MAYOTTE",
+   "equipe_nom": "ENT.VSC MTSAHA/S",
+   "equipe_slug": "553899-ent-vsc-mtsaha-s",
+   "matchs": [
+    {
+     "date": "2026-05-31",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "RACINE DU NORD",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ABEILLES",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "US MTSANGAMBOUA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-06-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ENT.TCHANGA/WAHADI",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-07-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ACSJ MLIHA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-07-12",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ETINCELLES HAMJAGO",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448338",
+   "division": "CHAMPIONNAT REGIONAL U15",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "MAYOTTE",
+   "equipe_nom": "ENT.ENT.VSC MTSAHA/S",
+   "equipe_slug": "553899-ent-ent-vsc-mtsaha-s",
+   "matchs": [
+    {
+     "date": "2026-05-31",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ABEILLES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "A.J. MTSAHARA",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "US MTSANGAMBOUA",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-06-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MTZAMBORO FOOT CLUB",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-07-12",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "A.S.J. DE HANDREMA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-07-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ETINCELLES HAMJAGO",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448339",
+   "division": "CHAMPIONNAT REGIONAL U13",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "MAYOTTE",
+   "equipe_nom": "SHINGABWE",
+   "equipe_slug": "553899-shingabwe",
+   "matchs": [
+    {
+     "date": "2026-05-31",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "ABEILLES",
+     "score": "5-9",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "08:30",
+     "domicile": false,
+     "adversaire": "US MTSANGAMBOUA",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "ENT.ETINCEL/EF NORD",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-06-21",
+     "heure": "08:30",
+     "domicile": true,
+     "adversaire": "ASCA",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-07-05",
+     "heure": "08:30",
+     "domicile": false,
+     "adversaire": "MTZAMBORO FOOT CLUB",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448345",
+   "division": "COUPE DE MAYOTTE SENIOR",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "MAYOTTE",
+   "equipe_nom": "SHINGABWE",
+   "equipe_slug": "553899-shingabwe",
+   "matchs": [
+    {
+     "date": "2026-05-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FC PASSI M'BOUINI",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Tour de cadrage Coupe de Mayotte senior Masculine",
+     "stade": null
+    },
+    {
+     "date": "2026-07-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "MIRACLE DU SUD 10",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448346",
+   "division": "COUPE FRANCE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "MAYOTTE",
+   "equipe_nom": "SHINGABWE",
+   "equipe_slug": "553899-shingabwe",
+   "matchs": [
+    {
+     "date": "2026-05-10",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "F.C. DE LABATTOIR",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Tour de cadrage Coupe de France",
+     "stade": null
+    },
+    {
+     "date": "2026-06-27",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "TREVANI SC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "4ème Tour Coupe Régionale de France ",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448351",
+   "division": "COUPE DE MAYOTTE U15",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "MAYOTTE",
+   "equipe_nom": "ENT.ENT.VSC MTSAHA/S",
+   "equipe_slug": "553899-ent-ent-vsc-mtsaha-s",
+   "matchs": [
+    {
+     "date": "2026-06-28",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AS KAHANI",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "2ème Tour Coupe de Mayotte U15",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

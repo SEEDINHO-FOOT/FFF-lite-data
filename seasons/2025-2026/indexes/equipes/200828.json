@@ -1,0 +1,2062 @@
+{
+ "clNo": "200828",
+ "nom": "BFC",
+ "noms": [
+  "BFC",
+  "BFC 2",
+  "ENT BEAUCE",
+  "ENT BEAUCE 2",
+  "ENT BEAUCE 21",
+  "ENT BEAUCE 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "441639",
+   "division": "Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC",
+   "equipe_slug": "561198-bfc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHOUZY/ONZAIN 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST AMAND AVEN 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "SAVIGNY AG",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "CASTLAURENT-LA FERTE 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "E.S.SM-SM",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ET.S. VILLEBAROU",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "A.S.C. TURQUE BLOIS",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "U.S. MER 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NTVAL",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST GERVAIS AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BLOIS ASC PORTUGAIS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHOUZY/ONZAIN 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CASTLAURENT-LA FERTE 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "E.S.SM-SM",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ET.S. VILLEBAROU",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "A.S.C. TURQUE BLOIS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. MER 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAVIGNY AG",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GERVAIS AS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST AMAND AVEN 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "NTVAL",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BLOIS ASC PORTUGAIS",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441640",
+   "division": "Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC 2",
+   "equipe_slug": "561198-bfc-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ET.S. VILLEBAROU 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "CHOUZY/ONZAIN 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SUEVRES AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHAUSSEE ASJ 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "A.S. CHAILLES CANDE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC VILLERBON",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "BLOIS AFC 1995 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "A.C. DE CHAMBORD",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-04",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FOSSE/MAROLLE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BLOIS ASC PORTUGAIS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SUEVRES AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "CHAUSSEE ASJ 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "A.S. CHAILLES CANDE",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC VILLERBON",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BLOIS AFC 1995 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ET.S. VILLEBAROU 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "A.C. DE CHAMBORD",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GERVAIS AS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GERVAIS AS 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHOUZY/ONZAIN 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FOSSE/MAROLLE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BLOIS ASC PORTUGAIS 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441646",
+   "division": "U15 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE",
+   "equipe_slug": "561198-ent-beauce",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "BLOIS AFC 1995",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. VILLEBAROU",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "U.S. MER 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT CHOUZY/ONZAIN",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. VILLEBAROU",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. MER 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT CHOUZY/ONZAIN",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BLOIS AFC 1995",
+     "score": "1-15",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441650",
+   "division": "U13 Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE",
+   "equipe_slug": "561198-ent-beauce",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CASTLAURENT-LA FERTE",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT MUIDES/ST DYE",
+     "score": "27-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "A.S. CHAILLES CANDE",
+     "score": "3-12",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "CHAUSSEE ASJ 4",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-08",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "CHAUSSEE ASJ 4",
+     "score": "15-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "A.C. DE CHAMBORD",
+     "score": "21-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "A.C. DE CHAMBORD",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "A.S. CHAILLES CANDE",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ENT MUIDES/ST DYE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CASTLAURENT-LA FERTE",
+     "score": "12-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441651",
+   "division": "U13 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE 3",
+   "equipe_slug": "561198-ent-beauce-3",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ENT HERBAULT",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "U.S. VENDOME 2",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US PETITE BEAUCE 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST AMAND AVEN 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST AMAND AVEN 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ENT HAUT PERCHE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ENT HAUT PERCHE",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "U.S. VENDOME 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "US PETITE BEAUCE 2",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ENT HERBAULT",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441651",
+   "division": "U13 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE 2",
+   "equipe_slug": "561198-ent-beauce-2",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "U.S. MER 4",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VINEUIL SP. 3",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ENT VILLEBAROU",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "A.S. CHAILLES CANDE 4",
+     "score": "16-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CHAUSSEE ASJ 5",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VINEUIL SP. 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ENT VILLEBAROU",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "A.S. CHAILLES CANDE 4",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CHAUSSEE ASJ 5",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "U.S. MER 4",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441668",
+   "division": "U11 Critérium 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE",
+   "equipe_slug": "561198-ent-beauce",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "U.S. MER 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BLOIS AFC 1995 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "E.S.SM-SM",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "NTVAL",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BLOIS F. 41 3",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CHAUSSEE ASJ 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST OUEN AL",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441669",
+   "division": "U11 Critérium 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE 2",
+   "equipe_slug": "561198-ent-beauce-2",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "U.S. MER 4",
+     "score": "11-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "U.S. VENDOME 4",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST AMAND AVEN",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "E.S.SM-SM 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENT ORCHAISE",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT HAUT PERCHE",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "US PETITE BEAUCE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441670",
+   "division": "U11 Critérium 4",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE 3",
+   "equipe_slug": "561198-ent-beauce-3",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENT. JEUNES NORD 41  2",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "FOSSE/MAROLLE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT. JEUNES NORD 41  3",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENT.  ORCHAISE 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT HAUT PERCHE 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441671",
+   "division": "Seniors Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC",
+   "equipe_slug": "561198-bfc",
+   "matchs": [
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "U.S. CHITENAY CELLET",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "C.AM. MONTRICHARD 2",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "NOUAN LAMOTTE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ORCHAISE ASL",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENT SMSM",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "US PETITE BEAUCE",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VINEUIL SP. 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441674",
+   "division": "U15 Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC",
+   "equipe_slug": "561198-bfc",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PRUNIERS US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VINEUIL SP.",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CHAUSSEE ASJ",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CASTLAURENT-LA FERTE",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-13",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "A.S. CHAILLES CANDE",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT SUEVRES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441679",
+   "division": "Champions Futsal 41",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC",
+   "equipe_slug": "561198-bfc",
+   "matchs": [
+    {
+     "date": "2025-11-12",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "F.C. BLOIS 41 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-19",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "U.S. VENDOME",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-26",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "ASB FUTSAL 2",
+     "score": "15-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-03",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "BLOIS F. 41 2",
+     "score": "6-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-15",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "VINEUIL SP.",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-19",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "BLOIS F. 41",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-01-28",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "BRACIEUX F",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-04",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "ASB FUTSAL",
+     "score": "12-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-10",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "E.S.SM-SM",
+     "score": "7-9",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-10",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ASB FUTSAL 2",
+     "score": "10-5",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-23",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "BLOIS F. 41 2",
+     "score": "9-7",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-01",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "VINEUIL SP.",
+     "score": "31-4",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-14",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ASB FUTSAL",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-20",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "U.S. VENDOME",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "BLOIS F. 41",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-05",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "BRACIEUX F",
+     "score": "3-18",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "E.S.SM-SM",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-26",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "F.C. BLOIS 41 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442866",
+   "division": "U18 Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE 21",
+   "equipe_slug": "561198-ent-beauce-21",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CHAUSSEE ASJ 21",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ENT. VILLEBAROU 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT SUD LOIRE FOOT 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442866",
+   "division": "U18 Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE",
+   "equipe_slug": "561198-ent-beauce",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NTVAL",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NTVAL",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. VILLEBAROU",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT SUD LOIRE FOOT",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CHAUSSEE ASJ",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441680",
+   "division": "Coupe Loir-et-Cher Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC",
+   "equipe_slug": "561198-bfc",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHAUMONT/THAR",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ORCHAISE ASL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441682",
+   "division": "Coupe de District",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC",
+   "equipe_slug": "561198-bfc",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. VENDOME 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441684",
+   "division": "Coupe Loir-et-Cher U18G",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE 21",
+   "equipe_slug": "561198-ent-beauce-21",
+   "matchs": [
+    {
+     "date": "2025-10-25",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "E.S.SM-SM 21",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "A.S. CHAILLES CANDE 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441687",
+   "division": "Coupe Loir-et-Cher U15G",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE",
+   "equipe_slug": "561198-ent-beauce",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US PETITE BEAUCE",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441693",
+   "division": "Coupe Loir-et-Cher Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC",
+   "equipe_slug": "561198-bfc",
+   "matchs": [
+    {
+     "date": "2025-11-02",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VNC FOOT",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CASTLAURENT-LA FERTE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENT SMSM",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "1/2 Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441694",
+   "division": "Coupe Loir-et-Cher U15F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC",
+   "equipe_slug": "561198-bfc",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "A.S. CHAILLES CANDE",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "VINEUIL SP.",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "1/2 Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BLOIS F. 41",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437860",
+   "division": "MATCHS AMICAUX U12",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "ENT BEAUCE",
+   "equipe_slug": "561198-ent-beauce",
+   "matchs": [
+    {
+     "date": "2025-12-17",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "FC ML INGRE 12",
+     "score": null,
+     "statut": "non joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436420",
+   "division": "U13 Féminines A 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "BFC",
+   "equipe_slug": "561198-bfc",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FCVO 13",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST PRYVE ST HILAIRE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT.  VAL  SOLOGNE",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC ML INGRE",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "NEUVILLE SPORTS",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST PRYVE ST HILAIRE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENT.  VAL  SOLOGNE",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FC ML INGRE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NEUVILLE SPORTS",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FCVO 13",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

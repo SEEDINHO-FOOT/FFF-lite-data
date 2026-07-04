@@ -1,0 +1,2488 @@
+{
+ "clNo": "26227",
+ "nom": "CREONNAIS FCC",
+ "noms": [
+  "CREONNAIS FCC",
+  "CREONNAIS FCC 2",
+  "CREONNAIS FCC 3",
+  "CREONNAIS FCC 4"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435202",
+   "division": "Coupe de Nouvelle-Aquitaine",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CASTELJALOUX FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BERGERAC STELLA J",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "GRAVES FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435203",
+   "division": "Coupe Nouvelle-Aquitaine U15",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PUGNACAISE AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435748",
+   "division": "Seniors Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BEGLAIS CA 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "GENSAC MONTCARET AS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST BRUNO UNION FCS 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LANDIRAS FRATERNELLE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ATHLETIC 89 FC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FLOIRAC CM",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TEICHOISE JS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA REOLE GIRONDE FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "MEDOC ATLANTIQUE FCC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BORDEAUX RC 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LANDIRAS FRATERNELLE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ATHLETIC 89 FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GENSAC MONTCARET AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "FLOIRAC CM",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "TEICHOISE JS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST BRUNO UNION FCS 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "ST ANDRE CUBZAC FC 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LA REOLE GIRONDE FC",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MEDOC ATLANTIQUE FCC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BORDEAUX RC 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BEGLAIS CA 2",
+     "score": null,
+     "statut": "arrêté",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435750",
+   "division": "Seniors Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC 2",
+   "equipe_slug": "549494-creonnais-fcc-2",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST ANTOINE LE PIZOU 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PUGNACAISE AS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FC VALLEE DE L'ARIA 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PINEUILH FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST DENIS DE PILE US 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BERSONNAISE JS",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VALLEE DORDOGNE FC 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COUTRAS US 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ABZAC US 33",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NORD GIRONDE US 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC VALLEE DE L'ARIA 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PINEUILH FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ST DENIS DE PILE US 3",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PUGNACAISE AS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BERSONNAISE JS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VALLEE DORDOGNE FC 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COUTRAS US 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ABZAC US 33",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "NORD GIRONDE US 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST ANTOINE LE PIZOU 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437436",
+   "division": "U17 Brassage District Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TARGON SOULIGNAC FC 2",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "EYSINAISE ES 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TERRES DES GRAVES FC",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MACAUDAISE SJ 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PATRONAGE BAZADAIS 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA BREDE  FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CASTETS EN DORTHE CA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PAYS AUROSSAIS ENT ",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CANEJAN ES",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437450",
+   "division": "U13 Brassage Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ST ANDRE CUBZAC FC 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "COTEAUX LIBOURNAIS 2",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ARTIGUAISE US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GENSAC MONTCARET AS",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "VALLEE DE L'ARIA ENT",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ATHLETIC 89 FC ENT",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "COUTRAS US",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PORTES ENTRE 2 MERS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LIBOURNE FOOT 2024 3",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437452",
+   "division": "U13 Brassage Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC 3",
+   "equipe_slug": "549494-creonnais-fcc-3",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST DENIS DE PILE US",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST ANTOINE LE PIZOU",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "COTEAUX LIBOURNAIS 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST SULPICE JEUNESSE 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MASCARET FC 3",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": " ATHLETIC 89 FC ENT 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "COUTRAS US 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LIBOURNE ROUGES 2",
+     "score": "30-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COTEAUX DORDOGNE AS",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437452",
+   "division": "U13 Brassage Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC 2",
+   "equipe_slug": "549494-creonnais-fcc-2",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "VALLEE DORDOGNE FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FRONSADAIS ES ENT 2",
+     "score": "1-12",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "L ISLE RC GJ 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LIBOURNE ROUGES",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PINEUILH FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "COTEAUX DORDOGNE AS 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MARANSIN FC ENT 2",
+     "score": "20-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GUE DE SENAC FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "GENSAC MONTCARET AS 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437452",
+   "division": "U13 Brassage Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC 4",
+   "equipe_slug": "549494-creonnais-fcc-4",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CHAMBERY RC 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "RIVE DROITE 33 FC 4",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BORDEAUX ST JEAN ASU 3",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "NORD GIRONDE US 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BEAUTIRANAISE AS 2",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ATHLETIC 89 FC ENT 2",
+     "score": "0-13",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "TERRES DES GRAVES FC",
+     "score": "24-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PORTES ENTRE 2 MERS 3",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TARGON SOULIGNAC FC 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437478",
+   "division": "Futsal District Féminin",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-11-11",
+     "heure": "22:15",
+     "domicile": false,
+     "adversaire": "SELECAO UNITED ARTIG",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-02",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ST MEDARD JALLES ABP",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-15",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "PESSAC FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-01-05",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "FUTSAL CLUB LG3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-15",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LA BASTIDIENNE SC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-19",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "FF BORDEAUX",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SELECAO UNITED ARTIG",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BORDEAUX COQS ROUGES",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CRAZY DUCKS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-24",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CRAZY DUCKS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "PESSAC FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ST MEDARD JALLES ABP",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FUTSAL CLUB LG3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LA BASTIDIENNE SC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FF BORDEAUX",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-12",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "BORDEAUX COQS ROUGES",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437481",
+   "division": "Critérium Seniors à 7 plus 35 ans avec classement",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-10-03",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FC JVGROUP",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-06",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "RIVE DROITE 33 FC 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-17",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FLOIRAC CM",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "PORTES ENTRE 2 MERS 2",
+     "score": "4-9",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-14",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-19",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CHAMBERY RC 3",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-05",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CARBON BLANAIS CA",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-23",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FC LE BON JOUET",
+     "score": "6-9",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-30",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "PORTES ENTRE 2 MERS 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-06",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "FC PEÑA PEYO 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BORDEAUX METROPOLE 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-24",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ARSAC LE PIAN MEDOC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-13",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CHAMBERY RC 3",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447421",
+   "division": "U13 Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "FCE MERIGNAC ARLAC 4",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "MEDOC ATLANTIQUE FCC 3",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "COUTRAS US",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "VALLEE DE L'ARIA ENT",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PAREMPUYRE FC 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BORDEAUX CHANTECLER",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "L ISLE RC GJ",
+     "score": "17-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MONTFERRANDAISE AS",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CUBNEZAIS FC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ARSAC LE PIAN MEDOC 3",
+     "score": "9-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BLAYAIS STADE",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447421",
+   "division": "U13 Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC 3",
+   "equipe_slug": "549494-creonnais-fcc-3",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "GRADIGNAN FC 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ST SYMPHORIEN SC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MORIZES AS",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ST AUGUSTIN CPA USJ 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ATHLETIC 89 FC ENT 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "U.S.FARGUES TOULENNE 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LA BREDE  FC 3",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BARPAIS FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BASSENS CMO 3",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CHAMBERY AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FC BORDS DE GARONNE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447422",
+   "division": "U13 Départemental 5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC 2",
+   "equipe_slug": "549494-creonnais-fcc-2",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CESTAS SAG 4",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST MEDARD JALLES ABP 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BOUSCATAISE US 3",
+     "score": "12-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CAUDERAN AGJA 2",
+     "score": "0-21",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "U.S.FARGUES TOULENNE",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MAZERES ROAILLAN ES",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "TALENCE FC 2",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "UVGI",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST AUGUSTIN CPA USJ 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "VILLENAVE PORTUGAIS 2",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LA REOLE GIRONDE FC",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447423",
+   "division": "U13 Départemental 6",
+   "niveau": "Départemental",
+   "echelon": "D6",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC 4",
+   "equipe_slug": "549494-creonnais-fcc-4",
+   "matchs": [
+    {
+     "date": "2026-01-10",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "LEOGNAN USC 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "SAUVETERRIENNE AS",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "COTEAUX DORDOGNE AS 2",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "MONSEGURAIS SC 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "FC BORDS DE GARONNE 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "UNION HURE-FONTET",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "TARGON SOULIGNAC FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST SYMPHORIEN SC 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CASTETS EN DORTHE CA",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PATRONAGE BAZADAIS 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LANDIRAS FRATERNELLE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447745",
+   "division": "U15 Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LA REOLE GIRONDE FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TERRES DES GRAVES FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MONSEGURAIS SC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ES FRONSADAIS ENT 2",
+     "score": "15-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAUVETERRIENNE AS",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BLAYAIS STADE 2",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "JEUNES DE LANGON 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "COTEAUX LIBOURNAIS 2",
+     "score": "15-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ESTUAIRE HTE GDE FC",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GAUR. PEUJARD",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "PUGNACAISE AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447759",
+   "division": "U17 Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MACAUDAISE SJ 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MARTIGNAS ILLAC FC 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "TERRES DES GRAVES FC",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CANEJAN ES",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LA BREDE  FC 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CASTETS EN DORTHE CA",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PATRONAGE BAZADAIS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS AUROSSAIS ENT ",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BEGLAIS CA 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BLAYAIS STADE",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BELIN BELIET FC",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "EYSINAISE ES 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437485",
+   "division": "Coupe de Gironde Seat Skoda",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PORTETS FC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-09",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LEOGNAN USC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437486",
+   "division": "Coupe du District Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2026-02-11",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "FRONSADAIS FOOT ES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-08",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CAUDERAN AGJA",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437489",
+   "division": "Coupe de Gironde U17 Crédit Agricole",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-11-01",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "TALENCE FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437491",
+   "division": "Coupe du District U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-11-29",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "FCE MERIGNAC ARLAC 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "3ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437492",
+   "division": "Coupe de Gironde U15 Le Five Bordeaux",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-12-20",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GRADIGNAN FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CENON US",
+     "score": "0-17",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437493",
+   "division": "Coupe du District U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2026-02-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "FC BORDS DE GARONNE",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "CESTAS SAG 2",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445443",
+   "division": "Coupe de Gironde Foot à 7 plus de 35 ans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CREONNAIS FCC",
+   "equipe_slug": "549494-creonnais-fcc",
+   "matchs": [
+    {
+     "date": "2025-11-28",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FLOIRAC CM",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-11",
+     "heure": "20:15",
+     "domicile": false,
+     "adversaire": "FC LE BON JOUET",
+     "score": "5-8",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-04",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "FC JVGROUP",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-01",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CHAMBERY RC 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

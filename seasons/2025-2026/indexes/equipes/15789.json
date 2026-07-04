@@ -1,0 +1,793 @@
+{
+ "clNo": "15789",
+ "nom": "WAVRANS FC",
+ "noms": [
+  "WAVRANS FC",
+  "WAVRANS FC 2",
+  "WAVRANS FC 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440556",
+   "division": "MATCHS AMICAUX SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WAVRANS FC",
+   "equipe_slug": "533763-wavrans-fc",
+   "matchs": [
+    {
+     "date": "2026-01-23",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "DESVRES JS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437030",
+   "division": "SENIORS D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WAVRANS FC",
+   "equipe_slug": "533763-wavrans-fc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "QUIESTEDE US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TOURNEHEM AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS DE LA LYS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VERCHOCQ US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA CAPELLE FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NORTKERQUE AS 95 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOURTHES US 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "WARDRECQUES FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA CAPELLE FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NORTKERQUE AS 95 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HELFAUT ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "WARDRECQUES FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HELFAUT ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS DE LA LYS 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VERCHOCQ US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TOURNEHEM AS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOURTHES US 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QUIESTEDE US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437033",
+   "division": "SENIORS D5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WAVRANS FC 2",
+   "equipe_slug": "533763-wavrans-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "EPERLECQUES CA 4",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST OMER ESSOR 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "WIZERNES FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ARQUES ES 4",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "HALLINES AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST MARTIN TATINGHEM 3",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LONGUENESSE JS 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "HALLINES AS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST MARTIN TATINGHEM 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "STEENBECQUE E",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "STEENBECQUE E",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "WIZERNES FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ARQUES ES 4",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST OMER ESSOR 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "08:45",
+     "domicile": true,
+     "adversaire": "LONGUENESSE JS 4",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "EPERLECQUES CA 4",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437036",
+   "division": "SENIORS D7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WAVRANS FC 3",
+   "equipe_slug": "533763-wavrans-fc-3",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LYS AA FC 4",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST OMER ESSOR 4",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "WIZERNES FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST MARTIN TATINGHEM 5",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SETQUES AS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "HALLINES AS 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "NIEURLET SL 2",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "08:45",
+     "domicile": true,
+     "adversaire": "SETQUES AS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "HALLINES AS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "WATTEN CS 4",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LONGUENESSE MALA FC 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "WATTEN CS 4",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "WIZERNES FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST MARTIN TATINGHEM 5",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LONGUENESSE MALA FC 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST OMER ESSOR 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "NIEURLET SL 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LYS AA FC 4",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437130",
+   "division": "Coupe ADN D4D5",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WAVRANS FC 2",
+   "equipe_slug": "533763-wavrans-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ECQUES HEURINGHEM FC 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BOULOGNE S/MER ESL 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437132",
+   "division": "Coupe DG Buro D6D7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WAVRANS FC 3",
+   "equipe_slug": "533763-wavrans-fc-3",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "HUCQUELIERS SSFR",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MAMETZ ES 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "TOUR 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437135",
+   "division": "Coupe D1D2D3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WAVRANS FC",
+   "equipe_slug": "533763-wavrans-fc",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "18:15",
+     "domicile": false,
+     "adversaire": "ST MARTIN TATINGHEM 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LUMBRES O. 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "TOUR 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-22",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "WATTEN CS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "TOUR 3",
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ARQUES ES 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "8ème FINALE",
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "BLARINGHEM US",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "1/4 FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449022",
+   "division": "Coupe ADN",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WAVRANS FC 2",
+   "equipe_slug": "533763-wavrans-fc-2",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "HUMBERT US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "1/8ème FINALE",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

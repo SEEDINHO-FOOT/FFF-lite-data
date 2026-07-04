@@ -1,0 +1,920 @@
+{
+ "clNo": "7501",
+ "nom": "SARDENTAIS SC",
+ "noms": [
+  "SARDENTAIS SC",
+  "SARDENTAIS SC 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "444245",
+   "division": "MATCHS AMICAUX FEMININS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC",
+   "equipe_slug": "521318-sardentais-sc",
+   "matchs": [
+    {
+     "date": "2025-08-14",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "STE FEYRE RAPID FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437171",
+   "division": "Départemental 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC",
+   "equipe_slug": "521318-sardentais-sc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA SOUTERRAINE ESM",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NOUZIERS LA CELLETTE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BENEVENT MARSAC ES 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST MAURICE LA SOUT.",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOURGANEUF USC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST VAURY HOPIT. US",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST DIZIER LEYRENNE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "STE FEYRE RAPID FC 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FURSAC FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST SULPICE LE GTOIS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DUN-NAILLAT ES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BENEVENT MARSAC ES 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NOUZIERS LA CELLETTE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "BOURGANEUF USC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST VAURY HOPIT. US",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST DIZIER LEYRENNE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST MAURICE LA SOUT.",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "STE FEYRE RAPID FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "DUN-NAILLAT ES",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FURSAC FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST SULPICE LE GTOIS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "LA SOUTERRAINE ESM",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437173",
+   "division": "Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC 2",
+   "equipe_slug": "521318-sardentais-sc-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STE FEYRE RAPID FC 4",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "VERSILLACOISE US 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "ST DIZIER LEYRENNE 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "FURSAC FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST SEBASTIEN AZERAB. 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "DUN-NAILLAT ES 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE GRAND BOURG US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST MAURICE LA SOUT. 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "VERSILLACOISE US 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "FURSAC FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ST SEBASTIEN AZERAB. 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "DUN-NAILLAT ES 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "ST MAURICE LA SOUT. 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LE GRAND BOURG US 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST DIZIER LEYRENNE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "13:15",
+     "domicile": true,
+     "adversaire": "STE FEYRE RAPID FC 4",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ASSMLR",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AHUNOISE ES 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437180",
+   "division": "Féminines Brassages",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC",
+   "equipe_slug": "521318-sardentais-sc",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BOURGANEUF USC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ROYERE VASSIVIERE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "STE FEYRE RAPID FC",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437215",
+   "division": "Féminines Division 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC",
+   "equipe_slug": "521318-sardentais-sc",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AUBUSSONNAIS EF",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST SULPICE LE GTOIS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CREUSE AVENIR 2005",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "BORD ST GEORGES AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ROYERE VASSIVIERE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "AUZANCES US 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ASSMLR",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ST SULPICE LE GTOIS",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CREUSE AVENIR 2005",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BORD ST GEORGES AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AUZANCES US 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ROYERE VASSIVIERE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ASSMLR",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AUBUSSONNAIS EF",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437216",
+   "division": "Championnat Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC",
+   "equipe_slug": "521318-sardentais-sc",
+   "matchs": [
+    {
+     "date": "2025-11-18",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "SOSTRA FUTSAL",
+     "score": "6-15",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-03",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "E.S. JARNAGES PARSAC",
+     "score": "27-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-10",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "CREUSE AVENIR 2005",
+     "score": "2-18",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-14",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ASNEC",
+     "score": "6-11",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-01-27",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "AHUNOISE ES 2",
+     "score": "8-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-24",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "DUN-NAILLAT ES",
+     "score": "8-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-03",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AHUNOISE ES",
+     "score": "7-15",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437193",
+   "division": "Coupe Gilbert Andrivet",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC",
+   "equipe_slug": "521318-sardentais-sc",
+   "matchs": [
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LUSSAT AS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Premier tour",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FELLETIN US",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437194",
+   "division": "Coupe Jean Bussière",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC 2",
+   "equipe_slug": "521318-sardentais-sc-2",
+   "matchs": [
+    {
+     "date": "2025-12-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "NOUZIERS LA CELLETTE 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Premier tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST MAURICE LA SOUT. 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Deuxième tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437195",
+   "division": "Coupe de la Creuse",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC",
+   "equipe_slug": "521318-sardentais-sc",
+   "matchs": [
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CREUSE AVENIR 2005",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Deuxieme tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST SULPICE LE GTOIS",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Troisième tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437201",
+   "division": "Coupe de la Creuse Féminine à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SARDENTAIS SC",
+   "equipe_slug": "521318-sardentais-sc",
+   "matchs": [
+    {
+     "date": "2025-12-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AUBUSSONNAIS EF",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Premier tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

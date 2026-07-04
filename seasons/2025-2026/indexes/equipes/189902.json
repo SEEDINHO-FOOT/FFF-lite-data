@@ -1,0 +1,414 @@
+{
+ "clNo": "189902",
+ "nom": "REN FUTSAL AS",
+ "noms": [
+  "REN FUTSAL AS",
+  "REN FUTSAL AS 12"
+ ],
+ "competitions": [
+  {
+   "cpNo": "445727",
+   "division": "Championnat Régional Futsal Féminin",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN FUTSAL AS",
+   "equipe_slug": "582374-ren-futsal-as",
+   "matchs": [
+    {
+     "date": "2025-10-23",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "STADE BRIOCHIN",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "STADE BRIOCHIN 2",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "PLERIN FC",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-15",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "STADE BRIOCHIN 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-08",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PLERIN FC",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-01-16",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "STADE BRIOCHIN",
+     "score": "13-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447203",
+   "division": "CHALLENGE REGIONAL EFOOT ORANGE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN FUTSAL AS 12",
+   "equipe_slug": "582374-ren-futsal-as-12",
+   "matchs": [
+    {
+     "date": "2025-12-01",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST ARMEL US 12",
+     "score": "4-28",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-08",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "GUIPRY MESSAC FC 12",
+     "score": "10-21",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-15",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "QUEDILLAC SEP 12",
+     "score": "7-32",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-22",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "GUILLAC GDE MI VOIE 12",
+     "score": "13-15",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-29",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "TAUPONT AURORE 12",
+     "score": "16-13",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-05",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "LA LANDEC AS 12",
+     "score": "20-13",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-01-12",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "LA RICHARDAIS CS 12",
+     "score": "22-11",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-01-19",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CHELUN MARTIGNE Cad. 12",
+     "score": "33-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-26",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CLEGUEREC FC 12",
+     "score": "12-25",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-02",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "EPINIAC ASSP 12",
+     "score": "19-8",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-09",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "LANVALLAY US 12",
+     "score": "22-7",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448768",
+   "division": "Play-Off Championnat Féminin Futsal Rég",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN FUTSAL AS",
+   "equipe_slug": "582374-ren-futsal-as",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "LORIENT FC",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "PLERIN FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "LORIENT FC",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-15",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "PLERIN FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444301",
+   "division": "Coupe Région Bretagne Futsal Féminine",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN FUTSAL AS",
+   "equipe_slug": "582374-ren-futsal-as",
+   "matchs": [
+    {
+     "date": "2026-03-25",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "LORIENT FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444303",
+   "division": "Coupe Nationale Feminine Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN FUTSAL AS",
+   "equipe_slug": "582374-ren-futsal-as",
+   "matchs": [
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US CONCARNEAU",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447217",
+   "division": "Coupe Futsal Séniors F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "REN FUTSAL AS",
+   "equipe_slug": "582374-ren-futsal-as",
+   "matchs": [
+    {
+     "date": "2026-03-12",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "ST AUBIN CORMIER STA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-15",
+     "heure": "20:50",
+     "domicile": true,
+     "adversaire": "VITRE AS",
+     "score": "15-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "BRUZ FC",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

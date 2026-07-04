@@ -1,0 +1,556 @@
+{
+ "clNo": "186867",
+ "nom": "CHABANAIS FC",
+ "noms": [
+  "CHABANAIS FC",
+  "CHABANAIS FC 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "438426",
+   "division": "CRITERIUM A 7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CHABANAIS FC 2",
+   "equipe_slug": "581839-chabanais-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LA ROCHE-RIVIERES FC 4",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CHTE LIMOUSINE FC 4",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST CLAUD SC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "HAUTE CHARENTE FC 4",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ETAGNAC US 2",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "JS. EXIDEUIL 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FONTAFIE FC 3",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CHASSENEUIL 16 US 4",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST CLAUD SC 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FONTAFIE FC 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FC ST MAURICE MANOT 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "HAUTE CHARENTE FC 4",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ETAGNAC US 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "US BANDIAT FOOT 3",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "JS. EXIDEUIL 2",
+     "score": "1-11",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CHASSENEUIL 16 US 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "CHTE LIMOUSINE FC 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "US BANDIAT FOOT 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FC ST MAURICE MANOT 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LA ROCHE-RIVIERES FC 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438427",
+   "division": "DEPARTEMENTAL 3 MENUISERIES DE LA ROCHE",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CHABANAIS FC",
+   "equipe_slug": "581839-chabanais-fc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ABZAC US",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AGRIS SC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTBRON USA 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "RUFFECOIS STADE 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOUEX U.S.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GARAT SERS VOUZAN JS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "JS. EXIDEUIL",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHASSENEUIL 16 US 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FONTAFIE FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RUFFECOIS STADE 3",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CHASSENEUIL 16 US 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HAUTE CHARENTE FC 2",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOUEX U.S.",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GARAT SERS VOUZAN JS",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AGRIS SC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "JS. EXIDEUIL",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "FONTAFIE FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US BANDIAT FOOT",
+     "score": "3-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTBRON USA 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "US BANDIAT FOOT",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HAUTE CHARENTE FC 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ABZAC US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445791",
+   "division": "COUPE DU DISTRICT CA - J DEBRIS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CHABANAIS FC",
+   "equipe_slug": "581839-chabanais-fc",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAULGOND ASC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-03-25",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FC ST MAURICE MANOT",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VOEUIL AS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "8eme de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445793",
+   "division": "CPE CR7 CA - GILLES ROUFFIGNAT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "CHABANAIS FC 2",
+   "equipe_slug": "581839-chabanais-fc-2",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST CLAUD SC 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "JS. EXIDEUIL 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "2eme Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

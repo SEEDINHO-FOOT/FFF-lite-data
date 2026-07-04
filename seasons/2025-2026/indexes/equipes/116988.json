@@ -1,0 +1,4264 @@
+{
+ "clNo": "116988",
+ "nom": "TRELISSAC APFC",
+ "noms": [
+  "TRELISSAC APFC",
+  "TRELISSAC APFC 2",
+  "TRELISSAC APFC F 3",
+  "TRELISSAC APFC U18R1 18"
+ ],
+ "competitions": [
+  {
+   "cpNo": "436359",
+   "division": "MATCHS AMICAUX SÉNIORS",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-07-29",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "BIGANOS FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-02",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "MERIGNAC ARLAC FCE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "JARNAC SPORTS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-08",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "VILLENAVE JEUNESSE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-16",
+     "heure": "20:15",
+     "domicile": true,
+     "adversaire": "MERIGNACAIS SA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436367",
+   "division": "MATCHS AMICAUX FÉMININES",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-08-26",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "SOYAUX CHTE ASJ",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435783",
+   "division": "SENIORS REGIONAL 2",
+   "niveau": "Régional",
+   "echelon": "R2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC 2",
+   "equipe_slug": "552085-trelissac-apfc-2",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ALLIANCE FOOT 3B",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BLANQUEFORTAISE ES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "COTEAUX LIBOURNAIS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "SIREUIL JS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ARSAC LE PIAN MEDOC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "PRIGONRIEUX FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "MEDOC ATLANTIQUE FCC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ST BRUNO UNION FCS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST MEDARDAIS STADE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANGOULEME LEROY CS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "BLANQUEFORTAISE ES",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "COTEAUX LIBOURNAIS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "SIREUIL JS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ARSAC LE PIAN MEDOC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "PRIGONRIEUX FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "MEDOC ATLANTIQUE FCC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ST BRUNO UNION FCS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST MEDARDAIS STADE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ANGOULEME LEROY CS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ALLIANCE FOOT 3B",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435785",
+   "division": "U18 Régional 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ANGOULEME CHTE FC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHAURAY FC",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "POITIERS STADE FC 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MONTMORILLON UES",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LORMONT US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ISLE JA",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CHATELLERAULT SO",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CHAURAY FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-06",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LIMOGES FOOTBALL",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BRESSUIRE FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LIMOGES FOOTBALL",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-04",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ANGOULEME CHTE FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "POITIERS STADE FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTMORILLON UES",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LORMONT US",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ISLE JA",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRESSUIRE FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHATELLERAULT SO",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435787",
+   "division": "U17 Régional 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PERIGNY FC",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LIMOGES FOOTBALL",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FEYTIAT CS",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GUERETOISE ES",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "BRIVE ESA",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "POITIERS STADE FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VERNEUIL S/VIENNE SC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COGNAC FOOTBALL UA",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "BRESSUIRE FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "FEYTIAT CS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GUERETOISE ES",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BRIVE ESA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "POITIERS STADE FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VERNEUIL S/VIENNE SC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "SAINTES FOOTBALL ES",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LIMOGES FOOTBALL",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COGNAC FOOTBALL UA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "SAINTES FOOTBALL ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BRESSUIRE FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PERIGNY FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435791",
+   "division": "U16 Régional 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GIRONDINS BORDEAUX",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DAX JEANNE D ARC",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BAYONNE CROISES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "PAU FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PORTE D AQUITAINE 47",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "STADE BORDELAIS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST MEDARD EN JALLES",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "JEUNES DE LANGON",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GIRONDINS BORDEAUX",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "DAX JEANNE D ARC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "BAYONNE CROISES",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAU FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PORTE D AQUITAINE 47",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "STADE BORDELAIS",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST MEDARD EN JALLES",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "JEUNES DE LANGON",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435793",
+   "division": "U15 Régional 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BRIVE ESA",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BORDEAUX COQS ROUGES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LIMOGES FOOTBALL",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STADE BORDELAIS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COGNAC FOOTBALL UA",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BORDEAUX COQS ROUGES",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LIBOURNE FOOT 2024",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LIMOGES FOOTBALL",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "STADE BORDELAIS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SAINTES FOOTBALL ES",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "SAINTES FOOTBALL ES",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COGNAC FOOTBALL UA",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BRIVE ESA",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435796",
+   "division": "U14 Ligue",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SARLAT MARCILLAC FC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BORDEAUX ST JEAN ASU",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STADE BORDELAIS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CAUDERAN AGJA",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BOE BON ENCONTRE",
+     "score": "16-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TAILLANAISE AS",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BRUGES ES",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PORTE D AQUITAINE 47",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435800",
+   "division": "Féminines Régional 2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. BOUSCAT",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "MERIGNAC ARLAC FCE 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "POEY DE LESCAR AL",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "POLE PALOIS FF",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BIARRITZ JEANNE ARC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "EYSINAISE ES",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GRADIGNAN FC 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BASSIN ARCACHON FC",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANGOULEME CHTE FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GAROFOOT FEMININ",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SARLAT MARCILLAC FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MERIGNAC ARLAC FCE 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "POEY DE LESCAR AL",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "POLE PALOIS FF",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BIARRITZ JEANNE ARC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "EYSINAISE ES",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GRADIGNAN FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BASSIN ARCACHON FC",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ANGOULEME CHTE FC",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GAROFOOT FEMININ",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SARLAT MARCILLAC FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "U.S. BOUSCAT",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445221",
+   "division": "U15 F A 11",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "Izarra",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LEOGNAN USC",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GAROFOOT FEMININ",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "Izarra",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LEOGNAN USC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANGLET GENETS FOOT",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ANGLET GENETS FOOT",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GAROFOOT FEMININ",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446527",
+   "division": "U18F ELITE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "SAINTES FOOTBALL ES",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AIGREFEUILLE US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BRIVE ESA",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "POITIERS STADE FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "GIRONDINS BORDEAUX 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ANGLET GENETS FOOT",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "AIGREFEUILLE US",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BRIVE ESA",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PAU FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "ANGLET GENETS FOOT",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAU FC",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRESSUIRE FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "POITIERS STADE FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GIRONDINS BORDEAUX 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BRESSUIRE FC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAINTES FOOTBALL ES",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447167",
+   "division": "U14 Régional 1",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST FLORENT CHAMOIS",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THOUARS FOOT 79",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CERIZAY CO",
+     "score": "4-8",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ESPOIR SUD POIT. GJ",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAP AUNIS ASPTT FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CHAUVIGNY VVM GJ",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERIGNY FC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ROCHEFORT FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRESSUIRE FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447169",
+   "division": "U13 CRITERIUM REGIONAL",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SARLAT MARCILLAC FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "J.A. BEL-AIR",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ST PANTALEON AS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AURENCE-ROUSSILLON F",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:30",
+     "domicile": true,
+     "adversaire": "AIXE SUR VIENNE AS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LIMOGES FOOTBALL",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BRIVE ESA",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GUERETOISE ES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "COGNAC FOOTBALL UA",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435202",
+   "division": "Coupe de Nouvelle-Aquitaine",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-02-21",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "AUZANCES US",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "VILLENAVE JEUNESSE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "STADE MONTOIS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1/8èmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435203",
+   "division": "Coupe Nouvelle-Aquitaine U15",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-11-01",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ISLE JA",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "TULLE FOOT CORREZE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VALLEE DU LOT FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "SAINTES FOOTBALL ES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1/8èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "BRESSUIRE FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435204",
+   "division": "Coupe Nouvelle-Aquitaine Féminine",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-02-25",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ENTENTE VERGERS GJ",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "THOUARS FOOT 79",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AIGREFEUILLE US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1/8èmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435205",
+   "division": "Coupe NA U15 F à 11",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BRESSUIRE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1/8èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GIRONDINS BORDEAUX",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441893",
+   "division": "CHALLENGE NA U16",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FEYTIAT CS",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST PANTALEON AS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443921",
+   "division": "CHALLENGE NA U14",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PORTES ENTRE 2 MERS",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BEGLAIS CA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST ANDRE CUBZAC FC",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ANGOULEME CHTE FC",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "1/16èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ST PANTALEON AS",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "1/8èmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "MERIGNACAIS SA",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444461",
+   "division": "MATCHS AMICAUX /  U14-U17 F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-08-30",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SOYAUX CHTE ASJ",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440174",
+   "division": "MATCHS AMICAUX SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-07-26",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "STADE BORDELAIS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437761",
+   "division": "MATCHS AMICAUX SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC 2",
+   "equipe_slug": "552085-trelissac-apfc-2",
+   "matchs": [
+    {
+     "date": "2025-08-14",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "THENON LIMEYRAT FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-25",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "CHANCELADE MARSAC 24",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-29",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "BRIVE ESA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437761",
+   "division": "MATCHS AMICAUX SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC U18R1 18",
+   "equipe_slug": "552085-trelissac-apfc-u18r1-18",
+   "matchs": [
+    {
+     "date": "2025-08-20",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "COULOUNIEIX CHAMIERS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437761",
+   "division": "MATCHS AMICAUX SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-01-28",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "THENON LIMEYRAT FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442472",
+   "division": "MATCHS AMICAUX FÉMININES",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-08-20",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "ST PANTALEON AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-24",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BLAGNAC FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-30",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "US MONTBAZENS RIGNAC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST MEDARD GUIZ. PPE.",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444163",
+   "division": "MATCHS AMICAUX U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-08-23",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-26",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "VERNEUIL S/VIENNE SC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444254",
+   "division": "MATCHS AMICAUX U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-08-20",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "SANILHACOIS SA U16 16",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-22",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BRIVE ESA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-27",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ST PANTALEON AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT. RIBERAC SAS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GJ Vézère Pgrd Noir",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445085",
+   "division": "MATCHS AMICAUX U15F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FCE MERIGNAC ARLAC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449679",
+   "division": "COUPE DISTRICT FOOT ADAPTE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-06-06",
+     "heure": "15:45",
+     "domicile": true,
+     "adversaire": "SARLAT MARCILLAC FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441030",
+   "division": "U15 Féminines à 11 24/47",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GAROFOOT FEMININ",
+     "score": "11-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SANILHACOIS SA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AGENAIS SU",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "2-10",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "SANILHACOIS SA",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "AGENAIS SU",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GAROFOOT FEMININ",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443200",
+   "division": "U13 Niveau Elite",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC 2",
+   "equipe_slug": "552085-trelissac-apfc-2",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CHANCELADE MARSAC 24 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "COTEAUX PECHARMANT",
+     "score": "12-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ENT. ALLIANCE FCLB",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PRIGONRIEUX FC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SANILHACOIS SA",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SARLAT MARCILLAC FC",
+     "score": "6-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "COTEAUX PECHARMANT",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ENT. ALLIANCE FCLB",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BERGERAC PERIGORD FC 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COULOUNIEIX CHAMIERS",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SANILHACOIS SA",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CHAMPCEVINEL AS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LIMEUIL FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "EYMETOISE FCO",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SARLAT MARCILLAC FC 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CHANCELADE MARSAC 24",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "COTEAUX PECHARMANT",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GJ BEAURONNE DRONNE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "PRIGONRIEUX FC",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443200",
+   "division": "U13 Niveau Elite",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CHAMPCEVINEL AS",
+     "score": "1-13",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CHANCELADE MARSAC 24",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "COULOUNIEIX CHAMIERS",
+     "score": "1-15",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GJ Vézère Pgrd Noir",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "PERIGUEUX FOOT",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SARLAT MARCILLAC FC 2",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHAMPCEVINEL AS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CHANCELADE MARSAC 24",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SANILHACOIS SA",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SARLAT MARCILLAC FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443202",
+   "division": "U13 Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC F 3",
+   "equipe_slug": "552085-trelissac-apfc-f-3",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "PERIGUEUX FOOT",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. NONTRON ST PX",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CONDAT SUR VEZERE FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-22",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "ATUR FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ENT. MONTIGNAC ROUFF",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "COULOUNIEIX CHAMIERS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SANILHACOIS SA 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GJ Vézère Pgrd Noir",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "EXCIDEUIL ST MEDARD",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443204",
+   "division": "U13 Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC F 3",
+   "equipe_slug": "552085-trelissac-apfc-f-3",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "COURSAC FOOT AS",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "MUSSIDAN ST MEDARD 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SANILHACOIS SA 3",
+     "score": "1-11",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHANCELADE MARSAC 24 3",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LIMEUIL FC 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ENT.RAZAC USAB ",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "U.S.MARSANEIX",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "COURSAC FOOT AS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ENT. MONTIGNAC ROUFF",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CONDAT SUR VEZERE FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "MEYRALS",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437699",
+   "division": "Coupe Département Dordogne",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC 2",
+   "equipe_slug": "552085-trelissac-apfc-2",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "CHANCELADE MARSAC 24",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442868",
+   "division": "Coupe Dordogne U18F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SANILHACOIS SA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-13",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443508",
+   "division": "Coupe Dordogne Talis U19",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U19",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-04-22",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "SANILHACOIS SA",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-13",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "SARLAT MARCILLAC FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443511",
+   "division": "Coupe Dordogne U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PRIGONRIEUX FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BERGERAC LA CATTE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443515",
+   "division": "Coupe Dordogne U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ Vézère Pgrd Noir",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOULAZAC ES 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443809",
+   "division": "Coupe Dordogne Féminines à 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449188",
+   "division": "Coupe Dordogne U15F",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "SANILHACOIS SA",
+     "score": "1-19",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444173",
+   "division": "MATCHES AMICAUX U19",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U19",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-08-16",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ISLE JA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444174",
+   "division": "MATCHES AMICAUX U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-08-18",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ISLE JA",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-29",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "FEYTIAT CS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444904",
+   "division": "U18 Féminines 47/24",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "COULOUNIEIX CHAMIERS",
+     "score": "18-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BERGERAC PERIGORD FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GAROFOOT FEMININ",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SANILHACOIS SA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "RUFFECOIS STADE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "JUGEALS NOAILLES AS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "NIEUL SUR MER ASM",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "PAU FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435167",
+   "division": "COUPE DE FRANCE FÉMININE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LIMOGES FOOTBALL",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LA BAIE AS",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GAROFOOT FEMININ",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "TOULOUSE FC",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "1er Tour Fédéral",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST YRIEIX 16 AS",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BUXEROLLES ES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANGOULEME CHTE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Tour 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "STADE BORDELAIS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Finale Régionale",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BALMA SC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1er Tour Fédéral",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LE MANS FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435680",
+   "division": "COUPE NIKE FÉMININE U18",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "TRELISSAC APFC",
+   "equipe_slug": "552085-trelissac-apfc",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRIVE ESA",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SAINTES FOOTBALL ES",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US AIGREFEUILLE",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Finale Régionale",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PAU FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "32èmes de finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

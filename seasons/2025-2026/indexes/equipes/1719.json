@@ -1,0 +1,515 @@
+{
+ "clNo": "1719",
+ "nom": "ST QUENTIN FC",
+ "noms": [
+  "ST QUENTIN FC",
+  "ST QUENTIN FC 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "438745",
+   "division": "U13/U12 DEPARTEMENTAL 3 6512",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST QUENTIN FC",
+   "equipe_slug": "503245-st-quentin-fc",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LA CALMETTE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LM/STA SEDISUD 2",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST HIPP FORT",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-18",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BAGARD AS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "CENDRAS AS",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "US SOMMIERES 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LANGLADE FC",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST HILAIRE LA JASSE",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST MARTIN VAL 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438746",
+   "division": "U13/U12 DEPARTEMENTAL 4 6512",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST QUENTIN FC 3",
+   "equipe_slug": "503245-st-quentin-fc-3",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "BAGNOLS PONT 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "FC PAYS UZES",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "F.C. CANABIER",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CAVILLARGUES 2",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "VENEJAN AS",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "PUJAUT US 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CHUSCLAN LAUDUN 3",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ENT.S. RHONE GARDON 2",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438960",
+   "division": "Senior Départemental 4 6512",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST QUENTIN FC",
+   "equipe_slug": "503245-st-quentin-fc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC SAINT CHAPTES",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "BARJAC ES 2",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC PAYS UZES",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA CALMETTE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SALINDRES FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "EF VEZENOBRES CRUVIE 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RIBAUTE TAVERNES FC 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST HIPP FORT 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST MARTIN VAL 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST CHRISTOL LEZ ALES 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BARJAC ES 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "FC VATAN 2",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC PAYS UZES",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA CALMETTE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "SALINDRES FC 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "EF VEZENOBRES CRUVIE 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "RIBAUTE TAVERNES FC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST HIPP FORT 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST MARTIN VAL 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST CHRISTOL LEZ ALES 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC VATAN 2",
+     "score": "13-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC SAINT CHAPTES",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438965",
+   "division": "COUPE ANDRE GRANIER SENIORS 6512",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST QUENTIN FC",
+   "equipe_slug": "503245-st-quentin-fc",
+   "matchs": [
+    {
+     "date": "2026-01-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC VATAN",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "TOUR DE CADRAGE COUPE ANDRE GRANIER SENIORS",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438966",
+   "division": "COUPE GARD LOZERE SENIORS 6512",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "ST QUENTIN FC",
+   "equipe_slug": "503245-st-quentin-fc",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ALL FIVE ACADEMIEAFA",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "TOUR DE CADRAGE COUPE GARD LOZERE SENIORS",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

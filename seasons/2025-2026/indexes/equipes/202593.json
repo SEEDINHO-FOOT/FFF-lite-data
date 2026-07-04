@@ -1,0 +1,415 @@
+{
+ "clNo": "202593",
+ "nom": "FC FENOUILLEDES",
+ "noms": [
+  "FC FENOUILLEDES"
+ ],
+ "competitions": [
+  {
+   "cpNo": "444851",
+   "division": "U15 DISTRICT PHASE 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FC FENOUILLEDES",
+   "equipe_slug": "564746-fc-fenouilledes",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENTCERET VALLESPIR",
+     "score": "1-13",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "RACING PERPIGNAN MED",
+     "score": "15-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LES PHOENIX CATALANS",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CABESTANY OC",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "CANET ROUSSILLON FC 2",
+     "score": "0-20",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "S.PERPIGNAN NORD 4",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LE SOLER F.C.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ELNE FC 2",
+     "score": "0-18",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.ASPRES VALLESPIR",
+     "score": "23-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444857",
+   "division": "U13 ANIMATION",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FC FENOUILLEDES",
+   "equipe_slug": "564746-fc-fenouilledes",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "RIVESALTES SO 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BOMPAS U.S.",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "VILLELONGUE SALANQ.",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PRADES A.S.",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "S.PERPIGNAN NORD 3",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FC BARCARES MEDIT.",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC PIA",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447967",
+   "division": "U15 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FC FENOUILLEDES",
+   "equipe_slug": "564746-fc-fenouilledes",
+   "matchs": [
+    {
+     "date": "2026-01-25",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LES PHOENIX CATALANS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "VILLELONGUE SALANQ.",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CANO-TOUL FC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ENT.POLLESTRES FOURQ 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC CLAIRA ST LAURENT 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "THUIR F.C 2",
+     "score": "3-9",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "FC ILLE NEFIACH",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT.ASPRES VALLESPIR 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "BANYULS F.C.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447968",
+   "division": "U13 ANIMATION PHASE 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "FC FENOUILLEDES",
+   "equipe_slug": "564746-fc-fenouilledes",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "VILLELONGUE SALANQ. 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "RIVESALTES SO 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BAHO PEZILLA 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LE BOULOU  ST J PLA 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "THUIR F.C 3",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "B.E.C.E  F.C. VALLEE 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FC CLAIRA ST LAURENT 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "ENTCERET VALLESPIR 3 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

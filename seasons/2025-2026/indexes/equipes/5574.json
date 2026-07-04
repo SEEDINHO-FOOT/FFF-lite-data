@@ -1,0 +1,2339 @@
+{
+ "clNo": "5574",
+ "nom": "TOURNEFEUILLE",
+ "noms": [
+  "TOURNEFEUILLE",
+  "TOURNEFEUILLE 2",
+  "TOURNEFEUILLE 22",
+  "TOURNEFEUILLE AS",
+  "TOURNEFEUILLE AS 2",
+  "TOURNEFEUILLE AS 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "434768",
+   "division": "U18 Régional 2 M",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ALBERES / ARGELES",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "JACOU CLAPIERS FA",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS TLSE LARDENNE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GOAL",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "TLSE METROPOLE FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAISSARGUES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC MAS 31",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS MEDITERRANEE 34",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MAUGUIO CARNON US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "L UNION ST JEAN FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THUIR F.C",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "JACOU CLAPIERS FA",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TLSE METROPOLE FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS TLSE LARDENNE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GOAL",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAISSARGUES",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC MAS 31",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "AS MEDITERRANEE 34",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MAUGUIO CARNON US",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "L UNION ST JEAN FC",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "THUIR F.C",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ALBERES / ARGELES",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446700",
+   "division": "U18 Honneur F",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2025-11-29",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TRAPEL FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "U.S. PLAISANCE DU TO",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FONTENILLES SAVES 32",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "MONTBARTIER",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "F.C. EAUNES LABARTHE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "TARBES PYRENEES FOOT",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "U.S.SALIES MANE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FONTENILLES SAVES 32",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "U.S. PLAISANCE DU TO",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MONTBARTIER",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "F.C. EAUNES LABARTHE",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TARBES PYRENEES FOOT",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "U.S.SALIES MANE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TRAPEL FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446702",
+   "division": "U15 Fem R1",
+   "niveau": "Régional",
+   "echelon": "R1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2025-11-29",
+     "heure": "15:45",
+     "domicile": true,
+     "adversaire": "AUCAMVILLE VS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CUGNAUX",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ALBI MARSSAC TFA",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:45",
+     "domicile": true,
+     "adversaire": "BLAGNAC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "TARBES PYRENEES FOOT",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "RANGUEIL F.C.",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "15:45",
+     "domicile": true,
+     "adversaire": "CUGNAUX",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "RODEZ AVEYRON",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ALBI MARSSAC TFA",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:45",
+     "domicile": true,
+     "adversaire": "RODEZ AVEYRON",
+     "score": "1-14",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BLAGNAC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:45",
+     "domicile": true,
+     "adversaire": "TARBES PYRENEES FOOT",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "16:15",
+     "domicile": true,
+     "adversaire": "RANGUEIL F.C.",
+     "score": "2-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "AUCAMVILLE VS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435445",
+   "division": "Coupe Occitanie U17 Amos",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TARBES PYRENEES FOOT",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1/32ème DE FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435659",
+   "division": "Coupe Occitanie U19 Amos",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U19",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2025-12-10",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "U.S. BERAT",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438391",
+   "division": "Coupe Occitanie U18 FEM Amos",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BRUGUIERES SC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "2ième Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "COLOMIERS",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438392",
+   "division": "Coupe Occitanie U15 FEM",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TARBES PYRENEES FOOT",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "1ier Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435838",
+   "division": "Senior Départemental 1 - 11teamsports",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS 2",
+   "equipe_slug": "517802-tournefeuille-as-2",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CASTELGINEST US",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "POUVOURVILLE US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ATHLETIC CLUB GARONA",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "BRAX JS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CANTON AURIGNAC EF",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BOULOGNE PEGUIL. ENT 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "RODEO FC 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "REVEL US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "COMMINGES ST GAUDENS 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CASTELGINEST US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "POUVOURVILLE US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ATHLETIC CLUB GARONA",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BRAX JS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "RODEO FC 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "REVEL US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "COMMINGES ST GAUDENS 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CANTON AURIGNAC EF",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "BOULOGNE PEGUIL. ENT 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436448",
+   "division": "U19 TER",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U19",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS",
+   "equipe_slug": "517802-tournefeuille-as",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "FRONTON US",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "FONSORBES AV",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "TLSE NORD FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "RODEO FC",
+     "score": "2-11",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CASTELNAU EST. AS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CASTELNAU EST. AS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST SIMON ES",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "SOUES CIGOGNES",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ST ORENS FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CINTEGABELLE JS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "SEYSSES FROUZINS US",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "SAVE ET GARONNE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "EAUNES LABARTHE FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MURET AS",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CUGNAUX JS",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PLAISANCE DU TO. US",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "E.F.C. DE LA VALLEE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436452",
+   "division": "U17 Niveau B",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS 2",
+   "equipe_slug": "517802-tournefeuille-as-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "EAUNES LABARTHE FC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "EFCA MABROC SALIES",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "FC MAS 31 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LEGUEVIN US",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GR. ST GAUD. LU. LA. 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LAUNAGUET FC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTAUT US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "RODEO FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ATHLETIC CLUB GARONA 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SEYSSES FROUZINS US 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ENT. LOUGE TOUCH",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. LMS-USV2 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GARDOUCH OC 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "HERSOISE AS 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LAURAGAIS FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ENT. NOE/LONGAGES",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VERNAJOUL A.C.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436465",
+   "division": "U14 Territoire",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS 21",
+   "equipe_slug": "517802-tournefeuille-as-21",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ENT. FFC SLO 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "POUVOURVILLE US 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CASTELGINEST US 21",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SEYSSES FROUZINS US 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AUTERIVE SA 21",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "E.F.C. DE LA VALLEE 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436465",
+   "division": "U14 Territoire",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS",
+   "equipe_slug": "517802-tournefeuille-as",
+   "matchs": [
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BAGATELLE FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "RANGUEIL FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "T.O.A.C.",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436514",
+   "division": "Foot Loisir Vétérans à 11",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS",
+   "equipe_slug": "517802-tournefeuille-as",
+   "matchs": [
+    {
+     "date": "2025-10-17",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ASSPO",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "BEAUZELLE FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-14",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CHAUSSLAND FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-21",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CUGNAUX JS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "FONSORBES AV",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-12",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CORNEBARRIEU AO",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-19",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "LEGUEVIN US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-16",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "PIBRAC US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-30",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LOS GRINGOS AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-06",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "BEAUZELLE FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CHAUSSLAND FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-20",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CUGNAUX JS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-13",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "FONSORBES AV",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-20",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CORNEBARRIEU AO",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-03",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LEGUEVIN US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "PIBRAC US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-17",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "LOS GRINGOS AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "ASSPO",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447683",
+   "division": "U16 Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS 21",
+   "equipe_slug": "517802-tournefeuille-as-21",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC MAS 31 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "E.F. HERS COUSSATOIS 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "JUVENTUS DE PAPUS 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LAVAUR F.C. 21",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PIBRAC US 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447683",
+   "division": "U16 Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS",
+   "equipe_slug": "517802-tournefeuille-as",
+   "matchs": [
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "RANGUEIL FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "AUTERIVE SA",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GCPVDO",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-11",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CUGNAUX JS",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447695",
+   "division": "U15 Territoire",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS",
+   "equipe_slug": "517802-tournefeuille-as",
+   "matchs": [
+    {
+     "date": "2026-01-25",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MURET AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "CANAL NORD FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "CARBONNE JS",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "CASTANET US",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "TLSE MIRAIL AS",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "E.F.C. DE LA VALLEE",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ATHLETIC CLUB GARONA",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TLSE METROPOLE FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SEYSSES FROUZINS US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447698",
+   "division": "U14 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE 22",
+   "equipe_slug": "517802-tournefeuille-22",
+   "matchs": [
+    {
+     "date": "2026-02-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "FC MAS 31 22",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VENERQUE LE VERNET 22",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "F.A. TOULOUSAIN 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ENT. CONFLUENT FCP 21",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "447698",
+   "division": "U14 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE 2",
+   "equipe_slug": "517802-tournefeuille-2",
+   "matchs": [
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. LMS GAILLAC COQ 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENT. ESCALQUENS JSAL 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "T.C.M.S.",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "EAUNES LABARTHE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "VILLENEUVE TOL. AF",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448027",
+   "division": "U17 Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS",
+   "equipe_slug": "517802-tournefeuille-as",
+   "matchs": [
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT. FFC SLO ",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CASTELGINEST US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PBA",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ENT. LMS USV",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MURET RC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LA JAC FOOTBALL JEUN",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BOSSOST UD",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436502",
+   "division": "Coupe du Conseil Départemental Nord",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS 2",
+   "equipe_slug": "517802-tournefeuille-as-2",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "PORTET CAR. REC. AS 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "F.A. TOULOUSAIN",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "FENOUILLET UA 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TLSE MIRAIL AS 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "16ème de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "REVEL US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445116",
+   "division": "Coupe du District U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS",
+   "equipe_slug": "517802-tournefeuille-as",
+   "matchs": [
+    {
+     "date": "2026-02-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "FONSORBES AV",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445118",
+   "division": "Coupe du District U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE AS",
+   "equipe_slug": "517802-tournefeuille-as",
+   "matchs": [
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LANDORTHE EST. SAV. 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "TLSE LARDENNE AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "F.C. MAS 31",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ST ORENS FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435443",
+   "division": "Coupe Occitanie Intersport Seniors",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "OCCITANIE",
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2025-10-01",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "FA ROQUES",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2025-08-30",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "A.S. TOULOUSE MIRAIL",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "MONTAUBAN",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LEGUEVIN US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435680",
+   "division": "COUPE NIKE FÉMININE U18",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "TOURNEFEUILLE",
+   "equipe_slug": "517802-tournefeuille",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ESMN",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1ier Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MONTBARTIER",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BLAGNAC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

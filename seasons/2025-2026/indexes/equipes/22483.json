@@ -1,0 +1,865 @@
+{
+ "clNo": "22483",
+ "nom": "VAUX ANDIGNY FC",
+ "noms": [
+  "VAUX ANDIGNY FC",
+  "VAUX ANDIGNY FC 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "441996",
+   "division": "Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC",
+   "equipe_slug": "544177-vaux-andigny-fc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOUE ETREUX NES 2",
+     "score": "12-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LESDINS FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST QUENTIN O. 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TUPIGNY AS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VERMAND UES 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GAUCHY GRUGIES FC 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SEBONCOURT US 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GOUY FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "BOHAIN RC 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST QUENTIN O. 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VERMAND UES 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SEQUEHART ES",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SEBONCOURT US 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "ORIGNY THENELLES US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GOUY FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ORIGNY THENELLES US",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SEQUEHART ES",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LESDINS FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TUPIGNY AS",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GAUCHY GRUGIES FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOHAIN RC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOUE ETREUX NES 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448728",
+   "division": "U13 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC",
+   "equipe_slug": "544177-vaux-andigny-fc",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LESDINS FC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BOHAIN RC 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "SEBONCOURT US",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BEAUREVOIR AS",
+     "score": "11-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VERMAND UES",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HOLNON FAYET AFC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FRESNOY FONSOMME FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BOHAIN RC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SEBONCOURT US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-13",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BEAUREVOIR AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448762",
+   "division": "D5 ACCESSION",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTBREHAIN ASFAA",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "HOLNON FAYET AFC 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "GUISE US 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SERAUCOURT AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "HOMBLIERES RC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTBREHAIN ASFAA",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HOLNON FAYET AFC 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SERAUCOURT AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HOMBLIERES RC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "GUISE US 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444378",
+   "division": "COUPE AISNE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC",
+   "equipe_slug": "544177-vaux-andigny-fc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FLAVY SC",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Tour 2 ",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444871",
+   "division": "Départemental 5 - J1",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BELLICOURT ASF",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "D5-J1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445137",
+   "division": "Challenge Jean-Marie Froment",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC",
+   "equipe_slug": "544177-vaux-andigny-fc",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SEBONCOURT US 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ABBECOURT FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ANIZY PINON US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1/8ème de finale ",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445209",
+   "division": "Départemental 5 - J2",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTBREHAIN ASFAA 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "D5 J2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445436",
+   "division": "Challenge Alain Lenoir",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MARLE SPORT 2",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "FONTAINE DAME SC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Tour 2 ",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445757",
+   "division": "Départemental 5 - J3",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SERAUCOURT AS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "D5 - J3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446098",
+   "division": "Départemental 5 - J4",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MOY DE L'AISNE SAS 3",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "D5 - J4",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446463",
+   "division": "Départemental 5 - J5",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2025-11-02",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "GUISE US 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "D5 J5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446762",
+   "division": "Départemental 5 - J6",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "HOMBLIERES RC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "D5 J6",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446833",
+   "division": "Départemental 5 - J7",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BRISSY HAMEGICOURT 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448126",
+   "division": "Départemental 5 - J8",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "VAUX ANDIGNY FC 2",
+   "equipe_slug": "544177-vaux-andigny-fc-2",
+   "matchs": [
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "RIBEMONT MEZIERES US 3",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "D5 J8",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "VAUX ANDIGNY FC",
+   "equipe_slug": "544177-vaux-andigny-fc",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FRESNOY FONSOMME FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

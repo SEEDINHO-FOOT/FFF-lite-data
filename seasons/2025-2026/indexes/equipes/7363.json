@@ -1,0 +1,691 @@
+{
+ "clNo": "7363",
+ "nom": "LE SOURN SP C",
+ "noms": [
+  "LE SOURN SP C"
+ ],
+ "competitions": [
+  {
+   "cpNo": "436263",
+   "division": "District 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LE SOURN SP C",
+   "equipe_slug": "521120-le-sourn-sp-c",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "NOYAL PONTIVY LMB 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MOUSTOIR AC AV S",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BAUD FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GUEMENE ST",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLUMELIN SP",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MALGUENAC AJONCS DOR",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GUENIN SP",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "KERFOURN GDE ST ELOI",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "PONTIVY STADE 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PONTIVY GS 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CAMORS AL",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BAUD FC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "GUEMENE ST",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLUMELIN SP",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MALGUENAC AJONCS DOR",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GUENIN SP",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "KERFOURN GDE ST ELOI",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PONTIVY STADE 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MOUSTOIR AC AV S",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PONTIVY GS 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CAMORS AL",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "NOYAL PONTIVY LMB 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442714",
+   "division": "District 1 Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LE SOURN SP C",
+   "equipe_slug": "521120-le-sourn-sp-c",
+   "matchs": [
+    {
+     "date": "2025-10-09",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "STE ANNE D AURAY ASC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-23",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "RIANTEC R.F.C",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-06",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "PORT LOUIS ES SUD",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-20",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "LOCOAL MENDON",
+     "score": "7-17",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-03",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FC BELUGAS RIA",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-11",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "PONTIVY GS 2",
+     "score": "17-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-18",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ERDEVEN ETEL FOOT",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-22",
+     "heure": "21:05",
+     "domicile": false,
+     "adversaire": "AURAY FOOTBALL CLUB",
+     "score": "7-6",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-29",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "STE ANNE D AURAY ASC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-05",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "CARNAC FUTSAL CLUB",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-12",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "RIANTEC R.F.C 2",
+     "score": "3-11",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-05",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PORT LOUIS ES SUD",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-12",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LOCOAL MENDON",
+     "score": "9-4",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-26",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "FC BELUGAS RIA",
+     "score": "22-4",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-02",
+     "heure": "21:15",
+     "domicile": false,
+     "adversaire": "ERDEVEN ETEL FOOT",
+     "score": "4-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-09",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CARNAC FUTSAL CLUB",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-16",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "RIANTEC R.F.C",
+     "score": "5-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-23",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "AURAY FOOTBALL CLUB",
+     "score": "9-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-30",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PONTIVY GS 2",
+     "score": "8-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "RIANTEC R.F.C 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442716",
+   "division": "Trophée Morbihan Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LE SOURN SP C",
+   "equipe_slug": "521120-le-sourn-sp-c",
+   "matchs": [
+    {
+     "date": "2026-05-07",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PORT LOUIS ES SUD",
+     "score": "8-13",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-21",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CARNAC FUTSAL CLUB",
+     "score": "12-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "RIANTEC R.F.C",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LE SOURN SP C",
+   "equipe_slug": "521120-le-sourn-sp-c",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "PONTIVY GS 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440430",
+   "division": "Trophée Chaton",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LE SOURN SP C",
+   "equipe_slug": "521120-le-sourn-sp-c",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MALGUENAC AJONCS DOR",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440431",
+   "division": "Trophée Morbihan",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "LE SOURN SP C",
+   "equipe_slug": "521120-le-sourn-sp-c",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST JEAN BREV ESPE FC",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAMORS AL",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Tour 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "LE SOURN SP C",
+   "equipe_slug": "521120-le-sourn-sp-c",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MOREAC GSC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435169",
+   "division": "Coupe Nationale Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "LE SOURN SP C",
+   "equipe_slug": "521120-le-sourn-sp-c",
+   "matchs": [
+    {
+     "date": "2025-10-02",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CARNAC FUTSAL CLUB",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-16",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LOCOAL MENDON",
+     "score": "8-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-30",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "AURAY FOOTBALL CLUB",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

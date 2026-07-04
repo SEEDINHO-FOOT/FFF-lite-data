@@ -1,0 +1,544 @@
+{
+ "clNo": "24922",
+ "nom": "VAUX LES ST CLAUDE",
+ "noms": [
+  "VAUX LES ST CLAUDE"
+ ],
+ "competitions": [
+  {
+   "cpNo": "441251",
+   "division": "DEPARTEMENTAL 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "VAUX LES ST CLAUDE",
+   "equipe_slug": "547631-vaux-les-st-claude",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST MAUR",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PERRIGNY CONLIEGE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ARCADE FOOT 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RAVILLOLES CROZETS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTMOROT 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MACORNAY 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "BEAUFORT",
+     "score": "9-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HAUT JURA 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "PERRIGNY CONLIEGE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ARCADE FOOT 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RAVILLOLES CROZETS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "PONT DE LA PYLE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTMOROT 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "MACORNAY 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BEAUFORT",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PONT DE LA PYLE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HAUT JURA 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST MAUR",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442475",
+   "division": "U11 Niveau 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "VAUX LES ST CLAUDE",
+   "equipe_slug": "547631-vaux-les-st-claude",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "HAUT JURA SEPTMONCEL",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GJ PORTE DU JURA",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MACORNAY",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "PETITE MONTAGNE FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LONS RC 3",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "JURA LACS F. 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "COURLAOUX",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "RAVILLOLES CROZETS",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "GRANDVAUX FOOT 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448533",
+   "division": "U11 Phase Printemps",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "VAUX LES ST CLAUDE",
+   "equipe_slug": "547631-vaux-les-st-claude",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SEPTMONCEL 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LA JOUX NOZEROY 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "JURA SUD FOOT 3",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ARCADE FOOT 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GRANDVAUX FOOT 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CHAMPAGNOLE 3",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "GRANDVAUX FOOT",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "HAUT JURA SEPTMONCEL",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SIROD",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441296",
+   "division": "COUPE DEPARTEMENT",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "VAUX LES ST CLAUDE",
+   "equipe_slug": "547631-vaux-les-st-claude",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MACORNAY 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "32èmes de Finale",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "TRIANGLE D'OR JURA 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "16èmes de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441297",
+   "division": "COUPE SPORT2000/CMUTUEL",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "VAUX LES ST CLAUDE",
+   "equipe_slug": "547631-vaux-les-st-claude",
+   "matchs": [
+    {
+     "date": "2025-11-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PLAINE 39 FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Tour de cadrage",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BEAUFORT/SUD REVERM. 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ARCADE FOOT 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ARCHELANGE GRED 2",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MOUCHARD ARC SENANS 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PLATEAU FC 39",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

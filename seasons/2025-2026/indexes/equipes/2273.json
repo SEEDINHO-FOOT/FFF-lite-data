@@ -1,0 +1,78 @@
+{
+ "clNo": "2273",
+ "nom": "ST GERMAIN LAVAL",
+ "noms": [
+  "ST GERMAIN LAVAL",
+  "ST GERMAIN LAVAL 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "442258",
+   "division": "Coupe de la Loire Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "ST GERMAIN LAVAL",
+   "equipe_slug": "504424-st-germain-laval",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "FC BORDS DE LOIRE",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "TOUR 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GOAL FOOT",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "TOUR 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442259",
+   "division": "Coupe Valeyre-Leger",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "ST GERMAIN LAVAL 2",
+   "equipe_slug": "504424-st-germain-laval-2",
+   "matchs": [
+    {
+     "date": "2026-03-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "L'ETRAT SP. 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "HUITIÈMES DE FINALE",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

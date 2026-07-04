@@ -1,0 +1,576 @@
+{
+ "clNo": "8545",
+ "nom": "CONDE MACOU FC",
+ "noms": [
+  "CONDE MACOU FC",
+  "CONDE MACOU FC 2",
+  "CONDE MACOU FC 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439639",
+   "division": "U13 Niveau C",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "CONDE MACOU FC",
+   "equipe_slug": "522964-conde-macou-fc",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ESCAUTPONT AFC 31",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "QUAROUBLE FC",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FRESNES STADE 13",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "DOUCHY FC 13",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CRESPIN US 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "BRUAY SUR ESCAUT SPO 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BRUAY SUR ESCAUT SPO 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "QUAROUBLE FC",
+     "score": null,
+     "statut": "non joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FRESNES STADE 13",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "DOUCHY FC 13",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CRESPIN US 3",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ESCAUTPONT AFC 31",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439739",
+   "division": "Seniors D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "CONDE MACOU FC",
+   "equipe_slug": "522964-conde-macou-fc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CRESPIN ES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FRESNES STADE",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NEUVILLE OSC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "FONTAINE AU BOIS FC",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST SAULVE FOOTBALL 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "QUAROUBLE FC 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "WALLERS ARENBERG JO",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "VALENCIENNES SUMMER 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BAVAY US 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FRESNES STADE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "NEUVILLE OSC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FONTAINE AU BOIS FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ST SAULVE FOOTBALL 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QUAROUBLE FC 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "WALLERS ARENBERG JO",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "VALENCIENNES SUMMER 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CRESPIN ES",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BAVAY US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439758",
+   "division": "U16 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "CONDE MACOU FC 21",
+   "equipe_slug": "522964-conde-macou-fc-21",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BEUVRAGES USM 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CRESPIN ES 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ENT. VCF.FCCM 22",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PETITE FORET AS 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST SAULVE FOOTBALL 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CRESPIN ES 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT. VCF.FCCM 22",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PETITE FORET AS 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST SAULVE FOOTBALL 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BEUVRAGES USM 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445077",
+   "division": "Coupe D1-D3 Valenciennois",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "CONDE MACOU FC",
+   "equipe_slug": "522964-conde-macou-fc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "VALENCIENNES SUMMER 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HORDAIN US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LECELLES ROSULT FC",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445100",
+   "division": "Coupe D4-D6 Valenciennois",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "CONDE MACOU FC 2",
+   "equipe_slug": "522964-conde-macou-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "HERIN AUBRY CLE 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SEBOURG ESTREUX ES 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BEUVRAGES USM 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:50",
+     "domicile": true,
+     "adversaire": "BOUCHAIN ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "16ème de Finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

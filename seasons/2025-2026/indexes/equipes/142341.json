@@ -1,0 +1,515 @@
+{
+ "clNo": "142341",
+ "nom": "DAUSSOIS SCDO",
+ "noms": [
+  "DAUSSOIS SCDO"
+ ],
+ "competitions": [
+  {
+   "cpNo": "437823",
+   "division": "U13 District CREDIT AGRICOLE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "DAUSSOIS SCDO",
+   "equipe_slug": "554003-daussois-scdo",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MONFLANQUIN FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PENNE ST SYLVESTRE 3",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FUMEL LIBOS F.C.",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BIASSAIS FC 3",
+     "score": "3-8",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CASSENEUIL PAILLOLES 4",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PENNE ST SYLVESTRE 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "FUMEL LIBOS F.C.",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BIASSAIS FC 3",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MONFLANQUIN FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "CASSENEUIL PAILLOLES 4",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438811",
+   "division": "Féminines a 8 loisir",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Loisir",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "DAUSSOIS SCDO",
+   "equipe_slug": "554003-daussois-scdo",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FC SAVERIEN",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. VLFC/FFM",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ROQUENTIN OC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "TONNEINS FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PORT STE MARIE FEUG.",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ENT. VILLEREAL MONBA",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. HOUEIL MARCELL",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CASTELJALOUX FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "REV. S. ST SERNIN",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-05",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CASTELMORON FC",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONFLANQUIN FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ROQUENTIN OC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TONNEINS FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PORT STE MARIE FEUG.",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ENT. VLFC/FFM",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. VILLEREAL MONBA",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CASTELJALOUX FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "REV. S. ST SERNIN",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ENT. HOUEIL MARCELL",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CASTELMORON FC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "MONFLANQUIN FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "FC SAVERIEN",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448397",
+   "division": "U13 District 2 CREDIT AGRICOLE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "DAUSSOIS SCDO",
+   "equipe_slug": "554003-daussois-scdo",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PENNE ST SYLVESTRE 3",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MONFLANQUIN FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CASSENEUIL PAILLOLES 3",
+     "score": "14-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BIASSAIS FC 4",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BIASSAIS FC 4",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PENNE ST SYLVESTRE 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-28",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "VALLEE DU LOT FC 3",
+     "score": "15-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MONFLANQUIN FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "CASSENEUIL PAILLOLES 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "VALLEE DU LOT FC 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448634",
+   "division": "Coupe Fem F St Martin L'Indé",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "DAUSSOIS SCDO",
+   "equipe_slug": "554003-daussois-scdo",
+   "matchs": [
+    {
+     "date": "2026-04-17",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "MONFLANQUIN FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,545 @@
+{
+ "clNo": "2084",
+ "nom": "DALHUNDEN US",
+ "noms": [
+  "DALHUNDEN ENT. ESD 3",
+  "DALHUNDEN US"
+ ],
+ "competitions": [
+  {
+   "cpNo": "436241",
+   "division": "District 5 Alsace",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "DALHUNDEN US",
+   "equipe_slug": "504119-dalhunden-us",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ROESCHWOOG SC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-07",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "SALMBACH ASS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "SCHILTIGH ESP",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RITTERSHOFFEN SC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROPPENHEIM SC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ROTT FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LEUTENHEIM A.S.S.B.",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "OFFENDORF ES",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ENT.FCWISS/ALTENSTAD",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LA WANTZENAU FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SCHOEN/MEMMEL FR",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SCHILTIGH ESP",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "RITTERSHOFFEN SC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ROPPENHEIM SC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ROTT FC",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LEUTENHEIM A.S.S.B.",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "SALMBACH ASS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "OFFENDORF ES",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ENT.FCWISS/ALTENSTAD",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LA WANTZENAU FC 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "SCHOEN/MEMMEL FR",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "ROESCHWOOG SC 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436244",
+   "division": "District 8 Alsace",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "DALHUNDEN ENT. ESD 3",
+   "equipe_slug": "504119-dalhunden-ent-esd-3",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ROPPENHEIM SC 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ROHRWILLER FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LEUTENHEIM A.S.S.B. 2",
+     "score": "3-10",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ROUNTZENHEIM-AUENHEI 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MOTHERN MUNCHHAUSEN 4",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SELTZ F.C.S.E 4",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "HERRLISHEIM FC 4",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NEUHAUE ENT. FORSTF. 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448090",
+   "division": "District 8 Accession",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "DALHUNDEN ENT. ESD 3",
+   "equipe_slug": "504119-dalhunden-ent-esd-3",
+   "matchs": [
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "HAGUENAU FATIH 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ROHRWILLER FC 2",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BISCHWILLER TURCS 3",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NIEDERSCHAEFFOLSHEIM 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ROUNTZENHEIM-AUENHEI 3",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ROHRWILLER FC 2",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "BISCHWILLER TURCS 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NIEDERSCHAEFFOLSHEIM 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ROUNTZENHEIM-AUENHEI 3",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "HAGUENAU FATIH 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443942",
+   "division": "Challenge des Réserves Alsace Vivialys",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "DALHUNDEN ENT. ESD 3",
+   "equipe_slug": "504119-dalhunden-ent-esd-3",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "OBERHOFFEN FC 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LAMPERTHEIM F.C. 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "2e Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443949",
+   "division": "Coupe Crédit Mutuel Haguenau",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "DALHUNDEN US",
+   "equipe_slug": "504119-dalhunden-us",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "OFFENDORF ES",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "HAGUENAU FCSR 2",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "2e Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

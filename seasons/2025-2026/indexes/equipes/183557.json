@@ -1,0 +1,4559 @@
+{
+ "clNo": "183557",
+ "nom": "GOUSSAINVILLE FC",
+ "noms": [
+  "GOUSSAINVILLE FC",
+  "GOUSSAINVILLE FC 2",
+  "GOUSSAINVILLE FC 21",
+  "GOUSSAINVILLE FC 22",
+  "GOUSSAINVILLE FC 23",
+  "GOUSSAINVILLE FC 3",
+  "GOUSSAINVILLE FC 31",
+  "GOUSSAINVILLE FC 32",
+  "GOUSSAINVILLE FC 35",
+  "GOUSSAINVILLE FC 5"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440826",
+   "division": "MATCHES AMICAUX SENIORS LFHF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SENLIS USM",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442209",
+   "division": "Futsal R2",
+   "niveau": "Régional",
+   "echelon": "R2",
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-09-26",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "ASNIERES FUTSAL 92",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-09",
+     "heure": "21:15",
+     "domicile": false,
+     "adversaire": "VECTEUR SPORT",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "VUE D'ENSEMBLE",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "20:45",
+     "domicile": true,
+     "adversaire": "SPORTING CLUB PARIS 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "TORCY FUTSAL EU",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "LA COURNEUVE AS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-09",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "VLG FUTSAL",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "AULNAY FUTSAL",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "AVICENNE A.S.C.",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "ASNIERES FUTSAL 92",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "VECTEUR SPORT",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "SPORTING CLUB PARIS 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "TORCY FUTSAL EU",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LA COURNEUVE AS",
+     "score": "7-7",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "VLG FUTSAL",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-30",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "AULNAY FUTSAL",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-06",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "AVICENNE A.S.C.",
+     "score": "2-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "VUE D'ENSEMBLE",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442334",
+   "division": "Seniors R3",
+   "niveau": "Régional",
+   "echelon": "R3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SARCELLES AAS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RED STAR FC 3",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PARIS UNIVERS. CLUB",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LA COURNEUVE AS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HOUILLES A.C. 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ST OUEN L'AUMONE AS 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NEAUPHLE-PONT.",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "HARDRICOURT US",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "STADE EST PAVILLON",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "RC ARGENTEUIL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ERMONT A.S.",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA COURNEUVE AS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "HOUILLES A.C. 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST OUEN L'AUMONE AS 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "NEAUPHLE-PONT.",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HARDRICOURT US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "STADE EST PAVILLON",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "SARCELLES AAS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "RC ARGENTEUIL",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "RED STAR FC 3",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ERMONT A.S.",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PARIS UNIVERS. CLUB",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442687",
+   "division": "Anciens R3",
+   "niveau": "Régional",
+   "echelon": "R3",
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 31",
+   "equipe_slug": "581364-goussainville-fc-31",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "ATLETICO DE BAGNOLET 31",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "PARISIENNE ES 31",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PONTAULT COMB. PORT. 31",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "ST DENIS US 31",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NEUILLY MARNE S.F.C. 31",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "MONTFERMEIL FC 31",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "CLICHOIS UF 31",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SPORTING CLUB PARIS 31",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "FC ROMAINVILLE 31",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "GONESSE RC 31",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST DENIS US 31",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "NEUILLY MARNE S.F.C. 31",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MONTFERMEIL FC 31",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "CHELLES AS 31",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CHELLES AS 31",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CLICHOIS UF 31",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SPORTING CLUB PARIS 31",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442687",
+   "division": "Anciens R3",
+   "niveau": "Régional",
+   "echelon": "R3",
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ATLETICO DE BAGNOLET",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FC ROMAINVILLE",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "PARISIENNE ES",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GONESSE RC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "PONTAULT COMB. PORT.",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444611",
+   "division": "SENIORS COUPE PARIS CREDIT MUTUEL IDF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "VILLEPINTE FLAMBOYAN",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ERMONT A.S.",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "2EME TOUR",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "VILLEJUIF U.S.",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MELUN FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "cadrage",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444622",
+   "division": "ANCIENS COUPE PARIS CREDIT MUTUEL IDF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 31",
+   "equipe_slug": "581364-goussainville-fc-31",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CHAMPAGNE 95 SFC 31",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Tour de cadrage",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "CERGY PORTUGAIS 31",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1/32EMES DE FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444829",
+   "division": "FUTSAL PARIS CREDIT MUTUEL IDF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-11-24",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "CRETEIL FUTSAL US 2",
+     "score": "2-13",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NEUILLY FC 92",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Tour n°2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-13",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "VLG FUTSAL",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448571",
+   "division": "COUPE DE FRANCE 2026 2027 PRELIMINAIRE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2026-05-24",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ATLETICO DE BAGNOLET",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443221",
+   "division": "Anciens D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "CHAMPAGNE 95 SFC 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "09:45",
+     "domicile": true,
+     "adversaire": "MAGNY EN VEXIN FC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:15",
+     "domicile": false,
+     "adversaire": "MONTMORENCY FC",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "AUVERS-ENNERY FC 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "JOUY LE MOUTIER F.C. 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "ST BRICE F.C.",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "FRETTOISE ES",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ACADÉMIE FOOTBALL CL",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUVERS-ENNERY FC 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "JOUY LE MOUTIER F.C. 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST BRICE F.C.",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PUISEUX LOUVRES 95 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "PUISEUX LOUVRES 95 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CERGY PONTOISE FC 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CHAMPAGNE 95 SFC 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "FRETTOISE ES",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "MAGNY EN VEXIN FC 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "ACADÉMIE FOOTBALL CL",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "09:45",
+     "domicile": true,
+     "adversaire": "MONTMORENCY FC",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443224",
+   "division": "Critérium Plus de 45 Ans",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 5",
+   "equipe_slug": "581364-goussainville-fc-5",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "FOSSES F. U. 5",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "ENT.THILLAY ROISSY 5",
+     "score": "2-10",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "MONTMORENCY FC 5",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ENT.COURD.MENUCOURT 5",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "JOUY LE MOUTIER F.C. 5",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "ERAGNY FC 6",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "VAUXOISE ES 5",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "JOUY LE MOUTIER F.C. 5",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "MONTMORENCY FC 5",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "09:45",
+     "domicile": true,
+     "adversaire": "ERAGNY FC 6",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "VIARMES ASNIERES OL. 5",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "VIARMES ASNIERES OL. 5",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "ENT.COURD.MENUCOURT 5",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ENT.THILLAY ROISSY 5",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "VAUXOISE ES 5",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "09:45",
+     "domicile": false,
+     "adversaire": "FOSSES F. U. 5",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443233",
+   "division": "U18 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MAGNY EN VEXIN FC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VEXIN A.S.",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "NEUVILLE S/ OISE AS",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "E.S. HERBLAY 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MERY MERIEL FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "AUVERS-ENNERY FC",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "BEAUCHAMP A.S. 2",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "MAGNY EN VEXIN FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VEXIN A.S.",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "NEUVILLE S/ OISE AS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "E.S. HERBLAY 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MERY MERIEL FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "AUVERS-ENNERY FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BEAUCHAMP A.S. 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443239",
+   "division": "U16 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MONTIGNY FC 95",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MENUCOURT AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FRANCONVILLE FC 2",
+     "score": "4-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VEXIN A.S.",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "NEUVILLE S/ OISE AS",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DEUIL ENGHIEN FC 2",
+     "score": "0-14",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COSMO TAVERNY 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VEXIN A.S.",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "NEUVILLE S/ OISE AS",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "DEUIL ENGHIEN FC 2",
+     "score": "14-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT. ROISSY-THILLAY 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ENT. ROISSY-THILLAY 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BRUYERES BERNES USM",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PERSAN U.S. 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MONTIGNY FC 95",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FRETTOISE ES",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "COSMO TAVERNY 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BRUYERES BERNES USM",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MENUCOURT AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "FRETTOISE ES",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "FRANCONVILLE FC 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443243",
+   "division": "U14 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ARGENTEUIL FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ECOUEN FC",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ERAGNY FC",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "FRANCONVILLE FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "GONESSE RC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "ST BRICE F.C.",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CERGY PONTOISE FC 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SARCELLES AAS 4",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ECOUEN FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ERAGNY FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "FRANCONVILLE FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "GONESSE RC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ST BRICE F.C.",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 2",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "F.C. VILLIERS LE BEL",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SARCELLES AAS 4",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ARGENTEUIL FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443245",
+   "division": "U14 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MARCOUVILLE CITY CP",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "FOSSES F. U.",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CORMEILLAIS A.C.S. 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ST PRIX ES",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ENT. BEAUMONT MOURS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "MONTMAGNY FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ROISSY EN FRANCE U.S",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "VIARMES ASNIERES OL.",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SARCELLES AAS 5",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FOSSES F. U.",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CORMEILLAIS A.C.S. 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST PRIX ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT. BEAUMONT MOURS",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MONTMAGNY FC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ROISSY EN FRANCE U.S",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "VIARMES ASNIERES OL.",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SARCELLES AAS 5",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MARCOUVILLE CITY CP",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443249",
+   "division": "U14 D4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 3",
+   "equipe_slug": "581364-goussainville-fc-3",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MARLY LA VILLE ES 2",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ERAGNY FC 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "OSNY F.C. 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "COURDIMANCHE AS",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "E.S. HERBLAY 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CSM EAUBONNE FOOT",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ACADÉMIE FOOTBALL CL",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "JOUY LE MOUTIER F.C. 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ERAGNY FC 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:45",
+     "domicile": false,
+     "adversaire": "OSNY F.C. 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "COURDIMANCHE AS",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "COSMO TAVERNY 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "E.S. HERBLAY 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CSM EAUBONNE FOOT",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ACADÉMIE FOOTBALL CL",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "JOUY LE MOUTIER F.C. 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "COSMO TAVERNY 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MARLY LA VILLE ES 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445528",
+   "division": "CRITERIUM U11 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "ST LEU 95 FC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ECOUEN FC 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "ENTENTE SSG 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "SOISY ANDILLY MARGEN",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "E.S. HERBLAY 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BEZONS U. SEC. OM.",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "COSMO TAVERNY 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S.",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "E.S. HERBLAY 2",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AJED",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "COSMO TAVERNY 2",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S.",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445528",
+   "division": "CRITERIUM U11 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ST LEU 95 FC 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ECOUEN FC 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "ENTENTE SSG 3",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "SOISY ANDILLY MARGEN 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "E.S. HERBLAY 3",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 3",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BEZONS U. SEC. OM. 2",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "COSMO TAVERNY 3",
+     "score": null,
+     "statut": "non joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "E.S. HERBLAY 3",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AJED 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "COSMO TAVERNY 3",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 3",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445528",
+   "division": "CRITERIUM U11 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 3",
+   "equipe_slug": "581364-goussainville-fc-3",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ST LEU 95 FC 4",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ECOUEN FC 4",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ENTENTE SSG 4",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "SOISY ANDILLY MARGEN 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "E.S. HERBLAY 4",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 4",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BEZONS U. SEC. OM. 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "COSMO TAVERNY 4",
+     "score": "2-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "E.S. HERBLAY 4",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AJED 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "COSMO TAVERNY 4",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 4",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445532",
+   "division": "CRITERIUM U13 Série 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AJED",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ST PRIX ES 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ROISSY EN FRANCE U.S",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GARGES GONESSE FCM 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ASC BONNEUIL 95",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "SOISY ANDILLY MARGEN",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SOISY ANDILLY MARGEN",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CHAMPAGNE 95 SFC",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CORMEILLAIS A.C.S.",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MAGNY EN VEXIN FC",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PARMAIN AC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "EZANVILLE ECOUEN US",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ERMONT A.S.",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445587",
+   "division": "CRITERIUM U10 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 21",
+   "equipe_slug": "581364-goussainville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "BEAUCHAMP A.S. 21",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "VIARMES ASNIERES OL. 21",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "ENTENTE SSG 22",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "BEZONS U. SEC. OM. 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "AJED 21",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "F.C. VILLIERS LE BEL 22",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-16",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ENTENTE SSG 22",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AJED 21",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GONESSE RC 21",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "MONTIGNY FC 95 21",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 21",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 22",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445587",
+   "division": "CRITERIUM U10 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 22",
+   "equipe_slug": "581364-goussainville-fc-22",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "BEAUCHAMP A.S. 22",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "VIARMES ASNIERES OL. 22",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "ENTENTE SSG 23",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "BEZONS U. SEC. OM. 22",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "AJED 22",
+     "score": null,
+     "statut": "reporté",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 22",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "F.C. VILLIERS LE BEL 23",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ENTENTE SSG 23",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AJED 22",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GONESSE RC 22",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "MONTIGNY FC 95 22",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 22",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 23",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445587",
+   "division": "CRITERIUM U10 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 23",
+   "equipe_slug": "581364-goussainville-fc-23",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BEAUCHAMP A.S. 23",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "VIARMES ASNIERES OL. 23",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ENTENTE SSG 24",
+     "score": "0-18",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "BEZONS U. SEC. OM. 23",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "AJED 23",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 23",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "F.C. VILLIERS LE BEL 24",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ENTENTE SSG 24",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AJED 23",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "GONESSE RC 23",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MONTIGNY FC 95 23",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 23",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 24",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445587",
+   "division": "CRITERIUM U10 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2026-04-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BEAUCHAMP A.S.",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "BEZONS U. SEC. OM.",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445587",
+   "division": "CRITERIUM U10 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2026-04-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BEAUCHAMP A.S. 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "BEZONS U. SEC. OM. 2",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445587",
+   "division": "CRITERIUM U10 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U10",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 3",
+   "equipe_slug": "581364-goussainville-fc-3",
+   "matchs": [
+    {
+     "date": "2026-04-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "BEAUCHAMP A.S. 3",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445670",
+   "division": "CRITERIUM U12 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 21",
+   "equipe_slug": "581364-goussainville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 22",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AJED 21",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 23",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BEZONS U. SEC. OM. 21",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FOSSES F. U. 21",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AJED 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 23",
+     "score": "0-18",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "SARCELLES AAS 23",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445670",
+   "division": "CRITERIUM U12 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 22",
+   "equipe_slug": "581364-goussainville-fc-22",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 23",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AJED 22",
+     "score": "6-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 22",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 24",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BEZONS U. SEC. OM. 22",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FOSSES F. U. 22",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AJED 22",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 24",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 22",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445670",
+   "division": "CRITERIUM U12 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 23",
+   "equipe_slug": "581364-goussainville-fc-23",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AJED 23",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 23",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 25",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BEZONS U. SEC. OM. 23",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "FOSSES F. U. 23",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AJED 23",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 25",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "PERSAN U.S. 23",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "SARCELLES AAS 25",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445670",
+   "division": "CRITERIUM U12 Série 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SARCELLES AAS 4",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443268",
+   "division": "Coupe du Comité Seniors Lestruhaut",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ST BRICE F.C. 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Premier Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ST PRIX ES 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Deuxième tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST OUEN L'AUMONE AS 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Huitièmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443269",
+   "division": "Coupe du Val-d'Oise CM Seniors Coutelier",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2026-02-26",
+     "heure": "20:15",
+     "domicile": false,
+     "adversaire": "GONESSE RC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443270",
+   "division": "Coupe du Val-d''Oise Crédit Mutuel Plus 45",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 35",
+   "equipe_slug": "581364-goussainville-fc-35",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "CHAMPAGNE 95 SFC 35",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Premier Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ST PRIX ES 35",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Huitièmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443272",
+   "division": "Coupe du Val-d'Oise Crédit Mutuel U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 21",
+   "equipe_slug": "581364-goussainville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-11-09",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "VIARMES ASNIERES OL. 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Deuxième Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ST OUEN L'AUMONE AS 21",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Huitièmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443273",
+   "division": "Coupe du Comité U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MERY MERIEL FC 2",
+     "score": "16-1",
+     "statut": "joué",
+     "journee": "Premier Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-04-01",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 3",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443273",
+   "division": "Coupe du Comité U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 22",
+   "equipe_slug": "581364-goussainville-fc-22",
+   "matchs": [
+    {
+     "date": "2026-03-08",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "BEAUCHAMP A.S. 22",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443274",
+   "division": "Coupe du Val-d''Oise Crédit Mutuel U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "VIARMES ASNIERES OL.",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": "Premier tour",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "SARCELLES AAS 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Quarts de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443274",
+   "division": "Coupe du Val-d''Oise Crédit Mutuel U16",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 21",
+   "equipe_slug": "581364-goussainville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-11-09",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "MENUCOURT AS 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Deuxième tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ERMONT A.S. 21",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Huitièmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443277",
+   "division": "Coupe du Comité U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 22",
+   "equipe_slug": "581364-goussainville-fc-22",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "F.C. VILLIERS LE BEL 22",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Premier Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443277",
+   "division": "Coupe du Comité U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 23",
+   "equipe_slug": "581364-goussainville-fc-23",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GONESSE RC 23",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Premier Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443280",
+   "division": "Coupe du Val-d'Oise Crédit Mutuel U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 21",
+   "equipe_slug": "581364-goussainville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "PONTOISIENNE JS 21",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Premier Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CSM EAUBONNE FOOT 21",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Deuxième Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ST BRICE F.C. 21",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443296",
+   "division": "Coupe du Val-d'Oise CM U15F Challenge Dupuis",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PERSAN U.S.",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST PRIX ES",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Huitièmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443297",
+   "division": "Coupe du Comité Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 2",
+   "equipe_slug": "581364-goussainville-fc-2",
+   "matchs": [
+    {
+     "date": "2026-02-15",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GARGES DJIBSON 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443298",
+   "division": "Coupe du Val-d'Oise Crédit Mutuel Seniors Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2026-02-17",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "SPORTIFS DE GARGES",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445090",
+   "division": "Coupe du Comité Anciens",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 32",
+   "equipe_slug": "581364-goussainville-fc-32",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "EZANVILLE ECOUEN US 32",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Premier tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445091",
+   "division": "Coupe du Val-d''Oise Crédit Mutuel Anciens",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC 31",
+   "equipe_slug": "581364-goussainville-fc-31",
+   "matchs": [
+    {
+     "date": "2025-11-09",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "MONTMAGNY FC 31",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Troisième Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "CERGY PORTUGAIS 31",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Huitièmes de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445091",
+   "division": "Coupe du Val-d''Oise Crédit Mutuel Anciens",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2026-04-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SARCELLES AAS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Quarts de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "09:00",
+     "domicile": true,
+     "adversaire": "EZANVILLE ECOUEN US",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Demi-finales",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ECOUEN FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "GOUSSAINVILLE FC 21",
+   "equipe_slug": "581364-goussainville-fc-21",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "BUSSY ST GEORGES FC 21",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VAL D'EUROPE FC 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435169",
+   "division": "Coupe Nationale Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "GOUSSAINVILLE FC",
+   "equipe_slug": "581364-goussainville-fc",
+   "matchs": [
+    {
+     "date": "2025-10-02",
+     "heure": "20:35",
+     "domicile": false,
+     "adversaire": "FRESNES FUTSAL 94",
+     "score": "5-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "VSG FUTSAL",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Tour n°3",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

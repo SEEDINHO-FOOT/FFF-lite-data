@@ -1,0 +1,1338 @@
+{
+ "clNo": "199250",
+ "nom": "SUD SAINTONGE AC",
+ "noms": [
+  "SUD SAINTONGE AC",
+  "SUD SAINTONGE AC 2",
+  "SUD SAINTONGE AC 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "437549",
+   "division": "Critérium seniors A8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC 3",
+   "equipe_slug": "560941-sud-saintonge-ac-3",
+   "matchs": [
+    {
+     "date": "2026-02-27",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CHEVANCEAUX MONTLIEU 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ST MAIGRIN",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PONS US 4",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-17",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "GUIT/NIEUL AS 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-24",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "TREFLE SP. REAUX 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-30",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST GENIS SAIN 4",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ENT CHANIERS/CHERAC2 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "SEMUSSACAISE JS 4",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-22",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "JONZAC ST GERMAIN FC 4",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437552",
+   "division": "Seniors Départemental 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SUD 17 FC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BEDENAC LARUSCADE SC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "PONS US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GENIS SAIN 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "JONZAC ST GERMAIN FC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GEMOZAC US 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CANTON MIRAMBEAU",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHEVANCEAUX MONTLIEU",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHADEN.JARN.MARIGN.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GUIT/NIEUL AS",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "PONS US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ST GENIS SAIN 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "JONZAC ST GERMAIN FC 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "GEMOZAC US 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CANTON MIRAMBEAU",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "BEDENAC LARUSCADE SC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CHADEN.JARN.MARIGN.",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "CHEPNIERS F.C",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHEVANCEAUX MONTLIEU",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHEPNIERS F.C",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GUIT/NIEUL AS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SUD 17 FC 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437553",
+   "division": "Seniors Départemental 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC 2",
+   "equipe_slug": "560941-sud-saintonge-ac-2",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "SUD 17 FC 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "JONZAC ST GERMAIN FC 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CANTON MIRAMBEAU 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "CHADEN.JARN.MARIGN. 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TREFLE SP. REAUX",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "ST GENIS SAIN 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "F.C AV ST FORTAIS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "LEOVILLE",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BEDENAC LARUSCADE SC 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "CHEPNIERS F.C 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CHADEN.JARN.MARIGN. 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TREFLE SP. REAUX",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "ST GENIS SAIN 3",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C AV ST FORTAIS",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LEOVILLE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "JONZAC ST GERMAIN FC 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BEDENAC LARUSCADE SC 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHEPNIERS F.C 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CANTON MIRAMBEAU 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SUD 17 FC 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437557",
+   "division": "U16 U17",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PONS US",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SUD 17 FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GENIS SAIN",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAUJON US",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. REAUX ASCJM",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PAYS ROYANNAIS GJ",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.GONDS/THENAC/DV",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SUD 17 FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST GEORGES COTEAUX",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GENIS SAIN",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAUJON US",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GEORGES COTEAUX",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. REAUX ASCJM",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.GONDS/THENAC/DV",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PAYS ROYANNAIS GJ",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PONS US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437559",
+   "division": "U14 U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ILE D'OLERON FOOT 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOISSEUIL 17 STADE",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.ESAB/ESPB",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "L.J.L.T.",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT ST HIPPO-CABARIO",
+     "score": "11-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C. FOURAS ST LAURE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.EHVS  US AULNAY",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.ESAB/ESPB",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "L.J.L.T.",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT ST HIPPO-CABARIO",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "F.C. FOURAS ST LAURE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOISSEUIL 17 STADE",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GJ DU PAYS MARENNAIS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GJ DU PAYS MARENNAIS 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.EHVS  US AULNAY",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ILE D'OLERON FOOT 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437560",
+   "division": "U12 U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CHEPNIERS FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CANTON MIRAMBEAU",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT.LEOVILLE JONZAC 2",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CHEVANCEAUX MONTLIEU",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SUD 17 FC 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CHADEN.JARN.MARIGN.",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PONS US 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PONS US 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST GENIS SAIN 2",
+     "score": "2-10",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PAYS ROYANNAIS GJ 4",
+     "score": "14-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ENT.LEOVILLE JONZAC 2",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SUD 17 FC 2",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "STGE ESTUAIRE GJ 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CHEVANCEAUX MONTLIEU",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CHADEN.JARN.MARIGN.",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437577",
+   "division": "Challenge Charente-Maritime",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-11-08",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "BEDENAC LARUSCADE SC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "UCA",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "TOUR 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437578",
+   "division": "Challenge des Réserves",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC 2",
+   "equipe_slug": "560941-sud-saintonge-ac-2",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CANTON MIRAMBEAU 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "TRIZAY CS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "TOUR 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437581",
+   "division": "U16 U17 Challenge Départemental",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-11-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SUD 17 FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1er tour preliminaire",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437582",
+   "division": "U16 U17 Coupe Michel Navas",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FONTCOUVERTE FC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "1er tour preliminaire",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437584",
+   "division": "U14 U15 Coupe René Cohade",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LA ROCHELLE ES 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437586",
+   "division": "U12 U13 Challenge Départemental",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "FONTCOUVERTE FC 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "1er tour preliminaire",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "STGE ESTUAIRE GJ 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "2ème tour préliminaire",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "SUD SAINTONGE AC",
+   "equipe_slug": "560941-sud-saintonge-ac",
+   "matchs": [
+    {
+     "date": "2025-08-23",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "NERCILLAC REPARSAC E",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

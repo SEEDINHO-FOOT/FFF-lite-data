@@ -1,0 +1,661 @@
+{
+ "clNo": "8218",
+ "nom": "PLAINE HAUTE AS",
+ "noms": [
+  "PLAINE HAUTE AS"
+ ],
+ "competitions": [
+  {
+   "cpNo": "444269",
+   "division": "Coupe Région Bretagne Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLAINE HAUTE AS",
+   "equipe_slug": "522438-plaine-haute-as",
+   "matchs": [
+    {
+     "date": "2025-11-25",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "GUINGAMP FUTSAL",
+     "score": "3-17",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438177",
+   "division": "District 3",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLAINE HAUTE AS",
+   "equipe_slug": "522438-plaine-haute-as",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLEDRAN CS 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLOUFRAGAN ASSH 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LE VIEUX BOURG FC 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LANFAINS AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST BRANDAN QUINT FC 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLESIDY FC TRIEUX",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST NICOLAS USAP 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BOQUEHO ET 2",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PLOUNEVEZ LANRI US 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST NICOLAS USAP 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PLOUFRAGAN ASSH 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LE VIEUX BOURG FC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "LANFAINS AS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ST BRANDAN QUINT FC 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LE FOEIL ES 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "PLESIDY FC TRIEUX",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "BOQUEHO ET 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PLOUNEVEZ LANRI US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ST JULIEN AS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ST JULIEN AS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LE FOEIL ES 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "PLEDRAN CS 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438252",
+   "division": "District 2 Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLAINE HAUTE AS",
+   "equipe_slug": "522438-plaine-haute-as",
+   "matchs": [
+    {
+     "date": "2025-09-18",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "PLELO AS",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-25",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ST BRIEUC CCL 2",
+     "score": "8-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-09",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "MERDRIGNAC CS",
+     "score": "11-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-23",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST BRANDAN QUINT FC 2",
+     "score": "7-10",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-28",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "LANRODEC CELTICS 2",
+     "score": "3-16",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-06",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "PLEUDIHEN STADE",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-20",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LANVALLAY US",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-05",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ST BRIEUC CCL 2",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-18",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LANRODEC CELTICS 2",
+     "score": "17-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-15",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "MERDRIGNAC CS",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-20",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST BRANDAN QUINT FC 2",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-27",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "PLEUDIHEN STADE",
+     "score": "10-5",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-05",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LANVALLAY US",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-26",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "PLELO AS",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-03",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "PLEUDIHEN STADE",
+     "score": "5-9",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-20",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ST BRIEUC CCL 2",
+     "score": "3-9",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-24",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "MERDRIGNAC CS",
+     "score": "9-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-07",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "MT CAVAN FUTSAL",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-16",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ROSTRENEN FC",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-12",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "GOUDELIN US",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-19",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "PLESTIN AS",
+     "score": "8-11",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438160",
+   "division": "Coupe du Département",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLAINE HAUTE AS",
+   "equipe_slug": "522438-plaine-haute-as",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA MONTAGNE AS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LANFAINS AS",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438206",
+   "division": "Coupe A LEMEE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLAINE HAUTE AS",
+   "equipe_slug": "522438-plaine-haute-as",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TREMOREL US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438208",
+   "division": "Coupe D3-D4",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLAINE HAUTE AS",
+   "equipe_slug": "522438-plaine-haute-as",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PLERNEUF ATLÉTICO",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437410",
+   "division": "COUPE REGION BRETAGNE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "PLAINE HAUTE AS",
+   "equipe_slug": "522438-plaine-haute-as",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BULAT PESTIVIEN ES",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "PLAINE HAUTE AS",
+   "equipe_slug": "522438-plaine-haute-as",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LA CROIX CORLAY FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

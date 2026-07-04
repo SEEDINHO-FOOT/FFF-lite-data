@@ -1,0 +1,3432 @@
+{
+ "clNo": "368",
+ "nom": "ABBEVILLE SC",
+ "noms": [
+  "ABBEVILLE SC",
+  "ABBEVILLE SC 11",
+  "ABBEVILLE SC 2",
+  "ABBEVILLE SC 21",
+  "ABBEVILLE SC 22"
+ ],
+ "competitions": [
+  {
+   "cpNo": "440826",
+   "division": "MATCHES AMICAUX SENIORS LFHF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2026-01-17",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "OUTREAU ASF",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443821",
+   "division": "MATCHES AMICAUX U17/U16 LFHF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 21",
+   "equipe_slug": "500253-abbeville-sc-21",
+   "matchs": [
+    {
+     "date": "2025-08-27",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BETHUNE STADE 21",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VERLINGHEM FOOT 21",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439190",
+   "division": "Seniors Régional 2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "MERU US",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "BRETEUIL US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "BEAUVAIS OISE AS 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GOUVIEUX US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "SALOUEL SALEUX RCF",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MONTREUIL SUR MER US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "LIANCOURT CLERMONT",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROYE US",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "LE TOUQUET ACF CO",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "BRETEUIL US",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BEAUVAIS OISE AS 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST MAXIMIN US",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "GOUVIEUX US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SALOUEL SALEUX RCF",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "LIANCOURT CLERMONT",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTREUIL SUR MER US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "ROYE US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LE TOUQUET ACF CO",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST MAXIMIN US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERU US",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439210",
+   "division": "U18 Régional 2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "GOUVIEUX US",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "NOEUX LES MINES US",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LE PORTEL STADE",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BEAURAINS AS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ETAPLES AS",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CAMON US",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "BERCK AS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CHAMBLY OISE FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "BULLY LES MINES ES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "BEAUVAIS OISE AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "AVION CS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:15",
+     "domicile": false,
+     "adversaire": "NOEUX LES MINES US",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ETAPLES AS",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "LE PORTEL STADE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BEAUVAIS OISE AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CAMON US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-22",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "BEAURAINS AS",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BERCK AS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "AVION CS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CHAMBLY OISE FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BULLY LES MINES ES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GOUVIEUX US",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439212",
+   "division": "U17 Régional 2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NOEUX LES MINES US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VERMELLES US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AVION CS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "BULLY LES MINES ES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NIBAS FRESSENNEVILLE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BEAUVAIS OISE AS",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "LONGUEAU ESC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "CREIL AFC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ARRAS FA",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-25",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "GOUVIEUX US",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "VERMELLES US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BULLY LES MINES ES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AVION CS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "GOUVIEUX US",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "NIBAS FRESSENNEVILLE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BEAUVAIS OISE AS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LONGUEAU ESC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CREIL AFC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ARRAS FA",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "NOEUX LES MINES US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439214",
+   "division": "U16 Régional 2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "CHOISY AU BAC US",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "LONGUEAU ESC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LAON US",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "CHAUNY US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST QUENTIN O.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ARRAS FA",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "SOISSONS IFC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CAMBRAI AC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GAUCHY GRUGIES FC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MERU US",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LONGUEAU ESC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LAON US",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CHAUNY US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ST QUENTIN O.",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ARRAS FA",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SOISSONS IFC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MERU US",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GAUCHY GRUGIES FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CAMBRAI AC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CHOISY AU BAC US",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439218",
+   "division": "U14 Ligue",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NOGENT SUR OISE US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CHOISY AU BAC US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "LAON US",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "BEAUVAIS OISE AS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LE PAYS DU VALOIS US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CREIL AFC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CHAMBLY OISE FC",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "SOISSONS IFC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "AMIENS SCF",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LONGUEAU ESC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CHANTILLY US",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CHOISY AU BAC US",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LAON US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BEAUVAIS OISE AS",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CREIL AFC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "LE PAYS DU VALOIS US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "CHAMBLY OISE FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "SOISSONS IFC",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CHANTILLY US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "AMIENS SCF",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "LONGUEAU ESC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "NOGENT SUR OISE US",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439240",
+   "division": "Coupe Hauts-de-France U17",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GOUVIEUX US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439241",
+   "division": "Coupe Hauts-de-France U16",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 21",
+   "equipe_slug": "500253-abbeville-sc-21",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "GAUCHY GRUGIES FC 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ETAPLES AS 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439243",
+   "division": "Coupe Hauts-de-France U14",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 21",
+   "equipe_slug": "500253-abbeville-sc-21",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "NOGENT SUR OISE US 21",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "RONCHIN US 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442487",
+   "division": "Seniors Fem à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 11",
+   "equipe_slug": "500253-abbeville-sc-11",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "BETHENCOURT US 11",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AMIENS AF 11",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CENTULOIS FC 1924 11",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "QUESNOY L/MONTANT AS 11",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NIBAS FRESSENNEVILLE 11",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-10-29",
+     "heure": "19:15",
+     "domicile": true,
+     "adversaire": "TEMPLIERS SC 11",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VILLERS BRETONNEUX 11",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "TALMAS P/FIENVILLERS 11",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "NIBAS FRESSENNEVILLE 11",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "TEMPLIERS SC 11",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AMIENS RC 11",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AF ENGLEBELMER",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NIBAS FRESSENNEVILLE 11",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "QUESNOY L/MONTANT AS 11",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "QUESNOY L/MONTANT AS 11",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "TALMAS P/FIENVILLERS 11",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AF ENGLEBELMER",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "TEMPLIERS SC 11",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AMIENS RC 11",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "VILLERS BRETONNEUX 11",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442491",
+   "division": "U18 Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 22",
+   "equipe_slug": "500253-abbeville-sc-22",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "CENTULOIS FC 1924 21",
+     "score": "1-15",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "DOULLENS RC 21",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AMIENS RC 21",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "DOULLENS RC 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NOUVION PONTHIEU AV 21",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "QCL SUD AMIÉNOIS 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "MIANNAY MOYENNEVILLE 21",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442503",
+   "division": "U15 Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "GAMACHES AS",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ST VALERY FC",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "NIBAS FRESSENNEVILLE",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "CENTULOIS FC 1924",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "OISEMONT FC",
+     "score": "23-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ALLERY AIRAINE AS 2A",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "ABBEVILLE MENCHECOUR",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "GAMACHES AS",
+     "score": "1-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442509",
+   "division": "U13 Niveau 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 2",
+   "equipe_slug": "500253-abbeville-sc-2",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ST VALERY FC 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ALLERY AIRAINE AS 2A",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CENTULOIS FC 1924",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "GAMACHES AS 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LIGNIERES US",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "POIX BLANGY CROI. FC 2",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "QCL SUD AMIÉNOIS",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MIANNAY MOYENNEVILLE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442511",
+   "division": "U12 Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 21",
+   "equipe_slug": "500253-abbeville-sc-21",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "QUEND US 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "DOULLENS RC 21",
+     "score": "20-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443357",
+   "division": "Seniors D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 2",
+   "equipe_slug": "500253-abbeville-sc-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PONT REMY SC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NIBAS FRESSENNEVILLE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AMIENS RIF",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AMIENS PORTUGAIS FCP 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ALBERT USOAAS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AMIENS PIGEONNIER ES",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MEAULTE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "AILLY S/S FC SAMARA",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "MIANNAY MOYENNEVILLE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LA MONTOYE FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "AMIENS PORTUGAIS FCP 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AMIENS PIGEONNIER ES",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PERONNE ECAFC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MEAULTE FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NIBAS FRESSENNEVILLE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "AILLY S/S FC SAMARA",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MIANNAY MOYENNEVILLE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AMIENS RIF",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ALBERT USOAAS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LA MONTOYE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PERONNE ECAFC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PONT REMY SC",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444751",
+   "division": "U13 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CAMON US",
+     "score": "10-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LONGUEAU ESC",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ALBERT USOAAS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AMIENS SCF",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "US NORMANDE 76",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ST VALERY FC",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CAMON US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "OISEMONT FC",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AMIENS FC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "US NORMANDE 76",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "DOULLENS RC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AMIENS FC",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST VALERY FC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "DOULLENS RC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CAMON US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "OISEMONT FC",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445635",
+   "division": "U12 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 21",
+   "equipe_slug": "500253-abbeville-sc-21",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "NESLOIS AS DU PAYS 21",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AMIENS PORTUGAIS FCP 22",
+     "score": "1-21",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AMIENS RIF 21",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LONGUEAU ESC 21",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "AMIENS PORTUGAIS FCP 21",
+     "score": "1-20",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CAMON US 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AMIENS FC 21",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "NESLOIS AS DU PAYS 21",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AMIENS PORTUGAIS FCP 22",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:15",
+     "domicile": false,
+     "adversaire": "LONGUEAU ESC 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445635",
+   "division": "U12 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U12",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2026-04-11",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AMIENS PORTUGAIS FCP",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AMIENS FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CAMON US",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AMIENS RIF",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446943",
+   "division": "U13 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 2",
+   "equipe_slug": "500253-abbeville-sc-2",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "QCL SUD AMIÉNOIS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "FLIXECOURT SC",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CENTULOIS FC 1924",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "LE TITRE ENT.",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "SALOUEL SALEUX RCF",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "QCL SUD AMIÉNOIS",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "DOULLENS RC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "ALLERY AIRAINE AS 2A",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "SALOUEL SALEUX RCF",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "FLIXECOURT SC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "DOULLENS RC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CENTULOIS FC 1924",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LE TITRE ENT.",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ALLERY AIRAINE AS 2A",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446949",
+   "division": "U18 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 22",
+   "equipe_slug": "500253-abbeville-sc-22",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RIVERY ASM 21",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AMIENS RC 21",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PERONNE ECAFC 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT. FCLM ASQPN U18 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "DOULLENS RC 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "QCL SUD AMIÉNOIS 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "ENT. FCLM ASQPN U18 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446949",
+   "division": "U18 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 2",
+   "equipe_slug": "500253-abbeville-sc-2",
+   "matchs": [
+    {
+     "date": "2026-03-28",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "RIVERY ASM",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "VILLERS/MARCELCAVE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "AMIENS RC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "VILLERS/MARCELCAVE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "DOULLENS RC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "QCL SUD AMIÉNOIS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "PERONNE ECAFC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446971",
+   "division": "U15 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GAMACHES AS",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CENTULOIS FC 1924",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CAMON US 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AMIENS RC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LONGUEAU ESC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "GAMACHES AS",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "MONTDIDIER AC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT. CANDAS BERNAVIL",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:45",
+     "domicile": false,
+     "adversaire": "LONGUEAU ESC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CENTULOIS FC 1924",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MONTDIDIER AC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "CAMON US 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AMIENS RC",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ENT. CANDAS BERNAVIL",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442959",
+   "division": "Coupe de la Somme Seniors / Challenge CRCA",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 2",
+   "equipe_slug": "500253-abbeville-sc-2",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "WOINCOURT DARGNIES",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RUE AS",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "HARONDEL ES",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "4ème Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442961",
+   "division": "Challenge Boute/Menneret",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 2",
+   "equipe_slug": "500253-abbeville-sc-2",
+   "matchs": [
+    {
+     "date": "2026-02-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CENTULOIS FC 1924",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442963",
+   "division": "Coupe Somme U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 2",
+   "equipe_slug": "500253-abbeville-sc-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "MIANNAY MOYENNEVILLE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "NOUVION PONTHIEU AV",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442969",
+   "division": "Challenge Gardin/Fourdrin",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2026-04-15",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "AUXILOISE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442972",
+   "division": "Coupe Somme U14/U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "TEMPLIERS SC 15",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CENTULOIS FC 1924",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "CAMON US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "1/8ème de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442990",
+   "division": "Coupe de la Somme Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "ABBEVILLE SC 11",
+   "equipe_slug": "500253-abbeville-sc-11",
+   "matchs": [
+    {
+     "date": "2025-11-02",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "QUESNOY L/MONTANT AS 11",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "NEUILLY L'HOPITAL US 11",
+     "score": "13-0",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "NIBAS FRESSENNEVILLE 11",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "1/4 de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VILLERS BRETONNEUX 11",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ABBEVILLE SC",
+   "equipe_slug": "500253-abbeville-sc",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "ECAILLON FC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SAINS ST FUSCIEN ES",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "4ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VIRY NOUREUIL ES",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "5ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NEUFCHATEL L'ECLAIR",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "6ème Tour (Finale Régionale)",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "DUNKERQUE USL",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "8ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ABBEVILLE SC 21",
+   "equipe_slug": "500253-abbeville-sc-21",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "GROUCHES FC 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "2ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "GOUVIEUX US 21",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "3ème Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL FC 21",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LESQUIN US 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "5ème Tour (Finale Régionale)",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

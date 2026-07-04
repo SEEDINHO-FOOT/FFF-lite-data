@@ -1,0 +1,536 @@
+{
+ "clNo": "205155",
+ "nom": "MMF",
+ "noms": [
+  "MMF",
+  "MONTPON MENES FUTSAL",
+  "MONTPON MENES FUTSAL 2",
+  "MONTPON MENESPLET F. 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435207",
+   "division": "Coupe Nouvelle-Aquitaine Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "MMF",
+   "equipe_slug": "565217-mmf",
+   "matchs": [
+    {
+     "date": "2026-03-09",
+     "heure": "22:30",
+     "domicile": false,
+     "adversaire": "CSLG33",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-16",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "SELECAO UNITED ARTIG",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443459",
+   "division": "Championnat Futsal Séniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "MONTPON MENES FUTSAL 2",
+   "equipe_slug": "565217-montpon-menes-futsal-2",
+   "matchs": [
+    {
+     "date": "2025-09-25",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BASSIMILHACOIS FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-08",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "FUTSAL MARSAC",
+     "score": "7-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-16",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MONTEIL FOYER RURAL",
+     "score": "6-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-06",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ALLIANCE DRONNE",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FOYEN FUTSAL CLUB 2",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-24",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "MONTPON MENES FUTSAL",
+     "score": "2-11",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-29",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "E. NEUVIC LIMENS JSA 2",
+     "score": "7-8",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-04",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "AGONAC LA PATRIOTE",
+     "score": "6-8",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-26",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FUTSAL MARSAC",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-05",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "MONTEIL FOYER RURAL",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-26",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ALLIANCE DRONNE",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-09",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "FOYEN FUTSAL CLUB 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-20",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "MONTPON MENES FUTSAL",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "E. NEUVIC LIMENS JSA 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-11",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "AGONAC LA PATRIOTE",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-28",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "BASSIMILHACOIS FC",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443459",
+   "division": "Championnat Futsal Séniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "MONTPON MENES FUTSAL",
+   "equipe_slug": "565217-montpon-menes-futsal",
+   "matchs": [
+    {
+     "date": "2025-09-25",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "FUTSAL MARSAC",
+     "score": "14-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-09",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "MONTEIL FOYER RURAL",
+     "score": "2-11",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-30",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ALLIANCE DRONNE",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-06",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "FOYEN FUTSAL CLUB 2",
+     "score": "13-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-13",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "E. NEUVIC LIMENS JSA 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-24",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "MONTPON MENES FUTSAL 2",
+     "score": "2-11",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-28",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "AGONAC LA PATRIOTE",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-19",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "BASSIMILHACOIS FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-26",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "MONTEIL FOYER RURAL",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-19",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "ALLIANCE DRONNE",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-26",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FOYEN FUTSAL CLUB 2",
+     "score": "2-9",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-04-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "E. NEUVIC LIMENS JSA 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-20",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "MONTPON MENES FUTSAL 2",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "AGONAC LA PATRIOTE",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-11",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "BASSIMILHACOIS FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "FUTSAL MARSAC",
+     "score": "4-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446480",
+   "division": "Coupe Dordogne Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "MONTPON MENES FUTSAL 2",
+   "equipe_slug": "565217-montpon-menes-futsal-2",
+   "matchs": [
+    {
+     "date": "2026-01-15",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "NEUVIC STLEON FUTSAL",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448384",
+   "division": "Challenge Dordogne Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "MONTPON MENES FUTSAL",
+   "equipe_slug": "565217-montpon-menes-futsal",
+   "matchs": [
+    {
+     "date": "2026-01-15",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "SANILHACOIS SA",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": "1/2 Finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435169",
+   "division": "Coupe Nationale Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "MONTPON MENESPLET F. 21",
+   "equipe_slug": "565217-montpon-menesplet-f-21",
+   "matchs": [
+    {
+     "date": "2025-09-29",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "SPORTING ROYAN",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-23",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "MARTIGNAS ILLAC FC",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-17",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CHAMBERY RC",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "FC LES EGLISOTTES",
+     "score": "5-12",
+     "statut": "joué",
+     "journee": "Finale Régionale",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "PLAISANCE PIBRAC F.",
+     "score": "2-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

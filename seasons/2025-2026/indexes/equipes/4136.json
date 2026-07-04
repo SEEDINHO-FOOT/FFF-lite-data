@@ -1,0 +1,584 @@
+{
+ "clNo": "4136",
+ "nom": "RIEDSELTZ FC",
+ "noms": [
+  "RIEDSELTZ FC",
+  "RIEDSELTZ FC 2",
+  "RIEDSELTZ FC 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "436844",
+   "division": "MATCHS AMICAUX",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "RIEDSELTZ FC",
+   "equipe_slug": "513022-riedseltz-fc",
+   "matchs": [
+    {
+     "date": "2025-07-17",
+     "heure": "19:45",
+     "domicile": false,
+     "adversaire": "SCHLEITHAL US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-08-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "STEINSELTZ FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436242",
+   "division": "District 6 Alsace",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "RIEDSELTZ FC 2",
+   "equipe_slug": "513022-riedseltz-fc-2",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SCHIRRHEIN FCE 4",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-06",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "BETSCHDORF AS 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "HOERDT AS 3",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SELTZ F.C.S.E 3",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "HERRLISHEIM FC 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "SEEBACH AS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "PREUSCHDORF US 3",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "KILSTETT AS 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SESSENHEIM ENT. ESD 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "GRIES FC 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "SELTZ F.C.S.E 3",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "HOERDT AS 3",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "HERRLISHEIM FC 3",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "KILSTETT AS 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "BETSCHDORF AS 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SEEBACH AS 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "PREUSCHDORF US 3",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "SESSENHEIM ENT. ESD 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GRIES FC 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SCHIRRHEIN FCE 4",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436244",
+   "division": "District 8 Alsace",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "RIEDSELTZ FC 3",
+   "equipe_slug": "513022-riedseltz-fc-3",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MUNCHHAUSEN MOTHERN 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "HOFFEN FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ROTT FC 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "HATTEN AS 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SALMBACH ENT. SCHEIB 3",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "STEINSELTZ FC 3",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SCHLEIT. E. USS FCN 3",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "NIEDERR SCHAFFH ENT 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448091",
+   "division": "District 8 Printemps",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "RIEDSELTZ FC 3",
+   "equipe_slug": "513022-riedseltz-fc-3",
+   "matchs": [
+    {
+     "date": "2026-03-15",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "OBERROEDERN FCOAH 3",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "SALMBACH ENT. SCHEIB 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "STEINSELTZ FC 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "HOFFEN FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MOTHERN MUNCHHAUSEN 4",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "OBERROEDERN FCOAH 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "STEINSELTZ FC 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "HOFFEN FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "MOTHERN MUNCHHAUSEN 4",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SALMBACH ENT. SCHEIB 3",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443942",
+   "division": "Challenge des Réserves Alsace Vivialys",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "RIEDSELTZ FC 3",
+   "equipe_slug": "513022-riedseltz-fc-3",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ROTT FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443953",
+   "division": "Coupe Crédit Mutuel Wissembourg",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "RIEDSELTZ FC",
+   "equipe_slug": "513022-riedseltz-fc",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "NEUHAEUSEL FC",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SCHLEITHAL US",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "8es de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443955",
+   "division": "Coupe des Réserves Alsace Vivialys",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "RIEDSELTZ FC 2",
+   "equipe_slug": "513022-riedseltz-fc-2",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SEEBACH AS 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

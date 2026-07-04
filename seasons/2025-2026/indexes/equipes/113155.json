@@ -1,0 +1,652 @@
+{
+ "clNo": "113155",
+ "nom": "PARMAIN FUTSAL A.S.",
+ "noms": [
+  "PARMAIN FUTSAL A.S.",
+  "PARMAIN FUTSAL A.S. 2",
+  "PARMAIN FUTSAL A.S. 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "448636",
+   "division": "U16 FUTSAL P2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "PARMAIN FUTSAL A.S. 21",
+   "equipe_slug": "551445-parmain-futsal-a-s-21",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "15:45",
+     "domicile": false,
+     "adversaire": "ASNIERES FUTSAL 92 21",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "FOOT INDOOR LOISIR 21",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "DRANCY FUTSAL 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "BVE FUTSAL 22",
+     "score": "13-8",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448636",
+   "division": "U16 FUTSAL P2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U16",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "PARMAIN FUTSAL A.S.",
+   "equipe_slug": "551445-parmain-futsal-a-s",
+   "matchs": [
+    {
+     "date": "2026-03-28",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "SPORTIFS DE GARGES",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CERGY PONTOISE FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSANAISE CFJ",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "MARCOUVILLE CITY CP 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "FCVLB",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443263",
+   "division": "Futsal D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "PARMAIN FUTSAL A.S.",
+   "equipe_slug": "551445-parmain-futsal-a-s",
+   "matchs": [
+    {
+     "date": "2025-09-19",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "ATTAINVILLE FUTSAL C 2",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "COMBO FUTSAL 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-10",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "SPORTIFS DE GARGES 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-03",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "MONTMAGNY FOOT SALLE",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-05",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "BEZONS SC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MONTMORENCY FUTSAL",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-19",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "BEZONS FUTSAL CLUB",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-09",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "MONTIGNY LVDB",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-19",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "MSF",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-30",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "COMBO FUTSAL 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SPORTIFS DE GARGES 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-20",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "MONTMAGNY FOOT SALLE",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "18:20",
+     "domicile": false,
+     "adversaire": "BEZONS FUTSAL CLUB",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-17",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "BEZONS SC",
+     "score": "6-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "MONTMORENCY FUTSAL",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "MONTIGNY LVDB",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "MSF",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "17:30",
+     "domicile": false,
+     "adversaire": "ATTAINVILLE FUTSAL C 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443266",
+   "division": "CRITERIUM U14 FUTSAL",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "PARMAIN FUTSAL A.S. 21",
+   "equipe_slug": "551445-parmain-futsal-a-s-21",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "PERSANAISE CFJ 21",
+     "score": "14-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "FOOT INDOOR LOISIR 21",
+     "score": "8-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "AVICENNE A.S.C. 21",
+     "score": "13-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "COMBO FUTSAL 21",
+     "score": "1-15",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "MARCOUVILLE CITY CP 22",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ATTAINVILLE FUTSAL C 21",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CERGY PONTOISE FC 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSANAISE CFJ 21",
+     "score": "15-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "MARCOUVILLE CITY CP 22",
+     "score": "9-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443266",
+   "division": "CRITERIUM U14 FUTSAL",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "PARMAIN FUTSAL A.S.",
+   "equipe_slug": "551445-parmain-futsal-a-s",
+   "matchs": [
+    {
+     "date": "2026-04-12",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "MARCOUVILLE CITY CP",
+     "score": "19-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "PERSANAISE CFJ 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AFS Vauréal",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "FOOT INDOOR LOISIR",
+     "score": "4-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "FCVLB",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443297",
+   "division": "Coupe du Comité Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "PARMAIN FUTSAL A.S. 2",
+   "equipe_slug": "551445-parmain-futsal-a-s-2",
+   "matchs": [
+    {
+     "date": "2025-11-28",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "GARGES DJIBSON 3",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443298",
+   "division": "Coupe du Val-d'Oise Crédit Mutuel Seniors Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "PARMAIN FUTSAL A.S.",
+   "equipe_slug": "551445-parmain-futsal-a-s",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "FCVLB",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": "Premier Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "19:15",
+     "domicile": false,
+     "adversaire": "MONTIGNY LVDB",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Tour de cadrage",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443300",
+   "division": "Challenge U14 Futsal",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "PARMAIN FUTSAL A.S. 21",
+   "equipe_slug": "551445-parmain-futsal-a-s-21",
+   "matchs": [
+    {
+     "date": "2026-01-11",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "SANNOIS FUTSAL CLUB 22",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Huitièmes de finale",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "SANNOIS FUTSAL CLUB 21",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": "Quarts de finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435169",
+   "division": "Coupe Nationale Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "PARMAIN FUTSAL A.S.",
+   "equipe_slug": "551445-parmain-futsal-a-s",
+   "matchs": [
+    {
+     "date": "2025-09-12",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "SALESIENNE DE PARIS",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

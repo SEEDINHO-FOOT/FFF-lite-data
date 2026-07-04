@@ -1,0 +1,325 @@
+{
+ "clNo": "121476",
+ "nom": "C.A. SPORTS",
+ "noms": [
+  "C.A. SPORTS"
+ ],
+ "competitions": [
+  {
+   "cpNo": "442292",
+   "division": "Entreprise Samedi Matin",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Entreprise",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "C.A. SPORTS",
+   "equipe_slug": "616111-c-a-sports",
+   "matchs": [
+    {
+     "date": "2025-09-13",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "IBM FRANCE PARIS C.",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "STERIA A.C.S.",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "INSEE PARIS CLUB",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "B.P.C.E. AS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "AS SALARIES EY",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "PWC FC",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "HEC PANATHENEES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "09:00",
+     "domicile": false,
+     "adversaire": "ACCENTURE AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ORANGE ISSY 4",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "FINANCES 92 NANTERRE",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "IBM FRANCE PARIS C.",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "AS SALARIES EY",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "ACCENTURE AS",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ORANGE ISSY 4",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "FINANCES 92 NANTERRE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "IBM FRANCE PARIS C.",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "AS SALARIES EY",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "HEC PANATHENEES",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444604",
+   "division": "ENT SAMEDI MATIN CREDIT MUTUEL",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "C.A. SPORTS",
+   "equipe_slug": "616111-c-a-sports",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "B.P.C.E. AS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1/4 Finale ",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "PWC FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1/2 Finale ",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ORANGE ISSY 4",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445509",
+   "division": "COUPE HDS FOOT ENTREPRISE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "C.A. SPORTS",
+   "equipe_slug": "616111-c-a-sports",
+   "matchs": [
+    {
+     "date": "2026-03-21",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "B.P.C.E. AS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435168",
+   "division": "COUPE NAT F ENTREPRISE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "C.A. SPORTS",
+   "equipe_slug": "616111-c-a-sports",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "09:30",
+     "domicile": true,
+     "adversaire": "B.P.C.E. AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Premier Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "GAZIERS PARIS AS",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Tour de Cadrage",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2116 @@
+{
+ "clNo": "191943",
+ "nom": "UF TONNERRE",
+ "noms": [
+  "UF TONNERRE",
+  "UF TONNERRE 2",
+  "UF TONNERRE 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "446101",
+   "division": "CHAMPT U15 FUTSAL",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-10-30",
+     "heure": "00:00",
+     "domicile": true,
+     "adversaire": "AILLANT",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-30",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "AUXERRE STADE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-19",
+     "heure": "00:00",
+     "domicile": true,
+     "adversaire": "CERISIERS",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-19",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "APPOIGNY E.S.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-12",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ENT.UCF FC CHEVANNES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-12",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "U.S. TOUCYCOISE",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-19",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "AVALLON FCO",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-19",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "U.S. JOIGNY",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-07",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "CERISIERS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "00:00",
+     "domicile": true,
+     "adversaire": "ENT.UCF FC CHEVANNES",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446102",
+   "division": "CHAMPT U18 FUTSAL",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE 21",
+   "equipe_slug": "582661-uf-tonnerre-21",
+   "matchs": [
+    {
+     "date": "2025-10-31",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "AVALLON FCO 21",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-31",
+     "heure": "00:00",
+     "domicile": true,
+     "adversaire": "CERISIERS 21",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-23",
+     "heure": "00:00",
+     "domicile": true,
+     "adversaire": "U.S. TOUCYCOISE 21",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-23",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "AILLANT 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-10",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "APPOIGNY E.S. 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-10",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ENT.CHEVANNES-UCF 21",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-19",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "AUXERRE STADE 21",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-19",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "U.S. JOIGNY 21",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444441",
+   "division": "Coupe Bourgogne-Franche-Comté de Football",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AVALLON FCO",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "1er TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437391",
+   "division": "CHALLENGE DE LA CONVIVIALITE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-09-25",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "MT ST SULPICE",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "USVSFP",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-23",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "HERY",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-30",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "RAVIERES US FOOTBALL",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "AJ NEUVY SAUTOUR",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-20",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "GURGY 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-04",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "GURGY 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-11",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "MT ST SULPICE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-29",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ENT. USVSFP SEREIN",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-05",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "AJ NEUVY SAUTOUR",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-12",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "HERY",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-26",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "RAVIERES US FOOTBALL",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-05",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "A. ANIMATION C.S. DE",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-26",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MT ST SULPICE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-02",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ENT. USVSFP SEREIN",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AJ NEUVY SAUTOUR",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-23",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "HERY",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-30",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "RAVIERES US FOOTBALL",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "A. ANIMATION C.S. DE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-21",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "GURGY 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436882",
+   "division": "SENIORS D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE 2",
+   "equipe_slug": "582661-uf-tonnerre-2",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AUXERRE A.S.C. 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AVALLON FCO 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COULANGES VIN",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "U.S. TOUCYCOISE 2",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT.CHATEL GERARD ET 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "GURGY 2",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "MAGNY 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SEREIN",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COULANGES VIN",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TANLAY",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. TOUCYCOISE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.CHATEL GERARD ET 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "HERY",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GURGY 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "HERY",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MAGNY 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "U.S. DE VARENNES 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SEREIN",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "TANLAY",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AVALLON FCO 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "U.S. DE VARENNES 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AUXERRE A.S.C. 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436886",
+   "division": "U13 DEPARTEMENTAL 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXERRE STADE",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AVALLON FCO/ECN",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CHAMPS/YONNE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437372",
+   "division": "DEPARTEMENTAL FEMININ A 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CHEVANNES F.C. 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AJ NEUVY SAUTOUR",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "A. ANIMATION C.S. DE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ENT.CHATEL GERARD ET",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CHEU",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GURGY",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT.CHATEL GERARD ET",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CHEVANNES F.C. 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "A. ANIMATION C.S. DE",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CHEU",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "GURGY",
+     "score": "7-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AJ NEUVY SAUTOUR",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437379",
+   "division": "U18 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE 21",
+   "equipe_slug": "582661-uf-tonnerre-21",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ENT.CHEVANNES-UCF 21",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "USV/AFCO/ECN 21",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "RAVIERES US FOOTBALL 21",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHAMPS/YONNE 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "U.S. DE VARENNES 21",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ENT FLORENTINOIS FC 22",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "RAVIERES US FOOTBALL 21",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437379",
+   "division": "U18 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-12-13",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ENT. MAGNY QUARRE 18",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CHAMPS/YONNE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENT. MAGNY QUARRE 18",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "U.S. DE VARENNES",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ENT FLORENTINOIS FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "USV/AFCO/ECN",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:15",
+     "domicile": true,
+     "adversaire": "ENT.CHEVANNES-UCF",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437380",
+   "division": "U15 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CHABLIS AS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TANLAY",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AFCO/ECN 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT. MAGNY QUARRE 15",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "AJ AUXERRE 16",
+     "score": "0-19",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-17",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "RAVIERES US FOOTBALL",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CHAMPS/YONNE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "CERISIERS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "AUXERRE A.S.C.",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "STADE AUX ROSOIRS  4",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT. SPS 89",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "APPOIGNY E.S. 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-18",
+     "heure": "18:15",
+     "domicile": false,
+     "adversaire": "CHABLIS AS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-25",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "MIGENNES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT. MONETEAU/GURGY ",
+     "score": "6-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437381",
+   "division": "U13 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AJ AUXERRE 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "APPOIGNY E.S. 2",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AILLANT 2",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "MONETEAU FCA",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXERRE A.S.C. 2",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437381",
+   "division": "U13 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE 2",
+   "equipe_slug": "582661-uf-tonnerre-2",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXERRE A.S.C. 3",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AVALLON FCO/ECN",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AVALLON FCO 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ECN/AVALLON FCO 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "QUARRE ST GERMAIN FC",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437398",
+   "division": "U13 U15 F DEPARTEMENTAL",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "U.S. JOIGNY",
+     "score": "1-25",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "SENS FC",
+     "score": "26-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "RAVIERES US FOOTBALL",
+     "score": "12-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AJ AUXERRE 13",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "ENT. ESFENY",
+     "score": "20-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "RAVIERES US FOOTBALL",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. ESFENY",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT. ESFENY",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-13",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "U.S. JOIGNY",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SENS FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "U.S. JOIGNY",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SENS FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "RAVIERES US FOOTBALL",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446296",
+   "division": "CDY FEMININES SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-11-09",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "MONETEAU FCA",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT.JOIGNY/APPOIGNY",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ENT ESFENY ",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448792",
+   "division": "Championnat U13 D1 Printemps",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AILLANT",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AJ AUXERRE",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXERRE STADE",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CHAMPS/YONNE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AVALLON FCO/ECN",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "HERY",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "J. SENONAISE",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SENS FC 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "U.S. JOIGNY 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448794",
+   "division": "Championnat U13 D1 PROMOTION Printemps",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE 2",
+   "equipe_slug": "582661-uf-tonnerre-2",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXERRE A.S.C. 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "APPOIGNY E.S.",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "QUARRE ST GERMAIN FC",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXERRE STADE 2",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST GEORGES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "APPOIGNY E.S.",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AUXERRE STADE 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "QUARRE ST GERMAIN FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST GEORGES",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AUXERRE A.S.C. 2",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437374",
+   "division": "COUPE DE L''YONNE SENIORS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE 2",
+   "equipe_slug": "582661-uf-tonnerre-2",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "APPOIGNY E.S. 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437388",
+   "division": "COUPE YONNE U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT.USD/FONT/MALAY",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "U.S. JOIGNY",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "8ème Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442950",
+   "division": "COUPE U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2026-06-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "HERY",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445364",
+   "division": "COUPE U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE 21",
+   "equipe_slug": "582661-uf-tonnerre-21",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "USV/AFCO/ECN 21",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "HERY 21",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445364",
+   "division": "COUPE U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "U.S. JOIGNY",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446841",
+   "division": "Coupe AUXERRE SPORTS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE 2",
+   "equipe_slug": "582661-uf-tonnerre-2",
+   "matchs": [
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GATINAIS FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "U.S. DIONYSIENNE ST",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "8ème de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449220",
+   "division": "COUPE CHALLENGER SENIOR FEMININES",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2026-04-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CHEVANNES F.C. 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435164",
+   "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "UF TONNERRE",
+   "equipe_slug": "582661-uf-tonnerre",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "A.S. DE SERGINES",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "2ème TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435165",
+   "division": "COUPE GAMBARDELLA CRÉDIT AGRICOLE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "UF TONNERRE 21",
+   "equipe_slug": "582661-uf-tonnerre-21",
+   "matchs": [
+    {
+     "date": "2025-08-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENT. MAGNY QUARRE 38",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "CADRAGE",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SENS FC 21",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "1er TOUR",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

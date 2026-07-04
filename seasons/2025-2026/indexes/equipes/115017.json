@@ -1,0 +1,853 @@
+{
+ "clNo": "115017",
+ "nom": "NIORT ES 1919",
+ "noms": [
+  "NIORT ES 1919",
+  "NIORT ES 1919 2",
+  "NIORT ES 1919 3"
+ ],
+ "competitions": [
+  {
+   "cpNo": "435814",
+   "division": "Futsal Régional 2",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NIORT ES 1919",
+   "equipe_slug": "851805-niort-es-1919",
+   "matchs": [
+    {
+     "date": "2025-09-19",
+     "heure": "21:15",
+     "domicile": false,
+     "adversaire": "FUTSAL 2 CHARENTES A",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-26",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "LA BASTIDIENNE SC 2",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-10",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "NORD 17 FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-17",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "ST MEDARD JALLES ABP 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-03",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "VERDILLE USA",
+     "score": "10-7",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-14",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "CANTON COURCON FC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "LA BASTIDIENNE SC 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-05",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "NORD 17 FC",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-16",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "VERDILLE USA",
+     "score": "9-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-19",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "CANTON COURCON FC",
+     "score": "1-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-29",
+     "heure": "21:15",
+     "domicile": false,
+     "adversaire": "ST MEDARD JALLES ABP 2",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-06",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "FUTSAL 2 CHARENTES A",
+     "score": "14-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-25",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "BORDEAUX COQS ROUGES 2",
+     "score": "5-8",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-06",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "MARTIGNAS ILLAC FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-23",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "FOYEN FUTSAL CLUB",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "ST MEDARD JALLES ABP 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-01",
+     "heure": "21:45",
+     "domicile": false,
+     "adversaire": "MASCARET FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-16",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "LA BASTIDIENNE SC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-01",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "MARTIGNAS ILLAC FC",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "FOYEN FUTSAL CLUB",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "21:15",
+     "domicile": false,
+     "adversaire": "ST MEDARD JALLES ABP 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-05-21",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "MASCARET FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-05-29",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "LA BASTIDIENNE SC 2",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-06-11",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "BORDEAUX COQS ROUGES 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435207",
+   "division": "Coupe Nouvelle-Aquitaine Futsal",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NIORT ES 1919",
+   "equipe_slug": "851805-niort-es-1919",
+   "matchs": [
+    {
+     "date": "2026-03-12",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "EGLISOTTES FUTSAL",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442119",
+   "division": "Futsal Brassage LOISIR",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Loisir",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NIORT ES 1919 3",
+   "equipe_slug": "851805-niort-es-1919-3",
+   "matchs": [
+    {
+     "date": "2025-09-09",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "CRENSOA",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-17",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "FC AUTIZE 2",
+     "score": "10-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-23",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "AVENIR 79 FC 2",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-16",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "TYS F.C. 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-28",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "FC AUTIZE 2",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-06",
+     "heure": "21:15",
+     "domicile": false,
+     "adversaire": "AVENIR 79 FC 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-09",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "TYS F.C. 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-18",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "CRENSOA",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-15",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "K.F.S.",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-01-19",
+     "heure": "22:00",
+     "domicile": false,
+     "adversaire": "THE F.O.C. VOUILLETA 3",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-01-27",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "VAL DE BOUTONNE FOOT",
+     "score": "7-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-24",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "AIFFRES FORS PRAHECQ 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-31",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "THE F.O.C. VOUILLETA 3",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-23",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "VAL DE BOUTONNE FOOT",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-11",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "AIFFRES FORS PRAHECQ 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-05-26",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "K.F.S.",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442120",
+   "division": "Futsal Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NIORT ES 1919 2",
+   "equipe_slug": "851805-niort-es-1919-2",
+   "matchs": [
+    {
+     "date": "2025-09-19",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "GATI FOOT",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-22",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "BOUTONNAIS FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-10",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "AVENIR 79 FC",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "AIFFRES FORS PRAHECQ",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-31",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "BESSINES ASPTT",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-03",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST VARENT PIERREGEAY",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-24",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "THOUARS FOOT 79",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-15",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "GATI FOOT",
+     "score": "10-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-23",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "BOUTONNAIS FC",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-29",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "AVENIR 79 FC",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-13",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "THE F.O.C. VOUILLETA",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-26",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "BESSINES ASPTT",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-04-17",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "AIFFRES FORS PRAHECQ",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-24",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "ST VARENT PIERREGEAY",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-05-08",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "THOUARS FOOT 79",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-13",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "THE F.O.C. VOUILLETA",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446227",
+   "division": "Futsal Coupe des Deux-Sèvres",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NIORT ES 1919 2",
+   "equipe_slug": "851805-niort-es-1919-2",
+   "matchs": [
+    {
+     "date": "2025-11-10",
+     "heure": "22:00",
+     "domicile": false,
+     "adversaire": "THE F.O.C. VOUILLETA 3",
+     "score": "3-11",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-11",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "L ABSIE LARG. MOUT.",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-05",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "CRENSOA",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-20",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "E T F E 2",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-27",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "LE TALLUD EVEIL 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-19",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "AVENIR 79 FC",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "446227",
+   "division": "Futsal Coupe des Deux-Sèvres",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NIORT ES 1919 3",
+   "equipe_slug": "851805-niort-es-1919-3",
+   "matchs": [
+    {
+     "date": "2025-12-02",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "BOUTONNAIS FC",
+     "score": "4-14",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-03",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "THOUET FC",
+     "score": "8-13",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-02-16",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "ST VARENT PIERREGEAY 2",
+     "score": "4-7",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-24",
+     "heure": "21:15",
+     "domicile": true,
+     "adversaire": "THE F.O.C. VOUILLETA",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "449050",
+   "division": "Futsal Coupe de l'Amitié",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "NIORT ES 1919 3",
+   "equipe_slug": "851805-niort-es-1919-3",
+   "matchs": [
+    {
+     "date": "2026-03-18",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "THE F.O.C. VOUILLETA 2",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435169",
+   "division": "Coupe Nationale Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "NIORT ES 1919",
+   "equipe_slug": "851805-niort-es-1919",
+   "matchs": [
+    {
+     "date": "2025-10-24",
+     "heure": "21:30",
+     "domicile": true,
+     "adversaire": "NEUVIC SAINT LEON",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "clNo": "26214",
+ "nom": "RIGNY LA SALLE  ACS 31",
+ "noms": [
+  "RIGNY LA SALLE  ACS 31"
+ ],
+ "competitions": [
+  {
+   "cpNo": "444908",
+   "division": "COUPE MEUSE VETERAN LOISIR",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "RIGNY LA SALLE  ACS 31",
+   "equipe_slug": "549481-rigny-la-salle-acs-31",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "CENTRE ORNAIN ENT. 31",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ENT. VIGNOT LEROUVIL 31",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "SORCY VOID VACON ENT 31",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440615",
+   "division": "COUPE MEUSE DES VETERANS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "GRAND EST",
+   "equipe_nom": "RIGNY LA SALLE  ACS 31",
+   "equipe_slug": "549481-rigny-la-salle-acs-31",
+   "matchs": [
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PAGNY S/MEUSE FC 31",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "1ER TOUR",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

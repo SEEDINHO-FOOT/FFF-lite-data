@@ -1,0 +1,603 @@
+{
+ "clNo": "202094",
+ "nom": "ENT.UCF FC CHEVANNES",
+ "noms": [
+  "ENT.UCF FC CHEVANNES",
+  "U.C.F 89113"
+ ],
+ "competitions": [
+  {
+   "cpNo": "446101",
+   "division": "CHAMPT U15 FUTSAL",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ENT.UCF FC CHEVANNES",
+   "equipe_slug": "564546-ent-ucf-fc-chevannes",
+   "matchs": [
+    {
+     "date": "2025-10-28",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "AVALLON FCO",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-28",
+     "heure": "00:00",
+     "domicile": true,
+     "adversaire": "APPOIGNY E.S.",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-23",
+     "heure": "00:00",
+     "domicile": true,
+     "adversaire": "AILLANT",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-23",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "U.S. JOIGNY",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-12",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "UF TONNERRE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-12",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "U.S. TOUCYCOISE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-17",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "AUXERRE STADE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-17",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "CERISIERS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "00:00",
+     "domicile": false,
+     "adversaire": "UF TONNERRE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "00:00",
+     "domicile": true,
+     "adversaire": "CERISIERS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437380",
+   "division": "U15 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ENT.UCF FC CHEVANNES",
+   "equipe_slug": "564546-ent-ucf-fc-chevannes",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AUXERRE A.S.C.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ST GEORGES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT. MONETEAU/GURGY ",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ST FARGEAU",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AILLANT 4",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ENT. DI POU TOU CHA1",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "AUXERRE STADE 3",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437381",
+   "division": "U13 DEPARTEMENTAL 2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "U.C.F 89113",
+   "equipe_slug": "564546-u-c-f-89113",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "ST GEORGES",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXERRE STADE 2",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AILLANT",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ENT. TOUCY/CHAMPIGNE",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CHEVANNES F.C.",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437382",
+   "division": "U13 DEPARTEMENTAL 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "U.C.F 89113",
+   "equipe_slug": "564546-u-c-f-89113",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "APPOIGNY E.S. 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "11:30",
+     "domicile": false,
+     "adversaire": "AUXERRE A.S.C. 3",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AJ AUXERRE 3",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "AUXERRE ROSOIRS A.",
+     "score": "1-13",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-22",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CHAMPS/YONNE 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AUXERRE A.S.C. 3",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AUXERRE ROSOIRS A.",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-27",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "AJ AUXERRE 3",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "CHAMPS/YONNE 2",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "APPOIGNY E.S. 2",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "448812",
+   "division": "U15 DEPARTEMENTAL 3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ENT.UCF FC CHEVANNES",
+   "equipe_slug": "564546-ent-ucf-fc-chevannes",
+   "matchs": [
+    {
+     "date": "2026-02-28",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ENT. DI POU TOU CHA2 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ST GEORGES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GATINAIS FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST FARGEAU",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "AILLANT 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ST GEORGES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "ST FARGEAU",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-23",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AILLANT 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-06-03",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "GATINAIS FC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT. DI POU TOU CHA2 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "437388",
+   "division": "COUPE YONNE U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ENT.UCF FC CHEVANNES",
+   "equipe_slug": "564546-ent-ucf-fc-chevannes",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT. MAGNY QUARRE 15",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445829",
+   "division": "COUPE CHALLENGER U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BOURGOGNE - FRANCHE COMTE",
+   "equipe_nom": "ENT.UCF FC CHEVANNES",
+   "equipe_slug": "564546-ent-ucf-fc-chevannes",
+   "matchs": [
+    {
+     "date": "2025-12-06",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "ENT.USD/FONT/MALAY",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "8ème Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT. ASM / USV",
+     "score": "3-9",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "17:30",
+     "domicile": true,
+     "adversaire": "AVALLON FCO/ECN",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "1/2 Finale",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

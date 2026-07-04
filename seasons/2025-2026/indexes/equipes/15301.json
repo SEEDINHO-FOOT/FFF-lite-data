@@ -1,0 +1,524 @@
+{
+ "clNo": "15301",
+ "nom": "LES AGEUX FR",
+ "noms": [
+  " LES AGEUX/VERBERIE 2",
+  "LES AGEUX FR",
+  "LES AGEUX/VERBERIE"
+ ],
+ "competitions": [
+  {
+   "cpNo": "444608",
+   "division": "BRASSAGE U15.",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LES AGEUX/VERBERIE",
+   "equipe_slug": "533020-les-ageux-verberie",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LAMOTTE BREUIL SC",
+     "score": "0-13",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CAUFFRY US",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "VENETTE CA",
+     "score": "14-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "EXEMPT 3",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LASSIGNY US 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ENT.PLESSIS/CLAIROIX",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439552",
+   "division": "CRITERIUM U15 A 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Critérium",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": " LES AGEUX/VERBERIE 2",
+   "equipe_slug": "533020-les-ageux-verberie-2",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:15",
+     "domicile": false,
+     "adversaire": "LAMORLAYE US",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "15:15",
+     "domicile": true,
+     "adversaire": "VILLERS BAILLEUL EC",
+     "score": null,
+     "statut": "reporté",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "FC PONTPOINT RURAVIL",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "BALAGNY US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:15",
+     "domicile": true,
+     "adversaire": "FC PONTPOINT RURAVIL",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:15",
+     "domicile": false,
+     "adversaire": "ANDEVILLE US",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "15:15",
+     "domicile": false,
+     "adversaire": "VILLERS BAILLEUL EC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "15:15",
+     "domicile": true,
+     "adversaire": "ORRY PLAILLY AS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:15",
+     "domicile": true,
+     "adversaire": "BALAGNY US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "15:15",
+     "domicile": true,
+     "adversaire": "ANDEVILLE US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "15:15",
+     "domicile": true,
+     "adversaire": "LAMORLAYE US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:15",
+     "domicile": false,
+     "adversaire": "ORRY PLAILLY AS 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439556",
+   "division": "U15 D3",
+   "niveau": "Départemental",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LES AGEUX/VERBERIE",
+   "equipe_slug": "533020-les-ageux-verberie",
+   "matchs": [
+    {
+     "date": "2025-12-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ORRY PLAILLY AS",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "SILLY LE LONG AS",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "NANTEUIL US FC",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "PONT STE MAXENCE US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "BETHISY FC",
+     "score": "1-14",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "NANTEUIL US FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "MULTIEN/MAREUIL",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "ORRY PLAILLY AS",
+     "score": "15-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "SILLY LE LONG AS",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "PONT STE MAXENCE US 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "AVILLY CS",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MULTIEN/MAREUIL",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BETHISY FC",
+     "score": "18-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "AVILLY CS",
+     "score": "0-13",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439589",
+   "division": "CHALLENGE MARCEL PATOUX",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LES AGEUX FR",
+   "equipe_slug": "533020-les-ageux-fr",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAMPREMY NOYERS AS 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ESCHES FOSSEUSE FC 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1/8ième Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439597",
+   "division": "Coupe de l'Oise Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LES AGEUX FR",
+   "equipe_slug": "533020-les-ageux-fr",
+   "matchs": [
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FEUQUIERES ASF",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ALLONNE AS",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "2ième Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439604",
+   "division": "COUPE DE L'OISE U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LES AGEUX/VERBERIE",
+   "equipe_slug": "533020-les-ageux-verberie",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "ALLONNE AS",
+     "score": "0-14",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439605",
+   "division": "COUPE DU CONSEIL DEPARTEMENTAL U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "LES AGEUX/VERBERIE",
+   "equipe_slug": "533020-les-ageux-verberie",
+   "matchs": [
+    {
+     "date": "2026-02-15",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CHANTILLY US 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

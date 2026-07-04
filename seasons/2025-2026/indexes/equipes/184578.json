@@ -1,0 +1,345 @@
+{
+ "clNo": "184578",
+ "nom": "BORDALEKO EE FUTBOL",
+ "noms": [
+  "BORDALEKO EE FUTBOL"
+ ],
+ "competitions": [
+  {
+   "cpNo": "446471",
+   "division": "COUPE NA FOOT ENTREPRISE",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BORDALEKO EE FUTBOL",
+   "equipe_slug": "681545-bordaleko-ee-futbol",
+   "matchs": [
+    {
+     "date": "2025-11-13",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "FC LE BON JOUET",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439741",
+   "division": "Foot Entreprise Départemental 1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Entreprise",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BORDALEKO EE FUTBOL",
+   "equipe_slug": "681545-bordaleko-ee-futbol",
+   "matchs": [
+    {
+     "date": "2025-09-10",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FC P2M",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-18",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "SECURITE SOCIALE CA",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-01",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "THALES F.C.",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-08",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "SPEEDAUTO FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-23",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "DASSAULT BORDEAUX SP",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-05",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FULL ACE SPORT FC",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-20",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "AIRCALO FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-10",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FC LE BON JOUET",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-17",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "AS SUD OUEST AUTO",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-07",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "CHR TALENCE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-15",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "FC ESPACE FOOT",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-04",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "SECURITE SOCIALE CA",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-19",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "THALES F.C.",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-03-05",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "SPEEDAUTO FC",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "DASSAULT BORDEAUX SP",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-26",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "FULL ACE SPORT FC",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-21",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "FC LE BON JOUET",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-29",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "AS SUD OUEST AUTO",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-13",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "AIRCALO FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-20",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FC ESPACE FOOT",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-28",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CHR TALENCE",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-04",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "FC P2M",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444543",
+   "division": "Coupe de Gironde Foot Entreprise",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BORDALEKO EE FUTBOL",
+   "equipe_slug": "681545-bordaleko-ee-futbol",
+   "matchs": [
+    {
+     "date": "2025-12-04",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FULL ACE SPORT FC",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435168",
+   "division": "COUPE NAT F ENTREPRISE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "BORDALEKO EE FUTBOL",
+   "equipe_slug": "681545-bordaleko-ee-futbol",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BERGONIE INSTITUT AS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-30",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "FULL ACE SPORT FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

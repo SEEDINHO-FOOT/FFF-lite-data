@@ -1,0 +1,70 @@
+{
+  "season": "2025-2026",
+  "cpNo": "447987",
+  "nom": "Foot Loisir F",
+  "type": "championnat",
+  "scope": "regional",
+  "region": "BRETAGNE",
+  "district": "DISTRICT FOOTBALL COTES D'ARMOR",
+  "nb_equipes": 4,
+  "equipes": [
+    {
+      "clNo": "6631",
+      "nom": "CAVAN JS",
+      "slug": "519953-cavan-js",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519953.jpg"
+    },
+    {
+      "clNo": "25796",
+      "nom": "LANNION FC",
+      "slug": "548875-lannion-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548875.jpg"
+    },
+    {
+      "clNo": "183509",
+      "nom": "PLUMIEUX ESAP",
+      "slug": "581225-plumieux-esap",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581225.jpg"
+    },
+    {
+      "clNo": "3489",
+      "nom": "QUESSOY US",
+      "slug": "509653-quessoy-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC509653.jpg"
+    }
+  ],
+  "par_groupe": [
+    {
+      "phNo": "1",
+      "gpNo": "1",
+      "groupe_nom": null,
+      "nb_equipes": 4,
+      "equipes": [
+        {
+          "clNo": "183509",
+          "nom": "PLUMIEUX ESAP",
+          "slug": "581225-plumieux-esap",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581225.jpg"
+        },
+        {
+          "clNo": "25796",
+          "nom": "LANNION FC",
+          "slug": "548875-lannion-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548875.jpg"
+        },
+        {
+          "clNo": "3489",
+          "nom": "QUESSOY US",
+          "slug": "509653-quessoy-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC509653.jpg"
+        },
+        {
+          "clNo": "6631",
+          "nom": "CAVAN JS",
+          "slug": "519953-cavan-js",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519953.jpg"
+        }
+      ]
+    }
+  ]
+}

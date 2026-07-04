@@ -1,0 +1,892 @@
+{
+ "clNo": "192060",
+ "nom": "FC 2M",
+ "noms": [
+  "FC 2M",
+  "MONTAGNES DU MATIN",
+  "MONTAGNES DU MATIN 2",
+  "MONTAGNES DU MATIN 21"
+ ],
+ "competitions": [
+  {
+   "cpNo": "441826",
+   "division": "U13 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "MONTAGNES DU MATIN",
+   "equipe_slug": "582741-montagnes-du-matin",
+   "matchs": [
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LIGNON FC",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "S.MARCELLIN F",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "F.C. INDEPENDANT ST",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LE COTEAU OL 11",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "U.S. FEURS 3",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ANDREZIEUX-BOUTHEON 4",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442022",
+   "division": "Feminines U15 à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "MONTAGNES DU MATIN",
+   "equipe_slug": "582741-montagnes-du-matin",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "FILERIN",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ENT.SFL/ESHF 2",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST DENIS DE CABANNE",
+     "score": "2-12",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FC ROANNE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AS FOREZ ROANNAIS",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "U.S. FEURS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "RIORGES F.C.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GF MONTS ET PLAINE",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "E.S. DE VEAUCHE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "S.MARCELLIN F",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "ST E.COTE CHAUDE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "F.C. ST ETIENNE",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT.SFL/ESHF 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ST DENIS DE CABANNE",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "AS FOREZ ROANNAIS",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GF MONTS ET PLAINE",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ENT.SFL/ESHF",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442026",
+   "division": "Feminines U13",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "FC 2M",
+   "equipe_slug": "582741-fc-2m",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "U.S. FEURS",
+     "score": "2-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "US ECOTAY MOINGT",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ST DENIS DE CABANNE",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "S.C. SURY LE COMTAL",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "L2F",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FCO FIRMINY INSER",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "A.S. ALGERIENNE",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "L2F",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "E.S. DE VEAUCHE",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST DENIS DE CABANNE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442046",
+   "division": "Féminines Seniors à 8 D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Foot à 8",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "MONTAGNES DU MATIN",
+   "equipe_slug": "582741-montagnes-du-matin",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "14:45",
+     "domicile": false,
+     "adversaire": "ST ROMAIN LES ATHEUX",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GRAND CROIX",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-03",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ASTREE A.S",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "US ECOTAY MOINGT",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "AVENIR COTE",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST ANTHEME C.S.",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PSM FOOT",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "POUILLY LES NONAINS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "A.S. ST JUST ST RAMB",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-23",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "F.C. ST PAUL EN JARE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "LIGNON COUZAN",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "GRAND CROIX",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "US ECOTAY MOINGT",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "AVENIR COTE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ST ANTHEME C.S.",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "PSM FOOT",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ASTREE A.S",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "POUILLY LES NONAINS",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-17",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "A.S. ST JUST ST RAMB",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "F.C. ST PAUL EN JARE",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-07",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LIGNON COUZAN",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST ROMAIN LES ATHEUX",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442258",
+   "division": "Coupe de la Loire Seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "MONTAGNES DU MATIN",
+   "equipe_slug": "582741-montagnes-du-matin",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C. ROCHE ST GENEST",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "TOUR 1",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LE COTEAU",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "TOUR 3",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "NORD ROANNAIS",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "A.S. ST ETIENNE SUD",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "HUITIÈMES DE FINALE",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442259",
+   "division": "Coupe Valeyre-Leger",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "MONTAGNES DU MATIN 2",
+   "equipe_slug": "582741-montagnes-du-matin-2",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "FCO FIRMINY INSER 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "TOUR 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "C.O LA RIVIERE 2",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442278",
+   "division": "Coupe de la Loire U18",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "MONTAGNES DU MATIN 21",
+   "equipe_slug": "582741-montagnes-du-matin-21",
+   "matchs": [
+    {
+     "date": "2025-11-11",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "CHATEAUNEUF 21",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Deuxième tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST CHARLES VG 21",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Toisième tour (Cadrage)",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442279",
+   "division": "Coupe de la Loire U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "MONTAGNES DU MATIN",
+   "equipe_slug": "582741-montagnes-du-matin",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "PSM FOOT",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Premier tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-11",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "F.C. INDEPENDANT ST",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": "Deuxième tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442280",
+   "division": "Coupe Féminines à 8",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "MONTAGNES DU MATIN",
+   "equipe_slug": "582741-montagnes-du-matin",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LE COTEAU",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "TOUR 1",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ST ANTHEME C.S.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PSM FOOT",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "TOUR 3",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442283",
+   "division": "Coupe de la Loire Féminines U15",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U15",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "MONTAGNES DU MATIN",
+   "equipe_slug": "582741-montagnes-du-matin",
+   "matchs": [
+    {
+     "date": "2026-02-21",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "AS FOREZ ROANNAIS",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "TOUR 2",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

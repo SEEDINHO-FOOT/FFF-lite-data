@@ -1,0 +1,620 @@
+{
+  "season": "2025-2026",
+  "cpNo": "440147",
+  "nom": "U13 Secteur Sud-Est",
+  "type": "championnat",
+  "scope": "regional",
+  "region": "BRETAGNE",
+  "district": "DISTRICT ILLE ET VILAINE",
+  "nb_equipes": 24,
+  "equipes": [
+    {
+      "clNo": "5053",
+      "nom": "ARGENTRE PLESSIS J 2",
+      "slug": "516441-argentre-plessis-j-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC516441.jpg"
+    },
+    {
+      "clNo": "8710",
+      "nom": "BRIE ES",
+      "slug": "523226-brie-es",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523226.jpg"
+    },
+    {
+      "clNo": "6644",
+      "nom": "CHANTEPIE AS 2",
+      "slug": "519975-chantepie-as-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519975.jpg"
+    },
+    {
+      "clNo": "1404",
+      "nom": "CHATEAUGIRON US 2",
+      "slug": "502362-chateaugiron-us-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502362.jpg"
+    },
+    {
+      "clNo": "187001",
+      "nom": "CHELUN MARTIGNE Cad.",
+      "slug": "581895-chelun-martigne-cad",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581895.jpg"
+    },
+    {
+      "clNo": "22005",
+      "nom": "DOMAGNE/ST DI",
+      "slug": "542468-domagne-st-di",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC542468.jpg"
+    },
+    {
+      "clNo": "11480",
+      "nom": "DOMLOUP SP. (E)",
+      "slug": "527415-domloup-sp-e",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC527415.jpg"
+    },
+    {
+      "clNo": "11121",
+      "nom": "ETRELLES AS",
+      "slug": "526848-etrelles-as",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526848.jpg"
+    },
+    {
+      "clNo": "180087",
+      "nom": "GJ SUD EST BRETILIEN",
+      "slug": "580837-gj-sud-est-bretilien",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580837.jpg"
+    },
+    {
+      "clNo": "179850",
+      "nom": "HAUTE VILAINE FC",
+      "slug": "590225-haute-vilaine-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590225.jpg"
+    },
+    {
+      "clNo": "1405",
+      "nom": "JANZE US",
+      "slug": "502368-janze-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502368.jpg"
+    },
+    {
+      "clNo": "203898",
+      "nom": "L'HERMINE EBM",
+      "slug": "564890-l-hermine-ebm",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564890.jpg"
+    },
+    {
+      "clNo": "176878",
+      "nom": "LA SEICHE FC",
+      "slug": "580606-la-seiche-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580606.jpg"
+    },
+    {
+      "clNo": "176505",
+      "nom": "LE PERTRE BRIELLES",
+      "slug": "580465-le-pertre-brielles",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580465.jpg"
+    },
+    {
+      "clNo": "21905",
+      "nom": "RANNEE LA GUERCHE RC",
+      "slug": "542356-rannee-la-guerche-rc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC542356.jpg"
+    },
+    {
+      "clNo": "179",
+      "nom": "REN CHEMINOTS AS",
+      "slug": "500029-ren-cheminots-as",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500029.jpg"
+    },
+    {
+      "clNo": "9413",
+      "nom": "REN CPB BLOSNE",
+      "slug": "524322-ren-cpb-blosne",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524322.jpg"
+    },
+    {
+      "clNo": "112815",
+      "nom": "REN ESPERANCE",
+      "slug": "551320-ren-esperance",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551320.jpg"
+    },
+    {
+      "clNo": "126921",
+      "nom": "RENNES ATHLETIC CLUB",
+      "slug": "553069-rennes-athletic-club",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553069.jpg"
+    },
+    {
+      "clNo": "3634",
+      "nom": "RETIERS COESMES AS 2",
+      "slug": "510485-retiers-coesmes-as-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC510485.jpg"
+    },
+    {
+      "clNo": "8220",
+      "nom": "ST ARMEL US",
+      "slug": "522441-st-armel-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522441.jpg"
+    },
+    {
+      "clNo": "5599",
+      "nom": "VERN US (E)",
+      "slug": "517838-vern-us-e",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC517838.jpg"
+    },
+    {
+      "clNo": "193",
+      "nom": "VITRE AS 2",
+      "slug": "500048-vitre-as-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500048.jpg"
+    },
+    {
+      "clNo": "11003",
+      "nom": "VITREENNE FC (E) 2",
+      "slug": "526690-vitreenne-fc-e-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526690.jpg"
+    }
+  ],
+  "par_groupe": [
+    {
+      "phNo": "1",
+      "gpNo": "1",
+      "groupe_nom": null,
+      "nb_equipes": 13,
+      "equipes": [
+        {
+          "clNo": "180087",
+          "nom": "GJ SUD EST BRETILIEN",
+          "slug": "580837-gj-sud-est-bretilien",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580837.jpg"
+        },
+        {
+          "clNo": "193",
+          "nom": "VITRE AS 2",
+          "slug": "500048-vitre-as-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500048.jpg"
+        },
+        {
+          "clNo": "11003",
+          "nom": "VITREENNE FC (E) 2",
+          "slug": "526690-vitreenne-fc-e-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526690.jpg"
+        },
+        {
+          "clNo": "11480",
+          "nom": "DOMLOUP SP. (E)",
+          "slug": "527415-domloup-sp-e",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC527415.jpg"
+        },
+        {
+          "clNo": "126921",
+          "nom": "RENNES ATHLETIC CLUB",
+          "slug": "553069-rennes-athletic-club",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553069.jpg"
+        },
+        {
+          "clNo": "179",
+          "nom": "REN CHEMINOTS AS",
+          "slug": "500029-ren-cheminots-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500029.jpg"
+        },
+        {
+          "clNo": "9413",
+          "nom": "REN CPB BLOSNE",
+          "slug": "524322-ren-cpb-blosne",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524322.jpg"
+        },
+        {
+          "clNo": "6644",
+          "nom": "CHANTEPIE AS 2",
+          "slug": "519975-chantepie-as-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519975.jpg"
+        },
+        {
+          "clNo": "1405",
+          "nom": "JANZE US",
+          "slug": "502368-janze-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502368.jpg"
+        },
+        {
+          "clNo": "112815",
+          "nom": "REN ESPERANCE",
+          "slug": "551320-ren-esperance",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551320.jpg"
+        },
+        {
+          "clNo": "1404",
+          "nom": "CHATEAUGIRON US 2",
+          "slug": "502362-chateaugiron-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502362.jpg"
+        },
+        {
+          "clNo": "176878",
+          "nom": "LA SEICHE FC",
+          "slug": "580606-la-seiche-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580606.jpg"
+        },
+        {
+          "clNo": "126921",
+          "nom": "REN ATHLETIC CLUB",
+          "slug": "553069-ren-athletic-club",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553069.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "2",
+      "groupe_nom": null,
+      "nb_equipes": 13,
+      "equipes": [
+        {
+          "clNo": "5599",
+          "nom": "VERN US (E)",
+          "slug": "517838-vern-us-e",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC517838.jpg"
+        },
+        {
+          "clNo": "3634",
+          "nom": "RETIERS COESMES AS 2",
+          "slug": "510485-retiers-coesmes-as-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC510485.jpg"
+        },
+        {
+          "clNo": "11121",
+          "nom": "ETRELLES AS",
+          "slug": "526848-etrelles-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526848.jpg"
+        },
+        {
+          "clNo": "193",
+          "nom": "VITRE AS 3",
+          "slug": "500048-vitre-as-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500048.jpg"
+        },
+        {
+          "clNo": "126921",
+          "nom": "RENNES ATHLETIC CLUB 3",
+          "slug": "553069-rennes-athletic-club-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553069.jpg"
+        },
+        {
+          "clNo": "1405",
+          "nom": "JANZE US 3",
+          "slug": "502368-janze-us-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502368.jpg"
+        },
+        {
+          "clNo": "6644",
+          "nom": "CHANTEPIE AS",
+          "slug": "519975-chantepie-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519975.jpg"
+        },
+        {
+          "clNo": "112815",
+          "nom": "REN ESPERANCE 2",
+          "slug": "551320-ren-esperance-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551320.jpg"
+        },
+        {
+          "clNo": "1405",
+          "nom": "JANZE US 2",
+          "slug": "502368-janze-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502368.jpg"
+        },
+        {
+          "clNo": "21905",
+          "nom": "RANNEE LA GUERCHE RC",
+          "slug": "542356-rannee-la-guerche-rc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC542356.jpg"
+        },
+        {
+          "clNo": "187001",
+          "nom": "CHELUN MARTIGNE Cad.",
+          "slug": "581895-chelun-martigne-cad",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581895.jpg"
+        },
+        {
+          "clNo": "1404",
+          "nom": "CHATEAUGIRON US 3",
+          "slug": "502362-chateaugiron-us-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502362.jpg"
+        },
+        {
+          "clNo": "126921",
+          "nom": "REN ATHLETIC CLUB 3",
+          "slug": "553069-ren-athletic-club-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553069.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "3",
+      "groupe_nom": null,
+      "nb_equipes": 12,
+      "equipes": [
+        {
+          "clNo": "5599",
+          "nom": "VERN US (E) 2",
+          "slug": "517838-vern-us-e-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC517838.jpg"
+        },
+        {
+          "clNo": "3634",
+          "nom": "RETIERS COESMES AS 3",
+          "slug": "510485-retiers-coesmes-as-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC510485.jpg"
+        },
+        {
+          "clNo": "112815",
+          "nom": "REN ESPERANCE 3",
+          "slug": "551320-ren-esperance-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551320.jpg"
+        },
+        {
+          "clNo": "179",
+          "nom": "REN CHEMINOTS AS 2",
+          "slug": "500029-ren-cheminots-as-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500029.jpg"
+        },
+        {
+          "clNo": "9413",
+          "nom": "REN CPB BLOSNE 2",
+          "slug": "524322-ren-cpb-blosne-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524322.jpg"
+        },
+        {
+          "clNo": "1404",
+          "nom": "CHATEAUGIRON US 5",
+          "slug": "502362-chateaugiron-us-5",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502362.jpg"
+        },
+        {
+          "clNo": "6644",
+          "nom": "CHANTEPIE AS 3",
+          "slug": "519975-chantepie-as-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519975.jpg"
+        },
+        {
+          "clNo": "5053",
+          "nom": "ARGENTRE PLESSIS J 2",
+          "slug": "516441-argentre-plessis-j-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC516441.jpg"
+        },
+        {
+          "clNo": "11480",
+          "nom": "DOMLOUP SP. (E) 2",
+          "slug": "527415-domloup-sp-e-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC527415.jpg"
+        },
+        {
+          "clNo": "176505",
+          "nom": "LE PERTRE BRIELLES",
+          "slug": "580465-le-pertre-brielles",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580465.jpg"
+        },
+        {
+          "clNo": "22005",
+          "nom": "DOMAGNE/ST DI",
+          "slug": "542468-domagne-st-di",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC542468.jpg"
+        },
+        {
+          "clNo": "180087",
+          "nom": "GJ SUD EST BRETILIEN 3",
+          "slug": "580837-gj-sud-est-bretilien-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580837.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "4",
+      "groupe_nom": null,
+      "nb_equipes": 11,
+      "equipes": [
+        {
+          "clNo": "1404",
+          "nom": "CHATEAUGIRON US 4",
+          "slug": "502362-chateaugiron-us-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502362.jpg"
+        },
+        {
+          "clNo": "1405",
+          "nom": "JANZE US 4",
+          "slug": "502368-janze-us-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502368.jpg"
+        },
+        {
+          "clNo": "179",
+          "nom": "REN CHEMINOTS AS 3",
+          "slug": "500029-ren-cheminots-as-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500029.jpg"
+        },
+        {
+          "clNo": "176505",
+          "nom": "LE PERTRE BRIELLES 2",
+          "slug": "580465-le-pertre-brielles-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580465.jpg"
+        },
+        {
+          "clNo": "11003",
+          "nom": "VITREENNE FC (E) 3",
+          "slug": "526690-vitreenne-fc-e-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526690.jpg"
+        },
+        {
+          "clNo": "126921",
+          "nom": "REN ATHLETIC CLUB 2",
+          "slug": "553069-ren-athletic-club-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553069.jpg"
+        },
+        {
+          "clNo": "5053",
+          "nom": "ARGENTRE PLESSIS J 3",
+          "slug": "516441-argentre-plessis-j-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC516441.jpg"
+        },
+        {
+          "clNo": "193",
+          "nom": "VITRE AS 4",
+          "slug": "500048-vitre-as-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500048.jpg"
+        },
+        {
+          "clNo": "176878",
+          "nom": "LA SEICHE FC 2",
+          "slug": "580606-la-seiche-fc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580606.jpg"
+        },
+        {
+          "clNo": "126921",
+          "nom": "RENNES ATHLETIC CLUB 4",
+          "slug": "553069-rennes-athletic-club-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553069.jpg"
+        },
+        {
+          "clNo": "126921",
+          "nom": "REN ATHLETIC CLUB 4",
+          "slug": "553069-ren-athletic-club-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553069.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "5",
+      "groupe_nom": null,
+      "nb_equipes": 10,
+      "equipes": [
+        {
+          "clNo": "8710",
+          "nom": "BRIE ES",
+          "slug": "523226-brie-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523226.jpg"
+        },
+        {
+          "clNo": "21905",
+          "nom": "RANNEE LA GUERCHE RC 2",
+          "slug": "542356-rannee-la-guerche-rc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC542356.jpg"
+        },
+        {
+          "clNo": "1404",
+          "nom": "CHATEAUGIRON US 6",
+          "slug": "502362-chateaugiron-us-6",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502362.jpg"
+        },
+        {
+          "clNo": "179850",
+          "nom": "HAUTE VILAINE FC",
+          "slug": "590225-haute-vilaine-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590225.jpg"
+        },
+        {
+          "clNo": "179",
+          "nom": "REN CHEMINOTS AS 4",
+          "slug": "500029-ren-cheminots-as-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500029.jpg"
+        },
+        {
+          "clNo": "6644",
+          "nom": "CHANTEPIE AS 4",
+          "slug": "519975-chantepie-as-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519975.jpg"
+        },
+        {
+          "clNo": "11003",
+          "nom": "VITREENNE FC (E) 4",
+          "slug": "526690-vitreenne-fc-e-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526690.jpg"
+        },
+        {
+          "clNo": "11480",
+          "nom": "DOMLOUP SP. (E) 3",
+          "slug": "527415-domloup-sp-e-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC527415.jpg"
+        },
+        {
+          "clNo": "180087",
+          "nom": "GJ SUD EST BRETILIEN 2",
+          "slug": "580837-gj-sud-est-bretilien-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580837.jpg"
+        },
+        {
+          "clNo": "1405",
+          "nom": "JANZE US 5",
+          "slug": "502368-janze-us-5",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502368.jpg"
+        }
+      ]
+    },
+    {
+      "phNo": "1",
+      "gpNo": "6",
+      "groupe_nom": null,
+      "nb_equipes": 10,
+      "equipes": [
+        {
+          "clNo": "5599",
+          "nom": "VERN / SEICHE US 3",
+          "slug": "517838-vern-seiche-us-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC517838.jpg"
+        },
+        {
+          "clNo": "187001",
+          "nom": "CHELUN MARTIGNE Cad. 2",
+          "slug": "581895-chelun-martigne-cad-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581895.jpg"
+        },
+        {
+          "clNo": "3634",
+          "nom": "RETIERS COESMES AS 4",
+          "slug": "510485-retiers-coesmes-as-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC510485.jpg"
+        },
+        {
+          "clNo": "5053",
+          "nom": "ARGENTRE PLESSIS J 4",
+          "slug": "516441-argentre-plessis-j-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC516441.jpg"
+        },
+        {
+          "clNo": "8220",
+          "nom": "ST ARMEL US",
+          "slug": "522441-st-armel-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522441.jpg"
+        },
+        {
+          "clNo": "179",
+          "nom": "REN CHEMINOTS AS 5",
+          "slug": "500029-ren-cheminots-as-5",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500029.jpg"
+        },
+        {
+          "clNo": "112815",
+          "nom": "REN ESPERANCE 5",
+          "slug": "551320-ren-esperance-5",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551320.jpg"
+        },
+        {
+          "clNo": "112815",
+          "nom": "REN ESPERANCE 4",
+          "slug": "551320-ren-esperance-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551320.jpg"
+        },
+        {
+          "clNo": "203898",
+          "nom": "L'HERMINE EBM",
+          "slug": "564890-l-hermine-ebm",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564890.jpg"
+        },
+        {
+          "clNo": "180087",
+          "nom": "GJ SUD EST BRETILIEN 4",
+          "slug": "580837-gj-sud-est-bretilien-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580837.jpg"
+        }
+      ]
+    }
+  ]
+}

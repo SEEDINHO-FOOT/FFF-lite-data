@@ -1,0 +1,70 @@
+{
+  "season": "2025-2026",
+  "cpNo": "438550",
+  "nom": "U18/17 Futsal Championnat",
+  "type": "championnat",
+  "scope": "regional",
+  "region": "BRETAGNE",
+  "district": "DISTRICT FINISTERE",
+  "nb_equipes": 4,
+  "equipes": [
+    {
+      "clNo": "200570",
+      "nom": "HAUT LEON FC 21",
+      "slug": "561067-haut-leon-fc-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC561067.jpg"
+    },
+    {
+      "clNo": "180090",
+      "nom": "LE RELECQ KERHUON FC 21",
+      "slug": "580840-le-relecq-kerhuon-fc-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580840.jpg"
+    },
+    {
+      "clNo": "1280",
+      "nom": "PLOUGUERNEAU ESPE 21",
+      "slug": "502119-plouguerneau-espe-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502119.jpg"
+    },
+    {
+      "clNo": "1419",
+      "nom": "PLOUZANE ACF 21",
+      "slug": "502397-plouzane-acf-21",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502397.jpg"
+    }
+  ],
+  "par_groupe": [
+    {
+      "phNo": "1",
+      "gpNo": "1",
+      "groupe_nom": null,
+      "nb_equipes": 4,
+      "equipes": [
+        {
+          "clNo": "1419",
+          "nom": "PLOUZANE ACF 21",
+          "slug": "502397-plouzane-acf-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502397.jpg"
+        },
+        {
+          "clNo": "1280",
+          "nom": "PLOUGUERNEAU ESPE 21",
+          "slug": "502119-plouguerneau-espe-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC502119.jpg"
+        },
+        {
+          "clNo": "200570",
+          "nom": "HAUT LEON FC 21",
+          "slug": "561067-haut-leon-fc-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC561067.jpg"
+        },
+        {
+          "clNo": "180090",
+          "nom": "LE RELECQ KERHUON FC 21",
+          "slug": "580840-le-relecq-kerhuon-fc-21",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC580840.jpg"
+        }
+      ]
+    }
+  ]
+}

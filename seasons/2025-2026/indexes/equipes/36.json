@@ -1,0 +1,168 @@
+{
+ "clNo": "36",
+ "nom": "SÉLECTION U14 CHER",
+ "noms": [
+  "SÉLECTION  CHER 5",
+  "SÉLECTION U14 CHER",
+  "SÉLECTION U15F CHER 2",
+  "Sélection U12F Cher 2",
+  "Sélection U13F Cher"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439923",
+   "division": "MATCHS AMICAUX U15 R & U14 R",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "SÉLECTION  CHER 5",
+   "equipe_slug": "2101-sElection-cher-5",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "14:15",
+     "domicile": false,
+     "adversaire": "LOIR ET CHER 5",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440159",
+   "division": "MATCHS AMICAUX U15 & U14 DÉP.",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "SÉLECTION U14 CHER",
+   "equipe_slug": "2101-sElection-u14-cher",
+   "matchs": [
+    {
+     "date": "2025-10-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VIERZON FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440159",
+   "division": "MATCHS AMICAUX U15 & U14 DÉP.",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "SÉLECTION U15F CHER 2",
+   "equipe_slug": "2101-sElection-u15f-cher-2",
+   "matchs": [
+    {
+     "date": "2025-10-22",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "Sélection U15F Indre 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440160",
+   "division": "MATCHS AMICAUX U13 & U12 DÉP.",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "Sélection U13F Cher",
+   "equipe_slug": "2101-selection-u13f-cher",
+   "matchs": [
+    {
+     "date": "2025-10-22",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "Sélection U13f Indre",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-05",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "HENRICH MENETOU US",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440160",
+   "division": "MATCHS AMICAUX U13 & U12 DÉP.",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "Sélection U12F Cher 2",
+   "equipe_slug": "2101-selection-u12f-cher-2",
+   "matchs": [
+    {
+     "date": "2025-11-05",
+     "heure": "14:45",
+     "domicile": true,
+     "adversaire": "HENRICH MENETOU US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

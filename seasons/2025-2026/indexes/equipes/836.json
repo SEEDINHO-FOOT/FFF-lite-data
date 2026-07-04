@@ -1,0 +1,607 @@
+{
+ "clNo": "836",
+ "nom": "WERVICQ US",
+ "noms": [
+  "WERVICQ US",
+  "WERVICQ US 21",
+  "WERVICQ US 22",
+  "WERVICQ US 32"
+ ],
+ "competitions": [
+  {
+   "cpNo": "448135",
+   "division": "U14 D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WERVICQ US 21",
+   "equipe_slug": "501068-wervicq-us-21",
+   "matchs": [
+    {
+     "date": "2026-02-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LOOS OLIVEAUX AS 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "LAMBERSART UF 23",
+     "score": "14-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MOUVAUX ES 21",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "LILLE FG BETHUNE AS 21",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "WASQUEHAL FOOTBALL",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LEERS OS 23",
+     "score": "15-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:15",
+     "domicile": false,
+     "adversaire": "LYS STELLA",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ROUBAIX GROUPEMENT 25",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "BONDUES FC 2",
+     "score": "0-11",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "MONS FC 22",
+     "score": null,
+     "statut": "arrêté",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444073",
+   "division": "U13 NIVEAU 2",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WERVICQ US",
+   "equipe_slug": "501068-wervicq-us",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "15:45",
+     "domicile": false,
+     "adversaire": "FERRAIN FAN 96 3",
+     "score": "13-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "TOURCOING CHEMINOTS",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "TOURCOING US 2",
+     "score": "1-14",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "14:15",
+     "domicile": false,
+     "adversaire": "LYS STELLA 2",
+     "score": "14-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FERRAIN FAN 96 3",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "TOURCOING CHEMINOTS",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TOURCOING US 2",
+     "score": "23-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "LILLE SUD FC 2",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "14:20",
+     "domicile": false,
+     "adversaire": "LILLE SUD FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LYS STELLA 2",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "QUESNOY FSM",
+     "score": "0-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "14:20",
+     "domicile": false,
+     "adversaire": "LILLE SUD FC 2",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "HAUBOURDIN CG 2",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "QUESNOY FSM",
+     "score": "13-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "FRELINGHIEN ES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BOUSBECQUE CS",
+     "score": "3-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "FRELINGHIEN ES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "HAUBOURDIN CG 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BOUSBECQUE CS",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LILLE SUD FC 2",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444107",
+   "division": "FOOT LOISIRS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Loisir",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WERVICQ US",
+   "equipe_slug": "501068-wervicq-us",
+   "matchs": [
+    {
+     "date": "2025-09-22",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "VILLEN.D'ASCQ DECATH",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-29",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "CYSOING WB EAC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-06",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "WAMBRECHIES FC",
+     "score": "4-8",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-13",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "ROUBAIX AIR FC",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-04",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE VIEUX AS 5",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-17",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "TEMPLEMARS VENDE. FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-08",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "TOURCOING COLBERT A.",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-12",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "LILLE AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-09",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "VILLEN.D'ASCQ DECATH",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-09",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "BERSEE AS",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-03-16",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CYSOING WB EAC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-03-30",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "TOURCOING COLBERT A.",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-04-27",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LILLE VIEUX AS",
+     "score": null,
+     "statut": "arrêté",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2026-05-11",
+     "heure": "20:00",
+     "domicile": true,
+     "adversaire": "MARQUETTE FF 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2026-06-01",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "MONS EN BAROEUL FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-06-22",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "LOOS LILLE OLIVEAUX",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444112",
+   "division": "Coupe des Flandres Vétérans A7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WERVICQ US 32",
+   "equipe_slug": "501068-wervicq-us-32",
+   "matchs": [
+    {
+     "date": "2025-10-19",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "EMMERIN FC 31",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "LAMBERSART UF 32",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "LILLE UC 31",
+     "score": "2-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444117",
+   "division": "coupe des Flandres U14",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U14",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "HAUTS-DE-FRANCE",
+   "equipe_nom": "WERVICQ US 22",
+   "equipe_slug": "501068-wervicq-us-22",
+   "matchs": [
+    {
+     "date": "2026-01-24",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MERIGNIES OL. 22",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "2e tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

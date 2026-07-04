@@ -1,0 +1,566 @@
+{
+ "clNo": "4003",
+ "nom": "BAIS US",
+ "noms": [
+  "BAIS US",
+  "BAIS US (E)",
+  "BAIS US 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "438466",
+   "division": "District 4",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "BAIS US",
+   "equipe_slug": "512363-bais-us",
+   "matchs": [
+    {
+     "date": "2025-09-21",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ST AUBIN LAND (E) 2",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "VISSEICHE ARB ES 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LE PERTRE BRIELLES 4",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "DOMAGNE/ST DI 3",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "L'HERMINE EBM 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TORCE VERGEAL F.C. 3",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS MONASTERIENNE",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "VITREENNE FC 3",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "BAIS US",
+   "equipe_slug": "512363-bais-us",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "09:30",
+     "domicile": false,
+     "adversaire": "RENNES ATHLETIC CLUB 4",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CHATEAUGIRON US 3",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LE PERTRE BRIELLES",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "VERN / SEICHE US",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "RANNEE LA GUERCHE RC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "REN CHEMINOTS AS 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "LA SEICHE FC",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CORNILLE ESP (E)",
+     "score": "0-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "VITREENNE FC 2",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440166",
+   "division": "U11 Secteur Sud-Est",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U11",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "BAIS US 2",
+   "equipe_slug": "512363-bais-us-2",
+   "matchs": [
+    {
+     "date": "2025-11-22",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "CORNILLE ESP (E) 2",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "L'HERMINE EBM 2",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "HAUTE VILAINE FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "RETIERS COESMES AS 4",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "CORNILLE ESP (E) 2",
+     "score": "10-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "L'HERMINE EBM 2",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "RETIERS COESMES AS 4",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "HAUTE VILAINE FC 2",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440559",
+   "division": "Challenge Vétérans Loisirs à 7",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Anciens/Vétérans",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "BAIS US (E)",
+   "equipe_slug": "512363-bais-us-e",
+   "matchs": [
+    {
+     "date": "2025-09-26",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "OSSE ST AUBIN 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-03",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LE PERTRE BRIELLES",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-10",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "DOURDAIN US",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-17",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "HAUTE VILAINE FC",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-07",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ETRELLES AS",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-14",
+     "heure": "19:45",
+     "domicile": false,
+     "adversaire": "REN FC ID2M",
+     "score": "0-13",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-21",
+     "heure": "19:45",
+     "domicile": false,
+     "adversaire": "REN ARMAURE FC",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-28",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ACIGNE US",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-12",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LIFFRE US 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-16",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LE PERTRE BRIELLES",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-23",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "REN ARMAURE FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-30",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "OSSE ST AUBIN 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-27",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "HAUTE VILAINE FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-06",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ETRELLES AS",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-13",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "REN FC ID2M",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-20",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ACIGNE US",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-27",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "TORCE VERGEAL F.C.",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "LIFFRE US 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-22",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "TORCE VERGEAL F.C.",
+     "score": "5-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-19",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "DOURDAIN US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444380",
+   "division": "Coupe Conseil Départemental H",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "BRETAGNE",
+   "equipe_nom": "BAIS US",
+   "equipe_slug": "512363-bais-us",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ARGENTRE PLESSIS J 2",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

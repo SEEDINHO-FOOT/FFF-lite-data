@@ -1,0 +1,88 @@
+{
+ "clNo": "196989",
+ "nom": "COURBILLAC OF",
+ "noms": [
+  "COURBILLAC OF",
+  "COURBILLAC OF 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "445791",
+   "division": "COUPE DU DISTRICT CA - J DEBRIS",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COURBILLAC OF",
+   "equipe_slug": "560437-courbillac-of",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTMOREAU AJ",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "SUD CHARENTE FC",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "2eme Tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445794",
+   "division": "CPE RESERVES CA- P. LABONNE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "COURBILLAC OF 2",
+   "equipe_slug": "560437-courbillac-of-2",
+   "matchs": [
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CHATEAUNEUF 16 US 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "1er Tour",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LINARS ES 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "2eme Tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "clNo": "196666",
+ "nom": "RHS SPORTS",
+ "noms": [
+  "RHS SPORTS"
+ ],
+ "competitions": [
+  {
+   "cpNo": "444543",
+   "division": "Coupe de Gironde Foot Entreprise",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "RHS SPORTS",
+   "equipe_slug": "660380-rhs-sports",
+   "matchs": [
+    {
+     "date": "2025-10-29",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "AMATEURS FC AQUITAIN",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435168",
+   "division": "COUPE NAT F ENTREPRISE",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "RHS SPORTS",
+   "equipe_slug": "660380-rhs-sports",
+   "matchs": [
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "THALES F.C.",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

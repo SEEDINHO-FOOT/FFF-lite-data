@@ -1,0 +1,994 @@
+{
+  "season": "2025-2026",
+  "cpNo": "444256",
+  "nom": "MATCHS AMICAUX SENIORS",
+  "type": "autre",
+  "scope": "regional",
+  "region": "NOUVELLE-AQUITAINE",
+  "district": "DISTRICT DE LA VIENNE",
+  "nb_equipes": 69,
+  "equipes": [
+    {
+      "clNo": "461",
+      "nom": "AIXE SUR VIENNE AS",
+      "slug": "500370-aixe-sur-vienne-as",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500370.jpg"
+    },
+    {
+      "clNo": "16814",
+      "nom": "ANTOGNY LE TILLAC US 2",
+      "slug": "535309-antogny-le-tillac-us-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC535309.jpg"
+    },
+    {
+      "clNo": "11594",
+      "nom": "ANTRAN SL",
+      "slug": "527576-antran-sl",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC527576.jpg"
+    },
+    {
+      "clNo": "203839",
+      "nom": "AS DIENNE",
+      "slug": "564850-as-dienne",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564850.jpg"
+    },
+    {
+      "clNo": "5925",
+      "nom": "AVAILLES EN CHATELL.",
+      "slug": "518573-availles-en-chatell",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518573.jpg"
+    },
+    {
+      "clNo": "6943",
+      "nom": "BEAUMONT ST CYR ES 2",
+      "slug": "520480-beaumont-st-cyr-es-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520480.jpg"
+    },
+    {
+      "clNo": "183519",
+      "nom": "BOIVRE SC 2015",
+      "slug": "581342-boivre-sc-2015",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581342.jpg"
+    },
+    {
+      "clNo": "4580",
+      "nom": "BUXEROLLES ES 2",
+      "slug": "514648-buxerolles-es-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514648.jpg"
+    },
+    {
+      "clNo": "3345",
+      "nom": "CENON.VOUNEUIL",
+      "slug": "508799-cenon-vouneuil",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC508799.jpg"
+    },
+    {
+      "clNo": "8276",
+      "nom": "CHAMPIGNY",
+      "slug": "522518-champigny",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522518.jpg"
+    },
+    {
+      "clNo": "189749",
+      "nom": "CHASS. ST GEORGES FC",
+      "slug": "582346-chass-st-georges-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582346.jpg"
+    },
+    {
+      "clNo": "9176",
+      "nom": "CHATEAU LARCHER ES",
+      "slug": "523950-chateau-larcher-es",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523950.jpg"
+    },
+    {
+      "clNo": "247",
+      "nom": "CHATELLERAULT SO 2",
+      "slug": "500111-chatellerault-so-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500111.jpg"
+    },
+    {
+      "clNo": "3065",
+      "nom": "CHAUVIGNY US 2",
+      "slug": "507029-chauvigny-us-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507029.jpg"
+    },
+    {
+      "clNo": "6061",
+      "nom": "CISSE US",
+      "slug": "518844-cisse-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518844.jpg"
+    },
+    {
+      "clNo": "22651",
+      "nom": "COUSSAY EN MR",
+      "slug": "544372-coussay-en-mr",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC544372.jpg"
+    },
+    {
+      "clNo": "10272",
+      "nom": "COUSSAY LES BOIS",
+      "slug": "525569-coussay-les-bois",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525569.jpg"
+    },
+    {
+      "clNo": "183468",
+      "nom": "CROUTELLE.FONTAINE",
+      "slug": "581323-croutelle-fontaine",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581323.jpg"
+    },
+    {
+      "clNo": "4542",
+      "nom": "DISSAY CS",
+      "slug": "514535-dissay-cs",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514535.jpg"
+    },
+    {
+      "clNo": "202069",
+      "nom": "FC 3 VALLEES 86",
+      "slug": "564540-fc-3-vallees-86",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564540.jpg"
+    },
+    {
+      "clNo": "6389",
+      "nom": "FLEURE FC",
+      "slug": "519555-fleure-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519555.jpg"
+    },
+    {
+      "clNo": "8062",
+      "nom": "FONTAINE LE COMTE FC",
+      "slug": "522182-fontaine-le-comte-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522182.jpg"
+    },
+    {
+      "clNo": "9443",
+      "nom": "JARDRES FC",
+      "slug": "524364-jardres-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524364.jpg"
+    },
+    {
+      "clNo": "4657",
+      "nom": "JAUNAY MARIGNY US",
+      "slug": "514931-jaunay-marigny-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514931.jpg"
+    },
+    {
+      "clNo": "22645",
+      "nom": "LAVOUX LINIERS ES",
+      "slug": "544366-lavoux-liniers-es",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC544366.jpg"
+    },
+    {
+      "clNo": "4543",
+      "nom": "LEIGNES S/FONTAINE 2",
+      "slug": "514536-leignes-s-fontaine-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514536.jpg"
+    },
+    {
+      "clNo": "3053",
+      "nom": "LIGUGE LL",
+      "slug": "507002-liguge-ll",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507002.jpg"
+    },
+    {
+      "clNo": "6611",
+      "nom": "LIMOGES LAFARGE JS",
+      "slug": "519926-limoges-lafarge-js",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519926.jpg"
+    },
+    {
+      "clNo": "4243",
+      "nom": "LOUDUN FC",
+      "slug": "513480-loudun-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC513480.jpg"
+    },
+    {
+      "clNo": "3079",
+      "nom": "LUSIGNAN USM 2",
+      "slug": "507062-lusignan-usm-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507062.jpg"
+    },
+    {
+      "clNo": "7778",
+      "nom": "MIGNALOUX BEAUVOIR",
+      "slug": "521755-mignaloux-beauvoir",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC521755.jpg"
+    },
+    {
+      "clNo": "3177",
+      "nom": "MIGNE AUXANCES US",
+      "slug": "507564-migne-auxances-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507564.jpg"
+    },
+    {
+      "clNo": "5537",
+      "nom": "MIREBEAU US 2",
+      "slug": "517749-mirebeau-us-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC517749.jpg"
+    },
+    {
+      "clNo": "6390",
+      "nom": "MONTAMISE FC",
+      "slug": "519556-montamise-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519556.jpg"
+    },
+    {
+      "clNo": "3068",
+      "nom": "MONTMORILLON UES",
+      "slug": "507038-montmorillon-ues",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507038.jpg"
+    },
+    {
+      "clNo": "3046",
+      "nom": "NEUVILLE CA 2",
+      "slug": "506983-neuville-ca-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC506983.jpg"
+    },
+    {
+      "clNo": "4440",
+      "nom": "NIEUIL L ESPOIR JS 3",
+      "slug": "514249-nieuil-l-espoir-js-3",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514249.jpg"
+    },
+    {
+      "clNo": "6764",
+      "nom": "NIORT ST LIGUAIRE OL",
+      "slug": "520162-niort-st-liguaire-ol",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520162.jpg"
+    },
+    {
+      "clNo": "8624",
+      "nom": "NOUAILLE ES 3",
+      "slug": "523094-nouaille-es-3",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523094.jpg"
+    },
+    {
+      "clNo": "179857",
+      "nom": "OYRE DANGE  ES",
+      "slug": "590232-oyre-dange-es",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590232.jpg"
+    },
+    {
+      "clNo": "162944",
+      "nom": "OZON FC",
+      "slug": "551759-ozon-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551759.jpg"
+    },
+    {
+      "clNo": "202102",
+      "nom": "PAIZAY LE SEC AC",
+      "slug": "564553-paizay-le-sec-ac",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564553.jpg"
+    },
+    {
+      "clNo": "25263",
+      "nom": "PARTHENAY VIENNAY RC",
+      "slug": "548135-parthenay-viennay-rc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548135.jpg"
+    },
+    {
+      "clNo": "10057",
+      "nom": "POITIERS ASAC",
+      "slug": "525277-poitiers-asac",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525277.jpg"
+    },
+    {
+      "clNo": "4760",
+      "nom": "POITIERS BAROC",
+      "slug": "515296-poitiers-baroc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC515296.jpg"
+    },
+    {
+      "clNo": "130801",
+      "nom": "POITIERS CEP 1892",
+      "slug": "553375-poitiers-cep-1892",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553375.jpg"
+    },
+    {
+      "clNo": "22490",
+      "nom": "POITIERS GIBAUDERIE",
+      "slug": "544185-poitiers-gibauderie",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC544185.jpg"
+    },
+    {
+      "clNo": "127721",
+      "nom": "POITIERS STADE FC 2",
+      "slug": "553111-poitiers-stade-fc-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553111.jpg"
+    },
+    {
+      "clNo": "186926",
+      "nom": "PORTS NOUATRE US",
+      "slug": "581868-ports-nouatre-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581868.jpg"
+    },
+    {
+      "clNo": "9858",
+      "nom": "QUINCAY",
+      "slug": "524991-quincay",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524991.jpg"
+    },
+    {
+      "clNo": "11068",
+      "nom": "RUFFECOIS STADE",
+      "slug": "526779-ruffecois-stade",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526779.jpg"
+    },
+    {
+      "clNo": "10787",
+      "nom": "SAMMARCOLLES",
+      "slug": "526327-sammarcolles",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526327.jpg"
+    },
+    {
+      "clNo": "194788",
+      "nom": "SMARVES ITEUIL FC",
+      "slug": "560258-smarves-iteuil-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560258.jpg"
+    },
+    {
+      "clNo": "183213",
+      "nom": "SOMMIERES ST ROMAIN",
+      "slug": "581247-sommieres-st-romain",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581247.jpg"
+    },
+    {
+      "clNo": "4823",
+      "nom": "ST BENOIT HUISMES F",
+      "slug": "515603-st-benoit-huismes-f",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC515603.jpg"
+    },
+    {
+      "clNo": "4634",
+      "nom": "ST JULIEN L ARS AAS",
+      "slug": "514861-st-julien-l-ars-aas",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514861.jpg"
+    },
+    {
+      "clNo": "136605",
+      "nom": "ST MAURICE GENCAY E. 3",
+      "slug": "553504-st-maurice-gencay-e-3",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553504.jpg"
+    },
+    {
+      "clNo": "8780",
+      "nom": "ST REMY/CR. 2",
+      "slug": "523327-st-remy-cr-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523327.jpg"
+    },
+    {
+      "clNo": "3056",
+      "nom": "THOUARS FOOT 79 2",
+      "slug": "507008-thouars-foot-79-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507008.jpg"
+    },
+    {
+      "clNo": "24551",
+      "nom": "THOUET FC",
+      "slug": "547107-thouet-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC547107.jpg"
+    },
+    {
+      "clNo": "153841",
+      "nom": "THURE BESSE US 2",
+      "slug": "553439-thure-besse-us-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553439.jpg"
+    },
+    {
+      "clNo": "2408",
+      "nom": "U.S. LE BLANC",
+      "slug": "504874-u-s-le-blanc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC504874.jpg"
+    },
+    {
+      "clNo": "152221",
+      "nom": "UNION FOOT TOURAINE 2",
+      "slug": "554357-union-foot-touraine-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554357.jpg"
+    },
+    {
+      "clNo": "189829",
+      "nom": "USSON POITOU ISLE J.",
+      "slug": "582365-usson-poitou-isle-j",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582365.jpg"
+    },
+    {
+      "clNo": "139621",
+      "nom": "VARENNES VILLEBER ES",
+      "slug": "553874-varennes-villeber-es",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553874.jpg"
+    },
+    {
+      "clNo": "25714",
+      "nom": "VENDELOGNE ES 2",
+      "slug": "548779-vendelogne-es-2",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548779.jpg"
+    },
+    {
+      "clNo": "9170",
+      "nom": "VICQ S/GARTEMPE US",
+      "slug": "523943-vicq-s-gartempe-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523943.jpg"
+    },
+    {
+      "clNo": "4506",
+      "nom": "VOUILLE 86 US",
+      "slug": "514425-vouille-86-us",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514425.jpg"
+    },
+    {
+      "clNo": "199066",
+      "nom": "VOUNEUIL BERUGES FC",
+      "slug": "560869-vouneuil-beruges-fc",
+      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560869.jpg"
+    }
+  ],
+  "par_groupe": [
+    {
+      "phNo": "1",
+      "gpNo": "1",
+      "groupe_nom": null,
+      "nb_equipes": 93,
+      "equipes": [
+        {
+          "clNo": "127721",
+          "nom": "POITIERS STADE FC 2",
+          "slug": "553111-poitiers-stade-fc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553111.jpg"
+        },
+        {
+          "clNo": "25263",
+          "nom": "PARTHENAY VIENNAY RC",
+          "slug": "548135-parthenay-viennay-rc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548135.jpg"
+        },
+        {
+          "clNo": "152221",
+          "nom": "UNION FOOT TOURAINE 2",
+          "slug": "554357-union-foot-touraine-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC554357.jpg"
+        },
+        {
+          "clNo": "189749",
+          "nom": "CHASS. ST GEORGES FC",
+          "slug": "582346-chass-st-georges-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582346.jpg"
+        },
+        {
+          "clNo": "179857",
+          "nom": "OYRE DANGE  ES",
+          "slug": "590232-oyre-dange-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590232.jpg"
+        },
+        {
+          "clNo": "3068",
+          "nom": "MONTMORILLON UES",
+          "slug": "507038-montmorillon-ues",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507038.jpg"
+        },
+        {
+          "clNo": "8062",
+          "nom": "FONTAINE LE COMTE FC",
+          "slug": "522182-fontaine-le-comte-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522182.jpg"
+        },
+        {
+          "clNo": "3053",
+          "nom": "LIGUGE LL",
+          "slug": "507002-liguge-ll",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507002.jpg"
+        },
+        {
+          "clNo": "11068",
+          "nom": "RUFFECOIS STADE",
+          "slug": "526779-ruffecois-stade",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526779.jpg"
+        },
+        {
+          "clNo": "194788",
+          "nom": "SMARVES ITEUIL FC",
+          "slug": "560258-smarves-iteuil-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560258.jpg"
+        },
+        {
+          "clNo": "199066",
+          "nom": "VOUNEUIL BERUGES FC",
+          "slug": "560869-vouneuil-beruges-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560869.jpg"
+        },
+        {
+          "clNo": "3177",
+          "nom": "MIGNE AUXANCES US",
+          "slug": "507564-migne-auxances-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507564.jpg"
+        },
+        {
+          "clNo": "9176",
+          "nom": "CHATEAU LARCHER ES",
+          "slug": "523950-chateau-larcher-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523950.jpg"
+        },
+        {
+          "clNo": "6389",
+          "nom": "FLEURE FC",
+          "slug": "519555-fleure-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519555.jpg"
+        },
+        {
+          "clNo": "189829",
+          "nom": "USSON POITOU ISLE J.",
+          "slug": "582365-usson-poitou-isle-j",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582365.jpg"
+        },
+        {
+          "clNo": "6061",
+          "nom": "CISSE US",
+          "slug": "518844-cisse-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518844.jpg"
+        },
+        {
+          "clNo": "8276",
+          "nom": "CHAMPIGNY",
+          "slug": "522518-champigny",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522518.jpg"
+        },
+        {
+          "clNo": "6764",
+          "nom": "NIORT ST LIGUAIRE OL",
+          "slug": "520162-niort-st-liguaire-ol",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520162.jpg"
+        },
+        {
+          "clNo": "4634",
+          "nom": "ST JULIEN L ARS AAS",
+          "slug": "514861-st-julien-l-ars-aas",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514861.jpg"
+        },
+        {
+          "clNo": "6390",
+          "nom": "MONTAMISE FC",
+          "slug": "519556-montamise-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519556.jpg"
+        },
+        {
+          "clNo": "4543",
+          "nom": "LEIGNES S/FONTAINE 2",
+          "slug": "514536-leignes-s-fontaine-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514536.jpg"
+        },
+        {
+          "clNo": "203839",
+          "nom": "AS DIENNE",
+          "slug": "564850-as-dienne",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564850.jpg"
+        },
+        {
+          "clNo": "9858",
+          "nom": "QUINCAY",
+          "slug": "524991-quincay",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524991.jpg"
+        },
+        {
+          "clNo": "4506",
+          "nom": "VOUILLE 86 US",
+          "slug": "514425-vouille-86-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514425.jpg"
+        },
+        {
+          "clNo": "10057",
+          "nom": "POITIERS ASAC",
+          "slug": "525277-poitiers-asac",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525277.jpg"
+        },
+        {
+          "clNo": "183213",
+          "nom": "SOMMIERES ST ROMAIN",
+          "slug": "581247-sommieres-st-romain",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581247.jpg"
+        },
+        {
+          "clNo": "202069",
+          "nom": "FC 3 VALLEES 86",
+          "slug": "564540-fc-3-vallees-86",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564540.jpg"
+        },
+        {
+          "clNo": "461",
+          "nom": "AIXE SUR VIENNE AS",
+          "slug": "500370-aixe-sur-vienne-as",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500370.jpg"
+        },
+        {
+          "clNo": "4243",
+          "nom": "LOUDUN FC",
+          "slug": "513480-loudun-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC513480.jpg"
+        },
+        {
+          "clNo": "139621",
+          "nom": "VARENNES VILLEBER ES",
+          "slug": "553874-varennes-villeber-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553874.jpg"
+        },
+        {
+          "clNo": "183468",
+          "nom": "CROUTELLE.FONTAINE",
+          "slug": "581323-croutelle-fontaine",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581323.jpg"
+        },
+        {
+          "clNo": "199066",
+          "nom": "VOUNEUIL BERUGES FC 2",
+          "slug": "560869-vouneuil-beruges-fc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560869.jpg"
+        },
+        {
+          "clNo": "4657",
+          "nom": "JAUNAY MARIGNY US",
+          "slug": "514931-jaunay-marigny-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514931.jpg"
+        },
+        {
+          "clNo": "8624",
+          "nom": "NOUAILLE ES 3",
+          "slug": "523094-nouaille-es-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523094.jpg"
+        },
+        {
+          "clNo": "11594",
+          "nom": "ANTRAN SL",
+          "slug": "527576-antran-sl",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC527576.jpg"
+        },
+        {
+          "clNo": "5925",
+          "nom": "AVAILLES EN CHATELL.",
+          "slug": "518573-availles-en-chatell",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC518573.jpg"
+        },
+        {
+          "clNo": "4542",
+          "nom": "DISSAY CS",
+          "slug": "514535-dissay-cs",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514535.jpg"
+        },
+        {
+          "clNo": "3046",
+          "nom": "NEUVILLE CA 2",
+          "slug": "506983-neuville-ca-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC506983.jpg"
+        },
+        {
+          "clNo": "130801",
+          "nom": "POITIERS CEP 1892",
+          "slug": "553375-poitiers-cep-1892",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553375.jpg"
+        },
+        {
+          "clNo": "22490",
+          "nom": "POITIERS GIBAUDERIE",
+          "slug": "544185-poitiers-gibauderie",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC544185.jpg"
+        },
+        {
+          "clNo": "6943",
+          "nom": "BEAUMONT ST CYR ES 2",
+          "slug": "520480-beaumont-st-cyr-es-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520480.jpg"
+        },
+        {
+          "clNo": "247",
+          "nom": "CHATELLERAULT SO 2",
+          "slug": "500111-chatellerault-so-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500111.jpg"
+        },
+        {
+          "clNo": "8624",
+          "nom": "NOUAILLE ES",
+          "slug": "523094-nouaille-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523094.jpg"
+        },
+        {
+          "clNo": "10272",
+          "nom": "COUSSAY LES BOIS",
+          "slug": "525569-coussay-les-bois",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525569.jpg"
+        },
+        {
+          "clNo": "6943",
+          "nom": "BEAUMONT ST CYR ES",
+          "slug": "520480-beaumont-st-cyr-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520480.jpg"
+        },
+        {
+          "clNo": "3065",
+          "nom": "CHAUVIGNY US 2",
+          "slug": "507029-chauvigny-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507029.jpg"
+        },
+        {
+          "clNo": "199066",
+          "nom": "VOUNEUIL BERUGES FC 3",
+          "slug": "560869-vouneuil-beruges-fc-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560869.jpg"
+        },
+        {
+          "clNo": "22645",
+          "nom": "LAVOUX LINIERS ES",
+          "slug": "544366-lavoux-liniers-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC544366.jpg"
+        },
+        {
+          "clNo": "3068",
+          "nom": "MONTMORILLON UES 3",
+          "slug": "507038-montmorillon-ues-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507038.jpg"
+        },
+        {
+          "clNo": "202102",
+          "nom": "PAIZAY LE SEC AC",
+          "slug": "564553-paizay-le-sec-ac",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564553.jpg"
+        },
+        {
+          "clNo": "4440",
+          "nom": "NIEUIL L ESPOIR JS 3",
+          "slug": "514249-nieuil-l-espoir-js-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514249.jpg"
+        },
+        {
+          "clNo": "4657",
+          "nom": "JAUNAY MARIGNY US 2",
+          "slug": "514931-jaunay-marigny-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514931.jpg"
+        },
+        {
+          "clNo": "9176",
+          "nom": "CHATEAU LARCHER ES 2",
+          "slug": "523950-chateau-larcher-es-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523950.jpg"
+        },
+        {
+          "clNo": "202069",
+          "nom": "FC 3 VALLEES 86 3",
+          "slug": "564540-fc-3-vallees-86-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC564540.jpg"
+        },
+        {
+          "clNo": "22651",
+          "nom": "COUSSAY EN MR",
+          "slug": "544372-coussay-en-mr",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC544372.jpg"
+        },
+        {
+          "clNo": "179857",
+          "nom": "OYRE DANGE  ES 3",
+          "slug": "590232-oyre-dange-es-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590232.jpg"
+        },
+        {
+          "clNo": "8780",
+          "nom": "ST REMY/CR. 2",
+          "slug": "523327-st-remy-cr-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523327.jpg"
+        },
+        {
+          "clNo": "4440",
+          "nom": "NIEUIL L ESPOIR JS",
+          "slug": "514249-nieuil-l-espoir-js",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514249.jpg"
+        },
+        {
+          "clNo": "162944",
+          "nom": "OZON FC",
+          "slug": "551759-ozon-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC551759.jpg"
+        },
+        {
+          "clNo": "3068",
+          "nom": "MONTMORILLON UES 2",
+          "slug": "507038-montmorillon-ues-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507038.jpg"
+        },
+        {
+          "clNo": "2408",
+          "nom": "U.S. LE BLANC",
+          "slug": "504874-u-s-le-blanc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC504874.jpg"
+        },
+        {
+          "clNo": "7778",
+          "nom": "MIGNALOUX BEAUVOIR",
+          "slug": "521755-mignaloux-beauvoir",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC521755.jpg"
+        },
+        {
+          "clNo": "189829",
+          "nom": "USSON POITOU ISLE J. 2",
+          "slug": "582365-usson-poitou-isle-j-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582365.jpg"
+        },
+        {
+          "clNo": "127721",
+          "nom": "POITIERS STADE 19",
+          "slug": "553111-poitiers-stade-19",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553111.jpg"
+        },
+        {
+          "clNo": "4542",
+          "nom": "DISSAY CS 2",
+          "slug": "514535-dissay-cs-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514535.jpg"
+        },
+        {
+          "clNo": "3345",
+          "nom": "CENON.VOUNEUIL",
+          "slug": "508799-cenon-vouneuil",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC508799.jpg"
+        },
+        {
+          "clNo": "8062",
+          "nom": "FONTAINE LE COMTE FC 3",
+          "slug": "522182-fontaine-le-comte-fc-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522182.jpg"
+        },
+        {
+          "clNo": "3079",
+          "nom": "LUSIGNAN USM 2",
+          "slug": "507062-lusignan-usm-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507062.jpg"
+        },
+        {
+          "clNo": "153841",
+          "nom": "THURE BESSE US 2",
+          "slug": "553439-thure-besse-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553439.jpg"
+        },
+        {
+          "clNo": "183519",
+          "nom": "BOIVRE SC 2015",
+          "slug": "581342-boivre-sc-2015",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581342.jpg"
+        },
+        {
+          "clNo": "3056",
+          "nom": "THOUARS FOOT 79 2",
+          "slug": "507008-thouars-foot-79-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC507008.jpg"
+        },
+        {
+          "clNo": "6611",
+          "nom": "LIMOGES LAFARGE JS",
+          "slug": "519926-limoges-lafarge-js",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519926.jpg"
+        },
+        {
+          "clNo": "4823",
+          "nom": "ST BENOIT HUISMES F",
+          "slug": "515603-st-benoit-huismes-f",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC515603.jpg"
+        },
+        {
+          "clNo": "179857",
+          "nom": "OYRE DANGE  ES 2",
+          "slug": "590232-oyre-dange-es-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC590232.jpg"
+        },
+        {
+          "clNo": "186926",
+          "nom": "PORTS NOUATRE US",
+          "slug": "581868-ports-nouatre-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC581868.jpg"
+        },
+        {
+          "clNo": "9443",
+          "nom": "JARDRES FC",
+          "slug": "524364-jardres-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524364.jpg"
+        },
+        {
+          "clNo": "16814",
+          "nom": "ANTOGNY LE TILLAC US 2",
+          "slug": "535309-antogny-le-tillac-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC535309.jpg"
+        },
+        {
+          "clNo": "6390",
+          "nom": "MONTAMISE FC 2",
+          "slug": "519556-montamise-fc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC519556.jpg"
+        },
+        {
+          "clNo": "4580",
+          "nom": "BUXEROLLES ES 2",
+          "slug": "514648-buxerolles-es-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514648.jpg"
+        },
+        {
+          "clNo": "25714",
+          "nom": "VENDELOGNE ES 2",
+          "slug": "548779-vendelogne-es-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548779.jpg"
+        },
+        {
+          "clNo": "24551",
+          "nom": "THOUET FC",
+          "slug": "547107-thouet-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC547107.jpg"
+        },
+        {
+          "clNo": "136605",
+          "nom": "ST MAURICE GENCAY E. 3",
+          "slug": "553504-st-maurice-gencay-e-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC553504.jpg"
+        },
+        {
+          "clNo": "9443",
+          "nom": "JARDRES FC 2",
+          "slug": "524364-jardres-fc-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524364.jpg"
+        },
+        {
+          "clNo": "4440",
+          "nom": "NIEUIL L ESPOIR JS 2",
+          "slug": "514249-nieuil-l-espoir-js-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC514249.jpg"
+        },
+        {
+          "clNo": "6943",
+          "nom": "BEAUMONT ST CYR ES 3",
+          "slug": "520480-beaumont-st-cyr-es-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC520480.jpg"
+        },
+        {
+          "clNo": "25714",
+          "nom": "VENDELOGNE ES",
+          "slug": "548779-vendelogne-es",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548779.jpg"
+        },
+        {
+          "clNo": "5537",
+          "nom": "MIREBEAU US 2",
+          "slug": "517749-mirebeau-us-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC517749.jpg"
+        },
+        {
+          "clNo": "10787",
+          "nom": "SAMMARCOLLES",
+          "slug": "526327-sammarcolles",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC526327.jpg"
+        },
+        {
+          "clNo": "9170",
+          "nom": "VICQ S/GARTEMPE US",
+          "slug": "523943-vicq-s-gartempe-us",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523943.jpg"
+        },
+        {
+          "clNo": "8276",
+          "nom": "CHAMPIGNY 2",
+          "slug": "522518-champigny-2",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC522518.jpg"
+        },
+        {
+          "clNo": "8624",
+          "nom": "NOUAILLE ES 4",
+          "slug": "523094-nouaille-es-4",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523094.jpg"
+        },
+        {
+          "clNo": "9176",
+          "nom": "CHATEAU LARCHER ES 3",
+          "slug": "523950-chateau-larcher-es-3",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC523950.jpg"
+        },
+        {
+          "clNo": "4760",
+          "nom": "POITIERS BAROC",
+          "slug": "515296-poitiers-baroc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC515296.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+ "clNo": "177000",
+ "nom": "VUE D'ENSEMBLE",
+ "noms": [
+  "VUE D'ENSEMBLE",
+  "VUE D'ENSEMBLE 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "442209",
+   "division": "Futsal R2",
+   "niveau": "Régional",
+   "echelon": "R2",
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "VUE D'ENSEMBLE",
+   "equipe_slug": "580632-vue-d-ensemble",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "AVICENNE A.S.C.",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "ASNIERES FUTSAL 92",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "20:30",
+     "domicile": true,
+     "adversaire": "GOUSSAINVILLE FC",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "SPORTING CLUB PARIS 2",
+     "score": "4-8",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "17:15",
+     "domicile": true,
+     "adversaire": "TORCY FUTSAL EU",
+     "score": "5-7",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "LA COURNEUVE AS",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "VLG FUTSAL",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-27",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "VECTEUR SPORT",
+     "score": "2-5",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "AULNAY FUTSAL",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "ASNIERES FUTSAL 92",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "17:45",
+     "domicile": true,
+     "adversaire": "VECTEUR SPORT",
+     "score": "7-6",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "AVICENNE A.S.C.",
+     "score": "2-6",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "19:05",
+     "domicile": true,
+     "adversaire": "SPORTING CLUB PARIS 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "TORCY FUTSAL EU",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "LA COURNEUVE AS",
+     "score": "4-10",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-14",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "VLG FUTSAL",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "AULNAY FUTSAL",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "GOUSSAINVILLE FC",
+     "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444829",
+   "division": "FUTSAL PARIS CREDIT MUTUEL IDF",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "VUE D'ENSEMBLE",
+   "equipe_slug": "580632-vue-d-ensemble",
+   "matchs": [
+    {
+     "date": "2025-11-14",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "JEUNESSE AULNAY",
+     "score": "5-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "CSM EAUBONNE FOOT",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Tour n°2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "443100",
+   "division": "SENIORS FUTSAL D1",
+   "niveau": "Départemental",
+   "echelon": "D1",
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "VUE D'ENSEMBLE 2",
+   "equipe_slug": "580632-vue-d-ensemble-2",
+   "matchs": [
+    {
+     "date": "2025-10-11",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "PARIS XV FUTSAL 2",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "CPS10",
+     "score": "3-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "as13F",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-18",
+     "heure": "20:55",
+     "domicile": true,
+     "adversaire": "PARIS ACASA 4",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "16:30",
+     "domicile": false,
+     "adversaire": "SALESIENNE DE PARIS",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-26",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "PARIS 18 UNITED",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "PARIS XV FUTSAL 2",
+     "score": "7-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "19:30",
+     "domicile": false,
+     "adversaire": "PARIS ACASA 4",
+     "score": "9-3",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:45",
+     "domicile": true,
+     "adversaire": "PARIS FUTSAL 2",
+     "score": "5-9",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "SALESIENNE DE PARIS",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-20",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "CPS10",
+     "score": "8-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "as13F",
+     "score": "9-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-10",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "PARIS FUTSAL 2",
+     "score": "8-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "PARIS 18 UNITED",
+     "score": "3-13",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "444587",
+   "division": "Coupe Dép Futsal  seniors",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "VUE D'ENSEMBLE",
+   "equipe_slug": "580632-vue-d-ensemble",
+   "matchs": [
+    {
+     "date": "2025-11-30",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "ELEVEN CITY",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-02-12",
+     "heure": "21:00",
+     "domicile": true,
+     "adversaire": "CR 19 FUTSAL",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "PARIS FUTSAL",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": "1/4 de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "PARIS XIV FC",
+     "score": "6-5",
+     "statut": "joué",
+     "journee": "1/2 Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "16:30",
+     "domicile": true,
+     "adversaire": "PARIS ACASA 2",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "435169",
+   "division": "Coupe Nationale Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "VUE D'ENSEMBLE",
+   "equipe_slug": "580632-vue-d-ensemble",
+   "matchs": [
+    {
+     "date": "2025-10-04",
+     "heure": "20:45",
+     "domicile": false,
+     "adversaire": "IGNY FUTSAL",
+     "score": "1-10",
+     "statut": "joué",
+     "journee": "tour n°2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "20:30",
+     "domicile": false,
+     "adversaire": "LA CUATRO FUTSAL",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Tour n°3",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

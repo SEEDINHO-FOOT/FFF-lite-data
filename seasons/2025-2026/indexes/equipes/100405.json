@@ -1,0 +1,128 @@
+{
+ "clNo": "100405",
+ "nom": "FC DU LITTORAL",
+ "noms": [
+  "FC DU LITTORAL",
+  "FC DU LITTORAL 41"
+ ],
+ "competitions": [
+  {
+   "cpNo": "441007",
+   "division": "U13 DEPARTEMENTAL 4",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U13",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC DU LITTORAL",
+   "equipe_slug": "549990-fc-du-littoral",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GAINNEVILLE AC 13",
+     "score": "5-5",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AC ST ROMAIN COLBOSC 4",
+     "score": "7-3",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS DE MONTIVILLIERS 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "OLYMPIA'CAUX FOOTBAL 3",
+     "score": "13-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ES DU MONT GAILLARD 3",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2026-05-30",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "ESPC ST GILLES ETAIN 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440950",
+   "division": "COUPE VÉTÉRANS ANDRÉ STRAPPE",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "NORMANDIE",
+   "equipe_nom": "FC DU LITTORAL 41",
+   "equipe_slug": "549990-fc-du-littoral-41",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": false,
+     "adversaire": "FC ROLLEVILLAIS 41",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "1er tour",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "HAVRE CAUCRIAUV S 41",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "2ème tour",
+     "stade": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "clNo": "35",
+ "nom": "CENTRE-VAL LOIRE U15",
+ "noms": [
+  "CENTRE-VAL DE LOIRE 15",
+  "CENTRE-VAL DE LOIRE 17",
+  "CENTRE-VAL DE LOIRE 5",
+  "CENTRE-VAL LOIRE U15",
+  "CENTRE-VAL LOIRE U15 2"
+ ],
+ "competitions": [
+  {
+   "cpNo": "439922",
+   "division": "MATCHS AMICAUX U17 N & U16 R",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "CENTRE-VAL DE LOIRE 5",
+   "equipe_slug": "2100-centre-val-de-loire-5",
+   "matchs": [
+    {
+     "date": "2026-04-01",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BERRI CHATEAUROUX 21",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439923",
+   "division": "MATCHS AMICAUX U15 R & U14 R",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "CENTRE-VAL LOIRE U15 2",
+   "equipe_slug": "2100-centre-val-loire-u15-2",
+   "matchs": [
+    {
+     "date": "2026-04-01",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CENTRE-VAL LOIRE U15",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439923",
+   "division": "MATCHS AMICAUX U15 R & U14 R",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "CENTRE-VAL LOIRE U15",
+   "equipe_slug": "2100-centre-val-loire-u15",
+   "matchs": [
+    {
+     "date": "2026-04-01",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "CENTRE-VAL LOIRE U15 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439929",
+   "division": "MATCHS AMICAUX SEN. FUTSAL",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "CENTRE-VAL DE LOIRE 17",
+   "equipe_slug": "2100-centre-val-de-loire-17",
+   "matchs": [
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ORLEANS METROPOLE AC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439931",
+   "division": "MATCHS AMICAUX U15 FUTSAL",
+   "niveau": "Régional",
+   "echelon": null,
+   "forme": "Futsal",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "autre",
+   "scope": "regional",
+   "region": "CENTRE-V.L.",
+   "equipe_nom": "CENTRE-VAL DE LOIRE 15",
+   "equipe_slug": "2100-centre-val-de-loire-15",
+   "matchs": [
+    {
+     "date": "2026-04-01",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PARIS ACASA 6",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  }
+ ]
+}
