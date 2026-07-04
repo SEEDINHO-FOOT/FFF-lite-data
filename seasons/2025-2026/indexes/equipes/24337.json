@@ -2049,6 +2049,85 @@
      "stade": null
     }
    ]
+  },
+  {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "LE FIEF GESTE FC",
+   "equipe_slug": "546861-le-fief-geste-fc",
+   "matchs": [
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BRISSAC AUBANCE ES 2",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Tour 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LE LION ANGERS CS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "1/16 Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VILLEVEQUE SOUCELLES",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "1/8 Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LANDEMONT LAURENTAIS",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "1/4 Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHOLET JEUNE FRANCE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "1/2 Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "THOUARCE FC LAYON",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "FINALE",
+     "stade": null
+    }
+   ]
   }
  ]
 }

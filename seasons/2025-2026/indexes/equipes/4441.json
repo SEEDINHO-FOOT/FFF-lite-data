@@ -13,6 +13,245 @@
  ],
  "competitions": [
   {
+   "cpNo": "442693",
+   "division": "U17 R3",
+   "niveau": "Régional",
+   "echelon": "R3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "AULNAY F.C.",
+   "equipe_slug": "514250-aulnay-f-c",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "AS ARARAT ISSY",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "NEUILLY PLAISANCE FC",
+     "score": "6-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MEUDON A.S. 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VILLIERS S/ M. ES",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "11:30",
+     "domicile": true,
+     "adversaire": "VITRY CA",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TROPS FC",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "AUBERVILLIERS FCM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PARIS 15 A.C.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PERREUX AS FRAN",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "BONDY A.S.",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST MAUR VGA",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "13:30",
+     "domicile": true,
+     "adversaire": "VILLIERS S/ M. ES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "VITRY CA",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TROPS FC",
+     "score": "1-8",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "AUBERVILLIERS FCM",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PARIS 15 A.C.",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "PERREUX AS FRAN",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "AS ARARAT ISSY",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BONDY A.S.",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NEUILLY PLAISANCE FC",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST MAUR VGA",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MEUDON A.S. 2",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "444616",
    "division": "U17 COUPE PARIS CREDIT MUTUEL IDF",
    "niveau": "Régional",

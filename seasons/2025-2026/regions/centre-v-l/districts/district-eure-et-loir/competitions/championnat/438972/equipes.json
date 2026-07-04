@@ -6,7 +6,7 @@
   "scope": "regional",
   "region": "CENTRE-V.L.",
   "district": "DISTRICT EURE-ET-LOIR",
-  "nb_equipes": 33,
+  "nb_equipes": 32,
   "equipes": [
     {
       "clNo": "2432",
@@ -79,12 +79,6 @@
       "nom": "DAMMARIE BERCHERES",
       "slug": "548860-dammarie-bercheres",
       "logo": "https://cdn-transverse.azureedge.net/phlogos/BC548860.jpg"
-    },
-    {
-      "clNo": "2538",
-      "nom": "DONNEMAIN",
-      "slug": "505188-donnemain",
-      "logo": "https://cdn-transverse.azureedge.net/phlogos/BC505188.jpg"
     },
     {
       "clNo": "14427",
@@ -448,20 +442,8 @@
       "phNo": "2",
       "gpNo": "3",
       "groupe_nom": null,
-      "nb_equipes": 7,
+      "nb_equipes": 6,
       "equipes": [
-        {
-          "clNo": "2397",
-          "nom": "AM.S. NOGENT LE ROTR",
-          "slug": "504849-am-s-nogent-le-rotr",
-          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC504849.jpg"
-        },
-        {
-          "clNo": "2538",
-          "nom": "DONNEMAIN",
-          "slug": "505188-donnemain",
-          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC505188.jpg"
-        },
         {
           "clNo": "11977",
           "nom": "AMILLY FC",
@@ -475,10 +457,10 @@
           "logo": "https://cdn-transverse.azureedge.net/phlogos/BC582560.jpg"
         },
         {
-          "clNo": "2425",
-          "nom": "ENT. ACF/ASFG",
-          "slug": "504897-ent-acf-asfg",
-          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC504897.jpg"
+          "clNo": "2397",
+          "nom": "AM.S. NOGENT LE ROTR",
+          "slug": "504849-am-s-nogent-le-rotr",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC504849.jpg"
         },
         {
           "clNo": "11581",
@@ -491,6 +473,12 @@
           "nom": "OCC/USVL/MAR/LOG/FCL",
           "slug": "500551-occ-usvl-mar-log-fcl",
           "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500551.jpg"
+        },
+        {
+          "clNo": "2425",
+          "nom": "ENT. ACF/ASFG",
+          "slug": "504897-ent-acf-asfg",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC504897.jpg"
         }
       ]
     }

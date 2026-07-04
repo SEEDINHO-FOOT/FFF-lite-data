@@ -1,13 +1,14 @@
 {
  "clNo": "199347",
- "nom": "GRAND SAINT BARTHELE",
+ "nom": "GRAND ST BARTHELEMY",
  "noms": [
   "GRAND SAINT BARTHELE",
   "GRAND SAINT BARTHELE 2",
   "GRAND SAINT BARTHELE 21",
   "GRAND SAINT BARTHELE 22",
   "GRAND SAINT BARTHELE 23",
-  "GRAND SAINT BARTHELE 3"
+  "GRAND SAINT BARTHELE 3",
+  "GRAND ST BARTHELEMY"
  ],
  "competitions": [
   {
@@ -3752,6 +3753,35 @@
      "score": "4-1",
      "statut": "joué",
      "journee": "1ER TOUR",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441216",
+   "division": "Coupe Nationale Féminine Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "GRAND ST BARTHELEMY",
+   "equipe_slug": "560977-grand-st-barthelemy",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US SAINT VIT",
+     "score": "2-10",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
      "stade": null
     }
    ]

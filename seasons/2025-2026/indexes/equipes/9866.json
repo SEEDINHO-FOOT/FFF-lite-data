@@ -7,6 +7,444 @@
  ],
  "competitions": [
   {
+   "cpNo": "438481",
+   "division": "DEPARTEMENTAL 4 FOURNIL DE BASSAC",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "U.S. BALZAC 2",
+   "equipe_slug": "524999-u-s-balzac-2",
+   "matchs": [
+    {
+     "date": "2025-09-06",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ROUILLAC FC 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "BRIE AS 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST ANGEAU CS",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ENTENTE FOOT 16 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C. GENAC GOURVILLE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COURBILLAC OF",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTIGNAC 16 ES 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANAIS US 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AIGRE AS 3",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GOND PONTOUVRE GSFP 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ENTENTE FOOT 16 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "F.C. GENAC GOURVILLE",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BRIE AS 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "MONTIGNAC 16 ES 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AIGRE AS 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ANAIS US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST ANGEAU CS",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COURBILLAC OF",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GOND PONTOUVRE GSFP 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ROUILLAC FC 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "438481",
+   "division": "DEPARTEMENTAL 4 FOURNIL DE BASSAC",
+   "niveau": "Départemental",
+   "echelon": "D4",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "U.S. BALZAC",
+   "equipe_slug": "524999-u-s-balzac",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST-MARTIN US 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST MICHEL CS 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "LSC FEUILLADE",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GARAT SERS VOUZAN JS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GOND PONTOUVRE AC 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VOEUIL AS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PUYMOYEN AS 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ISLE D ESPAGNAC FCC 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SOYAUX AS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GARAT SERS VOUZAN JS 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LINARS ES 3",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GOND PONTOUVRE AC 2",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VOEUIL AS 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "ST MICHEL CS 3",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PUYMOYEN AS 3",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "SOYAUX AS 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-06",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ISLE D ESPAGNAC FCC 2",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LINARS ES 3",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LSC FEUILLADE",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST-MARTIN US 2",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "445791",
    "division": "COUPE DU DISTRICT CA - J DEBRIS",
    "niveau": "Départemental",

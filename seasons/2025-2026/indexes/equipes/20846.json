@@ -3,7 +3,8 @@
  "nom": "VALDAINE F.C.",
  "noms": [
   "VALDAINE F.C.",
-  "VALDAINE F.C. 2"
+  "VALDAINE F.C. 2",
+  "VALDAINE F.C. 3"
  ],
  "competitions": [
   {
@@ -478,6 +479,245 @@
      "domicile": false,
      "adversaire": "BG ST AND. SC",
      "score": "10-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439276",
+   "division": "D5  UNIQUE",
+   "niveau": "Départemental",
+   "echelon": "D5",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "AUVERGNE-RHONE-ALPES",
+   "equipe_nom": "VALDAINE F.C. 3",
+   "equipe_slug": "540857-valdaine-f-c-3",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAVASSE R.C. 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FC BAUME BOUCHET MON 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST RESTITUT F",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "US DROME-PROVENCE 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ALLAN FR FOOT 2",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC.ROCHEGUDIEN 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC MONTELIMAR 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MALATAVERNE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "F.C. SAUZET 2",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BG ST AND. SC 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST PAUL 3 CH. 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC BAUME BOUCHET MON 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST RESTITUT F",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US DROME-PROVENCE 2",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC MONTELIMAR 3",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ALLAN FR FOOT 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FC.ROCHEGUDIEN 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MALATAVERNE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "F.C. SAUZET 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BG ST AND. SC 2",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST PAUL 3 CH. 2",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SAVASSE R.C. 2",
+     "score": "3-0",
      "statut": "joué",
      "journee": null,
      "stade": null

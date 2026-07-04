@@ -3,7 +3,8 @@
  "nom": "HERCULES FUTSAL C",
  "noms": [
   "HERCULES FUTSAL C",
-  "HERCULES FUTSAL C 2"
+  "HERCULES FUTSAL C 2",
+  "HERCULES FUTSAL CLUB"
  ],
  "competitions": [
   {
@@ -481,8 +482,57 @@
    ]
   },
   {
+   "cpNo": "441216",
+   "division": "Coupe Nationale Féminine Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "HERCULES FUTSAL CLUB",
+   "equipe_slug": "550633-hercules-futsal-club",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "AS BEAUVAIS OISE",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "MONTAIGU VENDEE FOOT",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Quarts de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "SPORTING CLUB PARIS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Demi-finales",
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",

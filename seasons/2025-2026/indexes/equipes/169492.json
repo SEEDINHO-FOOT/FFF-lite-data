@@ -671,6 +671,115 @@
    ]
   },
   {
+   "cpNo": "437445",
+   "division": "U15 Brassage District Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "PESSAC FC 2",
+   "equipe_slug": "550999-pessac-fc-2",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BORDEAUX RC 2",
+     "score": "16-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "EYSINAISE ES",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BASSENS CMO 3",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BORDEAUX COQS ROUGES 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "LORMONT US 3",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MERIGNACAIS SA 3",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "ST BRUNO UNION FCS",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "ST AUGUSTIN CPA USJ",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "BOULIACAISE FC",
+     "score": null,
+     "statut": "arrêté",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "437450",
    "division": "U13 Brassage Niveau 1",
    "niveau": "Départemental",
@@ -1909,8 +2018,37 @@
    ]
   },
   {
+   "cpNo": "441216",
+   "division": "Coupe Nationale Féminine Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "PESSAC FC",
+   "equipe_slug": "550999-pessac-fc",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "MONTAIGU VENDEE FOOT",
+     "score": "1-11",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",

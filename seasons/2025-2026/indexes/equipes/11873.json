@@ -14,35 +14,6 @@
  ],
  "competitions": [
   {
-   "cpNo": "439927",
-   "division": "MATCHS AMICAUX U15 F",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U15",
-    "genre": "F",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "PLAISIROIS F.O.",
-   "equipe_slug": "527985-plaisirois-f-o",
-   "matchs": [
-    {
-     "date": "2025-08-30",
-     "heure": "16:00",
-     "domicile": false,
-     "adversaire": "DREUX FC DROU",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
    "cpNo": "442231",
    "division": "U18F R3",
    "niveau": "Régional",
@@ -950,6 +921,245 @@
      "domicile": true,
      "adversaire": "VILLENEUVE GARENNE",
      "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442693",
+   "division": "U17 R3",
+   "niveau": "Régional",
+   "echelon": "R3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "PLAISIROIS F.O.",
+   "equipe_slug": "527985-plaisirois-f-o",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VERNEUIL S/SEINE US",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "GARGENVILLE STADE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "TRAPPES ES 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "HOUDANAISE REGION FC",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MAISONS-LAFFITTE F.C",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ECQUEVILLY E.F.C.",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "POISSY FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST CYR AFC",
+     "score": null,
+     "statut": "à venir",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CHANTELOUP LES V. US",
+     "score": "1-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MANTOIS 78 FC 3",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "FOURQUEUX A.S.",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "HOUDANAISE REGION FC",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "MAISONS-LAFFITTE F.C",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ECQUEVILLY E.F.C.",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "POISSY FC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST CYR AFC",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHANTELOUP LES V. US",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VERNEUIL S/SEINE US",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MANTOIS 78 FC 3",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GARGENVILLE STADE",
+     "score": "8-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FOURQUEUX A.S.",
+     "score": "7-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TRAPPES ES 2",
+     "score": "2-4",
      "statut": "joué",
      "journee": null,
      "stade": null

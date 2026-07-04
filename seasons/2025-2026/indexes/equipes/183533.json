@@ -1241,6 +1241,55 @@
    ]
   },
   {
+   "cpNo": "439932",
+   "division": "Challenge du district seniors féminines",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "SOMLOIRYZERNAY CP",
+   "equipe_slug": "581348-somloiryzernay-cp",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "SAUMUR OFC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "LES VERCHERS ST GEOR",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ENT.ST HILAIRE CORON",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "446201",
    "division": "U17 D3 phase 2",
    "niveau": "Départemental",
@@ -2201,6 +2250,35 @@
      "score": "0-9",
      "statut": "joué",
      "journee": "JOURNEE 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "SOMLOIRYZERNAY CP",
+   "equipe_slug": "581348-somloiryzernay-cp",
+   "matchs": [
+    {
+     "date": "2026-02-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "TIERCE CHEFFES AS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "1/16 Finale",
      "stade": null
     }
    ]

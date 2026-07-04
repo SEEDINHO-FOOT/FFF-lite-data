@@ -1138,6 +1138,45 @@
      "stade": null
     }
    ]
+  },
+  {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "CANTENAY EPINARD US",
+   "equipe_slug": "521121-cantenay-epinard-us",
+   "matchs": [
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANGRIE ST PIERRE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MORANNES ES",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Tour 5",
+     "stade": null
+    }
+   ]
   }
  ]
 }

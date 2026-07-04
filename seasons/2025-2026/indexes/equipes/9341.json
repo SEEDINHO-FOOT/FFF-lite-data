@@ -190,64 +190,6 @@
    ]
   },
   {
-   "cpNo": "439923",
-   "division": "MATCHS AMICAUX U15 R & U14 R",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U15",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "SARAN FC",
-   "equipe_slug": "524215-saran-fc",
-   "matchs": [
-    {
-     "date": "2025-08-30",
-     "heure": "15:30",
-     "domicile": false,
-     "adversaire": "BLOIS F. 41",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439924",
-   "division": "MATCHS AMICAUX U13 R & U12 R",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U13",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "SARAN FC",
-   "equipe_slug": "524215-saran-fc",
-   "matchs": [
-    {
-     "date": "2025-08-23",
-     "heure": "13:30",
-     "domicile": false,
-     "adversaire": "C CHARTRES F.",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
    "cpNo": "439925",
    "division": "MATCHS AMICAUX SEN. FEM.",
    "niveau": "Régional",
@@ -271,74 +213,6 @@
      "adversaire": "BERRI CHATEAUROUX 2",
      "score": "1-5",
      "statut": "joué",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439926",
-   "division": "MATCHS AMICAUX U19 F & U18 F",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U19",
-    "genre": "F",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "SARAN FC",
-   "equipe_slug": "524215-saran-fc",
-   "matchs": [
-    {
-     "date": "2026-01-10",
-     "heure": "15:00",
-     "domicile": true,
-     "adversaire": "ELEVEN UNITED 45",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2026-03-21",
-     "heure": "15:00",
-     "domicile": false,
-     "adversaire": "ELEVEN UNITED 45",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "440726",
-   "division": "MATCHS AMICAUX U19 N & U18 R",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U19",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "SARAN FC",
-   "equipe_slug": "524215-saran-fc",
-   "matchs": [
-    {
-     "date": "2026-01-10",
-     "heure": "11:00",
-     "domicile": true,
-     "adversaire": "BLOIS F. 41",
-     "score": null,
-     "statut": "à venir",
      "journee": null,
      "stade": null
     }
@@ -3975,6 +3849,26 @@
      "statut": "à venir",
      "journee": null,
      "stade": null
+    },
+    {
+     "date": "2026-05-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MONTARGIS USM F",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-06-07",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "ELEVEN UNITED 45",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
     }
    ]
   },
@@ -4258,6 +4152,285 @@
      "score": "6-3",
      "statut": "joué",
      "journee": "1/4 de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439452",
+   "division": "National 3",
+   "niveau": "National",
+   "echelon": "N3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "SARAN FC",
+   "equipe_slug": "524215-saran-fc",
+   "matchs": [
+    {
+     "date": "2025-08-23",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "DIJON FCO 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-08-30",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "F.C. CHAMALIERES",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-06",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "VIERZON FC",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "M Y F 03 AUVERGNE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "JURA SUD FOOT",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "HAUTS LYONNAIS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MACON 71",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "COSNE UCS FOOTBALL",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS SAINT ETIENNE 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "US ORLEANS LOIRET 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AJ AUXERRE 2",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "SO ROMORANTIN",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "F.C. CHAMALIERES",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "U.S. FEURS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VIERZON FC",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "JURA SUD FOOT",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "M Y F 03 AUVERGNE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "HAUTS LYONNAIS",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MACON 71",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "COSNE UCS FOOTBALL",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 23",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS SAINT ETIENNE 2",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 24",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "US ORLEANS LOIRET 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AJ AUXERRE 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "U.S. FEURS",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "SO ROMORANTIN",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "DIJON FCO 2",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": null,
      "stade": null
     }
    ]

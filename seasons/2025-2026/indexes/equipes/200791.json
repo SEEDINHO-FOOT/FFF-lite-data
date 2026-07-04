@@ -1737,6 +1737,55 @@
    ]
   },
   {
+   "cpNo": "439932",
+   "division": "Challenge du district seniors féminines",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "MAYBÉLÉGER FC",
+   "equipe_slug": "561164-maybElEger-fc",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "GF SEVREMOINE",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "GF BEAUPREAU EN MAUG",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ENT.CHRISTSEGMORTAGN",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "446198",
    "division": "U19 D2 phase 2",
    "niveau": "Départemental",
@@ -3238,6 +3287,55 @@
      "score": "0-4",
      "statut": "joué",
      "journee": "JOURNEE 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "MAYBÉLÉGER FC",
+   "equipe_slug": "561164-maybElEger-fc",
+   "matchs": [
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "COMBREE BEL AIR US",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "1/8 Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MORANNES ES",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ANGERS HSA",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "1/4 Finale",
      "stade": null
     }
    ]

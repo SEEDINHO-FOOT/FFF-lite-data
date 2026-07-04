@@ -929,6 +929,65 @@
      "stade": null
     }
    ]
+  },
+  {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "MORANNES ES",
+   "equipe_slug": "522758-morannes-es",
+   "matchs": [
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VAL ERDRE AUXENCE AS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CANTENAY EPINARD US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Tour 5",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MONTREUIL JUIGNE BF 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "MAYBÉLÉGER FC",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
   }
  ]
 }

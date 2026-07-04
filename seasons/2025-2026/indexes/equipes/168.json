@@ -1,8 +1,7 @@
 {
  "clNo": "168",
- "nom": "RENNES TA",
+ "nom": "TA RENNES",
  "noms": [
-  "RENNES TA",
   "TA RENNES",
   "TA RENNES 2",
   "TA RENNES 21",
@@ -12,133 +11,6 @@
   "TA RENNES 5"
  ],
  "competitions": [
-  {
-   "cpNo": "439632",
-   "division": "MATCHES AMICAUX SENIORS",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "BRETAGNE",
-   "equipe_nom": "TA RENNES",
-   "equipe_slug": "500018-ta-rennes",
-   "matchs": [
-    {
-     "date": "2025-08-02",
-     "heure": "17:00",
-     "domicile": true,
-     "adversaire": "FC FLERIEN",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-08-13",
-     "heure": "19:30",
-     "domicile": false,
-     "adversaire": "FOUGERES US",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-08-16",
-     "heure": "16:00",
-     "domicile": true,
-     "adversaire": "US ALENCONNAISE 61",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-08-23",
-     "heure": "15:00",
-     "domicile": true,
-     "adversaire": "AS DE CHERBOURG F.",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439633",
-   "division": "MATCHES AMIC  JEUNES U19 17 15",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U19",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "BRETAGNE",
-   "equipe_nom": "RENNES TA",
-   "equipe_slug": "500018-rennes-ta",
-   "matchs": [
-    {
-     "date": "2025-08-23",
-     "heure": "11:00",
-     "domicile": true,
-     "adversaire": "US AVRANCHES MSM",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439633",
-   "division": "MATCHES AMIC  JEUNES U19 17 15",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U19",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "BRETAGNE",
-   "equipe_nom": "TA RENNES",
-   "equipe_slug": "500018-ta-rennes",
-   "matchs": [
-    {
-     "date": "2025-08-23",
-     "heure": "14:00",
-     "domicile": true,
-     "adversaire": "CARQUEFOU USJA",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-08-27",
-     "heure": "16:00",
-     "domicile": true,
-     "adversaire": "PAYS ANAST FC",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
   {
    "cpNo": "437405",
    "division": "Régional 2",
@@ -5678,6 +5550,205 @@
    ]
   },
   {
+   "cpNo": "441214",
+   "division": "D2 Futsal",
+   "niveau": "National",
+   "echelon": "D2",
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "TA RENNES",
+   "equipe_slug": "500018-ta-rennes",
+   "matchs": [
+    {
+     "date": "2025-09-27",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "VALENCIENNES FC",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ASCALI HAINAUT F.HWA",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "REIMS METROPOLE",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-25",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "NANTES DOULON B.",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "GARGES DJIBSON",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "AS SAINT JACQUES",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-29",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "HEROUVILLE FUTSAL",
+     "score": "5-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "MARCOUVILLE CITY CP",
+     "score": "4-3",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BETHUNE ESSARS F.",
+     "score": "8-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "ASCALI HAINAUT F.HWA",
+     "score": "6-3",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "REIMS METROPOLE",
+     "score": "9-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "NANTES DOULON B.",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "GARGES DJIBSON",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS SAINT JACQUES",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "HEROUVILLE FUTSAL",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "MARCOUVILLE CITY CP",
+     "score": "6-8",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "BETHUNE ESSARS F.",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "VALENCIENNES FC",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "435164",
    "division": "COUPE DE FRANCE CRÉDIT AGRICOLE",
    "niveau": "National",
@@ -5767,7 +5838,7 @@
   },
   {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",

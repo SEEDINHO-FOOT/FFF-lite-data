@@ -4,6 +4,7 @@
  "noms": [
   "NIMES OL",
   "NIMES OL 2",
+  "NIMES OLYMPIQUE",
   "NIMES OLYMPIQUE 21"
  ],
  "competitions": [
@@ -1878,6 +1879,584 @@
      "domicile": false,
      "adversaire": "CHUSCLAN LAUDUN",
      "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439017",
+   "division": "Championnat National U17",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "NIMES OLYMPIQUE",
+   "equipe_slug": "503313-nimes-olympique",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS SAINT PRIEST",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-08-30",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GAZELEC FC AJACCIO",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "OGC NICE",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "OLYMPIQUE VALENCE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "13:15",
+     "domicile": false,
+     "adversaire": "AS SAINT ETIENNE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CLERMONT FOOT 63",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS MONACO FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CAVIGAL NICE SF",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LYON LA DUCHERE",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "GRENOBLE FOOT 38",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SC AUBAGNE AIR BEL",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "JS AJACCIO",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "GAZELEC FC AJACCIO",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "OGC NICE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "OLYMPIQUE VALENCE",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "AS SAINT ETIENNE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CLERMONT FOOT 63",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS MONACO FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAVIGAL NICE SF",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LYON LA DUCHERE",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GRENOBLE FOOT 38",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 23",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SC AUBAGNE AIR BEL",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 24",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "JS AJACCIO",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AS SAINT PRIEST",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 26",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439451",
+   "division": "National 2",
+   "niveau": "National",
+   "echelon": "N2",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "NIMES OL",
+   "equipe_slug": "503313-nimes-ol",
+   "matchs": [
+    {
+     "date": "2025-08-16",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "FCLDSD",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-08-23",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "GFA RV",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-08-30",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "EFC FREJUS ST RAPH",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-06",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "SPORTING CLUB TOULON",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-09-13",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "FC 93 BOBIGNY",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "RC GRASSE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "CRETEIL LUSITANOS F.",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "AS ST-PRIEST",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "GRAND OUEST ASSOCIAT",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "FC ROUSSET STE VICT.",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ST MAUR LUSITANOS",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "HYERES F.C.",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "AS CANNES",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ANDREZIEUX-BOUTHEON",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ISTRES FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "GFA RV",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "EFC FREJUS ST RAPH",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "SPORTING CLUB TOULON",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "FC 93 BOBIGNY",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "RC GRASSE",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CRETEIL LUSITANOS F.",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "AS ST-PRIEST",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 23",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "GRAND OUEST ASSOCIAT",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 24",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "FC ROUSSET STE VICT.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ST MAUR LUSITANOS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 26",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "HYERES F.C.",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 27",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "AS CANNES",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 28",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ANDREZIEUX-BOUTHEON",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 29",
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ISTRES FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 30",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "FCLDSD",
+     "score": "2-3",
      "statut": "joué",
      "journee": null,
      "stade": null

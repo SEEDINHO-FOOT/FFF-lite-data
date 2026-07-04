@@ -502,6 +502,185 @@
    ]
   },
   {
+   "cpNo": "443264",
+   "division": "Futsal D2",
+   "niveau": "Départemental",
+   "echelon": "D2",
+   "forme": "Futsal",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "FCVLB",
+   "equipe_slug": "560814-fcvlb",
+   "matchs": [
+    {
+     "date": "2025-09-20",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "MONTIGNY LVDB 2",
+     "score": "10-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-26",
+     "heure": "21:30",
+     "domicile": false,
+     "adversaire": "AFS Vauréal 2",
+     "score": "7-5",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "BEZONS FUTSAL CLUB 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "AS FUTSAL ARGENTEUIL 2",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "PARMAIN FUTSAL A.S. 2",
+     "score": "10-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-12-20",
+     "heure": "19:00",
+     "domicile": false,
+     "adversaire": "SEM NOME FC",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2026-01-10",
+     "heure": "17:45",
+     "domicile": false,
+     "adversaire": "OSNY UNITED",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2026-01-31",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "AFS Vauréal 2",
+     "score": "8-4",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "18:20",
+     "domicile": false,
+     "adversaire": "BEZONS FUTSAL CLUB 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-21",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "AS FUTSAL ARGENTEUIL 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "MARCOUVILLE CITY CP 3",
+     "score": "1-13",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "20:10",
+     "domicile": true,
+     "adversaire": "SEM NOME FC",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-04-03",
+     "heure": "21:00",
+     "domicile": false,
+     "adversaire": "PARMAIN FUTSAL A.S. 2",
+     "score": "4-4",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-05-02",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "OSNY UNITED",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "MARCOUVILLE CITY CP 3",
+     "score": "16-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "17:15",
+     "domicile": false,
+     "adversaire": "MONTIGNY LVDB 2",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "443266",
    "division": "CRITERIUM U14 FUTSAL",
    "niveau": "Départemental",
@@ -1173,7 +1352,7 @@
   },
   {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",

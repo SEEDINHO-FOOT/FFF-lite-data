@@ -577,7 +577,7 @@
     "discipline": "Football"
    },
    "type": "championnat",
-   "scope": null,
+   "scope": "regional",
    "region": "CORSE",
    "equipe_nom": "AJACCIO A.C.",
    "equipe_slug": "500765-ajaccio-a-c",
@@ -1064,6 +1064,74 @@
      "score": "0-2",
      "statut": "joué",
      "journee": "Journée 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441634",
+   "division": "Matchs Amicaux FFF Niveau 2",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "AJACCIO A.C.",
+   "equipe_slug": "500765-ajaccio-a-c",
+   "matchs": [
+    {
+     "date": "2025-07-12",
+     "heure": "10:30",
+     "domicile": true,
+     "adversaire": "FURIANI AGLIA",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441635",
+   "division": "Matchs Amicaux FFF Niveau 3",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "AJACCIO A.C.",
+   "equipe_slug": "500765-ajaccio-a-c",
+   "matchs": [
+    {
+     "date": "2025-07-26",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "FURIANI AGLIA",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-07-29",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "FC BORGO",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
      "stade": null
     }
    ]

@@ -5,7 +5,6 @@
   "CERC.ML POST.SCOL.J",
   "CJF FLEURY AUBRAIS",
   "CJF FLEURY LES AUB.",
-  "CJF FLEURY LES AUB. 18",
   "CJF FLEURY LES AUB. 2",
   "CJF FLEURY LES AUB. 21",
   "CJF FLEURY LES AUB. 22",
@@ -13,114 +12,6 @@
   "CJF FLEURY LES AUB. 3"
  ],
  "competitions": [
-  {
-   "cpNo": "439920",
-   "division": "MATCHS AMICAUX SEN NAT ET REG",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "CJF FLEURY LES AUB.",
-   "equipe_slug": "525701-cjf-fleury-les-aub",
-   "matchs": [
-    {
-     "date": "2025-08-06",
-     "heure": "19:30",
-     "domicile": true,
-     "adversaire": "ORLEANS US 45 19",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-08-13",
-     "heure": "20:00",
-     "domicile": true,
-     "adversaire": "SMOC ST J. DE BRAYE",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-08-16",
-     "heure": "18:00",
-     "domicile": false,
-     "adversaire": "VINEUIL SP.",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-08-19",
-     "heure": "19:00",
-     "domicile": true,
-     "adversaire": "SARAN FC 2",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2026-01-04",
-     "heure": "14:30",
-     "domicile": false,
-     "adversaire": "SMOC ST J. DE BRAYE",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2026-01-11",
-     "heure": "14:15",
-     "domicile": true,
-     "adversaire": "MALESHERBOIS SC",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439922",
-   "division": "MATCHS AMICAUX U17 N & U16 R",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U17",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "CJF FLEURY LES AUB.",
-   "equipe_slug": "525701-cjf-fleury-les-aub",
-   "matchs": [
-    {
-     "date": "2025-08-18",
-     "heure": "13:00",
-     "domicile": false,
-     "adversaire": "C CHARTRES F. 21",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
   {
    "cpNo": "439924",
    "division": "MATCHS AMICAUX U13 R & U12 R",
@@ -145,93 +36,6 @@
      "adversaire": "BERRI CHATEAUROUX",
      "score": "4-0",
      "statut": "joué",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439925",
-   "division": "MATCHS AMICAUX SEN. FEM.",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "CJF FLEURY LES AUB. 18",
-   "equipe_slug": "525701-cjf-fleury-les-aub-18",
-   "matchs": [
-    {
-     "date": "2025-09-06",
-     "heure": "16:00",
-     "domicile": false,
-     "adversaire": "ST DOULCHARD",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439925",
-   "division": "MATCHS AMICAUX SEN. FEM.",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "CJF FLEURY LES AUB.",
-   "equipe_slug": "525701-cjf-fleury-les-aub",
-   "matchs": [
-    {
-     "date": "2025-09-14",
-     "heure": "12:00",
-     "domicile": true,
-     "adversaire": "ORLEANS US 45 2",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "440726",
-   "division": "MATCHS AMICAUX U19 N & U18 R",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U19",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "CJF FLEURY LES AUB. 21",
-   "equipe_slug": "525701-cjf-fleury-les-aub-21",
-   "matchs": [
-    {
-     "date": "2025-08-16",
-     "heure": "15:00",
-     "domicile": true,
-     "adversaire": "FC ML INGRE 21",
-     "score": null,
-     "statut": "à venir",
      "journee": null,
      "stade": null
     }
@@ -2328,35 +2132,6 @@
      "score": "2-0",
      "statut": "joué",
      "journee": "Tour 2",
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "440162",
-   "division": "MATCHS AMICAUX SENIORS F. DÉP",
-   "niveau": "Départemental",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "CJF FLEURY LES AUB.",
-   "equipe_slug": "525701-cjf-fleury-les-aub",
-   "matchs": [
-    {
-     "date": "2025-09-06",
-     "heure": "16:00",
-     "domicile": false,
-     "adversaire": "ST DOULCHARD FC",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
      "stade": null
     }
    ]
@@ -4533,6 +4308,16 @@
      "domicile": true,
      "adversaire": "MONTARGIS USM F",
      "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-12",
+     "heure": "19:30",
+     "domicile": true,
+     "adversaire": "ELEVEN UNITED 45",
+     "score": "0-1",
      "statut": "joué",
      "journee": null,
      "stade": null

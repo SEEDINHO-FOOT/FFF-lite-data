@@ -998,7 +998,7 @@
     "discipline": "Football"
    },
    "type": "championnat",
-   "scope": null,
+   "scope": "regional",
    "region": "CORSE",
    "equipe_nom": "JS AJACCIO 3",
    "equipe_slug": "533806-js-ajaccio-3",
@@ -1474,6 +1474,265 @@
      "score": "1-0",
      "statut": "joué",
      "journee": "Journée 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439017",
+   "division": "Championnat National U17",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "JS AJACCIO",
+   "equipe_slug": "533806-js-ajaccio",
+   "matchs": [
+    {
+     "date": "2025-08-24",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AS MONACO FC",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-08-31",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CAVIGAL NICE SF",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "LYON LA DUCHERE",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "GRENOBLE FOOT 38",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SC AUBAGNE AIR BEL",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-09-27",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "CLERMONT FOOT 63",
+     "score": "1-6",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "AS SAINT PRIEST",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-10-11",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "GAZELEC FC AJACCIO",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "OGC NICE",
+     "score": "8-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "OLYMPIQUE VALENCE",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "AS SAINT ETIENNE",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "NIMES OLYMPIQUE",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "CAVIGAL NICE SF",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "LYON LA DUCHERE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "GRENOBLE FOOT 38",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SC AUBAGNE AIR BEL",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "CLERMONT FOOT 63",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "AS SAINT PRIEST",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "GAZELEC FC AJACCIO",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "OGC NICE",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "OLYMPIQUE VALENCE",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "11:00",
+     "domicile": true,
+     "adversaire": "AS SAINT ETIENNE",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 23",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "NIMES OLYMPIQUE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AS MONACO FC",
+     "score": "7-0",
+     "statut": "joué",
+     "journee": "Journée 26",
      "stade": null
     }
    ]

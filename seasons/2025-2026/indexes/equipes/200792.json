@@ -8,64 +8,6 @@
  ],
  "competitions": [
   {
-   "cpNo": "439929",
-   "division": "MATCHS AMICAUX SEN. FUTSAL",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Futsal",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Futsal"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "ORLEANS FUTSAL",
-   "equipe_slug": "561165-orleans-futsal",
-   "matchs": [
-    {
-     "date": "2026-05-23",
-     "heure": "16:00",
-     "domicile": true,
-     "adversaire": "LA CUATRO FUTSAL",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "449207",
-   "division": "MATCHS AMICAUX SEN FEM FUTSAL",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Futsal",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Futsal"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "ORLEANS FUTSAL",
-   "equipe_slug": "561165-orleans-futsal",
-   "matchs": [
-    {
-     "date": "2026-04-05",
-     "heure": "09:00",
-     "domicile": true,
-     "adversaire": "ASB FUTSAL",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
    "cpNo": "445448",
    "division": "Régional 1 Futsal Toshiba",
    "niveau": "Régional",
@@ -630,8 +572,37 @@
    ]
   },
   {
+   "cpNo": "441216",
+   "division": "Coupe Nationale Féminine Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "ORLEANS FUTSAL",
+   "equipe_slug": "561165-orleans-futsal",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "19:00",
+     "domicile": true,
+     "adversaire": "WIMEREUX FUTSAL",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",

@@ -3,7 +3,8 @@
  "nom": "FOOTHISLECOLE GJ",
  "noms": [
   "FOOTHISLECOLE GJ",
-  "FOOTHISLECOLE GJ 21"
+  "FOOTHISLECOLE GJ 21",
+  "GJ FOOTHISLECOLE"
  ],
  "competitions": [
   {
@@ -476,6 +477,35 @@
      "score": "0-3",
      "statut": "joué",
      "journee": "Tour 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440476",
+   "division": "Coupe Nationale U18 Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "GJ FOOTHISLECOLE",
+   "equipe_slug": "560927-gj-foothislecole",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "AS NORMANDIE FUTSAL",
+     "score": "2-14",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
      "stade": null
     }
    ]

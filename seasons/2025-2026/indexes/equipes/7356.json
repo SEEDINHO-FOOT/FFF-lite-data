@@ -1031,6 +1031,55 @@
    ]
   },
   {
+   "cpNo": "439932",
+   "division": "Challenge du district seniors féminines",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "VALANJOU AS",
+   "equipe_slug": "521110-valanjou-as",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "TIERCE CHEFFES AS",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "GF MURSMELAINEJUIGNE",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "GF OREE FOOTBALL",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "446199",
    "division": "U17 D1 Phase 2",
    "niveau": "Départemental",
@@ -1676,6 +1725,55 @@
      "score": "3-12",
      "statut": "joué",
      "journee": "JOURNEE 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "VALANJOU AS",
+   "equipe_slug": "521110-valanjou-as",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "VILLEDIEU RENAUDIERE",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Tour 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "CORON OSTVC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANGERS CROIX BLANCHE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Tour 3",
      "stade": null
     }
    ]

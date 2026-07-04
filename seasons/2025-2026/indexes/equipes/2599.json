@@ -1119,6 +1119,115 @@
    ]
   },
   {
+   "cpNo": "437445",
+   "division": "U15 Brassage District Niveau 1",
+   "niveau": "Départemental",
+   "echelon": null,
+   "forme": "Brassage",
+   "categorie": {
+    "age": "U15",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "NOUVELLE-AQUITAINE",
+   "equipe_nom": "BORDEAUX COQS ROUGES 2",
+   "equipe_slug": "505598-bordeaux-coqs-rouges-2",
+   "matchs": [
+    {
+     "date": "2025-09-28",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "ST BRUNO UNION FCS",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "BOULIACAISE FC",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "10:00",
+     "domicile": true,
+     "adversaire": "EYSINAISE ES",
+     "score": "8-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PESSAC FC 2",
+     "score": "5-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "MERIGNACAIS SA 3",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-11-15",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ST AUGUSTIN CPA USJ",
+     "score": "9-0",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "10:30",
+     "domicile": false,
+     "adversaire": "BORDEAUX RC 2",
+     "score": "1-9",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "11:00",
+     "domicile": false,
+     "adversaire": "BASSENS CMO 3",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "LORMONT US 3",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "437447",
    "division": "U15 Départemental 1",
    "niveau": "Départemental",
@@ -3434,7 +3543,7 @@
   },
   {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",

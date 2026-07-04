@@ -19,35 +19,6 @@
  ],
  "competitions": [
   {
-   "cpNo": "439633",
-   "division": "MATCHES AMIC  JEUNES U19 17 15",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U19",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "BRETAGNE",
-   "equipe_nom": "RENNES CPB BREQUIGNY",
-   "equipe_slug": "524321-rennes-cpb-brequigny",
-   "matchs": [
-    {
-     "date": "2026-01-31",
-     "heure": "14:00",
-     "domicile": false,
-     "adversaire": "STADE RENNAIS FC",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
    "cpNo": "437405",
    "division": "Régional 2",
    "niveau": "Régional",
@@ -6074,6 +6045,294 @@
      "score": "0-8",
      "statut": "joué",
      "journee": "6ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441635",
+   "division": "Matchs Amicaux FFF Niveau 3",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "autre",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "RENNES CPB BREQUIGNY",
+   "equipe_slug": "524321-rennes-cpb-brequigny",
+   "matchs": [
+    {
+     "date": "2025-08-20",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "PARIS FC FEM.",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "436508",
+   "division": "D3 Féminine",
+   "niveau": "National",
+   "echelon": "D3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "CPB BREQUIGNY RENNES",
+   "equipe_slug": "524321-cpb-brequigny-rennes",
+   "matchs": [
+    {
+     "date": "2025-09-07",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ORVAULT SF",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-09-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SM CAEN",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ESOF VENDEE LA ROCHE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-28",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOURGES FC",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "VGA SAINT MAUR",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "AAS SARCELLES",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-09",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "US ORLEANS LOIRET",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "RC ROUBAIX WERVICQ F",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "FC LORIENT",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MOLSHEIM ERNOLSHEIM",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2025-12-21",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SAINT DENIS RC",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "QUEVILLY RM",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "SM CAEN",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "ESOF VENDEE LA ROCHE",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "BOURGES FC",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "VGA SAINT MAUR",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AAS SARCELLES",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "US ORLEANS LOIRET",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-05",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "RC ROUBAIX WERVICQ F",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 23",
+     "stade": null
+    },
+    {
+     "date": "2026-04-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "FC LORIENT",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 24",
+     "stade": null
+    },
+    {
+     "date": "2026-05-03",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MOLSHEIM ERNOLSHEIM",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "SAINT DENIS RC",
+     "score": "4-2",
+     "statut": "joué",
+     "journee": "Journée 26",
+     "stade": null
+    },
+    {
+     "date": "2026-05-24",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "QUEVILLY RM",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-31",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ORVAULT SF",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
      "stade": null
     }
    ]

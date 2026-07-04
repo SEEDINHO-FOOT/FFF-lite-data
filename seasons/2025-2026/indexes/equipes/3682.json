@@ -870,6 +870,45 @@
      "stade": null
     }
    ]
+  },
+  {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "DURTAL AIGLONS",
+   "equipe_slug": "510808-durtal-aiglons",
+   "matchs": [
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST MARTIN AVIRE LOUV",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Tour 4",
+     "stade": null
+    },
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "ANDREZE JUB-JALLAIS 2",
+     "score": "3-4",
+     "statut": "joué",
+     "journee": "Tour 5",
+     "stade": null
+    }
+   ]
   }
  ]
 }

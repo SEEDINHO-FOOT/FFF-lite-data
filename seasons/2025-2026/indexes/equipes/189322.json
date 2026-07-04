@@ -1074,6 +1074,55 @@
    ]
   },
   {
+   "cpNo": "439932",
+   "division": "Challenge du district seniors féminines",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "VAL ERDRE AUXENCE AS",
+   "equipe_slug": "582181-val-erdre-auxence-as",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ANGERS NDC",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ST SYLVAIN ANJOU AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "LES PONTS DE CE AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "447034",
    "division": "Départemental 2 U15F P3",
    "niveau": "Départemental",
@@ -1659,6 +1708,45 @@
      "score": "5-3",
      "statut": "joué",
      "journee": "Tour 1",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "VAL ERDRE AUXENCE AS",
+   "equipe_slug": "582181-val-erdre-auxence-as",
+   "matchs": [
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ST GEORGES S/LOIRE",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "MORANNES ES",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Tour 4",
      "stade": null
     }
    ]

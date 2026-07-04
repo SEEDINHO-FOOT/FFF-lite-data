@@ -1818,6 +1818,55 @@
    ]
   },
   {
+   "cpNo": "439932",
+   "division": "Challenge du district seniors féminines",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "ENT.CHRISTSEGMORTAGN",
+   "equipe_slug": "590115-ent-christsegmortagn",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "GF BEAUPREAU EN MAUG",
+     "score": "0-12",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "MAYBÉLÉGER FC",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "GF SEVREMOINE",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "446198",
    "division": "U19 D2 phase 2",
    "niveau": "Départemental",
@@ -4107,6 +4156,35 @@
      "score": "0-4",
      "statut": "joué",
      "journee": "JOURNEE 2",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "CHRISTOPHESEGUINIERE 2",
+   "equipe_slug": "590115-christopheseguiniere-2",
+   "matchs": [
+    {
+     "date": "2026-01-11",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "PUY-MAZ-TESS US",
+     "score": "0-4",
+     "statut": "joué",
+     "journee": "Tour 5",
      "stade": null
     }
    ]

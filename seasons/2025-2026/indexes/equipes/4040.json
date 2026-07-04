@@ -3,6 +3,7 @@
  "nom": "MONS FC",
  "noms": [
   "FC MONS EN BAROEUL",
+  "FC MONS EN BAROEUL 21",
   "MONS EN BAROEUL FC",
   "MONS EN BAROEUL FC 15",
   "MONS EN BAROEUL FC 16",
@@ -5477,7 +5478,7 @@
   },
   {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",
@@ -5526,7 +5527,7 @@
   },
   {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",
@@ -5549,6 +5550,84 @@
      "score": "7-3",
      "statut": "joué",
      "journee": "4ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440476",
+   "division": "Coupe Nationale U18 Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "FC MONS EN BAROEUL 21",
+   "equipe_slug": "512540-fc-mons-en-baroeul-21",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "FC ST GEORGES SUR E. 21",
+     "score": "9-4",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440476",
+   "division": "Coupe Nationale U18 Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "FC MONS EN BAROEUL",
+   "equipe_slug": "512540-fc-mons-en-baroeul",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "AMNEVILLE CS FUTSAL",
+     "score": "3-8",
+     "statut": "joué",
+     "journee": "Quarts de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "SPORTING F. BESANCON",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Demi-finales",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "MOUVAUX FUTSAL CLUB",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Finale",
      "stade": null
     }
    ]

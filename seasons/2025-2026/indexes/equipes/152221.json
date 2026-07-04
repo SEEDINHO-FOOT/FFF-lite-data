@@ -7,7 +7,6 @@
   "UNION FOOT TOURAINE",
   "UNION FOOT TOURAINE 10",
   "UNION FOOT TOURAINE 11",
-  "UNION FOOT TOURAINE 19",
   "UNION FOOT TOURAINE 2",
   "UNION FOOT TOURAINE 21",
   "UNION FOOT TOURAINE 22",
@@ -190,162 +189,6 @@
      "heure": "19:30",
      "domicile": true,
      "adversaire": "MONTS AS",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439920",
-   "division": "MATCHS AMICAUX SEN NAT ET REG",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "UNION FOOT TOURAINE 19",
-   "equipe_slug": "554357-union-foot-touraine-19",
-   "matchs": [
-    {
-     "date": "2025-08-27",
-     "heure": "19:45",
-     "domicile": true,
-     "adversaire": "A.S. CONTRES",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439922",
-   "division": "MATCHS AMICAUX U17 N & U16 R",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U17",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "UNION FOOT TOURAINE",
-   "equipe_slug": "554357-union-foot-touraine",
-   "matchs": [
-    {
-     "date": "2025-08-23",
-     "heure": "11:00",
-     "domicile": false,
-     "adversaire": "U.S. VENDOME 21",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-08-25",
-     "heure": "17:00",
-     "domicile": true,
-     "adversaire": "ORLEANS US 45 21",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-09-03",
-     "heure": "19:30",
-     "domicile": true,
-     "adversaire": "FOOT SUD 41 21",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439925",
-   "division": "MATCHS AMICAUX SEN. FEM.",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "UNION FOOT TOURAINE",
-   "equipe_slug": "554357-union-foot-touraine",
-   "matchs": [
-    {
-     "date": "2025-08-24",
-     "heure": "13:00",
-     "domicile": true,
-     "adversaire": "LE MANS FC 2",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-09-07",
-     "heure": "15:00",
-     "domicile": true,
-     "adversaire": "BOURGES PORTU",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439926",
-   "division": "MATCHS AMICAUX U19 F & U18 F",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U19",
-    "genre": "F",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "UNION FOOT TOURAINE",
-   "equipe_slug": "554357-union-foot-touraine",
-   "matchs": [
-    {
-     "date": "2025-08-24",
-     "heure": "11:00",
-     "domicile": true,
-     "adversaire": "LE MANS FC 2",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-09-07",
-     "heure": "12:00",
-     "domicile": true,
-     "adversaire": "AZAY CHEILLE",
      "score": null,
      "statut": "à venir",
      "journee": null,
@@ -7375,6 +7218,285 @@
      "adversaire": "POITIERS STADE FC 2",
      "score": null,
      "statut": "à venir",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439452",
+   "division": "National 3",
+   "niveau": "National",
+   "echelon": "N3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "UNION FOOT TOURAINE",
+   "equipe_slug": "554357-union-foot-touraine",
+   "matchs": [
+    {
+     "date": "2025-08-23",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "VERTOU USSA",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-08-30",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LE POIRE/VIE VF",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-06",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "LA CHATAIGNERAIE AS",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "PANAZOL AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "CHAUVIGNY US",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CHALLANS FC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "LES SABLES VF",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ST PHILBERT GD LIEU",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "CHATELLERAULT SO",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "FONTENAY VENDEE",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ANGERS SCO 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "LBC CHATEAUROUX 2",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-24",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "LE POIRE/VIE VF",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "PANAZOL AS",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-01",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "FC NANTES 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "CHALLANS FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LES SABLES VF",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-18",
+     "heure": "20:00",
+     "domicile": false,
+     "adversaire": "CHAUVIGNY US",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "ST PHILBERT GD LIEU",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "CHATELLERAULT SO",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 23",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LA CHATAIGNERAIE AS",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 24",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "FONTENAY VENDEE",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-04-18",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ANGERS SCO 2",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 26",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "FC NANTES 2",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LBC CHATEAUROUX 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "VERTOU USSA",
+     "score": "3-1",
+     "statut": "joué",
      "journee": null,
      "stade": null
     }

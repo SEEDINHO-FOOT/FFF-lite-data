@@ -105,9 +105,34 @@
     {
       "phNo": "2",
       "gpNo": "1",
-      "groupe_nom": "POULE A",
-      "nb_equipes": 0,
-      "equipes": []
+      "groupe_nom": null,
+      "nb_equipes": 4,
+      "equipes": [
+        {
+          "clNo": "10346",
+          "nom": "CJF FLEURY LES AUB.",
+          "slug": "525701-cjf-fleury-les-aub",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC525701.jpg"
+        },
+        {
+          "clNo": "194120",
+          "nom": "ELEVEN UNITED 45",
+          "slug": "560105-eleven-united-45",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC560105.jpg"
+        },
+        {
+          "clNo": "9341",
+          "nom": "SARAN FC",
+          "slug": "524215-saran-fc",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC524215.jpg"
+        },
+        {
+          "clNo": "249",
+          "nom": "MONTARGIS USM F",
+          "slug": "500113-montargis-usm-f",
+          "logo": "https://cdn-transverse.azureedge.net/phlogos/BC500113.jpg"
+        }
+      ]
     }
   ]
 }

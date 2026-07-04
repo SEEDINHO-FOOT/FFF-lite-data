@@ -3,7 +3,9 @@
  "nom": "MOUVAUX FUTSAL C.",
  "noms": [
   "MOUVAUX FUTSAL C.",
-  "MOUVAUX FUTSAL C. 21"
+  "MOUVAUX FUTSAL C. 21",
+  "MOUVAUX FUTSAL CLUB",
+  "MOUVAUX FUTSAL CLUB 21"
  ],
  "competitions": [
   {
@@ -860,7 +862,7 @@
   },
   {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",
@@ -913,6 +915,84 @@
      "score": "1-4",
      "statut": "joué",
      "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440476",
+   "division": "Coupe Nationale U18 Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "MOUVAUX FUTSAL CLUB 21",
+   "equipe_slug": "580577-mouvaux-futsal-club-21",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "ETOILE LAVALLOISE FC",
+     "score": "4-6",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440476",
+   "division": "Coupe Nationale U18 Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "MOUVAUX FUTSAL CLUB",
+   "equipe_slug": "580577-mouvaux-futsal-club",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AS NORMANDIE FUTSAL",
+     "score": "3-7",
+     "statut": "joué",
+     "journee": "Quarts de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "18:30",
+     "domicile": true,
+     "adversaire": "FUTSAL PICASSO",
+     "score": "11-1",
+     "statut": "joué",
+     "journee": "Demi-finales",
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "FC MONS EN BAROEUL",
+     "score": "5-2",
+     "statut": "joué",
+     "journee": "Finale",
      "stade": null
     }
    ]

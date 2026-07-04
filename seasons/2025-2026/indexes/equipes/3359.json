@@ -15,35 +15,6 @@
  ],
  "competitions": [
   {
-   "cpNo": "439920",
-   "division": "MATCHS AMICAUX SEN NAT ET REG",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "NEUILLY MARNE S.F.C.",
-   "equipe_slug": "508884-neuilly-marne-s-f-c",
-   "matchs": [
-    {
-     "date": "2025-07-30",
-     "heure": "19:00",
-     "domicile": false,
-     "adversaire": "C CHARTRES F.",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
    "cpNo": "442231",
    "division": "U18F R3",
    "niveau": "Régional",
@@ -1526,6 +1497,245 @@
      "domicile": true,
      "adversaire": "ATLETICO DE BAGNOLET",
      "score": "7-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "442693",
+   "division": "U17 R3",
+   "niveau": "Régional",
+   "echelon": "R3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "NEUILLY MARNE S.F.C.",
+   "equipe_slug": "508884-neuilly-marne-s-f-c",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "14:00",
+     "domicile": false,
+     "adversaire": "TRILPORT USF",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PONTAULT COM. UMS",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "VAL D'EUROPE FC",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "MITRY COMPANS GOELLY",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "PUISEUX LOUVRES 95",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "BUSSY ST GEORGES FC",
+     "score": "1-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "15:30",
+     "domicile": true,
+     "adversaire": "ROSNY SS/BOIS ST.O.",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ROISSY EN FRANCE U.S",
+     "score": "3-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AULNAY CSL",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "CHAMPS S/MARNE FOOT",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "AFP 18",
+     "score": "6-1",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "MITRY COMPANS GOELLY",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "PUISEUX LOUVRES 95",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "BUSSY ST GEORGES FC",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ROSNY SS/BOIS ST.O.",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ROISSY EN FRANCE U.S",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "12:15",
+     "domicile": false,
+     "adversaire": "AULNAY CSL",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "TRILPORT USF",
+     "score": "4-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "CHAMPS S/MARNE FOOT",
+     "score": null,
+     "statut": "à venir",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "12:00",
+     "domicile": false,
+     "adversaire": "PONTAULT COM. UMS",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "15:30",
+     "domicile": false,
+     "adversaire": "AFP 18",
+     "score": "2-4",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "VAL D'EUROPE FC",
+     "score": "2-2",
      "statut": "joué",
      "journee": null,
      "stade": null
@@ -6201,6 +6411,285 @@
      "score": "4-1",
      "statut": "joué",
      "journee": "1/4 de Finales",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "439452",
+   "division": "National 3",
+   "niveau": "National",
+   "echelon": "N3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "NEUILLY MARNE SFC",
+   "equipe_slug": "508884-neuilly-marne-sfc",
+   "matchs": [
+    {
+     "date": "2025-08-23",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "PAYS DE CASSEL US",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 1",
+     "stade": null
+    },
+    {
+     "date": "2025-08-30",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "VIMY US",
+     "score": "2-1",
+     "statut": "joué",
+     "journee": "Journée 2",
+     "stade": null
+    },
+    {
+     "date": "2025-09-06",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "JA DRANCY",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2025-09-20",
+     "heure": "17:00",
+     "domicile": true,
+     "adversaire": "ST QUENTIN O.",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 4",
+     "stade": null
+    },
+    {
+     "date": "2025-10-04",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "F.C.BALAGNE",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 5",
+     "stade": null
+    },
+    {
+     "date": "2025-10-18",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "CHARLEVILLE PRIX OAM",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 6",
+     "stade": null
+    },
+    {
+     "date": "2025-11-01",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "AMIENS SCF 2",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 7",
+     "stade": null
+    },
+    {
+     "date": "2025-11-08",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "STADE DE REIMS 2",
+     "score": "1-2",
+     "statut": "joué",
+     "journee": "Journée 8",
+     "stade": null
+    },
+    {
+     "date": "2025-11-22",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "METZ FC 2",
+     "score": "6-2",
+     "statut": "joué",
+     "journee": "Journée 9",
+     "stade": null
+    },
+    {
+     "date": "2025-12-06",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "LE PAYS DU VALOIS US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-13",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "GAZELEC FC AJACCIO",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-17",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "LILLE LOSC ASSOCIATI 2",
+     "score": "6-0",
+     "statut": "joué",
+     "journee": "Journée 13",
+     "stade": null
+    },
+    {
+     "date": "2026-01-25",
+     "heure": "14:30",
+     "domicile": true,
+     "adversaire": "VIMY US",
+     "score": "1-3",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "JA DRANCY",
+     "score": "2-0",
+     "statut": "joué",
+     "journee": "Journée 16",
+     "stade": null
+    },
+    {
+     "date": "2026-02-14",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "ST QUENTIN O.",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "F.C.BALAGNE",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Journée 18",
+     "stade": null
+    },
+    {
+     "date": "2026-02-28",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CROIX FIC",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 19",
+     "stade": null
+    },
+    {
+     "date": "2026-03-07",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CHARLEVILLE PRIX OAM",
+     "score": "0-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-14",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "AMIENS SCF 2",
+     "score": "2-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-03-21",
+     "heure": "17:00",
+     "domicile": false,
+     "adversaire": "STADE DE REIMS 2",
+     "score": "0-1",
+     "statut": "joué",
+     "journee": "Journée 22",
+     "stade": null
+    },
+    {
+     "date": "2026-03-28",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "METZ FC 2",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 23",
+     "stade": null
+    },
+    {
+     "date": "2026-04-11",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "LE PAYS DU VALOIS US",
+     "score": "2-2",
+     "statut": "joué",
+     "journee": "Journée 25",
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "GAZELEC FC AJACCIO",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Journée 26",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "CROIX FIC",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-09",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "LILLE LOSC ASSOCIATI 2",
+     "score": "0-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-16",
+     "heure": "18:00",
+     "domicile": false,
+     "adversaire": "PAYS DE CASSEL US",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": null,
      "stade": null
     }
    ]

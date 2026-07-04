@@ -2,6 +2,7 @@
  "clNo": "189902",
  "nom": "REN FUTSAL AS",
  "noms": [
+  "AS RENNES FUTSAL",
   "REN FUTSAL AS",
   "REN FUTSAL AS 12"
  ],
@@ -406,6 +407,45 @@
      "score": "10-1",
      "statut": "joué",
      "journee": "Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "441216",
+   "division": "Coupe Nationale Féminine Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "AS RENNES FUTSAL",
+   "equipe_slug": "582374-as-rennes-futsal",
+   "matchs": [
+    {
+     "date": "2026-03-07",
+     "heure": "18:00",
+     "domicile": true,
+     "adversaire": "PLOUGASTEL FC",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-04",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "TOULOUSE FUTSAL CLUB",
+     "score": "1-4",
+     "statut": "joué",
+     "journee": "Quarts de Finale",
      "stade": null
     }
    ]

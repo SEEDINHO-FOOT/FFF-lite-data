@@ -14,51 +14,11 @@
   "ENT.CHATO9-USTV",
   "ENT.CHATO9-USTV 3",
   "U.S. CHATEAUNEUF S/L",
-  "U.S. CHATEAUNEUF S/L 17",
   "U.S. CHATEAUNEUF S/L 2",
   "U.S. CHATEAUNEUF S/L 21",
   "U.S. CHATEAUNEUF S/L 3"
  ],
  "competitions": [
-  {
-   "cpNo": "439920",
-   "division": "MATCHS AMICAUX SEN NAT ET REG",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "Seniors",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "U.S. CHATEAUNEUF S/L",
-   "equipe_slug": "505379-u-s-chateauneuf-s-l",
-   "matchs": [
-    {
-     "date": "2025-08-02",
-     "heure": "17:00",
-     "domicile": false,
-     "adversaire": "UNION FOOT TOURAINE 2",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    },
-    {
-     "date": "2025-08-13",
-     "heure": "19:30",
-     "domicile": false,
-     "adversaire": "BOURGES FC 2",
-     "score": null,
-     "statut": "non joué",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
   {
    "cpNo": "439920",
    "division": "MATCHS AMICAUX SEN NAT ET REG",
@@ -133,64 +93,6 @@
      "adversaire": "FC ML INGRE 2",
      "score": "1-2",
      "statut": "joué",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439922",
-   "division": "MATCHS AMICAUX U17 N & U16 R",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U17",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "U.S. CHATEAUNEUF S/L 17",
-   "equipe_slug": "505379-u-s-chateauneuf-s-l-17",
-   "matchs": [
-    {
-     "date": "2025-11-01",
-     "heure": "15:00",
-     "domicile": true,
-     "adversaire": "ORLEANS US 45 21",
-     "score": null,
-     "statut": "à venir",
-     "journee": null,
-     "stade": null
-    }
-   ]
-  },
-  {
-   "cpNo": "439923",
-   "division": "MATCHS AMICAUX U15 R & U14 R",
-   "niveau": "Régional",
-   "echelon": null,
-   "forme": "Championnat",
-   "categorie": {
-    "age": "U15",
-    "genre": "M",
-    "discipline": "Football"
-   },
-   "type": "autre",
-   "scope": "regional",
-   "region": "CENTRE-V.L.",
-   "equipe_nom": "ENT.CHATO9-JSD 1",
-   "equipe_slug": "505379-ent-chato9-jsd-1",
-   "matchs": [
-    {
-     "date": "2025-10-29",
-     "heure": "17:30",
-     "domicile": true,
-     "adversaire": "ST PRYVE ST HILAIRE 21",
-     "score": null,
-     "statut": "à venir",
      "journee": null,
      "stade": null
     }

@@ -593,7 +593,7 @@
   },
   {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",
@@ -636,6 +636,74 @@
      "score": "13-12",
      "statut": "joué",
      "journee": "4ème tour",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440476",
+   "division": "Coupe Nationale U18 Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "FUTSAL PICASSO 21",
+   "equipe_slug": "550477-futsal-picasso-21",
+   "matchs": [
+    {
+     "date": "2026-03-14",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "PLAISANCE PIBRAC F. 21",
+     "score": "4-5",
+     "statut": "joué",
+     "journee": "8èmes de Finale",
+     "stade": null
+    }
+   ]
+  },
+  {
+   "cpNo": "440476",
+   "division": "Coupe Nationale U18 Futsal",
+   "niveau": "National",
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "U18",
+    "genre": "M",
+    "discipline": "Futsal"
+   },
+   "type": "coupe",
+   "scope": "national",
+   "region": null,
+   "equipe_nom": "FUTSAL PICASSO",
+   "equipe_slug": "550477-futsal-picasso",
+   "matchs": [
+    {
+     "date": "2026-04-04",
+     "heure": "16:00",
+     "domicile": false,
+     "adversaire": "USJ FURIANI",
+     "score": "3-3",
+     "statut": "joué",
+     "journee": "Quarts de Finale",
+     "stade": null
+    },
+    {
+     "date": "2026-04-25",
+     "heure": "18:30",
+     "domicile": false,
+     "adversaire": "MOUVAUX FUTSAL CLUB",
+     "score": "11-1",
+     "statut": "joué",
+     "journee": "Demi-finales",
      "stade": null
     }
    ]

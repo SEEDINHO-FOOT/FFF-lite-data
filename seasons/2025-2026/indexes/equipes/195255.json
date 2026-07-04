@@ -729,6 +729,245 @@
    ]
   },
   {
+   "cpNo": "442693",
+   "division": "U17 R3",
+   "niveau": "Régional",
+   "echelon": "R3",
+   "forme": "Championnat",
+   "categorie": {
+    "age": "U17",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PARIS IDF",
+   "equipe_nom": "VILLENEUVE AFC",
+   "equipe_slug": "860294-villeneuve-afc",
+   "matchs": [
+    {
+     "date": "2025-09-14",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "BOULOGNE BIL. AC 3",
+     "score": "0-9",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-09-21",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "ST MAUR LUSITANOS",
+     "score": "0-8",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-05",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "NANDY F.C.",
+     "score": "0-6",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-10-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "BAGNEUX COM",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-02",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "TREMPLIN FOOT",
+     "score": "0-13",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-16",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "EPINAY ATHLETICO FC",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-23",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "LONGJUMEAU F.C.",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-11-30",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "JUVISY ACADEMIE",
+     "score": "9-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2025-12-07",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "COMBS LA VILLE C.A.",
+     "score": "3-10",
+     "statut": "joué",
+     "journee": "Journée 10",
+     "stade": null
+    },
+    {
+     "date": "2025-12-14",
+     "heure": "13:30",
+     "domicile": false,
+     "adversaire": "ANTONY ASS JEUNES",
+     "score": "14-2",
+     "statut": "joué",
+     "journee": "Journée 11",
+     "stade": null
+    },
+    {
+     "date": "2026-01-18",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "SACLAS MEREVILLE U.S",
+     "score": "4-1",
+     "statut": "joué",
+     "journee": "Journée 12",
+     "stade": null
+    },
+    {
+     "date": "2026-02-01",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "TREMPLIN FOOT",
+     "score": "11-0",
+     "statut": "joué",
+     "journee": "Journée 14",
+     "stade": null
+    },
+    {
+     "date": "2026-02-08",
+     "heure": "12:00",
+     "domicile": true,
+     "adversaire": "EPINAY ATHLETICO FC",
+     "score": null,
+     "statut": "",
+     "journee": "Journée 15",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "16:00",
+     "domicile": true,
+     "adversaire": "BAGNEUX COM",
+     "score": "3-0",
+     "statut": "joué",
+     "journee": "Journée 17",
+     "stade": null
+    },
+    {
+     "date": "2026-03-08",
+     "heure": "14:30",
+     "domicile": false,
+     "adversaire": "LONGJUMEAU F.C.",
+     "score": null,
+     "statut": "",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-15",
+     "heure": "13:00",
+     "domicile": true,
+     "adversaire": "JUVISY ACADEMIE",
+     "score": "3-16",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-03-22",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "COMBS LA VILLE C.A.",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": "Journée 20",
+     "stade": null
+    },
+    {
+     "date": "2026-03-29",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "BOULOGNE BIL. AC 3",
+     "score": "5-3",
+     "statut": "joué",
+     "journee": "Journée 21",
+     "stade": null
+    },
+    {
+     "date": "2026-04-12",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "ANTONY ASS JEUNES",
+     "score": "2-7",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-04-19",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "ST MAUR LUSITANOS",
+     "score": "12-2",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-10",
+     "heure": "14:00",
+     "domicile": true,
+     "adversaire": "SACLAS MEREVILLE U.S",
+     "score": "0-5",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    },
+    {
+     "date": "2026-05-17",
+     "heure": "13:00",
+     "domicile": false,
+     "adversaire": "NANDY F.C.",
+     "score": "5-0",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "443722",
    "division": "Critérium Régional U12 Espoir P1",
    "niveau": "Régional",

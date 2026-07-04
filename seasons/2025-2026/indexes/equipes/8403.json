@@ -1678,6 +1678,55 @@
    ]
   },
   {
+   "cpNo": "439932",
+   "division": "Challenge du district seniors féminines",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Challenge",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "F",
+    "discipline": "Football"
+   },
+   "type": "championnat",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "LES PONTS DE CE AS",
+   "equipe_slug": "522735-les-ponts-de-ce-as",
+   "matchs": [
+    {
+     "date": "2026-01-18",
+     "heure": "12:30",
+     "domicile": false,
+     "adversaire": "ST SYLVAIN ANJOU AS",
+     "score": "1-0",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2026-02-15",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "ANGERS NDC",
+     "score": "3-2",
+     "statut": "joué",
+     "journee": "Journée 3",
+     "stade": null
+    },
+    {
+     "date": "2026-02-22",
+     "heure": "12:30",
+     "domicile": true,
+     "adversaire": "VAL ERDRE AUXENCE AS",
+     "score": "3-1",
+     "statut": "joué",
+     "journee": null,
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "446200",
    "division": "U17 D2 Phase 2",
    "niveau": "Départemental",
@@ -3616,6 +3665,45 @@
    ]
   },
   {
+   "cpNo": "445452",
+   "division": "Challenge Anjou Seniors M 2",
+   "niveau": null,
+   "echelon": null,
+   "forme": "Coupe",
+   "categorie": {
+    "age": "Seniors",
+    "genre": "M",
+    "discipline": "Football"
+   },
+   "type": "coupe",
+   "scope": "regional",
+   "region": "PAYS DE LA LOIRE",
+   "equipe_nom": "LES PONTS DE CE AS",
+   "equipe_slug": "522735-les-ponts-de-ce-as",
+   "matchs": [
+    {
+     "date": "2025-10-12",
+     "heure": "15:00",
+     "domicile": false,
+     "adversaire": "DENÉE VALLAYON UF3L",
+     "score": "0-3",
+     "statut": "joué",
+     "journee": "Tour 2",
+     "stade": null
+    },
+    {
+     "date": "2025-10-26",
+     "heure": "15:00",
+     "domicile": true,
+     "adversaire": "CHAMPTOCE INGRAND",
+     "score": "1-1",
+     "statut": "joué",
+     "journee": "Tour 3",
+     "stade": null
+    }
+   ]
+  },
+  {
    "cpNo": "445455",
    "division": "Trophées U15 J2 Groupe B",
    "niveau": "Départemental",
@@ -3791,7 +3879,7 @@
   },
   {
    "cpNo": "435169",
-   "division": "Coupe Nationale Futsal",
+   "division": "COUPE NATIONALE FUTSAL",
    "niveau": "National",
    "echelon": null,
    "forme": "Coupe",
