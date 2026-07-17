@@ -30,7 +30,10 @@
      "score": null,
      "statut": "",
      "journee": "Journée 1",
-     "stade": null
+     "stade": null,
+     "joue": false,
+     "forfait": true,
+     "forfait_gagne": true
     },
     {
      "date": "2025-10-16",
@@ -40,7 +43,8 @@
      "score": "6-9",
      "statut": "joué",
      "journee": "Journée 5",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-10-23",
@@ -50,7 +54,8 @@
      "score": "2-4",
      "statut": "joué",
      "journee": "Journée 6",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-13",
@@ -60,7 +65,8 @@
      "score": "3-0",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-20",
@@ -70,7 +76,8 @@
      "score": "4-12",
      "statut": "joué",
      "journee": "Journée 9",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-09",
@@ -80,7 +87,8 @@
      "score": "4-8",
      "statut": "joué",
      "journee": "Journée 13",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-15",
@@ -90,7 +98,8 @@
      "score": "20-4",
      "statut": "joué",
      "journee": "Journée 14",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-21",
@@ -100,7 +109,8 @@
      "score": "4-9",
      "statut": "joué",
      "journee": "Journée 15",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-02-13",
@@ -110,7 +120,8 @@
      "score": "9-12",
      "statut": "joué",
      "journee": "Journée 17",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-02-26",
@@ -120,7 +131,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-04-02",
@@ -130,7 +142,8 @@
      "score": "9-6",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-12",
@@ -140,7 +153,8 @@
      "score": "1-14",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-17",
@@ -150,7 +164,8 @@
      "score": "0-3",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-19",
@@ -160,7 +175,8 @@
      "score": "10-3",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-26",
@@ -170,7 +186,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     }
    ]
   },
@@ -199,7 +216,8 @@
      "score": "0-2",
      "statut": "joué",
      "journee": "Journée 2",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-07",
@@ -209,7 +227,8 @@
      "score": null,
      "statut": "à venir",
      "journee": "Journée 3",
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2025-12-04",
@@ -219,7 +238,8 @@
      "score": "5-7",
      "statut": "joué",
      "journee": "Journée 5",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-12-11",
@@ -229,7 +249,8 @@
      "score": "2-7",
      "statut": "joué",
      "journee": "Journée 6",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-12-16",
@@ -239,7 +260,8 @@
      "score": "7-3",
      "statut": "joué",
      "journee": "Journée 7",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-21",
@@ -249,7 +271,8 @@
      "score": "3-0",
      "statut": "joué",
      "journee": "Journée 8",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-03-25",
@@ -259,7 +282,8 @@
      "score": "4-4",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-18",
@@ -269,7 +293,8 @@
      "score": "7-4",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-22",
@@ -279,7 +304,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-05-24",
@@ -289,7 +315,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     }
    ]
   },
@@ -318,7 +345,10 @@
      "score": "9-9",
      "statut": "joué",
      "journee": "QUARTS DE FINALE",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "prolongation": true,
+     "tirs_au_but": true
     },
     {
      "date": "2026-05-21",
@@ -328,7 +358,8 @@
      "score": "4-8",
      "statut": "joué",
      "journee": "DEMI-FINALES",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-30",
@@ -338,7 +369,8 @@
      "score": "5-2",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -367,7 +399,8 @@
      "score": "8-4",
      "statut": "joué",
      "journee": "PREMIER TOUR",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-10",
@@ -377,7 +410,8 @@
      "score": "3-11",
      "statut": "joué",
      "journee": "DEMI-FINALES",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-30",
@@ -387,7 +421,8 @@
      "score": "6-2",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -416,7 +451,10 @@
      "score": "6-6",
      "statut": "joué",
      "journee": "FINALE",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "prolongation": true,
+     "tirs_au_but": true
     }
    ]
   },
@@ -445,7 +483,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-05-26",
@@ -455,7 +494,8 @@
      "score": "3-2",
      "statut": "joué",
      "journee": "QUART DE FINALES",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-28",
@@ -465,7 +505,8 @@
      "score": "2-5",
      "statut": "joué",
      "journee": "QUART DE FINALES",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-02",
@@ -475,7 +516,8 @@
      "score": "5-3",
      "statut": "joué",
      "journee": "DEMI-FINALES",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-04",
@@ -485,7 +527,8 @@
      "score": "6-7",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-07",
@@ -495,7 +538,8 @@
      "score": "6-5",
      "statut": "joué",
      "journee": "FINALE",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -524,7 +568,8 @@
      "score": "0-5",
      "statut": "joué",
      "journee": "DEMI-FINALES",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-05",
@@ -534,7 +579,8 @@
      "score": "8-4",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-07",
@@ -544,7 +590,8 @@
      "score": "8-10",
      "statut": "joué",
      "journee": "FINALE",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   }

@@ -30,7 +30,8 @@
      "score": "0-1",
      "statut": "joué",
      "journee": "Tour 1",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -59,7 +60,8 @@
      "score": "6-0",
      "statut": "joué",
      "journee": "Tour 1",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-09-28",
@@ -69,7 +71,8 @@
      "score": "1-6",
      "statut": "joué",
      "journee": "Tour 2",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-10-12",
@@ -79,7 +82,8 @@
      "score": "2-1",
      "statut": "joué",
      "journee": "Tour 3",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-10-26",
@@ -89,7 +93,8 @@
      "score": "3-2",
      "statut": "joué",
      "journee": "Tour 4",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-14",
@@ -99,7 +104,8 @@
      "score": "1-2",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-30",
@@ -109,7 +115,9 @@
      "score": "3-3",
      "statut": "joué",
      "journee": "Tour 6",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "tirs_au_but": true
     }
    ]
   }

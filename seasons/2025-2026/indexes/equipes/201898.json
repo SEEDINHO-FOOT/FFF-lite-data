@@ -32,7 +32,8 @@
      "score": "8-5",
      "statut": "joué",
      "journee": "Journée 3",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-12-12",
@@ -42,7 +43,8 @@
      "score": "6-9",
      "statut": "joué",
      "journee": "Journée 4",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-27",
@@ -52,7 +54,8 @@
      "score": "9-0",
      "statut": "joué",
      "journee": "Journée 6",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-03-05",
@@ -62,7 +65,8 @@
      "score": "2-7",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -91,7 +95,10 @@
      "score": null,
      "statut": "",
      "journee": "Journée 1",
-     "stade": null
+     "stade": null,
+     "joue": false,
+     "forfait": true,
+     "forfait_gagne": false
     },
     {
      "date": "2026-01-15",
@@ -101,7 +108,10 @@
      "score": null,
      "statut": "",
      "journee": "Journée 3",
-     "stade": null
+     "stade": null,
+     "joue": false,
+     "forfait": true,
+     "forfait_gagne": false
     },
     {
      "date": "2026-01-20",
@@ -111,7 +121,10 @@
      "score": null,
      "statut": "",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false,
+     "forfait": true,
+     "forfait_gagne": false
     }
    ]
   },
@@ -140,7 +153,8 @@
      "score": "5-7",
      "statut": "joué",
      "journee": "TOUR 1",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-12-18",
@@ -150,7 +164,8 @@
      "score": "4-10",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-15",
@@ -160,7 +175,8 @@
      "score": "4-6",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-02-13",
@@ -170,7 +186,8 @@
      "score": "2-6",
      "statut": "joué",
      "journee": "FINALE REGIONALE",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -199,7 +216,8 @@
      "score": "2-14",
      "statut": "joué",
      "journee": "8èmes de Finale",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-04-04",
@@ -209,7 +227,8 @@
      "score": "3-7",
      "statut": "joué",
      "journee": "Quarts de Finale",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   }

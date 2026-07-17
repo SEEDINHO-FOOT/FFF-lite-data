@@ -30,7 +30,8 @@
      "score": "1-14",
      "statut": "joué",
      "journee": "Journée 3",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-10-20",
@@ -40,7 +41,8 @@
      "score": "6-1",
      "statut": "joué",
      "journee": "Journée 4",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-10-30",
@@ -50,7 +52,8 @@
      "score": "6-14",
      "statut": "joué",
      "journee": "Journée 5",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-10",
@@ -60,7 +63,8 @@
      "score": "11-7",
      "statut": "joué",
      "journee": "Journée 6",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-20",
@@ -70,7 +74,8 @@
      "score": "4-3",
      "statut": "joué",
      "journee": "Journée 7",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-12-01",
@@ -80,7 +85,8 @@
      "score": null,
      "statut": "arrêté",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2025-12-18",
@@ -90,7 +96,8 @@
      "score": "9-10",
      "statut": "joué",
      "journee": "Journée 10",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-15",
@@ -100,7 +107,8 @@
      "score": "4-6",
      "statut": "joué",
      "journee": "Journée 11",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-19",
@@ -110,7 +118,8 @@
      "score": "5-8",
      "statut": "joué",
      "journee": "Journée 12",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-26",
@@ -120,7 +129,8 @@
      "score": "5-4",
      "statut": "joué",
      "journee": "Journée 13",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-02-04",
@@ -130,7 +140,8 @@
      "score": "1-6",
      "statut": "joué",
      "journee": "Journée 14",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-02-09",
@@ -140,7 +151,8 @@
      "score": "11-5",
      "statut": "joué",
      "journee": "Journée 15",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-02-16",
@@ -150,7 +162,8 @@
      "score": "5-2",
      "statut": "joué",
      "journee": "Journée 16",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-02-26",
@@ -160,7 +173,10 @@
      "score": "0-5",
      "statut": "joué",
      "journee": "Journée 17",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "forfait": true,
+     "forfait_gagne": true
     },
     {
      "date": "2026-03-02",
@@ -170,7 +186,8 @@
      "score": "4-13",
      "statut": "joué",
      "journee": "Journée 18",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-03-19",
@@ -180,7 +197,8 @@
      "score": "15-6",
      "statut": "joué",
      "journee": "Journée 19",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-03-23",
@@ -190,7 +208,8 @@
      "score": "6-2",
      "statut": "joué",
      "journee": "Journée 20",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-04-09",
@@ -200,7 +219,8 @@
      "score": "5-4",
      "statut": "joué",
      "journee": "Journée 21",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-04-13",
@@ -210,7 +230,10 @@
      "score": "5-0",
      "statut": "joué",
      "journee": "Journée 22",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "forfait": true,
+     "forfait_gagne": true
     },
     {
      "date": "2026-04-23",
@@ -220,7 +243,8 @@
      "score": "6-3",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-05",
@@ -230,7 +254,8 @@
      "score": "7-5",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-11",
@@ -240,7 +265,8 @@
      "score": "5-0",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -269,7 +295,8 @@
      "score": "6-7",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-12-08",
@@ -279,7 +306,8 @@
      "score": "2-8",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -308,7 +336,8 @@
      "score": "8-3",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-10-13",
@@ -318,7 +347,8 @@
      "score": "1-16",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-03",
@@ -328,7 +358,8 @@
      "score": "0-15",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   }

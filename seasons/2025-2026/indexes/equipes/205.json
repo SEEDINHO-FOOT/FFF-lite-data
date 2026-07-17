@@ -30,7 +30,8 @@
      "score": "4-2",
      "statut": "joué",
      "journee": "1er tour",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-10-12",
@@ -40,7 +41,9 @@
      "score": "5-5",
      "statut": "joué",
      "journee": "2ème tour",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "tirs_au_but": true
     },
     {
      "date": "2025-11-09",
@@ -50,7 +53,9 @@
      "score": "1-1",
      "statut": "joué",
      "journee": "3ème tour",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "tirs_au_but": true
     }
    ]
   },
@@ -79,7 +84,8 @@
      "score": "3-0",
      "statut": "joué",
      "journee": "6ème tour",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   }

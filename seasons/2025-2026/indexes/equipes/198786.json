@@ -30,7 +30,8 @@
      "score": "2-4",
      "statut": "joué",
      "journee": "Journée 2",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-30",
@@ -40,7 +41,8 @@
      "score": "0-1",
      "statut": "joué",
      "journee": "Journée 3",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-07",
@@ -50,7 +52,8 @@
      "score": "1-1",
      "statut": "joué",
      "journee": "Journée 4",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-13",
@@ -60,7 +63,8 @@
      "score": "0-0",
      "statut": "joué",
      "journee": "Journée 5",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-21",
@@ -70,7 +74,8 @@
      "score": null,
      "statut": "à venir",
      "journee": "Journée 6",
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-07-04",
@@ -80,7 +85,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-07-12",
@@ -90,7 +96,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-07-25",
@@ -100,7 +107,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-08-02",
@@ -110,7 +118,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-08-29",
@@ -120,7 +129,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-09-05",
@@ -130,7 +140,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-09-20",
@@ -140,7 +151,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-10-03",
@@ -150,7 +162,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-10-18",
@@ -160,7 +173,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-10-24",
@@ -170,7 +184,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-11-08",
@@ -180,7 +195,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-11-14",
@@ -190,7 +206,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-11-22",
@@ -200,7 +217,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-11-28",
@@ -210,7 +228,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-12-06",
@@ -220,7 +239,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     }
    ]
   },
@@ -249,7 +269,10 @@
      "score": "0-0",
      "statut": "joué",
      "journee": "Journée 1",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "forfait": true,
+     "forfait_gagne": false
     },
     {
      "date": "2026-06-07",
@@ -259,7 +282,10 @@
      "score": "0-0",
      "statut": "joué",
      "journee": "Journée 2",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "forfait": true,
+     "forfait_gagne": false
     },
     {
      "date": "2026-06-14",
@@ -269,7 +295,10 @@
      "score": "0-0",
      "statut": "joué",
      "journee": "Journée 3",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "forfait": true,
+     "forfait_gagne": false
     },
     {
      "date": "2026-06-21",
@@ -279,7 +308,10 @@
      "score": "0-0",
      "statut": "joué",
      "journee": "Journée 4",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "forfait": true,
+     "forfait_gagne": false
     },
     {
      "date": "2026-07-05",
@@ -289,7 +321,10 @@
      "score": "0-0",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "forfait": true,
+     "forfait_gagne": false
     },
     {
      "date": "2026-07-12",
@@ -299,7 +334,10 @@
      "score": "0-0",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "forfait": true,
+     "forfait_gagne": false
     },
     {
      "date": "2026-07-26",
@@ -309,7 +347,10 @@
      "score": "0-0",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "forfait": true,
+     "forfait_gagne": false
     }
    ]
   },
@@ -338,7 +379,8 @@
      "score": "5-2",
      "statut": "joué",
      "journee": "Journée 1",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-14",
@@ -348,7 +390,8 @@
      "score": "3-0",
      "statut": "joué",
      "journee": "Journée 3",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-21",
@@ -358,7 +401,8 @@
      "score": "4-1",
      "statut": "joué",
      "journee": "Journée 4",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-07-05",
@@ -368,7 +412,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-07-12",
@@ -378,7 +423,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-07-26",
@@ -388,7 +434,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     }
    ]
   },
@@ -417,7 +464,8 @@
      "score": "5-0",
      "statut": "joué",
      "journee": "Journée 2",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-14",
@@ -427,7 +475,8 @@
      "score": "3-2",
      "statut": "joué",
      "journee": "Journée 3",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-21",
@@ -437,7 +486,8 @@
      "score": "6-2",
      "statut": "joué",
      "journee": "Journée 4",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-07-05",
@@ -447,7 +497,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-07-12",
@@ -457,7 +508,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-07-26",
@@ -467,7 +519,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     }
    ]
   },
@@ -496,7 +549,9 @@
      "score": "2-2",
      "statut": "joué",
      "journee": "Tour de cadrage Coupe de Mayotte senior Masculine",
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "tirs_au_but": true
     },
     {
      "date": "2026-06-27",
@@ -506,7 +561,8 @@
      "score": "1-2",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -535,7 +591,8 @@
      "score": "0-3",
      "statut": "joué",
      "journee": "Tour de cadrage Coupe de France",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-21",
@@ -545,7 +602,9 @@
      "score": "0-0",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true,
+     "tirs_au_but": true
     }
    ]
   },
@@ -574,7 +633,8 @@
      "score": "0-3",
      "statut": "joué",
      "journee": "1er Tour Coupe de Mayotte U18",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -603,7 +663,8 @@
      "score": "4-2",
      "statut": "joué",
      "journee": "2ème Tour Coupe de Mayotte U15",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -632,7 +693,8 @@
      "score": "0-3",
      "statut": "joué",
      "journee": "1er Tour Coupe de Mayotte U13",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   }

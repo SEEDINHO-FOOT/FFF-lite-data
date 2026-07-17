@@ -30,7 +30,8 @@
      "score": "9-2",
      "statut": "joué",
      "journee": "Journée 3",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-10-12",
@@ -40,7 +41,8 @@
      "score": null,
      "statut": "à venir",
      "journee": "Journée 4",
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2025-10-16",
@@ -50,7 +52,8 @@
      "score": "7-12",
      "statut": "joué",
      "journee": "Journée 5",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-13",
@@ -60,7 +63,8 @@
      "score": "10-7",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-20",
@@ -70,7 +74,8 @@
      "score": "4-12",
      "statut": "joué",
      "journee": "Journée 9",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-11-27",
@@ -80,7 +85,8 @@
      "score": "7-6",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2025-12-11",
@@ -90,7 +96,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-01-15",
@@ -100,7 +107,8 @@
      "score": "13-0",
      "statut": "joué",
      "journee": "Journée 14",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-01-30",
@@ -110,7 +118,8 @@
      "score": "6-13",
      "statut": "joué",
      "journee": "Journée 16",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-02-19",
@@ -120,7 +129,8 @@
      "score": "8-7",
      "statut": "joué",
      "journee": "Journée 18",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-02-26",
@@ -130,7 +140,8 @@
      "score": null,
      "statut": "à venir",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-03-26",
@@ -140,7 +151,8 @@
      "score": "7-9",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-04-09",
@@ -150,7 +162,10 @@
      "score": null,
      "statut": "",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": false,
+     "forfait": true,
+     "forfait_gagne": true
     },
     {
      "date": "2026-05-03",
@@ -160,7 +175,8 @@
      "score": "13-7",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-07",
@@ -170,7 +186,8 @@
      "score": "2-4",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-19",
@@ -180,7 +197,8 @@
      "score": "4-5",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-05-28",
@@ -190,7 +208,8 @@
      "score": "11-6",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -219,7 +238,8 @@
      "score": null,
      "statut": "à venir",
      "journee": "QUARTS DE FINALE",
-     "stade": null
+     "stade": null,
+     "joue": false
     },
     {
      "date": "2026-05-21",
@@ -229,7 +249,8 @@
      "score": "2-5",
      "statut": "joué",
      "journee": "DEMI-FINALES",
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   },
@@ -258,7 +279,8 @@
      "score": "0-5",
      "statut": "joué",
      "journee": "DEMI-FINALES",
-     "stade": null
+     "stade": null,
+     "joue": true
     },
     {
      "date": "2026-06-05",
@@ -268,7 +290,8 @@
      "score": "8-4",
      "statut": "joué",
      "journee": null,
-     "stade": null
+     "stade": null,
+     "joue": true
     }
    ]
   }
